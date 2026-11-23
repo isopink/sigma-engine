@@ -81,9 +81,9 @@
     ]
   },
   "intraday": {
-    "time": "12:00",
+    "time": "12:15",
     "pool": 412,
-    "analyzed_new": 5,
+    "analyzed_new": 6,
     "passed": 18,
     "kept_prep": false
   },
@@ -102,7 +102,7 @@
       "news": [],
       "price": 110800,
       "chg": 0.0573,
-      "activity": 1.83,
+      "activity": 1.79,
       "foreign_today": 0,
       "inst_today": 775600000,
       "exchange": "KOSDAQ"
@@ -117,7 +117,7 @@
       "vol20": 0.658,
       "foreign_net": 28181427500,
       "inst_net": -19592933750,
-      "score": 0.815,
+      "score": 0.841,
       "news": [
         {
           "date": "11-23",
@@ -135,11 +135,11 @@
           "risk": false
         }
       ],
-      "price": 255000,
-      "chg": 0.0828,
-      "activity": 1.98,
+      "price": 256000,
+      "chg": 0.087,
+      "activity": 1.92,
       "foreign_today": 0,
-      "inst_today": 4845000000,
+      "inst_today": 4864000000,
       "exchange": "KOSPI"
     },
     {
@@ -152,7 +152,7 @@
       "vol20": 0.505,
       "foreign_net": -5243824250,
       "inst_net": 17184847250,
-      "score": 0.769,
+      "score": 0.761,
       "news": [
         {
           "date": "11-23",
@@ -170,11 +170,11 @@
           "risk": false
         }
       ],
-      "price": 273500,
-      "chg": -0.0055,
-      "activity": 1.68,
+      "price": 274500,
+      "chg": -0.0018,
+      "activity": 1.6,
       "foreign_today": 0,
-      "inst_today": 547000000,
+      "inst_today": 549000000,
       "exchange": "KOSDAQ"
     },
     {
@@ -187,21 +187,21 @@
       "vol20": 0.582,
       "foreign_net": -24349455000,
       "inst_net": 30895472000,
-      "score": 0.704,
+      "score": 0.69,
       "news": [
         {
           "date": "11-23",
-          "title": "“신세계백화점 폭파” 협박 팩스 접수…광주서도 긴급 수색",
+          "title": "신세계백화점 폭발물 협박 소동… 경찰 수색 종료",
           "risk": false
         },
         {
           "date": "11-23",
-          "title": "신세계百 폭발물 협박…허위신고 무게·정상영업(종합)",
+          "title": "'폭발물 설치' 팩스에 광주신세계도 현장 수색…\"특이 사항 없어\" (종합...",
           "risk": false
         },
         {
           "date": "11-23",
-          "title": "신세계백화점 폭발물 설치 협박 팩스 접수…경찰, 전국 지점 안전 확인",
+          "title": "신세계百 전국 13개 지점 폭발물 수색…경찰 \"허위 신고 가능성 높아\"",
           "risk": false
         }
       ],
@@ -219,7 +219,7 @@
       "vol20": 0.836,
       "foreign_net": 10417666900,
       "inst_net": 65022411950,
-      "score": 0.63,
+      "score": 0.646,
       "news": [
         {
           "date": "11-23",
@@ -237,11 +237,11 @@
           "risk": false
         }
       ],
-      "price": 171000,
-      "chg": -0.0686,
-      "activity": 1.07,
+      "price": 172100,
+      "chg": -0.0626,
+      "activity": 1.03,
       "foreign_today": 0,
-      "inst_today": 1881000000,
+      "inst_today": 1893100000,
       "exchange": "KOSPI"
     },
     {
@@ -254,7 +254,7 @@
       "vol20": 0.698,
       "foreign_net": -20286179250,
       "inst_net": 22365671850,
-      "score": 0.537,
+      "score": 0.531,
       "news": [
         {
           "date": "11-23",
@@ -286,7 +286,7 @@
       "vol20": 0.873,
       "foreign_net": 5700575195,
       "inst_net": 13657637720,
-      "score": 0.435,
+      "score": 0.434,
       "news": [
         {
           "date": "11-23",
@@ -297,31 +297,10 @@
           "date": "11-23",
           "title": "제주항공, 센다이 취항으로 日하늘길 완성",
           "risk": false
-        },
-        {
-          "date": "11-23",
-          "title": "[인사] 제주항공, 박성룡 전무 外",
-          "risk": false
         }
       ],
       "foreign_today": 648340000,
       "inst_today": 0,
-      "exchange": "KOSPI"
-    },
-    {
-      "code": "009420",
-      "name": "한올바이오파마",
-      "close": 53300,
-      "ret5": 0.039,
-      "ret20": 0.3259,
-      "rsi14": 67.0,
-      "vol20": 0.991,
-      "foreign_net": -7345223900,
-      "inst_net": 18891057500,
-      "score": 0.426,
-      "news": [],
-      "foreign_today": 0,
-      "inst_today": 159900000,
       "exchange": "KOSPI"
     },
     {
@@ -334,10 +313,26 @@
       "vol20": 0.507,
       "foreign_net": -21025865450,
       "inst_net": 24188428950,
-      "score": 0.417,
+      "score": 0.416,
       "news": [],
       "foreign_today": 429100000,
       "inst_today": 245200000,
+      "exchange": "KOSPI"
+    },
+    {
+      "code": "009420",
+      "name": "한올바이오파마",
+      "close": 53300,
+      "ret5": 0.039,
+      "ret20": 0.3259,
+      "rsi14": 67.0,
+      "vol20": 0.991,
+      "foreign_net": -7345223900,
+      "inst_net": 18891057500,
+      "score": 0.416,
+      "news": [],
+      "foreign_today": 0,
+      "inst_today": 159900000,
       "exchange": "KOSPI"
     },
     {
@@ -350,7 +345,7 @@
       "vol20": 0.649,
       "foreign_net": -12674068250,
       "inst_net": 9896253250,
-      "score": 0.296,
+      "score": 0.283,
       "news": [
         {
           "date": "11-23",
@@ -382,21 +377,21 @@
       "vol20": 0.394,
       "foreign_net": -1711657850,
       "inst_net": 1831863550,
-      "score": 0.287,
+      "score": 0.274,
       "news": [
         {
           "date": "11-23",
+          "title": "CJ올리브영, 생리용품 바우처 결제 도입…여성 건강 플랫폼 확장",
+          "risk": false
+        },
+        {
+          "date": "11-23",
+          "title": "CJ올리브네트웍스 CJ ONE, 방한 외국인에 '스페셜 쿠폰팩' 제공…10개 브...",
+          "risk": false
+        },
+        {
+          "date": "11-23",
           "title": "CJ제일제당, '희망박스 박싱데이' 후원...식품 나눔 확산",
-          "risk": false
-        },
-        {
-          "date": "11-23",
-          "title": "CJ올리브영, 전국 1300여개 매장서 '생리용품 바우처' 결제 지원",
-          "risk": false
-        },
-        {
-          "date": "11-23",
-          "title": "CJ올리브영, 전국 매장서 생리용품 바우처 결제 서비스 도입",
           "risk": false
         }
       ],
@@ -414,7 +409,7 @@
       "vol20": 1.122,
       "foreign_net": -1771577850,
       "inst_net": 6845325075,
-      "score": 0.833,
+      "score": 0.832,
       "news": [
         {
           "date": "11-20",
@@ -427,10 +422,10 @@
           "risk": false
         }
       ],
-      "price": 39300,
-      "chg": 0.0812,
-      "activity": 1.77,
-      "foreign_today": 510900000,
+      "price": 39650,
+      "chg": 0.0908,
+      "activity": 1.72,
+      "foreign_today": 515450000,
       "inst_today": 0,
       "exchange": "KOSDAQ"
     },
@@ -444,7 +439,7 @@
       "vol20": 1.286,
       "foreign_net": -10441973250,
       "inst_net": 27749286450,
-      "score": 0.778,
+      "score": 0.77,
       "news": [
         {
           "date": "11-22",
@@ -452,11 +447,11 @@
           "risk": false
         }
       ],
-      "price": 52900,
-      "chg": 0.0154,
-      "activity": 1.86,
+      "price": 53500,
+      "chg": 0.0269,
+      "activity": 1.81,
       "foreign_today": 0,
-      "inst_today": 476100000,
+      "inst_today": 481500000,
       "exchange": "KOSDAQ"
     },
     {
@@ -469,38 +464,13 @@
       "vol20": 1.21,
       "foreign_net": -22243475650,
       "inst_net": 16076894300,
-      "score": 0.759,
+      "score": 0.735,
       "news": [],
-      "price": 46100,
-      "chg": -0.0191,
-      "activity": 0.85,
-      "foreign_today": 2305000000,
+      "price": 46300,
+      "chg": -0.0149,
+      "activity": 0.81,
+      "foreign_today": 2315000000,
       "inst_today": 0,
-      "exchange": "KOSDAQ"
-    },
-    {
-      "code": "108490",
-      "name": "로보티즈",
-      "close": 233500,
-      "ret5": -0.0585,
-      "ret20": 0.0309,
-      "rsi14": 47.6,
-      "vol20": 1.214,
-      "foreign_net": -18490470000,
-      "inst_net": 18573590250,
-      "score": 0.722,
-      "news": [
-        {
-          "date": "11-23",
-          "title": "중국산 빼는 美 로봇 시장…로보티즈·삼현, 액추에이터 대체 공급망 노...",
-          "risk": false
-        }
-      ],
-      "price": 244000,
-      "chg": 0.045,
-      "activity": 2.11,
-      "foreign_today": 0,
-      "inst_today": 1464000000,
       "exchange": "KOSDAQ"
     },
     {
@@ -513,7 +483,7 @@
       "vol20": 1.13,
       "foreign_net": -1732207285,
       "inst_net": 6990086135,
-      "score": 0.694,
+      "score": 0.726,
       "news": [
         {
           "date": "11-22",
@@ -531,11 +501,36 @@
           "risk": false
         }
       ],
-      "price": 17230,
-      "chg": 0.0147,
-      "activity": 1.5,
-      "foreign_today": 379060000,
-      "inst_today": 241220000,
+      "price": 17570,
+      "chg": 0.0347,
+      "activity": 1.53,
+      "foreign_today": 386540000,
+      "inst_today": 245980000,
+      "exchange": "KOSDAQ"
+    },
+    {
+      "code": "108490",
+      "name": "로보티즈",
+      "close": 233500,
+      "ret5": -0.0585,
+      "ret20": 0.0309,
+      "rsi14": 47.6,
+      "vol20": 1.214,
+      "foreign_net": -18490470000,
+      "inst_net": 18573590250,
+      "score": 0.717,
+      "news": [
+        {
+          "date": "11-23",
+          "title": "중국산 빼는 美 로봇 시장…로보티즈·삼현, 액추에이터 대체 공급망 노...",
+          "risk": false
+        }
+      ],
+      "price": 246000,
+      "chg": 0.0535,
+      "activity": 2.02,
+      "foreign_today": 0,
+      "inst_today": 1476000000,
       "exchange": "KOSDAQ"
     },
     {
