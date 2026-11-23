@@ -81,7 +81,7 @@
     ]
   },
   "intraday": {
-    "time": "12:17",
+    "time": "12:19",
     "pool": 412,
     "analyzed_new": 5,
     "passed": 18,
@@ -100,11 +100,11 @@
       "inst_net": 20342949400,
       "score": 1.0,
       "news": [],
-      "price": 110900,
-      "chg": 0.0582,
+      "price": 110800,
+      "chg": 0.0573,
       "activity": 1.78,
       "foreign_today": 0,
-      "inst_today": 776300000,
+      "inst_today": 775600000,
       "exchange": "KOSDAQ"
     },
     {
@@ -135,11 +135,11 @@
           "risk": false
         }
       ],
-      "price": 255500,
-      "chg": 0.0849,
+      "price": 256500,
+      "chg": 0.0892,
       "activity": 1.9,
       "foreign_today": 0,
-      "inst_today": 4854500000,
+      "inst_today": 4873500000,
       "exchange": "KOSPI"
     },
     {
@@ -170,11 +170,11 @@
           "risk": false
         }
       ],
-      "price": 274000,
-      "chg": -0.0036,
-      "activity": 1.59,
+      "price": 274500,
+      "chg": -0.0018,
+      "activity": 1.58,
       "foreign_today": 0,
-      "inst_today": 548000000,
+      "inst_today": 549000000,
       "exchange": "KOSDAQ"
     },
     {
@@ -196,12 +196,12 @@
         },
         {
           "date": "11-23",
-          "title": "신세계백화점 폭발물 협박 소동… 경찰 수색 종료",
+          "title": "신세계백화점에 폭발물 설치...경찰, 초동조치 나서",
           "risk": false
         },
         {
           "date": "11-23",
-          "title": "'폭발물 설치' 팩스에 광주신세계도 현장 수색…\"특이 사항 없어\" (종합...",
+          "title": "신세계백화점 폭발물 협박 소동… 경찰 수색 종료",
           "risk": false
         }
       ],
@@ -237,11 +237,11 @@
           "risk": false
         }
       ],
-      "price": 171800,
-      "chg": -0.0643,
+      "price": 171900,
+      "chg": -0.0637,
       "activity": 1.02,
       "foreign_today": 0,
-      "inst_today": 1889800000,
+      "inst_today": 1890900000,
       "exchange": "KOSPI"
     },
     {
@@ -292,6 +292,11 @@
           "date": "11-23",
           "title": "제주항공, 센다이 취항→NOL, 위로드와 글로벌 커뮤니티 여행 상품 선보...",
           "risk": false
+        },
+        {
+          "date": "11-23",
+          "title": "제주항공, 센다이 취항으로 日하늘길 완성",
+          "risk": false
         }
       ],
       "foreign_today": 648340000,
@@ -340,7 +345,7 @@
       "vol20": 0.649,
       "foreign_net": -12674068250,
       "inst_net": 9896253250,
-      "score": 0.283,
+      "score": 0.274,
       "news": [
         {
           "date": "11-23",
@@ -372,7 +377,7 @@
       "vol20": 0.394,
       "foreign_net": -1711657850,
       "inst_net": 1831863550,
-      "score": 0.274,
+      "score": 0.265,
       "news": [
         {
           "date": "11-23",
@@ -417,10 +422,10 @@
           "risk": false
         }
       ],
-      "price": 39700,
-      "chg": 0.0922,
-      "activity": 1.72,
-      "foreign_today": 516100000,
+      "price": 39600,
+      "chg": 0.0894,
+      "activity": 1.71,
+      "foreign_today": 514800000,
       "inst_today": 0,
       "exchange": "KOSDAQ"
     },
@@ -442,11 +447,46 @@
           "risk": false
         }
       ],
-      "price": 53400,
-      "chg": 0.025,
+      "price": 53600,
+      "chg": 0.0288,
       "activity": 1.8,
       "foreign_today": 0,
-      "inst_today": 480600000,
+      "inst_today": 482400000,
+      "exchange": "KOSDAQ"
+    },
+    {
+      "code": "347700",
+      "name": "스피어",
+      "close": 16730,
+      "ret5": 0.0321,
+      "ret20": -0.1503,
+      "rsi14": 46.1,
+      "vol20": 1.13,
+      "foreign_net": -1732207285,
+      "inst_net": 6990086135,
+      "score": 0.735,
+      "news": [
+        {
+          "date": "11-22",
+          "title": "유스피어, 세계적 트렌드 아트 디자인 전시회 ‘디자이너콘’ 참석…K팝...",
+          "risk": false
+        },
+        {
+          "date": "11-21",
+          "title": "유스피어(USPEER), K-POP 아티스트 최초 美 '디자이너콘' 참석…글로벌 ...",
+          "risk": false
+        },
+        {
+          "date": "11-21",
+          "title": "유스피어, K팝 최초 美 디자이너콘 참석",
+          "risk": false
+        }
+      ],
+      "price": 17600,
+      "chg": 0.0365,
+      "activity": 1.53,
+      "foreign_today": 387200000,
+      "inst_today": 246400000,
       "exchange": "KOSDAQ"
     },
     {
@@ -469,41 +509,6 @@
       "exchange": "KOSDAQ"
     },
     {
-      "code": "347700",
-      "name": "스피어",
-      "close": 16730,
-      "ret5": 0.0321,
-      "ret20": -0.1503,
-      "rsi14": 46.1,
-      "vol20": 1.13,
-      "foreign_net": -1732207285,
-      "inst_net": 6990086135,
-      "score": 0.726,
-      "news": [
-        {
-          "date": "11-22",
-          "title": "유스피어, 세계적 트렌드 아트 디자인 전시회 ‘디자이너콘’ 참석…K팝...",
-          "risk": false
-        },
-        {
-          "date": "11-21",
-          "title": "유스피어(USPEER), K-POP 아티스트 최초 美 '디자이너콘' 참석…글로벌 ...",
-          "risk": false
-        },
-        {
-          "date": "11-21",
-          "title": "유스피어, K팝 최초 美 디자이너콘 참석",
-          "risk": false
-        }
-      ],
-      "price": 17520,
-      "chg": 0.0318,
-      "activity": 1.52,
-      "foreign_today": 385440000,
-      "inst_today": 245280000,
-      "exchange": "KOSDAQ"
-    },
-    {
       "code": "108490",
       "name": "로보티즈",
       "close": 233500,
@@ -513,7 +518,7 @@
       "vol20": 1.214,
       "foreign_net": -18490470000,
       "inst_net": 18573590250,
-      "score": 0.699,
+      "score": 0.708,
       "news": [
         {
           "date": "11-23",
@@ -521,11 +526,11 @@
           "risk": false
         }
       ],
-      "price": 245500,
-      "chg": 0.0514,
-      "activity": 2.0,
+      "price": 246000,
+      "chg": 0.0535,
+      "activity": 1.99,
       "foreign_today": 0,
-      "inst_today": 1473000000,
+      "inst_today": 1476000000,
       "exchange": "KOSDAQ"
     },
     {
