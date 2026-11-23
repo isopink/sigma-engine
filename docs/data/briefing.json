@@ -81,9 +81,9 @@
     ]
   },
   "intraday": {
-    "time": "13:15",
-    "pool": 413,
-    "analyzed_new": 4,
+    "time": "13:30",
+    "pool": 460,
+    "analyzed_new": 30,
     "passed": 18,
     "kept_prep": false
   },
@@ -98,13 +98,13 @@
       "vol20": 0.811,
       "foreign_net": -24745385500,
       "inst_net": 20342949400,
-      "score": 1.0,
+      "score": 0.975,
       "news": [],
-      "price": 113400,
-      "chg": 0.0821,
-      "activity": 1.69,
+      "price": 112700,
+      "chg": 0.0754,
+      "activity": 1.7,
       "foreign_today": 0,
-      "inst_today": 793800000,
+      "inst_today": 3155600000,
       "exchange": "KOSDAQ"
     },
     {
@@ -117,7 +117,7 @@
       "vol20": 0.658,
       "foreign_net": 28181427500,
       "inst_net": -19592933750,
-      "score": 0.824,
+      "score": 0.825,
       "news": [
         {
           "date": "11-23",
@@ -130,11 +130,43 @@
           "risk": false
         }
       ],
-      "price": 257500,
-      "chg": 0.0934,
-      "activity": 1.72,
+      "price": 259000,
+      "chg": 0.0998,
+      "activity": 1.71,
       "foreign_today": 0,
-      "inst_today": 4892500000,
+      "inst_today": 10619000000,
+      "exchange": "KOSPI"
+    },
+    {
+      "code": "004170",
+      "name": "신세계",
+      "close": 290000,
+      "ret5": 0.1623,
+      "ret20": 0.1508,
+      "rsi14": 57.4,
+      "vol20": 0.582,
+      "foreign_net": -24349455000,
+      "inst_net": 30895472000,
+      "score": 0.633,
+      "news": [
+        {
+          "date": "11-23",
+          "title": "“폭발물 설치했다” 신세계백화점에 협박 신고…경찰 수색",
+          "risk": false
+        },
+        {
+          "date": "11-23",
+          "title": "신세계백화점에 폭발물 설치 협박 팩스…경찰, 전국 점포 점검",
+          "risk": false
+        },
+        {
+          "date": "11-23",
+          "title": "신세계百, 폭발물 협박에 전국 긴급 점검…\"특이점 없어 정상 영업\"",
+          "risk": false
+        }
+      ],
+      "foreign_today": 0,
+      "inst_today": 2030000000,
       "exchange": "KOSPI"
     },
     {
@@ -147,7 +179,7 @@
       "vol20": 0.505,
       "foreign_net": -5243824250,
       "inst_net": 17184847250,
-      "score": 0.706,
+      "score": 0.625,
       "news": [
         {
           "date": "11-23",
@@ -165,79 +197,12 @@
           "risk": false
         }
       ],
-      "price": 277000,
-      "chg": 0.0073,
-      "activity": 1.41,
+      "price": 277500,
+      "chg": 0.0091,
+      "activity": 1.38,
       "foreign_today": 0,
-      "inst_today": 554000000,
+      "inst_today": 832500000,
       "exchange": "KOSDAQ"
-    },
-    {
-      "code": "004170",
-      "name": "신세계",
-      "close": 290000,
-      "ret5": 0.1623,
-      "ret20": 0.1508,
-      "rsi14": 57.4,
-      "vol20": 0.582,
-      "foreign_net": -24349455000,
-      "inst_net": 30895472000,
-      "score": 0.672,
-      "news": [
-        {
-          "date": "11-23",
-          "title": "신세계 강남점, 대전 유명 빵집 한자리에 모은다",
-          "risk": false
-        },
-        {
-          "date": "11-23",
-          "title": "신세계백화점 '폭파 협박' 팩스···경찰 \"수색 결과 폭발물 없어\"",
-          "risk": false
-        },
-        {
-          "date": "11-23",
-          "title": "신세계百, '폭발물 설치' 위협에 전 점포 긴급 점검…허위신고 무게·정...",
-          "risk": false
-        }
-      ],
-      "foreign_today": 0,
-      "inst_today": 2030000000,
-      "exchange": "KOSPI"
-    },
-    {
-      "code": "352820",
-      "name": "하이브",
-      "close": 183400,
-      "ret5": 0.1734,
-      "ret20": 0.0415,
-      "rsi14": 63.8,
-      "vol20": 0.836,
-      "foreign_net": 10417666900,
-      "inst_net": 65022411950,
-      "score": 0.622,
-      "news": [
-        {
-          "date": "11-23",
-          "title": "하이브 ‘더 와일드카드 클럽’ 음방 데뷔→르세라핌 챌린지…K-팝과 버...",
-          "risk": false
-        },
-        {
-          "date": "11-23",
-          "title": "K팝 산업부터 영상 제작까지…하이브, 청년 실무교육 마무리",
-          "risk": false
-        },
-        {
-          "date": "11-23",
-          "title": "하이브 ‘더 와일드카드 클럽’, ‘음악중심’ 출연…버추얼 음악 프로...",
-          "risk": false
-        }
-      ],
-      "price": 172100,
-      "chg": -0.0626,
-      "activity": 0.92,
-      "foreign_today": 0,
-      "inst_today": 1893100000,
-      "exchange": "KOSPI"
     },
     {
       "code": "161890",
@@ -249,7 +214,7 @@
       "vol20": 0.698,
       "foreign_net": -20286179250,
       "inst_net": 22365671850,
-      "score": 0.496,
+      "score": 0.492,
       "news": [
         {
           "date": "11-23",
@@ -267,8 +232,40 @@
           "risk": false
         }
       ],
-      "foreign_today": 1271600000,
-      "inst_today": 0,
+      "foreign_today": 1618400000,
+      "inst_today": 231200000,
+      "exchange": "KOSPI"
+    },
+    {
+      "code": "001040",
+      "name": "CJ",
+      "close": 113700,
+      "ret5": 0.0271,
+      "ret20": -0.0232,
+      "rsi14": 45.7,
+      "vol20": 0.394,
+      "foreign_net": -1711657850,
+      "inst_net": 1831863550,
+      "score": 0.375,
+      "news": [
+        {
+          "date": "11-23",
+          "title": "CJ문화재단, '37회 유재하 음악경연대회’…이종서 대상 영예",
+          "risk": false
+        },
+        {
+          "date": "11-23",
+          "title": "CJ ONE, 방한 외국인 대상 10개 브랜드 할인 쿠폰팩 제공",
+          "risk": false
+        },
+        {
+          "date": "11-23",
+          "title": "[굿모닝! 23일 식품업계 소식] CJ제일제당·대상·농심·풀무원·KGC·하이...",
+          "risk": false
+        }
+      ],
+      "foreign_today": 0,
+      "inst_today": 682200000,
       "exchange": "KOSPI"
     },
     {
@@ -281,7 +278,7 @@
       "vol20": 0.873,
       "foreign_net": 5700575195,
       "inst_net": 13657637720,
-      "score": 0.429,
+      "score": 0.35,
       "news": [
         {
           "date": "11-23",
@@ -299,7 +296,7 @@
           "risk": false
         }
       ],
-      "foreign_today": 648340000,
+      "foreign_today": 707280000,
       "inst_today": 0,
       "exchange": "KOSPI"
     },
@@ -313,10 +310,10 @@
       "vol20": 0.507,
       "foreign_net": -21025865450,
       "inst_net": 24188428950,
-      "score": 0.403,
+      "score": 0.325,
       "news": [],
-      "foreign_today": 429100000,
-      "inst_today": 245200000,
+      "foreign_today": 0,
+      "inst_today": 919500000,
       "exchange": "KOSPI"
     },
     {
@@ -329,74 +326,74 @@
       "vol20": 0.991,
       "foreign_net": -7345223900,
       "inst_net": 18891057500,
-      "score": 0.403,
+      "score": 0.325,
       "news": [],
       "foreign_today": 0,
-      "inst_today": 159900000,
+      "inst_today": 213200000,
       "exchange": "KOSPI"
     },
     {
-      "code": "192820",
-      "name": "코스맥스",
-      "close": 281000,
-      "ret5": 0.0072,
-      "ret20": 0.035,
-      "rsi14": 53.8,
-      "vol20": 0.649,
-      "foreign_net": -12674068250,
-      "inst_net": 9896253250,
-      "score": 0.261,
+      "code": "271560",
+      "name": "오리온",
+      "close": 116500,
+      "ret5": 0.0292,
+      "ret20": 0.0505,
+      "rsi14": 55.1,
+      "vol20": 0.264,
+      "foreign_net": -6005296100,
+      "inst_net": 9808123400,
+      "score": 0.3,
       "news": [
         {
           "date": "11-23",
-          "title": "코스맥스 경쟁사가 한국콜마?…매출 3조원 '초격차' 시대 활짝",
+          "title": "“오리온, 내년 매출 4조 눈앞… 해외 증설·원가 하락 효과”",
           "risk": false
         },
         {
           "date": "11-23",
-          "title": "산학협력 맺고 청년인턴 뽑은 서부발전…셋째 낳으면 3천만원 코스맥스",
+          "title": "신한투자증권 \"오리온, 전 지역 매출 성장·원가 부담 완화 기대... 목표...",
           "risk": false
         },
         {
-          "date": "11-22",
-          "title": "제조 넘어 플랫폼·유통까지…한국콜마·코스맥스, 글로벌 맞춤형 뷰티...",
+          "date": "11-23",
+          "title": "오리온, 글로벌 생산시설 증설·원가 부담 완화",
           "risk": false
         }
       ],
       "foreign_today": 0,
-      "inst_today": 281000000,
+      "inst_today": 582500000,
       "exchange": "KOSPI"
     },
     {
-      "code": "001040",
-      "name": "CJ",
-      "close": 113700,
-      "ret5": 0.0271,
-      "ret20": -0.0232,
-      "rsi14": 45.7,
-      "vol20": 0.394,
-      "foreign_net": -1711657850,
-      "inst_net": 1831863550,
-      "score": 0.252,
+      "code": "086280",
+      "name": "현대글로비스",
+      "close": 202500,
+      "ret5": -0.0025,
+      "ret20": 0.1638,
+      "rsi14": 56.2,
+      "vol20": 0.515,
+      "foreign_net": 12503463450,
+      "inst_net": 7280845850,
+      "score": 0.217,
       "news": [
         {
-          "date": "11-23",
-          "title": "CJ올리브영, 홍대에 색조 특화 매장 '컬러 그라운드'",
+          "date": "11-21",
+          "title": "현대글로비스, 중국 전기차 수출 현장 가보니…선박보다 급한 건 항만 ...",
           "risk": false
         },
         {
-          "date": "11-23",
-          "title": "CJ와 함께하는 유재하 음악경연대회 성료…대상에 이종서",
+          "date": "11-21",
+          "title": "현대글로비스, 해운 넘어 글로벌 자동차 물류사업자로…美 거점 확장",
           "risk": false
         },
         {
-          "date": "11-23",
-          "title": "CJ제일제당, 14년째 '희망박스 박싱데이' 후원...누적 600만개 기부",
+          "date": "11-21",
+          "title": "현대글로비스·해성디에스·진에어[하나證 주간추천주]",
           "risk": false
         }
       ],
       "foreign_today": 0,
-      "inst_today": 227400000,
+      "inst_today": 607500000,
       "exchange": "KOSPI"
     },
     {
@@ -409,7 +406,7 @@
       "vol20": 1.122,
       "foreign_net": -1771577850,
       "inst_net": 6845325075,
-      "score": 0.849,
+      "score": 1.0,
       "news": [
         {
           "date": "11-20",
@@ -422,36 +419,46 @@
           "risk": false
         }
       ],
-      "price": 40800,
-      "chg": 0.1224,
-      "activity": 1.64,
-      "foreign_today": 530400000,
-      "inst_today": 0,
+      "price": 41050,
+      "chg": 0.1293,
+      "activity": 1.72,
+      "foreign_today": 738900000,
+      "inst_today": 1149400000,
       "exchange": "KOSDAQ"
     },
     {
-      "code": "437730",
-      "name": "삼현",
-      "close": 51300,
-      "ret5": 0.0789,
-      "ret20": 0.1686,
-      "rsi14": 60.5,
-      "vol20": 1.286,
-      "foreign_net": -10441973250,
-      "inst_net": 27749286450,
-      "score": 0.798,
+      "code": "277810",
+      "name": "레인보우로보틱스",
+      "close": 403000,
+      "ret5": 0.0647,
+      "ret20": 0.1547,
+      "rsi14": 55.5,
+      "vol20": 1.201,
+      "foreign_net": -43334591000,
+      "inst_net": 58173336250,
+      "score": 0.892,
       "news": [
         {
+          "date": "11-23",
+          "title": "코스닥 7.7% 급락에도 레인보우로보틱스 12%↑…CES 기대에 로봇株 선방",
+          "risk": false
+        },
+        {
+          "date": "11-23",
+          "title": "증시 급락에도 로봇주 강세…레인보우로보틱스 12% 상승",
+          "risk": false
+        },
+        {
           "date": "11-22",
-          "title": "반도체 장비주 밀어낸 로봇주… 로보티즈·삼현까지 폭등 랠리 이어갈까",
+          "title": "미래 먹거리라더니 줄줄이 하락…레인보우로보틱스·뉴로메카도 못 버텼...",
           "risk": false
         }
       ],
-      "price": 54200,
-      "chg": 0.0403,
-      "activity": 1.69,
+      "price": 404500,
+      "chg": -0.0086,
+      "activity": 2.33,
       "foreign_today": 0,
-      "inst_today": 487800000,
+      "inst_today": 2427000000,
       "exchange": "KOSDAQ"
     },
     {
@@ -464,7 +471,7 @@
       "vol20": 1.13,
       "foreign_net": -1732207285,
       "inst_net": 6990086135,
-      "score": 0.756,
+      "score": 0.883,
       "news": [
         {
           "date": "11-22",
@@ -482,11 +489,36 @@
           "risk": false
         }
       ],
-      "price": 17900,
-      "chg": 0.0542,
-      "activity": 1.54,
-      "foreign_today": 393800000,
-      "inst_today": 250600000,
+      "price": 18180,
+      "chg": 0.0707,
+      "activity": 1.79,
+      "foreign_today": 636300000,
+      "inst_today": 581760000,
+      "exchange": "KOSDAQ"
+    },
+    {
+      "code": "437730",
+      "name": "삼현",
+      "close": 51300,
+      "ret5": 0.0789,
+      "ret20": 0.1686,
+      "rsi14": 60.5,
+      "vol20": 1.286,
+      "foreign_net": -10441973250,
+      "inst_net": 27749286450,
+      "score": 0.8,
+      "news": [
+        {
+          "date": "11-22",
+          "title": "반도체 장비주 밀어낸 로봇주… 로보티즈·삼현까지 폭등 랠리 이어갈까",
+          "risk": false
+        }
+      ],
+      "price": 54800,
+      "chg": 0.0518,
+      "activity": 1.73,
+      "foreign_today": 0,
+      "inst_today": 986400000,
       "exchange": "KOSDAQ"
     },
     {
@@ -499,38 +531,13 @@
       "vol20": 1.21,
       "foreign_net": -22243475650,
       "inst_net": 16076894300,
-      "score": 0.723,
+      "score": 0.683,
       "news": [],
-      "price": 46700,
-      "chg": -0.0064,
-      "activity": 0.72,
-      "foreign_today": 2335000000,
+      "price": 46600,
+      "chg": -0.0085,
+      "activity": 0.69,
+      "foreign_today": 3448400000,
       "inst_today": 0,
-      "exchange": "KOSDAQ"
-    },
-    {
-      "code": "108490",
-      "name": "로보티즈",
-      "close": 233500,
-      "ret5": -0.0585,
-      "ret20": 0.0309,
-      "rsi14": 47.6,
-      "vol20": 1.214,
-      "foreign_net": -18490470000,
-      "inst_net": 18573590250,
-      "score": 0.697,
-      "news": [
-        {
-          "date": "11-23",
-          "title": "중국산 빼는 美 로봇 시장…로보티즈·삼현, 액추에이터 대체 공급망 노...",
-          "risk": false
-        }
-      ],
-      "price": 247000,
-      "chg": 0.0578,
-      "activity": 1.73,
-      "foreign_today": 0,
-      "inst_today": 1482000000,
       "exchange": "KOSDAQ"
     },
     {
