@@ -81,9 +81,9 @@
     ]
   },
   "intraday": {
-    "time": "12:15",
+    "time": "12:17",
     "pool": 412,
-    "analyzed_new": 6,
+    "analyzed_new": 5,
     "passed": 18,
     "kept_prep": false
   },
@@ -100,11 +100,11 @@
       "inst_net": 20342949400,
       "score": 1.0,
       "news": [],
-      "price": 110800,
-      "chg": 0.0573,
-      "activity": 1.79,
+      "price": 110900,
+      "chg": 0.0582,
+      "activity": 1.78,
       "foreign_today": 0,
-      "inst_today": 775600000,
+      "inst_today": 776300000,
       "exchange": "KOSDAQ"
     },
     {
@@ -135,11 +135,11 @@
           "risk": false
         }
       ],
-      "price": 256000,
-      "chg": 0.087,
-      "activity": 1.92,
+      "price": 255500,
+      "chg": 0.0849,
+      "activity": 1.9,
       "foreign_today": 0,
-      "inst_today": 4864000000,
+      "inst_today": 4854500000,
       "exchange": "KOSPI"
     },
     {
@@ -170,11 +170,11 @@
           "risk": false
         }
       ],
-      "price": 274500,
-      "chg": -0.0018,
-      "activity": 1.6,
+      "price": 274000,
+      "chg": -0.0036,
+      "activity": 1.59,
       "foreign_today": 0,
-      "inst_today": 549000000,
+      "inst_today": 548000000,
       "exchange": "KOSDAQ"
     },
     {
@@ -191,17 +191,17 @@
       "news": [
         {
           "date": "11-23",
+          "title": "\"향수 매출 20% '껑충'\"…신세계인터내셔날, 니치 향수로 연말 선물 수요...",
+          "risk": false
+        },
+        {
+          "date": "11-23",
           "title": "신세계백화점 폭발물 협박 소동… 경찰 수색 종료",
           "risk": false
         },
         {
           "date": "11-23",
           "title": "'폭발물 설치' 팩스에 광주신세계도 현장 수색…\"특이 사항 없어\" (종합...",
-          "risk": false
-        },
-        {
-          "date": "11-23",
-          "title": "신세계百 전국 13개 지점 폭발물 수색…경찰 \"허위 신고 가능성 높아\"",
           "risk": false
         }
       ],
@@ -237,11 +237,11 @@
           "risk": false
         }
       ],
-      "price": 172100,
-      "chg": -0.0626,
-      "activity": 1.03,
+      "price": 171800,
+      "chg": -0.0643,
+      "activity": 1.02,
       "foreign_today": 0,
-      "inst_today": 1893100000,
+      "inst_today": 1889800000,
       "exchange": "KOSPI"
     },
     {
@@ -291,11 +291,6 @@
         {
           "date": "11-23",
           "title": "제주항공, 센다이 취항→NOL, 위로드와 글로벌 커뮤니티 여행 상품 선보...",
-          "risk": false
-        },
-        {
-          "date": "11-23",
-          "title": "제주항공, 센다이 취항으로 日하늘길 완성",
           "risk": false
         }
       ],
@@ -422,10 +417,10 @@
           "risk": false
         }
       ],
-      "price": 39650,
-      "chg": 0.0908,
+      "price": 39700,
+      "chg": 0.0922,
       "activity": 1.72,
-      "foreign_today": 515450000,
+      "foreign_today": 516100000,
       "inst_today": 0,
       "exchange": "KOSDAQ"
     },
@@ -447,11 +442,11 @@
           "risk": false
         }
       ],
-      "price": 53500,
-      "chg": 0.0269,
-      "activity": 1.81,
+      "price": 53400,
+      "chg": 0.025,
+      "activity": 1.8,
       "foreign_today": 0,
-      "inst_today": 481500000,
+      "inst_today": 480600000,
       "exchange": "KOSDAQ"
     },
     {
@@ -466,10 +461,10 @@
       "inst_net": 16076894300,
       "score": 0.735,
       "news": [],
-      "price": 46300,
-      "chg": -0.0149,
+      "price": 46250,
+      "chg": -0.016,
       "activity": 0.81,
-      "foreign_today": 2315000000,
+      "foreign_today": 2312500000,
       "inst_today": 0,
       "exchange": "KOSDAQ"
     },
@@ -501,11 +496,11 @@
           "risk": false
         }
       ],
-      "price": 17570,
-      "chg": 0.0347,
-      "activity": 1.53,
-      "foreign_today": 386540000,
-      "inst_today": 245980000,
+      "price": 17520,
+      "chg": 0.0318,
+      "activity": 1.52,
+      "foreign_today": 385440000,
+      "inst_today": 245280000,
       "exchange": "KOSDAQ"
     },
     {
@@ -518,7 +513,7 @@
       "vol20": 1.214,
       "foreign_net": -18490470000,
       "inst_net": 18573590250,
-      "score": 0.717,
+      "score": 0.699,
       "news": [
         {
           "date": "11-23",
@@ -526,11 +521,11 @@
           "risk": false
         }
       ],
-      "price": 246000,
-      "chg": 0.0535,
-      "activity": 2.02,
+      "price": 245500,
+      "chg": 0.0514,
+      "activity": 2.0,
       "foreign_today": 0,
-      "inst_today": 1476000000,
+      "inst_today": 1473000000,
       "exchange": "KOSDAQ"
     },
     {
