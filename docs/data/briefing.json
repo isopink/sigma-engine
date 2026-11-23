@@ -81,8 +81,8 @@
     ]
   },
   "intraday": {
-    "time": "13:45",
-    "pool": 460,
+    "time": "14:00",
+    "pool": 459,
     "analyzed_new": 30,
     "passed": 19,
     "kept_prep": false
@@ -98,13 +98,13 @@
       "vol20": 0.811,
       "foreign_net": -24745385500,
       "inst_net": 20342949400,
-      "score": 0.977,
+      "score": 0.948,
       "news": [],
-      "price": 111500,
-      "chg": 0.0639,
-      "activity": 1.7,
+      "price": 111700,
+      "chg": 0.0658,
+      "activity": 1.73,
       "foreign_today": 0,
-      "inst_today": 3122000000,
+      "inst_today": 3127600000,
       "exchange": "KOSDAQ"
     },
     {
@@ -117,7 +117,7 @@
       "vol20": 0.658,
       "foreign_net": 28181427500,
       "inst_net": -19592933750,
-      "score": 0.795,
+      "score": 0.739,
       "news": [
         {
           "date": "11-23",
@@ -130,11 +130,11 @@
           "risk": false
         }
       ],
-      "price": 259000,
-      "chg": 0.0998,
-      "activity": 1.67,
+      "price": 257500,
+      "chg": 0.0934,
+      "activity": 1.63,
       "foreign_today": 0,
-      "inst_today": 10619000000,
+      "inst_today": 10557500000,
       "exchange": "KOSPI"
     },
     {
@@ -147,7 +147,7 @@
       "vol20": 0.505,
       "foreign_net": -5243824250,
       "inst_net": 17184847250,
-      "score": 0.652,
+      "score": 0.627,
       "news": [
         {
           "date": "11-23",
@@ -165,11 +165,11 @@
           "risk": false
         }
       ],
-      "price": 278000,
-      "chg": 0.0109,
-      "activity": 1.35,
+      "price": 276000,
+      "chg": 0.0036,
+      "activity": 1.31,
       "foreign_today": 0,
-      "inst_today": 834000000,
+      "inst_today": 828000000,
       "exchange": "KOSDAQ"
     },
     {
@@ -182,21 +182,21 @@
       "vol20": 0.582,
       "foreign_net": -24349455000,
       "inst_net": 30895472000,
-      "score": 0.636,
+      "score": 0.612,
       "news": [
         {
           "date": "11-23",
-          "title": "신세계백화점 폭발물 신고…전국 13개 점포 점검 후 정상 영업",
+          "title": "신세계백화점 폭발물 설치 협박…전국 13개 점포 수색, 특이사항 없어",
           "risk": false
         },
         {
           "date": "11-23",
-          "title": "광주신세계 폭발물 수색 종료…특이사항 없어 정상 영업",
+          "title": "\"신세계백화점 폭발물 설치\" 팩스 접수…허위신고 무게·정상영업",
           "risk": false
         },
         {
           "date": "11-23",
-          "title": "신세계百 강남점, '아톰' 2027년 에디션 국내 단독 판매",
+          "title": "“신세계백화점 폭탄 터뜨리겠다” 협박 신고에 부산 센텀시티점도 경...",
           "risk": false
         }
       ],
@@ -214,7 +214,7 @@
       "vol20": 0.698,
       "foreign_net": -20286179250,
       "inst_net": 22365671850,
-      "score": 0.492,
+      "score": 0.485,
       "news": [
         {
           "date": "11-23",
@@ -246,21 +246,21 @@
       "vol20": 0.394,
       "foreign_net": -1711657850,
       "inst_net": 1831863550,
-      "score": 0.386,
+      "score": 0.381,
       "news": [
         {
           "date": "11-23",
-          "title": "CJ제일제당, '사랑의 희망박스'에 식품 후원…14년째 나눔 동참",
+          "title": "CJ제일제당, 14년째 '사랑의 희망박스' 후원…누적 600만개 기부",
           "risk": false
         },
         {
           "date": "11-23",
-          "title": "[오늘의식탁] CJ제일제당ㆍ대상ㆍ농심ㆍ풀무원ㆍ서울우유ㆍCJ푸드빌ㆍ샘...",
+          "title": "롯데홈쇼핑, 자체 캐릭터 '벨리곰' 협업 확대…CJ올리브영, '생리용품 바...",
           "risk": false
         },
         {
           "date": "11-23",
-          "title": "CJ제일제당, 취약계층 식품 나눔 14년째 이어가",
+          "title": "[뷰티브리핑] CJ올리브영, '생리용품 바우처' 결제 서비스 시행 외",
           "risk": false
         }
       ],
@@ -278,21 +278,21 @@
       "vol20": 0.873,
       "foreign_net": 5700575195,
       "inst_net": 13657637720,
-      "score": 0.364,
+      "score": 0.358,
       "news": [
         {
           "date": "11-23",
-          "title": "[애경 사장단] 고준 AK홀딩스 사장 승진…제주항공·애경케미칼 차세대...",
+          "title": "제주항공, 내년 1월 센다이 신규 취항⋯일본 8개 지방 모두 연결",
           "risk": false
         },
         {
           "date": "11-23",
-          "title": "제주항공, 내년 1월 센다이 취항…日 노선망 완성",
+          "title": "[플라이 H!] 노선 다변화에 특가까지..제주항공 '센다이'·파라타항공 '...",
           "risk": false
         },
         {
           "date": "11-23",
-          "title": "애경산업 판 채형석, 제주항공에 임원 6명 승진…그룹 재편 속내는",
+          "title": "홋카이도부터 오키나와까지…제주항공, 센다이 취항으로 日 하늘길 완성",
           "risk": false
         }
       ],
@@ -310,7 +310,7 @@
       "vol20": 0.507,
       "foreign_net": -21025865450,
       "inst_net": 24188428950,
-      "score": 0.341,
+      "score": 0.343,
       "news": [],
       "foreign_today": 0,
       "inst_today": 919500000,
@@ -326,7 +326,7 @@
       "vol20": 0.991,
       "foreign_net": -7345223900,
       "inst_net": 18891057500,
-      "score": 0.341,
+      "score": 0.336,
       "news": [],
       "foreign_today": 0,
       "inst_today": 213200000,
@@ -342,7 +342,7 @@
       "vol20": 0.264,
       "foreign_net": -6005296100,
       "inst_net": 9808123400,
-      "score": 0.318,
+      "score": 0.313,
       "news": [
         {
           "date": "11-23",
@@ -374,7 +374,7 @@
       "vol20": 0.515,
       "foreign_net": 12503463450,
       "inst_net": 7280845850,
-      "score": 0.242,
+      "score": 0.239,
       "news": [
         {
           "date": "11-21",
@@ -406,21 +406,21 @@
       "vol20": 0.406,
       "foreign_net": 3434414400,
       "inst_net": 14090104050,
-      "score": 0.227,
+      "score": 0.239,
       "news": [
         {
           "date": "11-23",
-          "title": "아모레퍼시픽 헤라, 국내 쿠션 시장 구매액 점유율 1위 기록",
+          "title": "아모레퍼시픽, AI·디바이스·바이오 융합으로 뷰티테크 주도권 잡는다",
           "risk": false
         },
         {
           "date": "11-23",
-          "title": "아모레퍼시픽, 日 도쿄 뷰티테크 행사서 기술 전략 발표",
+          "title": "아모레퍼시픽 비레디, 남성용 '트루 톤 립밤' 출시",
           "risk": false
         },
         {
           "date": "11-23",
-          "title": "김승환 아모레퍼시픽 대표 \"홀리스틱 뷰티·에이지리스 뷰티 결합\" 혁신...",
+          "title": "아모레퍼시픽, 화장품 넘어 맞춤형 뷰티 사업 확대..AI·바이오 기술 접...",
           "risk": false
         }
       ],
@@ -451,11 +451,11 @@
           "risk": false
         }
       ],
-      "price": 40850,
-      "chg": 0.1238,
-      "activity": 1.81,
-      "foreign_today": 735300000,
-      "inst_today": 1143800000,
+      "price": 41500,
+      "chg": 0.1417,
+      "activity": 1.85,
+      "foreign_today": 747000000,
+      "inst_today": 1162000000,
       "exchange": "KOSDAQ"
     },
     {
@@ -468,7 +468,7 @@
       "vol20": 1.201,
       "foreign_net": -43334591000,
       "inst_net": 58173336250,
-      "score": 0.886,
+      "score": 0.873,
       "news": [
         {
           "date": "11-23",
@@ -486,11 +486,11 @@
           "risk": false
         }
       ],
-      "price": 404500,
-      "chg": -0.0086,
-      "activity": 2.28,
+      "price": 408000,
+      "chg": 0.0,
+      "activity": 2.31,
       "foreign_today": 0,
-      "inst_today": 2427000000,
+      "inst_today": 2448000000,
       "exchange": "KOSDAQ"
     },
     {
@@ -503,7 +503,7 @@
       "vol20": 1.13,
       "foreign_net": -1732207285,
       "inst_net": 6990086135,
-      "score": 0.871,
+      "score": 0.843,
       "news": [
         {
           "date": "11-22",
@@ -521,11 +521,11 @@
           "risk": false
         }
       ],
-      "price": 18290,
-      "chg": 0.0771,
-      "activity": 1.86,
-      "foreign_today": 640150000,
-      "inst_today": 585280000,
+      "price": 18220,
+      "chg": 0.073,
+      "activity": 1.84,
+      "foreign_today": 637700000,
+      "inst_today": 583040000,
       "exchange": "KOSDAQ"
     },
     {
@@ -538,7 +538,7 @@
       "vol20": 1.286,
       "foreign_net": -10441973250,
       "inst_net": 27749286450,
-      "score": 0.788,
+      "score": 0.776,
       "news": [
         {
           "date": "11-22",
@@ -546,30 +546,30 @@
           "risk": false
         }
       ],
-      "price": 55200,
-      "chg": 0.0595,
-      "activity": 1.76,
+      "price": 55300,
+      "chg": 0.0614,
+      "activity": 1.79,
       "foreign_today": 0,
-      "inst_today": 993600000,
+      "inst_today": 995400000,
       "exchange": "KOSDAQ"
     },
     {
-      "code": "035900",
-      "name": "JYP Ent.",
-      "close": 46250,
-      "ret5": 0.0405,
-      "ret20": 0.2551,
-      "rsi14": 58.0,
-      "vol20": 1.21,
-      "foreign_net": -22243475650,
-      "inst_net": 16076894300,
-      "score": 0.697,
+      "code": "036540",
+      "name": "SFA반도체",
+      "close": 7980,
+      "ret5": -0.1345,
+      "ret20": -0.0699,
+      "rsi14": 47.2,
+      "vol20": 1.387,
+      "foreign_net": -20814897450,
+      "inst_net": 9627584005,
+      "score": 0.761,
       "news": [],
-      "price": 46700,
-      "chg": -0.0064,
-      "activity": 0.67,
-      "foreign_today": 3455800000,
-      "inst_today": 0,
+      "price": 9220,
+      "chg": 0.1369,
+      "activity": 1.74,
+      "foreign_today": 1161720000,
+      "inst_today": 479440000,
       "exchange": "KOSDAQ"
     },
     {
