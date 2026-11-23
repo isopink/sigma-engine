@@ -81,10 +81,10 @@
     ]
   },
   "intraday": {
-    "time": "13:30",
+    "time": "13:45",
     "pool": 460,
     "analyzed_new": 30,
-    "passed": 18,
+    "passed": 19,
     "kept_prep": false
   },
   "candidates": [
@@ -98,13 +98,13 @@
       "vol20": 0.811,
       "foreign_net": -24745385500,
       "inst_net": 20342949400,
-      "score": 0.975,
+      "score": 0.977,
       "news": [],
-      "price": 112700,
-      "chg": 0.0754,
+      "price": 111500,
+      "chg": 0.0639,
       "activity": 1.7,
       "foreign_today": 0,
-      "inst_today": 3155600000,
+      "inst_today": 3122000000,
       "exchange": "KOSDAQ"
     },
     {
@@ -117,7 +117,7 @@
       "vol20": 0.658,
       "foreign_net": 28181427500,
       "inst_net": -19592933750,
-      "score": 0.825,
+      "score": 0.795,
       "news": [
         {
           "date": "11-23",
@@ -132,41 +132,9 @@
       ],
       "price": 259000,
       "chg": 0.0998,
-      "activity": 1.71,
+      "activity": 1.67,
       "foreign_today": 0,
       "inst_today": 10619000000,
-      "exchange": "KOSPI"
-    },
-    {
-      "code": "004170",
-      "name": "신세계",
-      "close": 290000,
-      "ret5": 0.1623,
-      "ret20": 0.1508,
-      "rsi14": 57.4,
-      "vol20": 0.582,
-      "foreign_net": -24349455000,
-      "inst_net": 30895472000,
-      "score": 0.633,
-      "news": [
-        {
-          "date": "11-23",
-          "title": "“폭발물 설치했다” 신세계백화점에 협박 신고…경찰 수색",
-          "risk": false
-        },
-        {
-          "date": "11-23",
-          "title": "신세계백화점에 폭발물 설치 협박 팩스…경찰, 전국 점포 점검",
-          "risk": false
-        },
-        {
-          "date": "11-23",
-          "title": "신세계百, 폭발물 협박에 전국 긴급 점검…\"특이점 없어 정상 영업\"",
-          "risk": false
-        }
-      ],
-      "foreign_today": 0,
-      "inst_today": 2030000000,
       "exchange": "KOSPI"
     },
     {
@@ -179,7 +147,7 @@
       "vol20": 0.505,
       "foreign_net": -5243824250,
       "inst_net": 17184847250,
-      "score": 0.625,
+      "score": 0.652,
       "news": [
         {
           "date": "11-23",
@@ -197,12 +165,44 @@
           "risk": false
         }
       ],
-      "price": 277500,
-      "chg": 0.0091,
-      "activity": 1.38,
+      "price": 278000,
+      "chg": 0.0109,
+      "activity": 1.35,
       "foreign_today": 0,
-      "inst_today": 832500000,
+      "inst_today": 834000000,
       "exchange": "KOSDAQ"
+    },
+    {
+      "code": "004170",
+      "name": "신세계",
+      "close": 290000,
+      "ret5": 0.1623,
+      "ret20": 0.1508,
+      "rsi14": 57.4,
+      "vol20": 0.582,
+      "foreign_net": -24349455000,
+      "inst_net": 30895472000,
+      "score": 0.636,
+      "news": [
+        {
+          "date": "11-23",
+          "title": "신세계백화점 폭발물 신고…전국 13개 점포 점검 후 정상 영업",
+          "risk": false
+        },
+        {
+          "date": "11-23",
+          "title": "광주신세계 폭발물 수색 종료…특이사항 없어 정상 영업",
+          "risk": false
+        },
+        {
+          "date": "11-23",
+          "title": "신세계百 강남점, '아톰' 2027년 에디션 국내 단독 판매",
+          "risk": false
+        }
+      ],
+      "foreign_today": 0,
+      "inst_today": 2030000000,
+      "exchange": "KOSPI"
     },
     {
       "code": "161890",
@@ -246,21 +246,21 @@
       "vol20": 0.394,
       "foreign_net": -1711657850,
       "inst_net": 1831863550,
-      "score": 0.375,
+      "score": 0.386,
       "news": [
         {
           "date": "11-23",
-          "title": "CJ문화재단, '37회 유재하 음악경연대회’…이종서 대상 영예",
+          "title": "CJ제일제당, '사랑의 희망박스'에 식품 후원…14년째 나눔 동참",
           "risk": false
         },
         {
           "date": "11-23",
-          "title": "CJ ONE, 방한 외국인 대상 10개 브랜드 할인 쿠폰팩 제공",
+          "title": "[오늘의식탁] CJ제일제당ㆍ대상ㆍ농심ㆍ풀무원ㆍ서울우유ㆍCJ푸드빌ㆍ샘...",
           "risk": false
         },
         {
           "date": "11-23",
-          "title": "[굿모닝! 23일 식품업계 소식] CJ제일제당·대상·농심·풀무원·KGC·하이...",
+          "title": "CJ제일제당, 취약계층 식품 나눔 14년째 이어가",
           "risk": false
         }
       ],
@@ -278,21 +278,21 @@
       "vol20": 0.873,
       "foreign_net": 5700575195,
       "inst_net": 13657637720,
-      "score": 0.35,
+      "score": 0.364,
       "news": [
         {
           "date": "11-23",
+          "title": "[애경 사장단] 고준 AK홀딩스 사장 승진…제주항공·애경케미칼 차세대...",
+          "risk": false
+        },
+        {
+          "date": "11-23",
+          "title": "제주항공, 내년 1월 센다이 취항…日 노선망 완성",
+          "risk": false
+        },
+        {
+          "date": "11-23",
           "title": "애경산업 판 채형석, 제주항공에 임원 6명 승진…그룹 재편 속내는",
-          "risk": false
-        },
-        {
-          "date": "11-23",
-          "title": "제주항공, 내년 1월 센다이 취항… 일본 8개 지방 모두 연결",
-          "risk": false
-        },
-        {
-          "date": "11-23",
-          "title": "[인사] 제주항공",
           "risk": false
         }
       ],
@@ -310,7 +310,7 @@
       "vol20": 0.507,
       "foreign_net": -21025865450,
       "inst_net": 24188428950,
-      "score": 0.325,
+      "score": 0.341,
       "news": [],
       "foreign_today": 0,
       "inst_today": 919500000,
@@ -326,7 +326,7 @@
       "vol20": 0.991,
       "foreign_net": -7345223900,
       "inst_net": 18891057500,
-      "score": 0.325,
+      "score": 0.341,
       "news": [],
       "foreign_today": 0,
       "inst_today": 213200000,
@@ -342,7 +342,7 @@
       "vol20": 0.264,
       "foreign_net": -6005296100,
       "inst_net": 9808123400,
-      "score": 0.3,
+      "score": 0.318,
       "news": [
         {
           "date": "11-23",
@@ -374,7 +374,7 @@
       "vol20": 0.515,
       "foreign_net": 12503463450,
       "inst_net": 7280845850,
-      "score": 0.217,
+      "score": 0.242,
       "news": [
         {
           "date": "11-21",
@@ -394,6 +394,38 @@
       ],
       "foreign_today": 0,
       "inst_today": 607500000,
+      "exchange": "KOSPI"
+    },
+    {
+      "code": "090430",
+      "name": "아모레퍼시픽",
+      "close": 138500,
+      "ret5": 0.0992,
+      "ret20": 0.0728,
+      "rsi14": 59.1,
+      "vol20": 0.406,
+      "foreign_net": 3434414400,
+      "inst_net": 14090104050,
+      "score": 0.227,
+      "news": [
+        {
+          "date": "11-23",
+          "title": "아모레퍼시픽 헤라, 국내 쿠션 시장 구매액 점유율 1위 기록",
+          "risk": false
+        },
+        {
+          "date": "11-23",
+          "title": "아모레퍼시픽, 日 도쿄 뷰티테크 행사서 기술 전략 발표",
+          "risk": false
+        },
+        {
+          "date": "11-23",
+          "title": "김승환 아모레퍼시픽 대표 \"홀리스틱 뷰티·에이지리스 뷰티 결합\" 혁신...",
+          "risk": false
+        }
+      ],
+      "foreign_today": 0,
+      "inst_today": 415500000,
       "exchange": "KOSPI"
     },
     {
@@ -419,11 +451,11 @@
           "risk": false
         }
       ],
-      "price": 41050,
-      "chg": 0.1293,
-      "activity": 1.72,
-      "foreign_today": 738900000,
-      "inst_today": 1149400000,
+      "price": 40850,
+      "chg": 0.1238,
+      "activity": 1.81,
+      "foreign_today": 735300000,
+      "inst_today": 1143800000,
       "exchange": "KOSDAQ"
     },
     {
@@ -436,7 +468,7 @@
       "vol20": 1.201,
       "foreign_net": -43334591000,
       "inst_net": 58173336250,
-      "score": 0.892,
+      "score": 0.886,
       "news": [
         {
           "date": "11-23",
@@ -456,7 +488,7 @@
       ],
       "price": 404500,
       "chg": -0.0086,
-      "activity": 2.33,
+      "activity": 2.28,
       "foreign_today": 0,
       "inst_today": 2427000000,
       "exchange": "KOSDAQ"
@@ -471,7 +503,7 @@
       "vol20": 1.13,
       "foreign_net": -1732207285,
       "inst_net": 6990086135,
-      "score": 0.883,
+      "score": 0.871,
       "news": [
         {
           "date": "11-22",
@@ -489,11 +521,11 @@
           "risk": false
         }
       ],
-      "price": 18180,
-      "chg": 0.0707,
-      "activity": 1.79,
-      "foreign_today": 636300000,
-      "inst_today": 581760000,
+      "price": 18290,
+      "chg": 0.0771,
+      "activity": 1.86,
+      "foreign_today": 640150000,
+      "inst_today": 585280000,
       "exchange": "KOSDAQ"
     },
     {
@@ -506,7 +538,7 @@
       "vol20": 1.286,
       "foreign_net": -10441973250,
       "inst_net": 27749286450,
-      "score": 0.8,
+      "score": 0.788,
       "news": [
         {
           "date": "11-22",
@@ -514,11 +546,11 @@
           "risk": false
         }
       ],
-      "price": 54800,
-      "chg": 0.0518,
-      "activity": 1.73,
+      "price": 55200,
+      "chg": 0.0595,
+      "activity": 1.76,
       "foreign_today": 0,
-      "inst_today": 986400000,
+      "inst_today": 993600000,
       "exchange": "KOSDAQ"
     },
     {
@@ -531,12 +563,12 @@
       "vol20": 1.21,
       "foreign_net": -22243475650,
       "inst_net": 16076894300,
-      "score": 0.683,
+      "score": 0.697,
       "news": [],
-      "price": 46600,
-      "chg": -0.0085,
-      "activity": 0.69,
-      "foreign_today": 3448400000,
+      "price": 46700,
+      "chg": -0.0064,
+      "activity": 0.67,
+      "foreign_today": 3455800000,
       "inst_today": 0,
       "exchange": "KOSDAQ"
     },
