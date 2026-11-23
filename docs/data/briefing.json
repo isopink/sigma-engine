@@ -81,7 +81,7 @@
     ]
   },
   "intraday": {
-    "time": "10:00",
+    "time": "10:01",
     "pool": 359,
     "analyzed_new": 30,
     "passed": 9,
@@ -98,7 +98,7 @@
       "vol20": 0.582,
       "foreign_net": -24349455000,
       "inst_net": 30895472000,
-      "score": 0.75,
+      "score": 0.791,
       "news": [
         {
           "date": "11-23",
@@ -130,7 +130,7 @@
       "vol20": 0.873,
       "foreign_net": 5700575195,
       "inst_net": 13657637720,
-      "score": 0.375,
+      "score": 0.372,
       "news": [
         {
           "date": "11-23",
@@ -172,7 +172,7 @@
       ],
       "price": 37200,
       "chg": 0.022,
-      "activity": 2.18,
+      "activity": 2.17,
       "foreign_today": 1785600000,
       "inst_today": 0,
       "exchange": "KOSDAQ"
@@ -187,13 +187,19 @@
       "vol20": 1.214,
       "foreign_net": -18490470000,
       "inst_net": 18573590250,
-      "score": 0.9,
-      "news": [],
-      "price": 243000,
-      "chg": 0.0407,
-      "activity": 3.85,
+      "score": 0.884,
+      "news": [
+        {
+          "date": "11-23",
+          "title": "로보티즈 주가, 11월 23일 장중 242,500원 3.85% 상승",
+          "risk": false
+        }
+      ],
+      "price": 241000,
+      "chg": 0.0321,
+      "activity": 3.78,
       "foreign_today": 0,
-      "inst_today": 1215000000,
+      "inst_today": 1205000000,
       "exchange": "KOSDAQ"
     },
     {
@@ -206,12 +212,12 @@
       "vol20": 1.21,
       "foreign_net": -22243475650,
       "inst_net": 16076894300,
-      "score": 0.775,
+      "score": 0.86,
       "news": [],
-      "price": 46750,
-      "chg": -0.0053,
-      "activity": 1.38,
-      "foreign_today": 1496000000,
+      "price": 46600,
+      "chg": -0.0085,
+      "activity": 1.42,
+      "foreign_today": 1491200000,
       "inst_today": 0,
       "exchange": "KOSDAQ"
     },
@@ -225,7 +231,7 @@
       "vol20": 1.636,
       "foreign_net": -2138966250,
       "inst_net": -181721600,
-      "score": 0.7,
+      "score": 0.721,
       "news": [
         {
           "date": "11-22",
@@ -243,10 +249,10 @@
           "risk": false
         }
       ],
-      "price": 91200,
-      "chg": 0.0022,
-      "activity": 2.59,
-      "foreign_today": 547200000,
+      "price": 90500,
+      "chg": -0.0055,
+      "activity": 2.57,
+      "foreign_today": 543000000,
       "inst_today": 0,
       "exchange": "KOSPI"
     },
@@ -260,7 +266,7 @@
       "vol20": 1.852,
       "foreign_net": -1265830800,
       "inst_net": -3311185800,
-      "score": 0.675,
+      "score": 0.698,
       "news": [
         {
           "date": "11-20",
@@ -268,11 +274,11 @@
           "risk": false
         }
       ],
-      "price": 43000,
-      "chg": 0.0106,
-      "activity": 2.88,
+      "price": 42650,
+      "chg": 0.0024,
+      "activity": 2.83,
       "foreign_today": 0,
-      "inst_today": 129000000,
+      "inst_today": 127950000,
       "exchange": "KOSDAQ"
     },
     {
