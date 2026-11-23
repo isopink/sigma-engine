@@ -81,8 +81,8 @@
     ]
   },
   "intraday": {
-    "time": "10:31",
-    "pool": 363,
+    "time": "10:45",
+    "pool": 362,
     "analyzed_new": 30,
     "passed": 13,
     "kept_prep": false
@@ -98,21 +98,21 @@
       "vol20": 0.582,
       "foreign_net": -24349455000,
       "inst_net": 30895472000,
-      "score": 0.859,
+      "score": 0.896,
       "news": [
         {
           "date": "11-23",
-          "title": "신세계센텀시티, 종합격투기 김동현 선수 굿즈 팝업",
+          "title": "‘신세계백화점 폭발물 설치’ 협박 팩스… 경찰, 현장 수색",
           "risk": false
         },
         {
           "date": "11-23",
-          "title": "신세계百 강남점서 ‘대전 빵축제’…인기 베이커리 10곳 총출동",
+          "title": "\"신세계백화점 폭파하겠다\" 협박 팩스…광주서도 경찰 긴급 수색",
           "risk": false
         },
         {
           "date": "11-23",
-          "title": "경찰청에 '신세계백화점 폭발물 설치' 팩스…광주도 현장 확인",
+          "title": "신세계百, 대전 베이커리 10곳 서울 진출",
           "risk": false
         }
       ],
@@ -130,7 +130,7 @@
       "vol20": 0.698,
       "foreign_net": -20286179250,
       "inst_net": 22365671850,
-      "score": 0.746,
+      "score": 0.806,
       "news": [
         {
           "date": "11-23",
@@ -153,22 +153,6 @@
       "exchange": "KOSPI"
     },
     {
-      "code": "161390",
-      "name": "한국타이어앤테크놀로지",
-      "close": 61300,
-      "ret5": -0.0145,
-      "ret20": -0.0065,
-      "rsi14": 50.2,
-      "vol20": 0.507,
-      "foreign_net": -21025865450,
-      "inst_net": 24188428950,
-      "score": 0.577,
-      "news": [],
-      "foreign_today": 490400000,
-      "inst_today": 0,
-      "exchange": "KOSPI"
-    },
-    {
       "code": "278470",
       "name": "에이피알",
       "close": 232500,
@@ -178,7 +162,7 @@
       "vol20": 0.658,
       "foreign_net": 28181427500,
       "inst_net": -19592933750,
-      "score": 0.563,
+      "score": 0.597,
       "news": [
         {
           "date": "11-23",
@@ -191,11 +175,27 @@
           "risk": false
         }
       ],
-      "price": 255500,
-      "chg": 0.0849,
-      "activity": 2.61,
+      "price": 256000,
+      "chg": 0.087,
+      "activity": 2.49,
       "foreign_today": 0,
-      "inst_today": 255500000,
+      "inst_today": 256000000,
+      "exchange": "KOSPI"
+    },
+    {
+      "code": "161390",
+      "name": "한국타이어앤테크놀로지",
+      "close": 61300,
+      "ret5": -0.0145,
+      "ret20": -0.0065,
+      "rsi14": 50.2,
+      "vol20": 0.507,
+      "foreign_net": -21025865450,
+      "inst_net": 24188428950,
+      "score": 0.597,
+      "news": [],
+      "foreign_today": 490400000,
+      "inst_today": 0,
       "exchange": "KOSPI"
     },
     {
@@ -208,21 +208,21 @@
       "vol20": 0.873,
       "foreign_net": 5700575195,
       "inst_net": 13657637720,
-      "score": 0.394,
+      "score": 0.418,
       "news": [
         {
           "date": "11-23",
-          "title": "제주항공, 1월 센다이 신규 취항…日 8개 지방 전역 연결",
+          "title": "제주항공, 내년 1월 센다이 취항…일본 8개 지방 연결",
           "risk": false
         },
         {
           "date": "11-23",
-          "title": "12·29 제주항공 참사 유가족 협의회, 2주기 추모식 '보이콧'",
+          "title": "제주항공우주호텔, 수학여행·교육캠프 등 학생단체 숙박 운영 확대",
           "risk": false
         },
         {
-          "date": "11-22",
-          "title": "하늘길 노사 갈등 일단락…대한항공·제주항공 파업 위기 넘겼다 [헤비...",
+          "date": "11-23",
+          "title": "제주항공, 내년 1월 센다이 취항…일본 8개 지방 노선망 완성",
           "risk": false
         }
       ],
@@ -240,11 +240,41 @@
       "vol20": 0.331,
       "foreign_net": -54140421125,
       "inst_net": 64786700175,
-      "score": 0.352,
+      "score": 0.358,
       "news": [],
       "foreign_today": 0,
       "inst_today": 477750000,
       "exchange": "KOSPI"
+    },
+    {
+      "code": "109610",
+      "name": "에스와이",
+      "close": 2210,
+      "ret5": -0.0495,
+      "ret20": 0.2687,
+      "rsi14": 55.2,
+      "vol20": 1.825,
+      "foreign_net": -111185933,
+      "inst_net": 14824,
+      "score": 1.0,
+      "news": [
+        {
+          "date": "11-23",
+          "title": "[건자재 인사이드] [에스와이] 8개 분기 연속 순손실…'결손 방어' 카드...",
+          "risk": false
+        },
+        {
+          "date": "11-20",
+          "title": "에스와이스틸텍, 포스코·동명스틸과 연 1만 톤 규모 GI 소재 공급 협약",
+          "risk": false
+        }
+      ],
+      "price": 2345,
+      "chg": 0.0285,
+      "activity": 2.42,
+      "foreign_today": 208705000,
+      "inst_today": 0,
+      "exchange": "KOSDAQ"
     },
     {
       "code": "108490",
@@ -264,40 +294,40 @@
           "risk": false
         }
       ],
-      "price": 248000,
-      "chg": 0.0621,
-      "activity": 3.17,
+      "price": 245500,
+      "chg": 0.0514,
+      "activity": 3.07,
       "foreign_today": 0,
-      "inst_today": 1240000000,
+      "inst_today": 1227500000,
       "exchange": "KOSDAQ"
     },
     {
-      "code": "109610",
-      "name": "에스와이",
-      "close": 2210,
-      "ret5": -0.0495,
-      "ret20": 0.2687,
-      "rsi14": 55.2,
-      "vol20": 1.825,
-      "foreign_net": -111185933,
-      "inst_net": 14824,
-      "score": 0.944,
+      "code": "263860",
+      "name": "지니언스",
+      "close": 34400,
+      "ret5": 0.0073,
+      "ret20": 0.7842,
+      "rsi14": 63.1,
+      "vol20": 1.699,
+      "foreign_net": -1598568625,
+      "inst_net": 5058313650,
+      "score": 0.97,
       "news": [
         {
-          "date": "11-23",
-          "title": "[건자재 인사이드] [에스와이] 8개 분기 연속 순손실…'결손 방어' 카드...",
+          "date": "11-20",
+          "title": "[이 주의 차트in] 시총보다 큰 거래대금… 보안기업 지니언스에 무슨 일...",
           "risk": false
         },
         {
           "date": "11-20",
-          "title": "에스와이스틸텍, 포스코·동명스틸과 연 1만 톤 규모 GI 소재 공급 협약",
+          "title": "미국 보안주 줄줄이 상승…안랩·지니언스에 쏠리는 관심",
           "risk": false
         }
       ],
-      "price": 2340,
-      "chg": 0.0263,
-      "activity": 2.58,
-      "foreign_today": 208260000,
+      "price": 37450,
+      "chg": 0.0288,
+      "activity": 1.6,
+      "foreign_today": 1797600000,
       "inst_today": 0,
       "exchange": "KOSDAQ"
     },
@@ -311,42 +341,12 @@
       "vol20": 1.21,
       "foreign_net": -22243475650,
       "inst_net": 16076894300,
-      "score": 0.93,
+      "score": 0.94,
       "news": [],
-      "price": 46450,
-      "chg": -0.0117,
-      "activity": 1.2,
-      "foreign_today": 1486400000,
-      "inst_today": 0,
-      "exchange": "KOSDAQ"
-    },
-    {
-      "code": "263860",
-      "name": "지니언스",
-      "close": 34400,
-      "ret5": 0.0073,
-      "ret20": 0.7842,
-      "rsi14": 63.1,
-      "vol20": 1.699,
-      "foreign_net": -1598568625,
-      "inst_net": 5058313650,
-      "score": 0.915,
-      "news": [
-        {
-          "date": "11-20",
-          "title": "[이 주의 차트in] 시총보다 큰 거래대금… 보안기업 지니언스에 무슨 일...",
-          "risk": false
-        },
-        {
-          "date": "11-20",
-          "title": "미국 보안주 줄줄이 상승…안랩·지니언스에 쏠리는 관심",
-          "risk": false
-        }
-      ],
-      "price": 36550,
-      "chg": 0.0041,
-      "activity": 1.7,
-      "foreign_today": 1754400000,
+      "price": 46650,
+      "chg": -0.0074,
+      "activity": 1.12,
+      "foreign_today": 1492800000,
       "inst_today": 0,
       "exchange": "KOSDAQ"
     },
@@ -360,7 +360,7 @@
       "vol20": 1.13,
       "foreign_net": -1732207285,
       "inst_net": 6990086135,
-      "score": 0.803,
+      "score": 0.925,
       "news": [
         {
           "date": "11-22",
@@ -378,10 +378,10 @@
           "risk": false
         }
       ],
-      "price": 17400,
-      "chg": 0.0247,
-      "activity": 1.91,
-      "foreign_today": 278400000,
+      "price": 17520,
+      "chg": 0.0318,
+      "activity": 1.86,
+      "foreign_today": 280320000,
       "inst_today": 0,
       "exchange": "KOSDAQ"
     },
