@@ -81,8 +81,8 @@
     ]
   },
   "intraday": {
-    "time": "09:30",
-    "pool": 324,
+    "time": "09:45",
+    "pool": 321,
     "analyzed_new": 30,
     "passed": 7,
     "kept_prep": false
@@ -111,10 +111,10 @@
           "risk": false
         }
       ],
-      "price": 35700,
-      "chg": -0.0192,
-      "activity": 2.26,
-      "foreign_today": 856800000,
+      "price": 36450,
+      "chg": 0.0014,
+      "activity": 2.25,
+      "foreign_today": 874800000,
       "inst_today": 0,
       "exchange": "KOSDAQ"
     },
@@ -128,18 +128,12 @@
       "vol20": 1.21,
       "foreign_net": -22243475650,
       "inst_net": 16076894300,
-      "score": 1.0,
-      "news": [
-        {
-          "date": "11-20",
-          "title": "JYP Ent., 3분기 호실적 소화하며 0.94% 약세",
-          "risk": false
-        }
-      ],
-      "price": 46600,
-      "chg": -0.0085,
-      "activity": 1.91,
-      "foreign_today": 652400000,
+      "score": 0.923,
+      "news": [],
+      "price": 46800,
+      "chg": -0.0043,
+      "activity": 1.6,
+      "foreign_today": 655200000,
       "inst_today": 0,
       "exchange": "KOSDAQ"
     },
@@ -153,7 +147,7 @@
       "vol20": 1.825,
       "foreign_net": -111185933,
       "inst_net": 14824,
-      "score": 0.727,
+      "score": 0.385,
       "news": [
         {
           "date": "11-23",
