@@ -81,10 +81,10 @@
     ]
   },
   "intraday": {
-    "time": "11:00",
-    "pool": 362,
+    "time": "11:01",
+    "pool": 363,
     "analyzed_new": 30,
-    "passed": 13,
+    "passed": 14,
     "kept_prep": false
   },
   "candidates": [
@@ -98,16 +98,16 @@
       "vol20": 0.582,
       "foreign_net": -24349455000,
       "inst_net": 30895472000,
-      "score": 0.881,
+      "score": 0.849,
       "news": [
         {
           "date": "11-23",
-          "title": "신세계백화점, '아톰' 에디션 국내 단독 공개",
+          "title": "신세계백화점 강남점, '아톰' 에디션 국내 단독 공개",
           "risk": false
         },
         {
           "date": "11-23",
-          "title": "신세계백화점 강남점에 나타난 '아톰'",
+          "title": "신세계백화점, '아톰' 에디션 국내 단독 공개",
           "risk": false
         },
         {
@@ -130,7 +130,7 @@
       "vol20": 0.698,
       "foreign_net": -20286179250,
       "inst_net": 22365671850,
-      "score": 0.806,
+      "score": 0.767,
       "news": [
         {
           "date": "11-23",
@@ -153,6 +153,22 @@
       "exchange": "KOSPI"
     },
     {
+      "code": "009420",
+      "name": "한올바이오파마",
+      "close": 53300,
+      "ret5": 0.039,
+      "ret20": 0.3259,
+      "rsi14": 67.0,
+      "vol20": 0.991,
+      "foreign_net": -7345223900,
+      "inst_net": 18891057500,
+      "score": 0.658,
+      "news": [],
+      "foreign_today": 213200000,
+      "inst_today": 0,
+      "exchange": "KOSPI"
+    },
+    {
       "code": "161390",
       "name": "한국타이어앤테크놀로지",
       "close": 61300,
@@ -162,7 +178,7 @@
       "vol20": 0.507,
       "foreign_net": -21025865450,
       "inst_net": 24188428950,
-      "score": 0.612,
+      "score": 0.603,
       "news": [],
       "foreign_today": 490400000,
       "inst_today": 0,
@@ -178,7 +194,7 @@
       "vol20": 0.658,
       "foreign_net": 28181427500,
       "inst_net": -19592933750,
-      "score": 0.597,
+      "score": 0.575,
       "news": [
         {
           "date": "11-23",
@@ -196,11 +212,11 @@
           "risk": false
         }
       ],
-      "price": 256000,
-      "chg": 0.087,
-      "activity": 2.32,
+      "price": 256500,
+      "chg": 0.0892,
+      "activity": 2.31,
       "foreign_today": 0,
-      "inst_today": 256000000,
+      "inst_today": 256500000,
       "exchange": "KOSPI"
     },
     {
@@ -213,8 +229,13 @@
       "vol20": 0.873,
       "foreign_net": 5700575195,
       "inst_net": 13657637720,
-      "score": 0.418,
+      "score": 0.425,
       "news": [
+        {
+          "date": "11-23",
+          "title": "제주항공, 내년 1월 8일부터 일본 센다이에 신규 취항 '주3회 일정 운항...",
+          "risk": false
+        },
         {
           "date": "11-23",
           "title": "제주항공, 1월 8일 센다이 신규 취항...일본 8개 지방 전역 잇는다",
@@ -222,12 +243,7 @@
         },
         {
           "date": "11-23",
-          "title": "\"2년째 진상규명 제자리\"…제주항공 참사 유족, 추모식 불참",
-          "risk": false
-        },
-        {
-          "date": "11-23",
-          "title": "제주항공, 내년 1월 8일 인천~센다이 취항…일본 8개 지방 연결",
+          "title": "무안공항 제주항공 참사 유족 “2년간 진상규명 답보”…정부 추모식 불...",
           "risk": false
         }
       ],
@@ -245,41 +261,11 @@
       "vol20": 0.331,
       "foreign_net": -54140421125,
       "inst_net": 64786700175,
-      "score": 0.373,
+      "score": 0.356,
       "news": [],
       "foreign_today": 0,
       "inst_today": 477750000,
       "exchange": "KOSPI"
-    },
-    {
-      "code": "109610",
-      "name": "에스와이",
-      "close": 2210,
-      "ret5": -0.0495,
-      "ret20": 0.2687,
-      "rsi14": 55.2,
-      "vol20": 1.825,
-      "foreign_net": -111185933,
-      "inst_net": 14824,
-      "score": 1.0,
-      "news": [
-        {
-          "date": "11-23",
-          "title": "[건자재 인사이드] [에스와이] 8개 분기 연속 순손실…'결손 방어' 카드...",
-          "risk": false
-        },
-        {
-          "date": "11-20",
-          "title": "에스와이스틸텍, 포스코·동명스틸과 연 1만 톤 규모 GI 소재 공급 협약",
-          "risk": false
-        }
-      ],
-      "price": 2330,
-      "chg": 0.0219,
-      "activity": 2.17,
-      "foreign_today": 207370000,
-      "inst_today": 0,
-      "exchange": "KOSDAQ"
     },
     {
       "code": "108490",
@@ -299,11 +285,11 @@
           "risk": false
         }
       ],
-      "price": 245500,
-      "chg": 0.0514,
-      "activity": 2.8,
+      "price": 246500,
+      "chg": 0.0557,
+      "activity": 2.79,
       "foreign_today": 0,
-      "inst_today": 1227500000,
+      "inst_today": 1232500000,
       "exchange": "KOSDAQ"
     },
     {
@@ -316,7 +302,7 @@
       "vol20": 1.699,
       "foreign_net": -1598568625,
       "inst_net": 5058313650,
-      "score": 1.0,
+      "score": 0.986,
       "news": [
         {
           "date": "11-20",
@@ -329,10 +315,40 @@
           "risk": false
         }
       ],
-      "price": 37550,
-      "chg": 0.0316,
-      "activity": 1.52,
-      "foreign_today": 1802400000,
+      "price": 37900,
+      "chg": 0.0412,
+      "activity": 1.55,
+      "foreign_today": 1819200000,
+      "inst_today": 0,
+      "exchange": "KOSDAQ"
+    },
+    {
+      "code": "109610",
+      "name": "에스와이",
+      "close": 2210,
+      "ret5": -0.0495,
+      "ret20": 0.2687,
+      "rsi14": 55.2,
+      "vol20": 1.825,
+      "foreign_net": -111185933,
+      "inst_net": 14824,
+      "score": 0.945,
+      "news": [
+        {
+          "date": "11-23",
+          "title": "[건자재 인사이드] [에스와이] 8개 분기 연속 순손실…'결손 방어' 카드...",
+          "risk": false
+        },
+        {
+          "date": "11-20",
+          "title": "에스와이스틸텍, 포스코·동명스틸과 연 1만 톤 규모 GI 소재 공급 협약",
+          "risk": false
+        }
+      ],
+      "price": 2330,
+      "chg": 0.0219,
+      "activity": 2.15,
+      "foreign_today": 207370000,
       "inst_today": 0,
       "exchange": "KOSDAQ"
     },
@@ -346,12 +362,12 @@
       "vol20": 1.21,
       "foreign_net": -22243475650,
       "inst_net": 16076894300,
-      "score": 0.94,
+      "score": 0.932,
       "news": [],
-      "price": 46600,
-      "chg": -0.0085,
+      "price": 46650,
+      "chg": -0.0074,
       "activity": 1.05,
-      "foreign_today": 1491200000,
+      "foreign_today": 1492800000,
       "inst_today": 0,
       "exchange": "KOSDAQ"
     },
@@ -365,7 +381,7 @@
       "vol20": 1.13,
       "foreign_net": -1732207285,
       "inst_net": 6990086135,
-      "score": 0.881,
+      "score": 0.863,
       "news": [
         {
           "date": "11-22",
@@ -383,10 +399,10 @@
           "risk": false
         }
       ],
-      "price": 17360,
-      "chg": 0.0224,
-      "activity": 1.8,
-      "foreign_today": 277760000,
+      "price": 17350,
+      "chg": 0.0218,
+      "activity": 1.79,
+      "foreign_today": 277600000,
       "inst_today": 0,
       "exchange": "KOSDAQ"
     },
