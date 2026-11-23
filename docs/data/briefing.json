@@ -81,10 +81,10 @@
     ]
   },
   "intraday": {
-    "time": "10:01",
+    "time": "10:15",
     "pool": 359,
     "analyzed_new": 30,
-    "passed": 9,
+    "passed": 10,
     "kept_prep": false
   },
   "candidates": [
@@ -98,8 +98,13 @@
       "vol20": 0.582,
       "foreign_net": -24349455000,
       "inst_net": 30895472000,
-      "score": 0.791,
+      "score": 0.886,
       "news": [
+        {
+          "date": "11-23",
+          "title": "\"대전 빵집 강남에서 맛본다\"…신세계백화점, '빵축제' 개최",
+          "risk": false
+        },
         {
           "date": "11-23",
           "title": "티머니, '공항철도 전용 신세계免 티머니카드' 출시",
@@ -108,11 +113,6 @@
         {
           "date": "11-23",
           "title": "티머니, 공항철도 전용 신세계면세점 카드 출시…외국인 관광객 혜택 강...",
-          "risk": false
-        },
-        {
-          "date": "11-23",
-          "title": "[유통딜리버리] 트레이더스ㆍ신세계百ㆍCUㆍ세븐일레븐ㆍ이마트24ㆍ롯데...",
           "risk": false
         }
       ],
@@ -130,7 +130,7 @@
       "vol20": 0.873,
       "foreign_net": 5700575195,
       "inst_net": 13657637720,
-      "score": 0.372,
+      "score": 0.386,
       "news": [
         {
           "date": "11-23",
@@ -145,6 +145,22 @@
       ],
       "foreign_today": 235760000,
       "inst_today": 0,
+      "exchange": "KOSPI"
+    },
+    {
+      "code": "316140",
+      "name": "우리금융지주",
+      "close": 31850,
+      "ret5": -0.017,
+      "ret20": 0.0512,
+      "rsi14": 49.9,
+      "vol20": 0.331,
+      "foreign_net": -54140421125,
+      "inst_net": 64786700175,
+      "score": 0.341,
+      "news": [],
+      "foreign_today": 0,
+      "inst_today": 477750000,
       "exchange": "KOSPI"
     },
     {
@@ -170,10 +186,29 @@
           "risk": false
         }
       ],
-      "price": 37200,
-      "chg": 0.022,
-      "activity": 2.17,
-      "foreign_today": 1785600000,
+      "price": 36200,
+      "chg": -0.0055,
+      "activity": 1.89,
+      "foreign_today": 1737600000,
+      "inst_today": 0,
+      "exchange": "KOSDAQ"
+    },
+    {
+      "code": "035900",
+      "name": "JYP Ent.",
+      "close": 46250,
+      "ret5": 0.0405,
+      "ret20": 0.2551,
+      "rsi14": 58.0,
+      "vol20": 1.21,
+      "foreign_net": -22243475650,
+      "inst_net": 16076894300,
+      "score": 0.909,
+      "news": [],
+      "price": 46100,
+      "chg": -0.0191,
+      "activity": 1.3,
+      "foreign_today": 1475200000,
       "inst_today": 0,
       "exchange": "KOSDAQ"
     },
@@ -187,7 +222,7 @@
       "vol20": 1.214,
       "foreign_net": -18490470000,
       "inst_net": 18573590250,
-      "score": 0.884,
+      "score": 0.886,
       "news": [
         {
           "date": "11-23",
@@ -195,29 +230,40 @@
           "risk": false
         }
       ],
-      "price": 241000,
-      "chg": 0.0321,
-      "activity": 3.78,
+      "price": 242500,
+      "chg": 0.0385,
+      "activity": 3.3,
       "foreign_today": 0,
-      "inst_today": 1205000000,
+      "inst_today": 1212500000,
       "exchange": "KOSDAQ"
     },
     {
-      "code": "035900",
-      "name": "JYP Ent.",
-      "close": 46250,
-      "ret5": 0.0405,
-      "ret20": 0.2551,
-      "rsi14": 58.0,
-      "vol20": 1.21,
-      "foreign_net": -22243475650,
-      "inst_net": 16076894300,
-      "score": 0.86,
-      "news": [],
-      "price": 46600,
-      "chg": -0.0085,
-      "activity": 1.42,
-      "foreign_today": 1491200000,
+      "code": "109610",
+      "name": "에스와이",
+      "close": 2210,
+      "ret5": -0.0495,
+      "ret20": 0.2687,
+      "rsi14": 55.2,
+      "vol20": 1.825,
+      "foreign_net": -111185933,
+      "inst_net": 14824,
+      "score": 0.864,
+      "news": [
+        {
+          "date": "11-23",
+          "title": "[건자재 인사이드] [에스와이] 8개 분기 연속 순손실…'결손 방어' 카드...",
+          "risk": false
+        },
+        {
+          "date": "11-20",
+          "title": "에스와이스틸텍, 포스코·동명스틸과 연 1만 톤 규모 GI 소재 공급 협약",
+          "risk": false
+        }
+      ],
+      "price": 2380,
+      "chg": 0.0439,
+      "activity": 1.91,
+      "foreign_today": 211820000,
       "inst_today": 0,
       "exchange": "KOSDAQ"
     },
@@ -231,7 +277,7 @@
       "vol20": 1.636,
       "foreign_net": -2138966250,
       "inst_net": -181721600,
-      "score": 0.721,
+      "score": 0.727,
       "news": [
         {
           "date": "11-22",
@@ -242,44 +288,14 @@
           "date": "11-20",
           "title": "코리아써키트, 3분기 순손실에 8.27% 하락",
           "risk": false
-        },
-        {
-          "date": "11-20",
-          "title": "코리아써키트 주가, 11월 20일 장중 7,600원 내린 91,600원 기록",
-          "risk": false
         }
       ],
-      "price": 90500,
-      "chg": -0.0055,
-      "activity": 2.57,
-      "foreign_today": 543000000,
+      "price": 89100,
+      "chg": -0.0209,
+      "activity": 2.22,
+      "foreign_today": 534600000,
       "inst_today": 0,
       "exchange": "KOSPI"
-    },
-    {
-      "code": "356860",
-      "name": "티엘비",
-      "close": 41550,
-      "ret5": -0.0525,
-      "ret20": 0.1494,
-      "rsi14": 52.8,
-      "vol20": 1.852,
-      "foreign_net": -1265830800,
-      "inst_net": -3311185800,
-      "score": 0.698,
-      "news": [
-        {
-          "date": "11-20",
-          "title": "티엘비, 분기 최고 실적 뒤 6.48% 조정",
-          "risk": false
-        }
-      ],
-      "price": 42650,
-      "chg": 0.0024,
-      "activity": 2.83,
-      "foreign_today": 0,
-      "inst_today": 127950000,
-      "exchange": "KOSDAQ"
     },
     {
       "code": "114800",
