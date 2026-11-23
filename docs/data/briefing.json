@@ -81,9 +81,9 @@
     ]
   },
   "intraday": {
-    "time": "14:00",
-    "pool": 459,
-    "analyzed_new": 30,
+    "time": "14:15",
+    "pool": 458,
+    "analyzed_new": 13,
     "passed": 19,
     "kept_prep": false
   },
@@ -98,13 +98,13 @@
       "vol20": 0.811,
       "foreign_net": -24745385500,
       "inst_net": 20342949400,
-      "score": 0.948,
+      "score": 0.962,
       "news": [],
-      "price": 111700,
-      "chg": 0.0658,
-      "activity": 1.73,
+      "price": 112900,
+      "chg": 0.0773,
+      "activity": 1.77,
       "foreign_today": 0,
-      "inst_today": 3127600000,
+      "inst_today": 3161200000,
       "exchange": "KOSDAQ"
     },
     {
@@ -117,7 +117,7 @@
       "vol20": 0.658,
       "foreign_net": 28181427500,
       "inst_net": -19592933750,
-      "score": 0.739,
+      "score": 0.75,
       "news": [
         {
           "date": "11-23",
@@ -130,11 +130,43 @@
           "risk": false
         }
       ],
-      "price": 257500,
-      "chg": 0.0934,
-      "activity": 1.63,
+      "price": 258000,
+      "chg": 0.0955,
+      "activity": 1.6,
       "foreign_today": 0,
-      "inst_today": 10557500000,
+      "inst_today": 10578000000,
+      "exchange": "KOSPI"
+    },
+    {
+      "code": "004170",
+      "name": "신세계",
+      "close": 290000,
+      "ret5": 0.1623,
+      "ret20": 0.1508,
+      "rsi14": 57.4,
+      "vol20": 0.582,
+      "foreign_net": -24349455000,
+      "inst_net": 30895472000,
+      "score": 0.621,
+      "news": [
+        {
+          "date": "11-23",
+          "title": "신세계백화점 폭발물 협박, 허위 신고로 판명… 경찰 대응 강화",
+          "risk": false
+        },
+        {
+          "date": "11-23",
+          "title": "신세계백화점 전체가 ‘발칵’…폭발물 협박 팩스에 경찰 긴급 출동",
+          "risk": false
+        },
+        {
+          "date": "11-23",
+          "title": "경찰, \"신세계백화점 폭탄 설치\" 팩스 수신...경력 투입 결과 '특이사항...",
+          "risk": false
+        }
+      ],
+      "foreign_today": 0,
+      "inst_today": 2030000000,
       "exchange": "KOSPI"
     },
     {
@@ -147,7 +179,7 @@
       "vol20": 0.505,
       "foreign_net": -5243824250,
       "inst_net": 17184847250,
-      "score": 0.627,
+      "score": 0.606,
       "news": [
         {
           "date": "11-23",
@@ -165,44 +197,12 @@
           "risk": false
         }
       ],
-      "price": 276000,
-      "chg": 0.0036,
-      "activity": 1.31,
+      "price": 275000,
+      "chg": 0.0,
+      "activity": 1.28,
       "foreign_today": 0,
-      "inst_today": 828000000,
+      "inst_today": 825000000,
       "exchange": "KOSDAQ"
-    },
-    {
-      "code": "004170",
-      "name": "신세계",
-      "close": 290000,
-      "ret5": 0.1623,
-      "ret20": 0.1508,
-      "rsi14": 57.4,
-      "vol20": 0.582,
-      "foreign_net": -24349455000,
-      "inst_net": 30895472000,
-      "score": 0.612,
-      "news": [
-        {
-          "date": "11-23",
-          "title": "신세계백화점 폭발물 설치 협박…전국 13개 점포 수색, 특이사항 없어",
-          "risk": false
-        },
-        {
-          "date": "11-23",
-          "title": "\"신세계백화점 폭발물 설치\" 팩스 접수…허위신고 무게·정상영업",
-          "risk": false
-        },
-        {
-          "date": "11-23",
-          "title": "“신세계백화점 폭탄 터뜨리겠다” 협박 신고에 부산 센텀시티점도 경...",
-          "risk": false
-        }
-      ],
-      "foreign_today": 0,
-      "inst_today": 2030000000,
-      "exchange": "KOSPI"
     },
     {
       "code": "161890",
@@ -218,17 +218,17 @@
       "news": [
         {
           "date": "11-23",
+          "title": "[26.11.23 증시 인싸잇] 오늘의종목 - 한국콜마, 韓中 해빙·K뷰티 글로벌...",
+          "risk": false
+        },
+        {
+          "date": "11-23",
           "title": "코스맥스 경쟁사가 한국콜마?…매출 3조원 '초격차' 시대 활짝",
           "risk": false
         },
         {
           "date": "11-23",
           "title": "지난해 영업익 3분기에 '추월'…한국콜마, 매출 3조·영업익 3천억 '눈앞...",
-          "risk": false
-        },
-        {
-          "date": "11-23",
-          "title": "[논현광장-윤은기의 X경영] 한국콜마의 ODM 비결은 ‘시테크’",
           "risk": false
         }
       ],
@@ -246,21 +246,21 @@
       "vol20": 0.394,
       "foreign_net": -1711657850,
       "inst_net": 1831863550,
-      "score": 0.381,
+      "score": 0.379,
       "news": [
         {
           "date": "11-23",
-          "title": "CJ제일제당, 14년째 '사랑의 희망박스' 후원…누적 600만개 기부",
+          "title": "올리브영 웃고 대한통운 주춤…이재현의 CJ 인사, 유임과 쇄신 갈림길",
           "risk": false
         },
         {
           "date": "11-23",
-          "title": "롯데홈쇼핑, 자체 캐릭터 '벨리곰' 협업 확대…CJ올리브영, '생리용품 바...",
+          "title": "CJ올리브영, 생리용품 바우처 결제 편의 높인다…카드사 제한없이 이용",
           "risk": false
         },
         {
           "date": "11-23",
-          "title": "[뷰티브리핑] CJ올리브영, '생리용품 바우처' 결제 서비스 시행 외",
+          "title": "CJ올리브영, '생리용품 바우처' 결제 서비스",
           "risk": false
         }
       ],
@@ -278,7 +278,7 @@
       "vol20": 0.873,
       "foreign_net": 5700575195,
       "inst_net": 13657637720,
-      "score": 0.358,
+      "score": 0.356,
       "news": [
         {
           "date": "11-23",
@@ -310,7 +310,7 @@
       "vol20": 0.507,
       "foreign_net": -21025865450,
       "inst_net": 24188428950,
-      "score": 0.343,
+      "score": 0.341,
       "news": [],
       "foreign_today": 0,
       "inst_today": 919500000,
@@ -326,7 +326,7 @@
       "vol20": 0.991,
       "foreign_net": -7345223900,
       "inst_net": 18891057500,
-      "score": 0.336,
+      "score": 0.333,
       "news": [],
       "foreign_today": 0,
       "inst_today": 213200000,
@@ -342,7 +342,7 @@
       "vol20": 0.264,
       "foreign_net": -6005296100,
       "inst_net": 9808123400,
-      "score": 0.313,
+      "score": 0.311,
       "news": [
         {
           "date": "11-23",
@@ -374,7 +374,7 @@
       "vol20": 0.515,
       "foreign_net": 12503463450,
       "inst_net": 7280845850,
-      "score": 0.239,
+      "score": 0.235,
       "news": [
         {
           "date": "11-21",
@@ -406,21 +406,21 @@
       "vol20": 0.406,
       "foreign_net": 3434414400,
       "inst_net": 14090104050,
-      "score": 0.239,
+      "score": 0.235,
       "news": [
         {
           "date": "11-23",
+          "title": "김승환 아모레퍼시픽 대표, K-뷰티 미래 전략 'AI·디바이스·바이오' 확...",
+          "risk": false
+        },
+        {
+          "date": "11-23",
+          "title": "김승환 아모레퍼시픽 대표 “K-뷰티, 제품 혁신 넘어 개인 맞춤형 솔루...",
+          "risk": false
+        },
+        {
+          "date": "11-23",
           "title": "아모레퍼시픽, AI·디바이스·바이오 융합으로 뷰티테크 주도권 잡는다",
-          "risk": false
-        },
-        {
-          "date": "11-23",
-          "title": "아모레퍼시픽 비레디, 남성용 '트루 톤 립밤' 출시",
-          "risk": false
-        },
-        {
-          "date": "11-23",
-          "title": "아모레퍼시픽, 화장품 넘어 맞춤형 뷰티 사업 확대..AI·바이오 기술 접...",
           "risk": false
         }
       ],
@@ -451,11 +451,11 @@
           "risk": false
         }
       ],
-      "price": 41500,
-      "chg": 0.1417,
-      "activity": 1.85,
-      "foreign_today": 747000000,
-      "inst_today": 1162000000,
+      "price": 41000,
+      "chg": 0.1279,
+      "activity": 1.84,
+      "foreign_today": 738000000,
+      "inst_today": 1148000000,
       "exchange": "KOSDAQ"
     },
     {
@@ -468,7 +468,7 @@
       "vol20": 1.201,
       "foreign_net": -43334591000,
       "inst_net": 58173336250,
-      "score": 0.873,
+      "score": 0.879,
       "news": [
         {
           "date": "11-23",
@@ -486,11 +486,11 @@
           "risk": false
         }
       ],
-      "price": 408000,
-      "chg": 0.0,
-      "activity": 2.31,
+      "price": 406000,
+      "chg": -0.0049,
+      "activity": 2.28,
       "foreign_today": 0,
-      "inst_today": 2448000000,
+      "inst_today": 2436000000,
       "exchange": "KOSDAQ"
     },
     {
@@ -503,7 +503,7 @@
       "vol20": 1.13,
       "foreign_net": -1732207285,
       "inst_net": 6990086135,
-      "score": 0.843,
+      "score": 0.841,
       "news": [
         {
           "date": "11-22",
@@ -521,36 +521,11 @@
           "risk": false
         }
       ],
-      "price": 18220,
-      "chg": 0.073,
-      "activity": 1.84,
-      "foreign_today": 637700000,
-      "inst_today": 583040000,
-      "exchange": "KOSDAQ"
-    },
-    {
-      "code": "437730",
-      "name": "삼현",
-      "close": 51300,
-      "ret5": 0.0789,
-      "ret20": 0.1686,
-      "rsi14": 60.5,
-      "vol20": 1.286,
-      "foreign_net": -10441973250,
-      "inst_net": 27749286450,
-      "score": 0.776,
-      "news": [
-        {
-          "date": "11-22",
-          "title": "반도체 장비주 밀어낸 로봇주… 로보티즈·삼현까지 폭등 랠리 이어갈까",
-          "risk": false
-        }
-      ],
-      "price": 55300,
-      "chg": 0.0614,
-      "activity": 1.79,
-      "foreign_today": 0,
-      "inst_today": 995400000,
+      "price": 18240,
+      "chg": 0.0742,
+      "activity": 1.81,
+      "foreign_today": 638400000,
+      "inst_today": 583680000,
       "exchange": "KOSDAQ"
     },
     {
@@ -563,13 +538,38 @@
       "vol20": 1.387,
       "foreign_net": -20814897450,
       "inst_net": 9627584005,
-      "score": 0.761,
+      "score": 0.773,
       "news": [],
-      "price": 9220,
-      "chg": 0.1369,
-      "activity": 1.74,
-      "foreign_today": 1161720000,
-      "inst_today": 479440000,
+      "price": 9030,
+      "chg": 0.1134,
+      "activity": 2.06,
+      "foreign_today": 1137780000,
+      "inst_today": 469560000,
+      "exchange": "KOSDAQ"
+    },
+    {
+      "code": "437730",
+      "name": "삼현",
+      "close": 51300,
+      "ret5": 0.0789,
+      "ret20": 0.1686,
+      "rsi14": 60.5,
+      "vol20": 1.286,
+      "foreign_net": -10441973250,
+      "inst_net": 27749286450,
+      "score": 0.773,
+      "news": [
+        {
+          "date": "11-22",
+          "title": "반도체 장비주 밀어낸 로봇주… 로보티즈·삼현까지 폭등 랠리 이어갈까",
+          "risk": false
+        }
+      ],
+      "price": 54800,
+      "chg": 0.0518,
+      "activity": 1.79,
+      "foreign_today": 0,
+      "inst_today": 986400000,
       "exchange": "KOSDAQ"
     },
     {
