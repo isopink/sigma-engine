@@ -81,7 +81,7 @@
     ]
   },
   "intraday": {
-    "time": "10:45",
+    "time": "11:00",
     "pool": 362,
     "analyzed_new": 30,
     "passed": 13,
@@ -98,21 +98,21 @@
       "vol20": 0.582,
       "foreign_net": -24349455000,
       "inst_net": 30895472000,
-      "score": 0.896,
+      "score": 0.881,
       "news": [
         {
           "date": "11-23",
-          "title": "‘신세계백화점 폭발물 설치’ 협박 팩스… 경찰, 현장 수색",
+          "title": "신세계백화점, '아톰' 에디션 국내 단독 공개",
           "risk": false
         },
         {
           "date": "11-23",
-          "title": "\"신세계백화점 폭파하겠다\" 협박 팩스…광주서도 경찰 긴급 수색",
+          "title": "신세계백화점 강남점에 나타난 '아톰'",
           "risk": false
         },
         {
           "date": "11-23",
-          "title": "신세계百, 대전 베이커리 10곳 서울 진출",
+          "title": "신세계백화점 강남점에 선보인 '아톰'",
           "risk": false
         }
       ],
@@ -153,6 +153,22 @@
       "exchange": "KOSPI"
     },
     {
+      "code": "161390",
+      "name": "한국타이어앤테크놀로지",
+      "close": 61300,
+      "ret5": -0.0145,
+      "ret20": -0.0065,
+      "rsi14": 50.2,
+      "vol20": 0.507,
+      "foreign_net": -21025865450,
+      "inst_net": 24188428950,
+      "score": 0.612,
+      "news": [],
+      "foreign_today": 490400000,
+      "inst_today": 0,
+      "exchange": "KOSPI"
+    },
+    {
       "code": "278470",
       "name": "에이피알",
       "close": 232500,
@@ -166,6 +182,11 @@
       "news": [
         {
           "date": "11-23",
+          "title": "생산은 '국내'서 공략은 '맞춤형'···에이피알, K뷰티 수출 신기록 견...",
+          "risk": false
+        },
+        {
+          "date": "11-23",
           "title": "[단독]\"울쎄라 비켜\"…에이피알, 첫 병·의원용 리프팅장비 내달 1일 출...",
           "risk": false
         },
@@ -177,25 +198,9 @@
       ],
       "price": 256000,
       "chg": 0.087,
-      "activity": 2.49,
+      "activity": 2.32,
       "foreign_today": 0,
       "inst_today": 256000000,
-      "exchange": "KOSPI"
-    },
-    {
-      "code": "161390",
-      "name": "한국타이어앤테크놀로지",
-      "close": 61300,
-      "ret5": -0.0145,
-      "ret20": -0.0065,
-      "rsi14": 50.2,
-      "vol20": 0.507,
-      "foreign_net": -21025865450,
-      "inst_net": 24188428950,
-      "score": 0.597,
-      "news": [],
-      "foreign_today": 490400000,
-      "inst_today": 0,
       "exchange": "KOSPI"
     },
     {
@@ -212,17 +217,17 @@
       "news": [
         {
           "date": "11-23",
-          "title": "제주항공, 내년 1월 센다이 취항…일본 8개 지방 연결",
+          "title": "제주항공, 1월 8일 센다이 신규 취항...일본 8개 지방 전역 잇는다",
           "risk": false
         },
         {
           "date": "11-23",
-          "title": "제주항공우주호텔, 수학여행·교육캠프 등 학생단체 숙박 운영 확대",
+          "title": "\"2년째 진상규명 제자리\"…제주항공 참사 유족, 추모식 불참",
           "risk": false
         },
         {
           "date": "11-23",
-          "title": "제주항공, 내년 1월 센다이 취항…일본 8개 지방 노선망 완성",
+          "title": "제주항공, 내년 1월 8일 인천~센다이 취항…일본 8개 지방 연결",
           "risk": false
         }
       ],
@@ -240,7 +245,7 @@
       "vol20": 0.331,
       "foreign_net": -54140421125,
       "inst_net": 64786700175,
-      "score": 0.358,
+      "score": 0.373,
       "news": [],
       "foreign_today": 0,
       "inst_today": 477750000,
@@ -269,10 +274,10 @@
           "risk": false
         }
       ],
-      "price": 2345,
-      "chg": 0.0285,
-      "activity": 2.42,
-      "foreign_today": 208705000,
+      "price": 2330,
+      "chg": 0.0219,
+      "activity": 2.17,
+      "foreign_today": 207370000,
       "inst_today": 0,
       "exchange": "KOSDAQ"
     },
@@ -296,7 +301,7 @@
       ],
       "price": 245500,
       "chg": 0.0514,
-      "activity": 3.07,
+      "activity": 2.8,
       "foreign_today": 0,
       "inst_today": 1227500000,
       "exchange": "KOSDAQ"
@@ -311,7 +316,7 @@
       "vol20": 1.699,
       "foreign_net": -1598568625,
       "inst_net": 5058313650,
-      "score": 0.97,
+      "score": 1.0,
       "news": [
         {
           "date": "11-20",
@@ -324,10 +329,10 @@
           "risk": false
         }
       ],
-      "price": 37450,
-      "chg": 0.0288,
-      "activity": 1.6,
-      "foreign_today": 1797600000,
+      "price": 37550,
+      "chg": 0.0316,
+      "activity": 1.52,
+      "foreign_today": 1802400000,
       "inst_today": 0,
       "exchange": "KOSDAQ"
     },
@@ -343,10 +348,10 @@
       "inst_net": 16076894300,
       "score": 0.94,
       "news": [],
-      "price": 46650,
-      "chg": -0.0074,
-      "activity": 1.12,
-      "foreign_today": 1492800000,
+      "price": 46600,
+      "chg": -0.0085,
+      "activity": 1.05,
+      "foreign_today": 1491200000,
       "inst_today": 0,
       "exchange": "KOSDAQ"
     },
@@ -360,7 +365,7 @@
       "vol20": 1.13,
       "foreign_net": -1732207285,
       "inst_net": 6990086135,
-      "score": 0.925,
+      "score": 0.881,
       "news": [
         {
           "date": "11-22",
@@ -378,10 +383,10 @@
           "risk": false
         }
       ],
-      "price": 17520,
-      "chg": 0.0318,
-      "activity": 1.86,
-      "foreign_today": 280320000,
+      "price": 17360,
+      "chg": 0.0224,
+      "activity": 1.8,
+      "foreign_today": 277760000,
       "inst_today": 0,
       "exchange": "KOSDAQ"
     },
