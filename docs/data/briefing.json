@@ -81,10 +81,10 @@
     ]
   },
   "intraday": {
-    "time": "10:30",
+    "time": "10:31",
     "pool": 363,
     "analyzed_new": 30,
-    "passed": 12,
+    "passed": 13,
     "kept_prep": false
   },
   "candidates": [
@@ -98,8 +98,13 @@
       "vol20": 0.582,
       "foreign_net": -24349455000,
       "inst_net": 30895472000,
-      "score": 0.844,
+      "score": 0.859,
       "news": [
+        {
+          "date": "11-23",
+          "title": "신세계센텀시티, 종합격투기 김동현 선수 굿즈 팝업",
+          "risk": false
+        },
         {
           "date": "11-23",
           "title": "신세계百 강남점서 ‘대전 빵축제’…인기 베이커리 10곳 총출동",
@@ -108,11 +113,6 @@
         {
           "date": "11-23",
           "title": "경찰청에 '신세계백화점 폭발물 설치' 팩스…광주도 현장 확인",
-          "risk": false
-        },
-        {
-          "date": "11-23",
-          "title": "신세계백화점 강남점에 대전 유명 빵집 총집합…10개 브랜드 참여",
           "risk": false
         }
       ],
@@ -130,7 +130,7 @@
       "vol20": 0.698,
       "foreign_net": -20286179250,
       "inst_net": 22365671850,
-      "score": 0.719,
+      "score": 0.746,
       "news": [
         {
           "date": "11-23",
@@ -153,6 +153,22 @@
       "exchange": "KOSPI"
     },
     {
+      "code": "161390",
+      "name": "한국타이어앤테크놀로지",
+      "close": 61300,
+      "ret5": -0.0145,
+      "ret20": -0.0065,
+      "rsi14": 50.2,
+      "vol20": 0.507,
+      "foreign_net": -21025865450,
+      "inst_net": 24188428950,
+      "score": 0.577,
+      "news": [],
+      "foreign_today": 490400000,
+      "inst_today": 0,
+      "exchange": "KOSPI"
+    },
+    {
       "code": "278470",
       "name": "에이피알",
       "close": 232500,
@@ -162,7 +178,7 @@
       "vol20": 0.658,
       "foreign_net": 28181427500,
       "inst_net": -19592933750,
-      "score": 0.562,
+      "score": 0.563,
       "news": [
         {
           "date": "11-23",
@@ -175,11 +191,11 @@
           "risk": false
         }
       ],
-      "price": 255000,
-      "chg": 0.0828,
-      "activity": 2.59,
+      "price": 255500,
+      "chg": 0.0849,
+      "activity": 2.61,
       "foreign_today": 0,
-      "inst_today": 255000000,
+      "inst_today": 255500000,
       "exchange": "KOSPI"
     },
     {
@@ -192,7 +208,7 @@
       "vol20": 0.873,
       "foreign_net": 5700575195,
       "inst_net": 13657637720,
-      "score": 0.422,
+      "score": 0.394,
       "news": [
         {
           "date": "11-23",
@@ -224,7 +240,7 @@
       "vol20": 0.331,
       "foreign_net": -54140421125,
       "inst_net": 64786700175,
-      "score": 0.344,
+      "score": 0.352,
       "news": [],
       "foreign_today": 0,
       "inst_today": 477750000,
@@ -248,41 +264,11 @@
           "risk": false
         }
       ],
-      "price": 247000,
-      "chg": 0.0578,
-      "activity": 3.16,
+      "price": 248000,
+      "chg": 0.0621,
+      "activity": 3.17,
       "foreign_today": 0,
-      "inst_today": 1235000000,
-      "exchange": "KOSDAQ"
-    },
-    {
-      "code": "263860",
-      "name": "지니언스",
-      "close": 34400,
-      "ret5": 0.0073,
-      "ret20": 0.7842,
-      "rsi14": 63.1,
-      "vol20": 1.699,
-      "foreign_net": -1598568625,
-      "inst_net": 5058313650,
-      "score": 0.969,
-      "news": [
-        {
-          "date": "11-20",
-          "title": "[이 주의 차트in] 시총보다 큰 거래대금… 보안기업 지니언스에 무슨 일...",
-          "risk": false
-        },
-        {
-          "date": "11-20",
-          "title": "미국 보안주 줄줄이 상승…안랩·지니언스에 쏠리는 관심",
-          "risk": false
-        }
-      ],
-      "price": 36750,
-      "chg": 0.0096,
-      "activity": 1.72,
-      "foreign_today": 1764000000,
-      "inst_today": 0,
+      "inst_today": 1240000000,
       "exchange": "KOSDAQ"
     },
     {
@@ -295,7 +281,7 @@
       "vol20": 1.825,
       "foreign_net": -111185933,
       "inst_net": 14824,
-      "score": 0.953,
+      "score": 0.944,
       "news": [
         {
           "date": "11-23",
@@ -308,10 +294,10 @@
           "risk": false
         }
       ],
-      "price": 2360,
-      "chg": 0.0351,
-      "activity": 2.57,
-      "foreign_today": 210040000,
+      "price": 2340,
+      "chg": 0.0263,
+      "activity": 2.58,
+      "foreign_today": 208260000,
       "inst_today": 0,
       "exchange": "KOSDAQ"
     },
@@ -325,31 +311,77 @@
       "vol20": 1.21,
       "foreign_net": -22243475650,
       "inst_net": 16076894300,
-      "score": 0.875,
+      "score": 0.93,
       "news": [],
-      "price": 46250,
-      "chg": -0.016,
+      "price": 46450,
+      "chg": -0.0117,
       "activity": 1.2,
-      "foreign_today": 1480000000,
+      "foreign_today": 1486400000,
       "inst_today": 0,
       "exchange": "KOSDAQ"
     },
     {
-      "code": "232140",
-      "name": "와이씨",
-      "close": 14490,
-      "ret5": 0.112,
-      "ret20": 0.1564,
-      "rsi14": 55.8,
-      "vol20": 1.375,
-      "foreign_net": -15201074065,
-      "inst_net": 29286130545,
-      "score": 0.797,
-      "news": [],
-      "price": 14810,
-      "chg": 0.0075,
-      "activity": 1.81,
-      "foreign_today": 236960000,
+      "code": "263860",
+      "name": "지니언스",
+      "close": 34400,
+      "ret5": 0.0073,
+      "ret20": 0.7842,
+      "rsi14": 63.1,
+      "vol20": 1.699,
+      "foreign_net": -1598568625,
+      "inst_net": 5058313650,
+      "score": 0.915,
+      "news": [
+        {
+          "date": "11-20",
+          "title": "[이 주의 차트in] 시총보다 큰 거래대금… 보안기업 지니언스에 무슨 일...",
+          "risk": false
+        },
+        {
+          "date": "11-20",
+          "title": "미국 보안주 줄줄이 상승…안랩·지니언스에 쏠리는 관심",
+          "risk": false
+        }
+      ],
+      "price": 36550,
+      "chg": 0.0041,
+      "activity": 1.7,
+      "foreign_today": 1754400000,
+      "inst_today": 0,
+      "exchange": "KOSDAQ"
+    },
+    {
+      "code": "347700",
+      "name": "스피어",
+      "close": 16730,
+      "ret5": 0.0321,
+      "ret20": -0.1503,
+      "rsi14": 46.1,
+      "vol20": 1.13,
+      "foreign_net": -1732207285,
+      "inst_net": 6990086135,
+      "score": 0.803,
+      "news": [
+        {
+          "date": "11-22",
+          "title": "유스피어, 세계적 트렌드 아트 디자인 전시회 ‘디자이너콘’ 참석…K팝...",
+          "risk": false
+        },
+        {
+          "date": "11-21",
+          "title": "유스피어(USPEER), K-POP 아티스트 최초 美 '디자이너콘' 참석…글로벌 ...",
+          "risk": false
+        },
+        {
+          "date": "11-21",
+          "title": "유스피어, K팝 최초 美 디자이너콘 참석",
+          "risk": false
+        }
+      ],
+      "price": 17400,
+      "chg": 0.0247,
+      "activity": 1.91,
+      "foreign_today": 278400000,
       "inst_today": 0,
       "exchange": "KOSDAQ"
     },
