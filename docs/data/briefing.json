@@ -81,13 +81,102 @@
     ]
   },
   "intraday": {
-    "time": "11:01",
-    "pool": 363,
+    "time": "11:15",
+    "pool": 414,
     "analyzed_new": 30,
-    "passed": 14,
+    "passed": 18,
     "kept_prep": false
   },
   "candidates": [
+    {
+      "code": "241710",
+      "name": "코스메카코리아",
+      "close": 104400,
+      "ret5": 0.1447,
+      "ret20": -0.0123,
+      "rsi14": 52.3,
+      "vol20": 0.811,
+      "foreign_net": -24745385500,
+      "inst_net": 20342949400,
+      "score": 1.0,
+      "news": [],
+      "price": 110000,
+      "chg": 0.0496,
+      "activity": 1.8,
+      "foreign_today": 0,
+      "inst_today": 770000000,
+      "exchange": "KOSDAQ"
+    },
+    {
+      "code": "278470",
+      "name": "에이피알",
+      "close": 232500,
+      "ret5": -0.0127,
+      "ret20": -0.177,
+      "rsi14": 35.6,
+      "vol20": 0.658,
+      "foreign_net": 28181427500,
+      "inst_net": -19592933750,
+      "score": 0.843,
+      "news": [
+        {
+          "date": "11-23",
+          "title": "생산은 '국내'서 공략은 '맞춤형'···에이피알, K뷰티 수출 신기록 견...",
+          "risk": false
+        },
+        {
+          "date": "11-23",
+          "title": "[단독]\"울쎄라 비켜\"…에이피알, 첫 병·의원용 리프팅장비 내달 1일 출...",
+          "risk": false
+        },
+        {
+          "date": "11-23",
+          "title": "미국·유럽으로 뻗는 K-뷰티…한국화장품·에이피알 화색 가득",
+          "risk": false
+        }
+      ],
+      "price": 254500,
+      "chg": 0.0807,
+      "activity": 2.24,
+      "foreign_today": 0,
+      "inst_today": 4835500000,
+      "exchange": "KOSPI"
+    },
+    {
+      "code": "214450",
+      "name": "파마리서치",
+      "close": 275000,
+      "ret5": 0.0913,
+      "ret20": 0.1628,
+      "rsi14": 58.8,
+      "vol20": 0.505,
+      "foreign_net": -5243824250,
+      "inst_net": 17184847250,
+      "score": 0.833,
+      "news": [
+        {
+          "date": "11-23",
+          "title": "보톡스 업종 하락세 속 청담글로벌·파마리서치 상승랠리 뚜렷",
+          "risk": false
+        },
+        {
+          "date": "11-22",
+          "title": "파마리서치 리쥬란코스메틱, 일본 앳코스메 도쿄서 '약사의 혼잣말' 팝...",
+          "risk": false
+        },
+        {
+          "date": "11-21",
+          "title": "[경력채용] 대웅제약, JW메디칼, 파마리서치, 명문제약, 듀셀, 히츠",
+          "risk": false
+        }
+      ],
+      "price": 275000,
+      "chg": 0.0,
+      "activity": 1.95,
+      "foreign_today": 0,
+      "inst_today": 550000000,
+      "exchange": "KOSDAQ"
+    },
     {
       "code": "004170",
       "name": "신세계",
@@ -98,26 +187,61 @@
       "vol20": 0.582,
       "foreign_net": -24349455000,
       "inst_net": 30895472000,
-      "score": 0.849,
+      "score": 0.745,
       "news": [
         {
           "date": "11-23",
-          "title": "신세계백화점 강남점, '아톰' 에디션 국내 단독 공개",
+          "title": "신세계백화점 강남점, '아톰' 2027 에디션 국내 최초 단독 공개",
           "risk": false
         },
         {
           "date": "11-23",
-          "title": "신세계백화점, '아톰' 에디션 국내 단독 공개",
+          "title": "\"신세계백화점에 폭발물이 설치됐다\" 테러 팩스...경찰 수색",
           "risk": false
         },
         {
           "date": "11-23",
-          "title": "신세계백화점 강남점에 선보인 '아톰'",
+          "title": "신세계백화점 폭발물 설치 협박…경찰, 전국 지점 긴급 점검",
           "risk": false
         }
       ],
       "foreign_today": 0,
-      "inst_today": 1740000000,
+      "inst_today": 2030000000,
+      "exchange": "KOSPI"
+    },
+    {
+      "code": "352820",
+      "name": "하이브",
+      "close": 183400,
+      "ret5": 0.1734,
+      "ret20": 0.0415,
+      "rsi14": 63.8,
+      "vol20": 0.836,
+      "foreign_net": 10417666900,
+      "inst_net": 65022411950,
+      "score": 0.676,
+      "news": [
+        {
+          "date": "11-23",
+          "title": "하이브 ‘더 와일드카드 클럽’ 음방 데뷔→르세라핌 챌린지…K-팝과 버...",
+          "risk": false
+        },
+        {
+          "date": "11-23",
+          "title": "K팝 산업부터 영상 제작까지…하이브, 청년 실무교육 마무리",
+          "risk": false
+        },
+        {
+          "date": "11-23",
+          "title": "하이브 ‘더 와일드카드 클럽’, ‘음악중심’ 출연…버추얼 음악 프로...",
+          "risk": false
+        }
+      ],
+      "price": 175700,
+      "chg": -0.043,
+      "activity": 1.17,
+      "foreign_today": 0,
+      "inst_today": 1932700000,
       "exchange": "KOSPI"
     },
     {
@@ -130,7 +254,7 @@
       "vol20": 0.698,
       "foreign_net": -20286179250,
       "inst_net": 22365671850,
-      "score": 0.767,
+      "score": 0.588,
       "news": [
         {
           "date": "11-23",
@@ -153,18 +277,34 @@
       "exchange": "KOSPI"
     },
     {
-      "code": "009420",
-      "name": "한올바이오파마",
-      "close": 53300,
-      "ret5": 0.039,
-      "ret20": 0.3259,
-      "rsi14": 67.0,
-      "vol20": 0.991,
-      "foreign_net": -7345223900,
-      "inst_net": 18891057500,
-      "score": 0.658,
-      "news": [],
-      "foreign_today": 213200000,
+      "code": "089590",
+      "name": "제주항공",
+      "close": 8420,
+      "ret5": 0.2274,
+      "ret20": 0.5887,
+      "rsi14": 75.4,
+      "vol20": 0.873,
+      "foreign_net": 5700575195,
+      "inst_net": 13657637720,
+      "score": 0.461,
+      "news": [
+        {
+          "date": "11-23",
+          "title": "제주항공, 센다이 취항으로 일본 전역 잇는다",
+          "risk": false
+        },
+        {
+          "date": "11-23",
+          "title": "제주항공, 日소도시 노선 확대…내년 1월 센다이 취항",
+          "risk": false
+        },
+        {
+          "date": "11-23",
+          "title": "제주항공, 내년 1월 센다이 취항…日 전역 하늘길 완성",
+          "risk": false
+        }
+      ],
+      "foreign_today": 648340000,
       "inst_today": 0,
       "exchange": "KOSPI"
     },
@@ -178,77 +318,58 @@
       "vol20": 0.507,
       "foreign_net": -21025865450,
       "inst_net": 24188428950,
-      "score": 0.603,
+      "score": 0.451,
       "news": [],
-      "foreign_today": 490400000,
-      "inst_today": 0,
+      "foreign_today": 429100000,
+      "inst_today": 245200000,
       "exchange": "KOSPI"
     },
     {
-      "code": "278470",
-      "name": "에이피알",
-      "close": 232500,
-      "ret5": -0.0127,
-      "ret20": -0.177,
-      "rsi14": 35.6,
-      "vol20": 0.658,
-      "foreign_net": 28181427500,
-      "inst_net": -19592933750,
-      "score": 0.575,
-      "news": [
-        {
-          "date": "11-23",
-          "title": "생산은 '국내'서 공략은 '맞춤형'···에이피알, K뷰티 수출 신기록 견...",
-          "risk": false
-        },
-        {
-          "date": "11-23",
-          "title": "[단독]\"울쎄라 비켜\"…에이피알, 첫 병·의원용 리프팅장비 내달 1일 출...",
-          "risk": false
-        },
-        {
-          "date": "11-23",
-          "title": "미국·유럽으로 뻗는 K-뷰티…한국화장품·에이피알 화색 가득",
-          "risk": false
-        }
-      ],
-      "price": 256500,
-      "chg": 0.0892,
-      "activity": 2.31,
+      "code": "009420",
+      "name": "한올바이오파마",
+      "close": 53300,
+      "ret5": 0.039,
+      "ret20": 0.3259,
+      "rsi14": 67.0,
+      "vol20": 0.991,
+      "foreign_net": -7345223900,
+      "inst_net": 18891057500,
+      "score": 0.451,
+      "news": [],
       "foreign_today": 0,
-      "inst_today": 256500000,
+      "inst_today": 159900000,
       "exchange": "KOSPI"
     },
     {
-      "code": "089590",
-      "name": "제주항공",
-      "close": 8420,
-      "ret5": 0.2274,
-      "ret20": 0.5887,
-      "rsi14": 75.4,
-      "vol20": 0.873,
-      "foreign_net": 5700575195,
-      "inst_net": 13657637720,
-      "score": 0.425,
+      "code": "001040",
+      "name": "CJ",
+      "close": 113700,
+      "ret5": 0.0271,
+      "ret20": -0.0232,
+      "rsi14": 45.7,
+      "vol20": 0.394,
+      "foreign_net": -1711657850,
+      "inst_net": 1831863550,
+      "score": 0.304,
       "news": [
         {
           "date": "11-23",
-          "title": "제주항공, 내년 1월 8일부터 일본 센다이에 신규 취항 '주3회 일정 운항...",
+          "title": "CJ제일제당, 14년째 '사랑의 희망박스 박싱데이'…햇반 등 후원",
           "risk": false
         },
         {
           "date": "11-23",
-          "title": "제주항공, 1월 8일 센다이 신규 취항...일본 8개 지방 전역 잇는다",
+          "title": "[뉴스워커_CJ올리브영] 생리용품 바우처 전국 1,300여 매장서 사용…카...",
           "risk": false
         },
         {
           "date": "11-23",
-          "title": "무안공항 제주항공 참사 유족 “2년간 진상규명 답보”…정부 추모식 불...",
+          "title": "[뉴스워커_CJ문화재단] 840팀 몰린 유재하 음악경연대회…이종서 대상 ...",
           "risk": false
         }
       ],
-      "foreign_today": 235760000,
-      "inst_today": 0,
+      "foreign_today": 0,
+      "inst_today": 227400000,
       "exchange": "KOSPI"
     },
     {
@@ -261,95 +382,65 @@
       "vol20": 0.331,
       "foreign_net": -54140421125,
       "inst_net": 64786700175,
-      "score": 0.356,
+      "score": 0.275,
       "news": [],
       "foreign_today": 0,
-      "inst_today": 477750000,
+      "inst_today": 541450000,
       "exchange": "KOSPI"
     },
     {
-      "code": "108490",
-      "name": "로보티즈",
-      "close": 233500,
-      "ret5": -0.0585,
-      "ret20": 0.0309,
-      "rsi14": 47.6,
-      "vol20": 1.214,
-      "foreign_net": -18490470000,
-      "inst_net": 18573590250,
-      "score": 1.0,
+      "code": "456160",
+      "name": "지투지바이오",
+      "close": 36300,
+      "ret5": 0.0283,
+      "ret20": -0.2681,
+      "rsi14": 51.5,
+      "vol20": 1.122,
+      "foreign_net": -1771577850,
+      "inst_net": 6845325075,
+      "score": 0.882,
       "news": [
         {
-          "date": "11-23",
-          "title": "로보티즈 주가, 11월 23일 장중 242,500원 3.85% 상승",
+          "date": "11-20",
+          "title": "지투지바이오, 약세장서 2.68% 반등",
+          "risk": false
+        },
+        {
+          "date": "11-20",
+          "title": "지투지바이오, 약효지속 플랫폼 기대에 4.52% 상승",
           "risk": false
         }
       ],
-      "price": 246500,
-      "chg": 0.0557,
-      "activity": 2.79,
+      "price": 39100,
+      "chg": 0.0757,
+      "activity": 1.97,
+      "foreign_today": 508300000,
+      "inst_today": 0,
+      "exchange": "KOSDAQ"
+    },
+    {
+      "code": "437730",
+      "name": "삼현",
+      "close": 51300,
+      "ret5": 0.0789,
+      "ret20": 0.1686,
+      "rsi14": 60.5,
+      "vol20": 1.286,
+      "foreign_net": -10441973250,
+      "inst_net": 27749286450,
+      "score": 0.833,
+      "news": [
+        {
+          "date": "11-22",
+          "title": "반도체 장비주 밀어낸 로봇주… 로보티즈·삼현까지 폭등 랠리 이어갈까",
+          "risk": false
+        }
+      ],
+      "price": 52600,
+      "chg": 0.0096,
+      "activity": 2.24,
       "foreign_today": 0,
-      "inst_today": 1232500000,
-      "exchange": "KOSDAQ"
-    },
-    {
-      "code": "263860",
-      "name": "지니언스",
-      "close": 34400,
-      "ret5": 0.0073,
-      "ret20": 0.7842,
-      "rsi14": 63.1,
-      "vol20": 1.699,
-      "foreign_net": -1598568625,
-      "inst_net": 5058313650,
-      "score": 0.986,
-      "news": [
-        {
-          "date": "11-20",
-          "title": "[이 주의 차트in] 시총보다 큰 거래대금… 보안기업 지니언스에 무슨 일...",
-          "risk": false
-        },
-        {
-          "date": "11-20",
-          "title": "미국 보안주 줄줄이 상승…안랩·지니언스에 쏠리는 관심",
-          "risk": false
-        }
-      ],
-      "price": 37900,
-      "chg": 0.0412,
-      "activity": 1.55,
-      "foreign_today": 1819200000,
-      "inst_today": 0,
-      "exchange": "KOSDAQ"
-    },
-    {
-      "code": "109610",
-      "name": "에스와이",
-      "close": 2210,
-      "ret5": -0.0495,
-      "ret20": 0.2687,
-      "rsi14": 55.2,
-      "vol20": 1.825,
-      "foreign_net": -111185933,
-      "inst_net": 14824,
-      "score": 0.945,
-      "news": [
-        {
-          "date": "11-23",
-          "title": "[건자재 인사이드] [에스와이] 8개 분기 연속 순손실…'결손 방어' 카드...",
-          "risk": false
-        },
-        {
-          "date": "11-20",
-          "title": "에스와이스틸텍, 포스코·동명스틸과 연 1만 톤 규모 GI 소재 공급 협약",
-          "risk": false
-        }
-      ],
-      "price": 2330,
-      "chg": 0.0219,
-      "activity": 2.15,
-      "foreign_today": 207370000,
-      "inst_today": 0,
+      "inst_today": 473400000,
       "exchange": "KOSDAQ"
     },
     {
@@ -362,12 +453,12 @@
       "vol20": 1.21,
       "foreign_net": -22243475650,
       "inst_net": 16076894300,
-      "score": 0.932,
+      "score": 0.814,
       "news": [],
-      "price": 46650,
-      "chg": -0.0074,
-      "activity": 1.05,
-      "foreign_today": 1492800000,
+      "price": 46450,
+      "chg": -0.0117,
+      "activity": 0.99,
+      "foreign_today": 2322500000,
       "inst_today": 0,
       "exchange": "KOSDAQ"
     },
@@ -381,7 +472,7 @@
       "vol20": 1.13,
       "foreign_net": -1732207285,
       "inst_net": 6990086135,
-      "score": 0.863,
+      "score": 0.735,
       "news": [
         {
           "date": "11-22",
@@ -399,11 +490,36 @@
           "risk": false
         }
       ],
-      "price": 17350,
-      "chg": 0.0218,
-      "activity": 1.79,
-      "foreign_today": 277600000,
-      "inst_today": 0,
+      "price": 17220,
+      "chg": 0.0141,
+      "activity": 1.68,
+      "foreign_today": 378840000,
+      "inst_today": 241080000,
+      "exchange": "KOSDAQ"
+    },
+    {
+      "code": "108490",
+      "name": "로보티즈",
+      "close": 233500,
+      "ret5": -0.0585,
+      "ret20": 0.0309,
+      "rsi14": 47.6,
+      "vol20": 1.214,
+      "foreign_net": -18490470000,
+      "inst_net": 18573590250,
+      "score": 0.725,
+      "news": [
+        {
+          "date": "11-23",
+          "title": "로보티즈 주가, 11월 23일 장중 242,500원 3.85% 상승",
+          "risk": false
+        }
+      ],
+      "price": 243000,
+      "chg": 0.0407,
+      "activity": 2.53,
+      "foreign_today": 0,
+      "inst_today": 1458000000,
       "exchange": "KOSDAQ"
     },
     {
