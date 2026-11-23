@@ -81,9 +81,9 @@
     ]
   },
   "intraday": {
-    "time": "12:19",
-    "pool": 412,
-    "analyzed_new": 5,
+    "time": "12:45",
+    "pool": 413,
+    "analyzed_new": 6,
     "passed": 18,
     "kept_prep": false
   },
@@ -100,11 +100,11 @@
       "inst_net": 20342949400,
       "score": 1.0,
       "news": [],
-      "price": 110800,
-      "chg": 0.0573,
-      "activity": 1.78,
+      "price": 111700,
+      "chg": 0.0658,
+      "activity": 1.71,
       "foreign_today": 0,
-      "inst_today": 775600000,
+      "inst_today": 781900000,
       "exchange": "KOSDAQ"
     },
     {
@@ -117,7 +117,7 @@
       "vol20": 0.658,
       "foreign_net": 28181427500,
       "inst_net": -19592933750,
-      "score": 0.841,
+      "score": 0.838,
       "news": [
         {
           "date": "11-23",
@@ -135,11 +135,11 @@
           "risk": false
         }
       ],
-      "price": 256500,
-      "chg": 0.0892,
-      "activity": 1.9,
+      "price": 257000,
+      "chg": 0.0913,
+      "activity": 1.79,
       "foreign_today": 0,
-      "inst_today": 4873500000,
+      "inst_today": 4883000000,
       "exchange": "KOSPI"
     },
     {
@@ -152,7 +152,7 @@
       "vol20": 0.505,
       "foreign_net": -5243824250,
       "inst_net": 17184847250,
-      "score": 0.761,
+      "score": 0.752,
       "news": [
         {
           "date": "11-23",
@@ -170,11 +170,11 @@
           "risk": false
         }
       ],
-      "price": 274500,
-      "chg": -0.0018,
-      "activity": 1.58,
+      "price": 276500,
+      "chg": 0.0055,
+      "activity": 1.49,
       "foreign_today": 0,
-      "inst_today": 549000000,
+      "inst_today": 553000000,
       "exchange": "KOSDAQ"
     },
     {
@@ -187,21 +187,21 @@
       "vol20": 0.582,
       "foreign_net": -24349455000,
       "inst_net": 30895472000,
-      "score": 0.69,
+      "score": 0.684,
       "news": [
         {
           "date": "11-23",
-          "title": "\"향수 매출 20% '껑충'\"…신세계인터내셔날, 니치 향수로 연말 선물 수요...",
+          "title": "신세계백화점 폭발물 ‘허위 신고’ 가능성…전 점포 정상 영업",
           "risk": false
         },
         {
           "date": "11-23",
-          "title": "신세계백화점에 폭발물 설치...경찰, 초동조치 나서",
+          "title": "신세계百 폭발물 위협에 경찰 수색…휴점 외 전 점포 정상 영업",
           "risk": false
         },
         {
           "date": "11-23",
-          "title": "신세계백화점 폭발물 협박 소동… 경찰 수색 종료",
+          "title": "'폭발물 신고' 광주 신세계백화점 폭발물 발견 안돼…수색 종료",
           "risk": false
         }
       ],
@@ -219,7 +219,7 @@
       "vol20": 0.836,
       "foreign_net": 10417666900,
       "inst_net": 65022411950,
-      "score": 0.646,
+      "score": 0.675,
       "news": [
         {
           "date": "11-23",
@@ -237,11 +237,11 @@
           "risk": false
         }
       ],
-      "price": 171900,
-      "chg": -0.0637,
-      "activity": 1.02,
+      "price": 173500,
+      "chg": -0.055,
+      "activity": 0.97,
       "foreign_today": 0,
-      "inst_today": 1890900000,
+      "inst_today": 1908500000,
       "exchange": "KOSPI"
     },
     {
@@ -254,7 +254,7 @@
       "vol20": 0.698,
       "foreign_net": -20286179250,
       "inst_net": 22365671850,
-      "score": 0.531,
+      "score": 0.513,
       "news": [
         {
           "date": "11-23",
@@ -286,16 +286,21 @@
       "vol20": 0.873,
       "foreign_net": 5700575195,
       "inst_net": 13657637720,
-      "score": 0.434,
+      "score": 0.436,
       "news": [
         {
           "date": "11-23",
-          "title": "제주항공, 센다이 취항→NOL, 위로드와 글로벌 커뮤니티 여행 상품 선보...",
+          "title": "제주항공, 내년 1월 센다이 취항… 일본 8개 지방 모두 연결",
           "risk": false
         },
         {
           "date": "11-23",
-          "title": "제주항공, 센다이 취항으로 日하늘길 완성",
+          "title": "[인사] 제주항공",
+          "risk": false
+        },
+        {
+          "date": "11-23",
+          "title": "제주항공, 센다이 취항→NOL, 위로드와 글로벌 커뮤니티 여행 상품 선보...",
           "risk": false
         }
       ],
@@ -313,7 +318,7 @@
       "vol20": 0.507,
       "foreign_net": -21025865450,
       "inst_net": 24188428950,
-      "score": 0.416,
+      "score": 0.41,
       "news": [],
       "foreign_today": 429100000,
       "inst_today": 245200000,
@@ -329,7 +334,7 @@
       "vol20": 0.991,
       "foreign_net": -7345223900,
       "inst_net": 18891057500,
-      "score": 0.416,
+      "score": 0.402,
       "news": [],
       "foreign_today": 0,
       "inst_today": 159900000,
@@ -377,21 +382,21 @@
       "vol20": 0.394,
       "foreign_net": -1711657850,
       "inst_net": 1831863550,
-      "score": 0.265,
+      "score": 0.256,
       "news": [
         {
           "date": "11-23",
-          "title": "CJ올리브영, 생리용품 바우처 결제 도입…여성 건강 플랫폼 확장",
+          "title": "CJ올리브영, 전국 1300여개 매장에 생리용품 바우처 결제 도입",
           "risk": false
         },
         {
           "date": "11-23",
-          "title": "CJ올리브네트웍스 CJ ONE, 방한 외국인에 '스페셜 쿠폰팩' 제공…10개 브...",
+          "title": "CJ웰케어, 일본 레몬 음료 '키레토 레몬' 국내 공식 출시",
           "risk": false
         },
         {
           "date": "11-23",
-          "title": "CJ제일제당, '희망박스 박싱데이' 후원...식품 나눔 확산",
+          "title": "CJ올리브네트웍스, 방한 외국인에 CJ ONE 쿠폰팩 제공",
           "risk": false
         }
       ],
@@ -409,7 +414,7 @@
       "vol20": 1.122,
       "foreign_net": -1771577850,
       "inst_net": 6845325075,
-      "score": 0.832,
+      "score": 0.855,
       "news": [
         {
           "date": "11-20",
@@ -422,10 +427,10 @@
           "risk": false
         }
       ],
-      "price": 39600,
-      "chg": 0.0894,
-      "activity": 1.71,
-      "foreign_today": 514800000,
+      "price": 40100,
+      "chg": 0.1032,
+      "activity": 1.66,
+      "foreign_today": 521300000,
       "inst_today": 0,
       "exchange": "KOSDAQ"
     },
@@ -439,7 +444,7 @@
       "vol20": 1.286,
       "foreign_net": -10441973250,
       "inst_net": 27749286450,
-      "score": 0.77,
+      "score": 0.812,
       "news": [
         {
           "date": "11-22",
@@ -447,11 +452,11 @@
           "risk": false
         }
       ],
-      "price": 53600,
-      "chg": 0.0288,
-      "activity": 1.8,
+      "price": 54200,
+      "chg": 0.0403,
+      "activity": 1.75,
       "foreign_today": 0,
-      "inst_today": 482400000,
+      "inst_today": 487800000,
       "exchange": "KOSDAQ"
     },
     {
@@ -464,7 +469,7 @@
       "vol20": 1.13,
       "foreign_net": -1732207285,
       "inst_net": 6990086135,
-      "score": 0.735,
+      "score": 0.786,
       "news": [
         {
           "date": "11-22",
@@ -482,11 +487,11 @@
           "risk": false
         }
       ],
-      "price": 17600,
-      "chg": 0.0365,
-      "activity": 1.53,
-      "foreign_today": 387200000,
-      "inst_today": 246400000,
+      "price": 17800,
+      "chg": 0.0483,
+      "activity": 1.57,
+      "foreign_today": 391600000,
+      "inst_today": 249200000,
       "exchange": "KOSDAQ"
     },
     {
@@ -501,10 +506,10 @@
       "inst_net": 16076894300,
       "score": 0.735,
       "news": [],
-      "price": 46250,
-      "chg": -0.016,
-      "activity": 0.81,
-      "foreign_today": 2312500000,
+      "price": 47000,
+      "chg": 0.0,
+      "activity": 0.77,
+      "foreign_today": 2350000000,
       "inst_today": 0,
       "exchange": "KOSDAQ"
     },
@@ -518,7 +523,7 @@
       "vol20": 1.214,
       "foreign_net": -18490470000,
       "inst_net": 18573590250,
-      "score": 0.708,
+      "score": 0.726,
       "news": [
         {
           "date": "11-23",
@@ -526,11 +531,11 @@
           "risk": false
         }
       ],
-      "price": 246000,
-      "chg": 0.0535,
-      "activity": 1.99,
+      "price": 248000,
+      "chg": 0.0621,
+      "activity": 1.88,
       "foreign_today": 0,
-      "inst_today": 1476000000,
+      "inst_today": 1488000000,
       "exchange": "KOSDAQ"
     },
     {
