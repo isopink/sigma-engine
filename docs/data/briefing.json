@@ -81,10 +81,10 @@
     ]
   },
   "intraday": {
-    "time": "11:15",
+    "time": "11:30",
     "pool": 414,
     "analyzed_new": 30,
-    "passed": 18,
+    "passed": 17,
     "kept_prep": false
   },
   "candidates": [
@@ -102,7 +102,7 @@
       "news": [],
       "price": 110000,
       "chg": 0.0496,
-      "activity": 1.8,
+      "activity": 1.78,
       "foreign_today": 0,
       "inst_today": 770000000,
       "exchange": "KOSDAQ"
@@ -117,7 +117,7 @@
       "vol20": 0.658,
       "foreign_net": 28181427500,
       "inst_net": -19592933750,
-      "score": 0.843,
+      "score": 0.849,
       "news": [
         {
           "date": "11-23",
@@ -135,11 +135,11 @@
           "risk": false
         }
       ],
-      "price": 254500,
-      "chg": 0.0807,
-      "activity": 2.24,
+      "price": 254000,
+      "chg": 0.0786,
+      "activity": 2.12,
       "foreign_today": 0,
-      "inst_today": 4835500000,
+      "inst_today": 4826000000,
       "exchange": "KOSPI"
     },
     {
@@ -152,7 +152,7 @@
       "vol20": 0.505,
       "foreign_net": -5243824250,
       "inst_net": 17184847250,
-      "score": 0.833,
+      "score": 0.828,
       "news": [
         {
           "date": "11-23",
@@ -170,11 +170,11 @@
           "risk": false
         }
       ],
-      "price": 275000,
-      "chg": 0.0,
-      "activity": 1.95,
+      "price": 274500,
+      "chg": -0.0018,
+      "activity": 1.85,
       "foreign_today": 0,
-      "inst_today": 550000000,
+      "inst_today": 549000000,
       "exchange": "KOSDAQ"
     },
     {
@@ -187,21 +187,21 @@
       "vol20": 0.582,
       "foreign_net": -24349455000,
       "inst_net": 30895472000,
-      "score": 0.745,
+      "score": 0.753,
       "news": [
         {
           "date": "11-23",
-          "title": "신세계백화점 강남점, '아톰' 2027 에디션 국내 최초 단독 공개",
+          "title": "경찰에 \"신세계백화점 폭파하겠다\" 협박…광주경찰도 대태러 투입",
           "risk": false
         },
         {
           "date": "11-23",
-          "title": "\"신세계백화점에 폭발물이 설치됐다\" 테러 팩스...경찰 수색",
+          "title": "신세계백화점 강남점, '아톰' 2027 에디션 단독 공개",
           "risk": false
         },
         {
           "date": "11-23",
-          "title": "신세계백화점 폭발물 설치 협박…경찰, 전국 지점 긴급 점검",
+          "title": "[잘먹잘살+]놀유니버스·롯데百·신세계百·아모레퍼시픽·농심·BBQ·하...",
           "risk": false
         }
       ],
@@ -219,7 +219,7 @@
       "vol20": 0.836,
       "foreign_net": 10417666900,
       "inst_net": 65022411950,
-      "score": 0.676,
+      "score": 0.677,
       "news": [
         {
           "date": "11-23",
@@ -237,11 +237,11 @@
           "risk": false
         }
       ],
-      "price": 175700,
-      "chg": -0.043,
-      "activity": 1.17,
+      "price": 174500,
+      "chg": -0.0496,
+      "activity": 1.11,
       "foreign_today": 0,
-      "inst_today": 1932700000,
+      "inst_today": 1919500000,
       "exchange": "KOSPI"
     },
     {
@@ -254,7 +254,7 @@
       "vol20": 0.698,
       "foreign_net": -20286179250,
       "inst_net": 22365671850,
-      "score": 0.588,
+      "score": 0.57,
       "news": [
         {
           "date": "11-23",
@@ -286,21 +286,21 @@
       "vol20": 0.873,
       "foreign_net": 5700575195,
       "inst_net": 13657637720,
-      "score": 0.461,
+      "score": 0.452,
       "news": [
         {
           "date": "11-23",
-          "title": "제주항공, 센다이 취항으로 일본 전역 잇는다",
+          "title": "제주항공, 내년 1월 센다이 취항…일본 8개 지방 모두 연결",
           "risk": false
         },
         {
           "date": "11-23",
-          "title": "제주항공, 日소도시 노선 확대…내년 1월 센다이 취항",
+          "title": "[인사] 제주항공",
           "risk": false
         },
         {
           "date": "11-23",
-          "title": "제주항공, 내년 1월 센다이 취항…日 전역 하늘길 완성",
+          "title": "제주항공, 센다이 취항하며 일본 노선망 완성",
           "risk": false
         }
       ],
@@ -318,7 +318,7 @@
       "vol20": 0.507,
       "foreign_net": -21025865450,
       "inst_net": 24188428950,
-      "score": 0.451,
+      "score": 0.441,
       "news": [],
       "foreign_today": 429100000,
       "inst_today": 245200000,
@@ -334,7 +334,7 @@
       "vol20": 0.991,
       "foreign_net": -7345223900,
       "inst_net": 18891057500,
-      "score": 0.451,
+      "score": 0.441,
       "news": [],
       "foreign_today": 0,
       "inst_today": 159900000,
@@ -350,42 +350,26 @@
       "vol20": 0.394,
       "foreign_net": -1711657850,
       "inst_net": 1831863550,
-      "score": 0.304,
+      "score": 0.301,
       "news": [
         {
           "date": "11-23",
-          "title": "CJ제일제당, 14년째 '사랑의 희망박스 박싱데이'…햇반 등 후원",
+          "title": "[카드] CJ제일제당, 14년째 '희망박스' 후원",
           "risk": false
         },
         {
           "date": "11-23",
-          "title": "[뉴스워커_CJ올리브영] 생리용품 바우처 전국 1,300여 매장서 사용…카...",
+          "title": "CJ문화재단, 제37회 유재하 음악경연대회 개최…이종서 대상",
           "risk": false
         },
         {
           "date": "11-23",
-          "title": "[뉴스워커_CJ문화재단] 840팀 몰린 유재하 음악경연대회…이종서 대상 ...",
+          "title": "CJ제일제당, 소외계층에 먹거리 2만5000박스 지원",
           "risk": false
         }
       ],
       "foreign_today": 0,
       "inst_today": 227400000,
-      "exchange": "KOSPI"
-    },
-    {
-      "code": "316140",
-      "name": "우리금융지주",
-      "close": 31850,
-      "ret5": -0.017,
-      "ret20": 0.0512,
-      "rsi14": 49.9,
-      "vol20": 0.331,
-      "foreign_net": -54140421125,
-      "inst_net": 64786700175,
-      "score": 0.275,
-      "news": [],
-      "foreign_today": 0,
-      "inst_today": 541450000,
       "exchange": "KOSPI"
     },
     {
@@ -398,7 +382,7 @@
       "vol20": 1.122,
       "foreign_net": -1771577850,
       "inst_net": 6845325075,
-      "score": 0.882,
+      "score": 0.892,
       "news": [
         {
           "date": "11-20",
@@ -411,10 +395,10 @@
           "risk": false
         }
       ],
-      "price": 39100,
-      "chg": 0.0757,
-      "activity": 1.97,
-      "foreign_today": 508300000,
+      "price": 39350,
+      "chg": 0.0825,
+      "activity": 1.89,
+      "foreign_today": 511550000,
       "inst_today": 0,
       "exchange": "KOSDAQ"
     },
@@ -428,7 +412,7 @@
       "vol20": 1.286,
       "foreign_net": -10441973250,
       "inst_net": 27749286450,
-      "score": 0.833,
+      "score": 0.817,
       "news": [
         {
           "date": "11-22",
@@ -436,11 +420,11 @@
           "risk": false
         }
       ],
-      "price": 52600,
-      "chg": 0.0096,
-      "activity": 2.24,
+      "price": 52700,
+      "chg": 0.0115,
+      "activity": 2.08,
       "foreign_today": 0,
-      "inst_today": 473400000,
+      "inst_today": 474300000,
       "exchange": "KOSDAQ"
     },
     {
@@ -453,48 +437,13 @@
       "vol20": 1.21,
       "foreign_net": -22243475650,
       "inst_net": 16076894300,
-      "score": 0.814,
+      "score": 0.796,
       "news": [],
       "price": 46450,
       "chg": -0.0117,
-      "activity": 0.99,
+      "activity": 0.94,
       "foreign_today": 2322500000,
       "inst_today": 0,
-      "exchange": "KOSDAQ"
-    },
-    {
-      "code": "347700",
-      "name": "스피어",
-      "close": 16730,
-      "ret5": 0.0321,
-      "ret20": -0.1503,
-      "rsi14": 46.1,
-      "vol20": 1.13,
-      "foreign_net": -1732207285,
-      "inst_net": 6990086135,
-      "score": 0.735,
-      "news": [
-        {
-          "date": "11-22",
-          "title": "유스피어, 세계적 트렌드 아트 디자인 전시회 ‘디자이너콘’ 참석…K팝...",
-          "risk": false
-        },
-        {
-          "date": "11-21",
-          "title": "유스피어(USPEER), K-POP 아티스트 최초 美 '디자이너콘' 참석…글로벌 ...",
-          "risk": false
-        },
-        {
-          "date": "11-21",
-          "title": "유스피어, K팝 최초 美 디자이너콘 참석",
-          "risk": false
-        }
-      ],
-      "price": 17220,
-      "chg": 0.0141,
-      "activity": 1.68,
-      "foreign_today": 378840000,
-      "inst_today": 241080000,
       "exchange": "KOSDAQ"
     },
     {
@@ -507,7 +456,7 @@
       "vol20": 1.214,
       "foreign_net": -18490470000,
       "inst_net": 18573590250,
-      "score": 0.725,
+      "score": 0.753,
       "news": [
         {
           "date": "11-23",
@@ -515,12 +464,28 @@
           "risk": false
         }
       ],
-      "price": 243000,
-      "chg": 0.0407,
-      "activity": 2.53,
+      "price": 243500,
+      "chg": 0.0428,
+      "activity": 2.37,
       "foreign_today": 0,
-      "inst_today": 1458000000,
+      "inst_today": 1461000000,
       "exchange": "KOSDAQ"
+    },
+    {
+      "code": "281820",
+      "name": "케이씨텍",
+      "close": 79800,
+      "ret5": 0.0114,
+      "ret20": -0.1456,
+      "rsi14": 49.7,
+      "vol20": 1.547,
+      "foreign_net": -11370774250,
+      "inst_net": 20965053500,
+      "score": 0.667,
+      "news": [],
+      "foreign_today": 2314200000,
+      "inst_today": 798000000,
+      "exchange": "KOSPI"
     },
     {
       "code": "114800",
