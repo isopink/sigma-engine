@@ -403,6 +403,24 @@ def test_missed_trade_catch_up():
     assert C.missed_trade(t(10, 0), p, [{**reg("09:47", "decide"), "time": "2026-11-03 09:47"}]) == "09:45"   # 어제 기록은 안 침
 
 
+def test_slot_done_and_usage_block():
+    t = lambda h, m: datetime(2026, 11, 23, h, m, 5, tzinfo=C.KST)  # noqa: E731
+    reg = lambda hm, mode="decide": {"kind": "regime", "time": f"2026-11-23 {hm}", "mode": mode}  # noqa: E731
+    k = C.interval_min()
+    if k == 30:   # 13:15 에 깨어나도 13:00 회차 → 13:03 매매 기록이 있으면 건너뜀
+        assert C.slot_done(t(13, 15), [reg("13:03")]) and not C.slot_done(t(13, 15), [reg("12:48")])
+        assert not C.slot_done(t(12, 45), [reg("12:23")])   # 12:30 회차를 놓쳤으면 12:45 가 매매
+        assert not C.slot_done(t(13, 15), [reg("13:03", "view")])
+    run = lambda hm, note: {"time": f"2026-11-23 {hm}", "note": note}  # noqa: E731
+    lim = "You've hit your 5-hour limit · resets 4:50pm (Asia/Seoul)"
+    u = C.usage_block(t(14, 20), [run("13:45", lim)])
+    assert u and (u.hour, u.minute) == (16, 50), u
+    assert C.usage_block(t(16, 51), [run("13:45", lim)]) is None
+    assert C.usage_block(t(14, 20), [run("14:15", "하락 / 매수 0건")]) is None
+    assert C.usage_block(t(14, 0), [run("13:45", "You've hit your weekly limit")])       # 시각을 못 읽으면 30분
+    assert C.usage_block(t(14, 16), [run("13:45", "You've hit your weekly limit")]) is None
+
+
 def test_last_trade_summary():
     import logger
     t = C.today().isoformat()

@@ -222,6 +222,12 @@ def main():
             log("기준값 조정은 평일에만 실행함")
             return
 
+    if (until := C.usage_block()):   # 11-23: 사용 한도에 걸렸으면 풀릴 때까지 Claude 를 부르지 않음 (헛실패 · 기록만 쌓임)
+        log(f"Claude 사용 한도 · {until:%H:%M} 에 풀림, 그때까지 쉼")
+        return
+    if kind == "decide" and C.trade_slot() and C.slot_done():   # 11-23: 15분마다 깨어나도 30분 회차는 한 번만 매매
+        log(f"{C._slot()} 회차는 이미 매매함, 건너뜀")
+        return
     trading = kind == "decide" and (C.trade_slot() or C.missed_trade())
     got = acquire()
     if not got and kind == "tune":   # 11-06 S.Lee: 수요일은 15:50 중간 회고가 끝나길 기다렸다가 그 제안까지 보고 조정 (목요일 장부터 반영)
@@ -247,6 +253,9 @@ def main():
         log("다른 실행이 진행 중이라 건너뜀")
         sys.exit(3)   # 감시 루프가 다음 회차에 다시 시도하도록
     try:
+        if kind == "decide" and C.trade_slot() and C.slot_done():   # 앞 실행을 기다리는 사이 그 실행이 이 회차를 매매했으면
+            log(f"{C._slot()} 회차는 이미 매매함, 건너뜀")
+            return
         if kind == "decide" and not briefing_fresh():
             refresh_account()
             py("data_prep.py")

@@ -2,6 +2,7 @@
 import json
 import math
 import os
+import re
 import sys
 from datetime import date, datetime, timedelta, timezone
 
@@ -458,6 +459,34 @@ def missed_trade(t=None, p=None, rows=None):
     done = any(r["kind"] == "regime" and r.get("mode") == "decide" and r["time"].startswith(d) and r["time"][11:16] >= last
                for r in rows)
     return None if done else last
+
+
+def slot_done(t=None, rows=None):
+    """이번 매매 회차(_slot)의 매매 실행이 오늘 이미 있었는지 (11-23: 작업이 15분마다 깨어나 30분 회차를 두 번 매매해 사용 한도를 다 씀)."""
+    s, d = _slot(t), (t or now()).date().isoformat()
+    rows = read_jsonl(JOURNAL) if rows is None else rows
+    return any(r["kind"] == "regime" and r.get("mode") == "decide" and r["time"].startswith(d) and r["time"][11:16] >= s
+               for r in rows)
+
+
+def usage_block(t=None, runs=None):
+    """마지막 실행이 Claude 사용 한도로 실패했으면 풀리는 시각(datetime), 아니면 None (11-23 5시간 한도).
+    note 의 'resets 4:50pm' 을 읽고, 못 읽으면 실패 뒤 30분."""
+    t = t or now()
+    runs = read_jsonl(RUNS) if runs is None else runs
+    last = runs[-1] if runs else None
+    if not last or "hit your" not in str(last.get("note", "")).lower():
+        return None
+    at = datetime.strptime(last["time"], "%Y-%m-%d %H:%M").replace(tzinfo=KST)
+    m = re.search(r"resets\s+(\d{1,2})(?::(\d{2}))?\s*(am|pm)", last["note"], re.I)
+    if m:
+        h = int(m.group(1)) % 12 + (12 if m.group(3).lower() == "pm" else 0)
+        until = at.replace(hour=h, minute=int(m.group(2) or 0))
+        if until <= at:
+            until += timedelta(days=1)
+    else:
+        until = at + timedelta(minutes=30)
+    return until if t < until else None
 
 
 def next_trade_time(t=None, p=None):
