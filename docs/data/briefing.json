@@ -81,7 +81,7 @@
     ]
   },
   "intraday": {
-    "time": "12:00",
+    "time": "12:30",
     "pool": 387,
     "analyzed_new": 30,
     "passed": 8,
@@ -98,12 +98,12 @@
       "vol20": 0.948,
       "foreign_net": 1052832750,
       "inst_net": 6588986000,
-      "score": 0.232,
+      "score": 0.288,
       "news": [],
-      "price": 31250,
-      "chg": 0.1161,
-      "activity": 1.02,
-      "foreign_today": 437500000,
+      "price": 31600,
+      "chg": 0.1286,
+      "activity": 0.96,
+      "foreign_today": 442400000,
       "inst_today": 0,
       "exchange": "KOSDAQ"
     },
@@ -119,36 +119,11 @@
       "inst_net": 25368297940,
       "score": 1.0,
       "news": [],
-      "price": 16250,
-      "chg": 0.1153,
-      "activity": 4.18,
-      "foreign_today": 3575000000,
-      "inst_today": 357500000,
-      "exchange": "KOSDAQ"
-    },
-    {
-      "code": "437730",
-      "name": "삼현",
-      "close": 54700,
-      "ret5": 0.148,
-      "ret20": 0.1492,
-      "rsi14": 64.5,
-      "vol20": 1.274,
-      "foreign_net": -8381361300,
-      "inst_net": 32311160250,
-      "score": 0.982,
-      "news": [
-        {
-          "date": "11-23",
-          "title": "삼현 6.72% 상승하며 장중 최고가 마감권…모빌리티 부품 성장 기대",
-          "risk": false
-        }
-      ],
-      "price": 61900,
-      "chg": 0.1484,
-      "activity": 5.83,
-      "foreign_today": 0,
-      "inst_today": 3899700000,
+      "price": 16300,
+      "chg": 0.1187,
+      "activity": 3.77,
+      "foreign_today": 3586000000,
+      "inst_today": 358600000,
       "exchange": "KOSDAQ"
     },
     {
@@ -161,7 +136,7 @@
       "vol20": 1.506,
       "foreign_net": -2693257775,
       "inst_net": 5457807300,
-      "score": 0.696,
+      "score": 0.746,
       "news": [
         {
           "date": "11-21",
@@ -169,11 +144,11 @@
           "risk": false
         }
       ],
-      "price": 36800,
-      "chg": 0.0222,
-      "activity": 1.44,
+      "price": 37250,
+      "chg": 0.0347,
+      "activity": 1.34,
       "foreign_today": 0,
-      "inst_today": 662400000,
+      "inst_today": 670500000,
       "exchange": "KOSDAQ"
     },
     {
@@ -186,8 +161,13 @@
       "vol20": 1.499,
       "foreign_net": -7525818800,
       "inst_net": 11043703450,
-      "score": 0.607,
+      "score": 0.627,
       "news": [
+        {
+          "date": "11-24",
+          "title": "더존비즈온과 안랩, ERP 보안 위해 손잡았다",
+          "risk": false
+        },
         {
           "date": "11-24",
           "title": "더존비즈온·안랩, 사이버보안 강화 맞손…ERP 보안 기술 공동 연구",
@@ -197,17 +177,12 @@
           "date": "11-24",
           "title": "안랩, AI 프로그램 '올라마' 위장 신종 악성코드 발견…국내 백신 무력...",
           "risk": false
-        },
-        {
-          "date": "11-24",
-          "title": "더존비즈온, 안랩과 사이버보안 역량 강화 업무협약 체결",
-          "risk": false
         }
       ],
-      "price": 119800,
-      "chg": 0.039,
-      "activity": 1.1,
-      "foreign_today": 4672200000,
+      "price": 120000,
+      "chg": 0.0408,
+      "activity": 0.98,
+      "foreign_today": 4680000000,
       "inst_today": 0,
       "exchange": "KOSDAQ"
     },
@@ -221,7 +196,7 @@
       "vol20": 1.456,
       "foreign_net": -20279995820,
       "inst_net": 15279085080,
-      "score": 0.571,
+      "score": 0.61,
       "news": [
         {
           "date": "11-24",
@@ -239,11 +214,46 @@
           "risk": false
         }
       ],
-      "price": 9020,
-      "chg": 0.0078,
-      "activity": 1.96,
+      "price": 9080,
+      "chg": 0.0145,
+      "activity": 1.83,
       "foreign_today": 0,
-      "inst_today": 865920000,
+      "inst_today": 871680000,
+      "exchange": "KOSDAQ"
+    },
+    {
+      "code": "043260",
+      "name": "성호전자",
+      "close": 24200,
+      "ret5": 0.1308,
+      "ret20": -0.0936,
+      "rsi14": 49.3,
+      "vol20": 1.382,
+      "foreign_net": 1105036700,
+      "inst_net": -364221775,
+      "score": 0.576,
+      "news": [
+        {
+          "date": "11-24",
+          "title": "성호전자 주가, 11월 24일 장중 25,100원 6.81% 상승",
+          "risk": false
+        },
+        {
+          "date": "11-23",
+          "title": "성호전자 주가, 11월 23일 애프터마켓 23,750원 3.26% 하락",
+          "risk": false
+        },
+        {
+          "date": "11-23",
+          "title": "성호전자 2.44% 하락…누적 영업이익 144억원으로 개선",
+          "risk": false
+        }
+      ],
+      "price": 25100,
+      "chg": 0.0681,
+      "activity": 1.44,
+      "foreign_today": 1229900000,
+      "inst_today": 351400000,
       "exchange": "KOSDAQ"
     },
     {
