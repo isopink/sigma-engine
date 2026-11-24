@@ -81,8 +81,8 @@
     ]
   },
   "intraday": {
-    "time": "13:00",
-    "pool": 388,
+    "time": "14:30",
+    "pool": 407,
     "analyzed_new": 30,
     "passed": 8,
     "kept_prep": false
@@ -98,12 +98,23 @@
       "vol20": 0.948,
       "foreign_net": 1052832750,
       "inst_net": 6588986000,
-      "score": 0.297,
-      "news": [],
-      "price": 31600,
-      "chg": 0.1286,
-      "activity": 0.9,
-      "foreign_today": 442400000,
+      "score": 0.263,
+      "news": [
+        {
+          "date": "11-24",
+          "title": "[통신 기자재 점검] [서진시스템] 통신 기자재서 반도체로 무게중심…영...",
+          "risk": false
+        },
+        {
+          "date": "11-24",
+          "title": "서진시스템 장중 3만1600원…거래대금 120억원 넘어",
+          "risk": false
+        }
+      ],
+      "price": 31650,
+      "chg": 0.1304,
+      "activity": 0.76,
+      "foreign_today": 791250000,
       "inst_today": 0,
       "exchange": "KOSDAQ"
     },
@@ -118,12 +129,48 @@
       "foreign_net": -15050681815,
       "inst_net": 25368297940,
       "score": 1.0,
-      "news": [],
-      "price": 16220,
-      "chg": 0.1132,
-      "activity": 3.43,
-      "foreign_today": 3568400000,
-      "inst_today": 356840000,
+      "news": [
+        {
+          "date": "11-24",
+          "title": "와이씨, 장중 1만6660원…20거래일 고점 웃돌아",
+          "risk": false
+        }
+      ],
+      "price": 16410,
+      "chg": 0.1263,
+      "activity": 2.99,
+      "foreign_today": 3364050000,
+      "inst_today": 3446100000,
+      "exchange": "KOSDAQ"
+    },
+    {
+      "code": "290550",
+      "name": "디케이티",
+      "close": 32750,
+      "ret5": 0.1844,
+      "ret20": 0.3313,
+      "rsi14": 65.7,
+      "vol20": 1.33,
+      "foreign_net": -5568385275,
+      "inst_net": 16458409325,
+      "score": 0.877,
+      "news": [
+        {
+          "date": "11-23",
+          "title": "디케이티 9.34% 상승…3분기 영업이익 129억원",
+          "risk": false
+        },
+        {
+          "date": "11-23",
+          "title": "[특징주] 디케이티, 23일 장중 3만1500원 기록",
+          "risk": false
+        }
+      ],
+      "price": 33200,
+      "chg": 0.0311,
+      "activity": 3.93,
+      "foreign_today": 1029200000,
+      "inst_today": 0,
       "exchange": "KOSDAQ"
     },
     {
@@ -136,7 +183,7 @@
       "vol20": 1.506,
       "foreign_net": -2693257775,
       "inst_net": 5457807300,
-      "score": 0.75,
+      "score": 0.807,
       "news": [
         {
           "date": "11-21",
@@ -144,11 +191,11 @@
           "risk": false
         }
       ],
-      "price": 37200,
-      "chg": 0.0333,
-      "activity": 1.29,
-      "foreign_today": 0,
-      "inst_today": 669600000,
+      "price": 37650,
+      "chg": 0.0458,
+      "activity": 1.2,
+      "foreign_today": 865950000,
+      "inst_today": 1807200000,
       "exchange": "KOSDAQ"
     },
     {
@@ -161,8 +208,13 @@
       "vol20": 1.456,
       "foreign_net": -20279995820,
       "inst_net": 15279085080,
-      "score": 0.609,
+      "score": 0.509,
       "news": [
+        {
+          "date": "11-24",
+          "title": "SFA반도체 상승폭 0.89%…9,030원에서 거래",
+          "risk": false
+        },
         {
           "date": "11-24",
           "title": "금양그린파워 상한가…SFA반도체 10%대 상승",
@@ -172,73 +224,41 @@
           "date": "11-23",
           "title": "AI·HBM 투자 확대 기대…테스·SFA반도체 강세에 장비주도 들썩",
           "risk": false
-        },
-        {
-          "date": "11-23",
-          "title": "SFA반도체 10.36% 올라…매출 급증에도 영업손실 189억원",
-          "risk": false
         }
       ],
-      "price": 9010,
-      "chg": 0.0067,
-      "activity": 1.66,
+      "price": 9050,
+      "chg": 0.0112,
+      "activity": 1.38,
       "foreign_today": 0,
-      "inst_today": 864960000,
+      "inst_today": 868800000,
       "exchange": "KOSDAQ"
     },
     {
-      "code": "053800",
-      "name": "안랩",
-      "close": 114500,
-      "ret5": 0.0853,
-      "ret20": 0.4153,
-      "rsi14": 57.8,
-      "vol20": 1.499,
-      "foreign_net": -7525818800,
-      "inst_net": 11043703450,
-      "score": 0.594,
+      "code": "281820",
+      "name": "케이씨텍",
+      "close": 84200,
+      "ret5": 0.1909,
+      "ret20": -0.0288,
+      "rsi14": 52.3,
+      "vol20": 1.538,
+      "foreign_net": -11407166650,
+      "inst_net": 25015022950,
+      "score": 0.509,
       "news": [
         {
           "date": "11-24",
-          "title": "더존비즈온·안랩, ERP 보안 강화 협력…공동 연구 추진",
+          "title": "케이씨텍, 오전 장중 9만5600원까지 상승",
           "risk": false
         },
         {
           "date": "11-24",
-          "title": "더존비즈온-안랩 손잡았다…ERP 사이버보안 강화",
-          "risk": false
-        },
-        {
-          "date": "11-24",
-          "title": "더존비즈온과 안랩, ERP 보안 위해 손잡았다",
+          "title": "[특징주] 케이씨텍, 美 AI 반도체 급반등·전공정 투자 기대에 장중 15% ...",
           "risk": false
         }
       ],
-      "price": 119800,
-      "chg": 0.039,
-      "activity": 0.89,
-      "foreign_today": 4672200000,
-      "inst_today": 0,
-      "exchange": "KOSDAQ"
-    },
-    {
-      "code": "100790",
-      "name": "미래에셋벤처투자",
-      "close": 12360,
-      "ret5": -0.1363,
-      "ret20": -0.0492,
-      "rsi14": 43.7,
-      "vol20": 1.163,
-      "foreign_net": -4241348560,
-      "inst_net": -197991065,
-      "score": 0.594,
-      "news": [],
-      "price": 13810,
-      "chg": 0.1413,
-      "activity": 1.49,
-      "foreign_today": 414300000,
-      "inst_today": 0,
-      "exchange": "KOSDAQ"
+      "foreign_today": 0,
+      "inst_today": 5725600000,
+      "exchange": "KOSPI"
     },
     {
       "code": "114800",
