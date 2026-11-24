@@ -81,38 +81,13 @@
     ]
   },
   "intraday": {
-    "time": "10:30",
-    "pool": 356,
+    "time": "11:00",
+    "pool": 358,
     "analyzed_new": 30,
     "passed": 7,
     "kept_prep": false
   },
   "candidates": [
-    {
-      "code": "437730",
-      "name": "삼현",
-      "close": 54700,
-      "ret5": 0.148,
-      "ret20": 0.1492,
-      "rsi14": 64.5,
-      "vol20": 1.274,
-      "foreign_net": -8381361300,
-      "inst_net": 32311160250,
-      "score": 1.0,
-      "news": [
-        {
-          "date": "11-23",
-          "title": "삼현 6.72% 상승하며 장중 최고가 마감권…모빌리티 부품 성장 기대",
-          "risk": false
-        }
-      ],
-      "price": 61300,
-      "chg": 0.1373,
-      "activity": 8.18,
-      "foreign_today": 2452000000,
-      "inst_today": 796900000,
-      "exchange": "KOSDAQ"
-    },
     {
       "code": "036540",
       "name": "SFA반도체",
@@ -123,7 +98,7 @@
       "vol20": 1.456,
       "foreign_net": -20279995820,
       "inst_net": 15279085080,
-      "score": 0.682,
+      "score": 1.0,
       "news": [
         {
           "date": "11-24",
@@ -141,11 +116,11 @@
           "risk": false
         }
       ],
-      "price": 9290,
-      "chg": 0.038,
-      "activity": 2.88,
-      "foreign_today": 696750000,
-      "inst_today": 427340000,
+      "price": 9040,
+      "chg": 0.0101,
+      "activity": 2.5,
+      "foreign_today": 678000000,
+      "inst_today": 415840000,
       "exchange": "KOSDAQ"
     },
     {
@@ -158,7 +133,7 @@
       "vol20": 1.506,
       "foreign_net": -2693257775,
       "inst_net": 5457807300,
-      "score": 0.614,
+      "score": 0.964,
       "news": [
         {
           "date": "11-21",
@@ -166,11 +141,11 @@
           "risk": false
         }
       ],
-      "price": 37300,
-      "chg": 0.0361,
-      "activity": 2.03,
-      "foreign_today": 522200000,
-      "inst_today": 223800000,
+      "price": 36500,
+      "chg": 0.0139,
+      "activity": 1.8,
+      "foreign_today": 511000000,
+      "inst_today": 219000000,
       "exchange": "KOSDAQ"
     },
     {
@@ -183,13 +158,13 @@
       "vol20": 1.365,
       "foreign_net": -15050681815,
       "inst_net": 25368297940,
-      "score": 0.568,
+      "score": 0.893,
       "news": [],
-      "price": 16200,
-      "chg": 0.1119,
-      "activity": 6.17,
+      "price": 16080,
+      "chg": 0.1036,
+      "activity": 5.22,
       "foreign_today": 0,
-      "inst_today": 16200000,
+      "inst_today": 16080000,
       "exchange": "KOSDAQ"
     },
     {
@@ -202,14 +177,52 @@
       "vol20": 1.499,
       "foreign_net": -7525818800,
       "inst_net": 11043703450,
-      "score": 0.5,
-      "news": [],
-      "price": 122600,
-      "chg": 0.0633,
-      "activity": 1.76,
-      "foreign_today": 3432800000,
+      "score": 0.821,
+      "news": [
+        {
+          "date": "11-24",
+          "title": "더존비즈온, 안랩과 사이버보안 역량 강화 업무협약 체결",
+          "risk": false
+        },
+        {
+          "date": "11-24",
+          "title": "더존비즈온, 안랩과 손잡고 보안 강화",
+          "risk": false
+        }
+      ],
+      "price": 119900,
+      "chg": 0.0399,
+      "activity": 1.48,
+      "foreign_today": 3357200000,
       "inst_today": 0,
       "exchange": "KOSDAQ"
+    },
+    {
+      "code": "281820",
+      "name": "케이씨텍",
+      "close": 84200,
+      "ret5": 0.1909,
+      "ret20": -0.0288,
+      "rsi14": 52.3,
+      "vol20": 1.538,
+      "foreign_net": -11407166650,
+      "inst_net": 25015022950,
+      "score": 0.714,
+      "news": [
+        {
+          "date": "11-24",
+          "title": "[특징주] 케이씨텍, 美 AI 반도체 급반등·전공정 투자 기대에 장중 15% ...",
+          "risk": false
+        },
+        {
+          "date": "11-23",
+          "title": "케이씨텍 오르고 두산 내리고…반도체 재료 부품주 차별화 뚜렷",
+          "risk": false
+        }
+      ],
+      "foreign_today": 0,
+      "inst_today": 2441800000,
+      "exchange": "KOSPI"
     },
     {
       "code": "114800",
