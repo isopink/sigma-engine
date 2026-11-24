@@ -80,117 +80,97 @@
       4708.54
     ]
   },
-  "intraday": null,
+  "intraday": {
+    "time": "09:30",
+    "pool": 331,
+    "analyzed_new": 30,
+    "passed": 8,
+    "kept_prep": false
+  },
   "candidates": [
     {
-      "code": "278470",
-      "name": "에이피알",
-      "close": 256000,
-      "ret5": 0.0734,
-      "ret20": -0.0841,
-      "rsi14": 45.8,
-      "vol20": 0.765,
-      "foreign_net": -1249913250,
-      "inst_net": 27774314500,
-      "score": 0.344,
+      "code": "032820",
+      "name": "우리기술",
+      "close": 8110,
+      "ret5": 0.005,
+      "ret20": -0.1009,
+      "rsi14": 40.9,
+      "vol20": 0.795,
+      "foreign_net": 159074440,
+      "inst_net": 4770344185,
+      "score": 0.828,
       "news": [
         {
           "date": "11-24",
-          "title": "[핀포인트] [에이피알] 해외 판로 확대에 재고 부담…현금흐름 '경고등...",
+          "title": "두산에너빌리티·우리기술·한전기술 등 원자력발전주 동반 강세…장 초...",
           "risk": false
         },
         {
-          "date": "11-24",
-          "title": "[핀포인트] [에이피알] 김병훈 대표 경영에 흠집… 외환거래 제재에 공...",
-          "risk": false
-        },
-        {
-          "date": "11-24",
-          "title": "중국 시장 다시 열린다… 에이피알·LG생활건강 화장품주에 올라타라",
+          "date": "11-23",
+          "title": "두산에너빌리티·우리기술 등 원전주 약세…양대지수 하락 속 흐름은?",
           "risk": false
         }
       ],
-      "exchange": "KOSPI"
+      "price": 8600,
+      "chg": 0.0737,
+      "activity": 3.84,
+      "foreign_today": 292400000,
+      "inst_today": 0,
+      "exchange": "KOSDAQ"
     },
     {
-      "code": "263860",
-      "name": "지니언스",
-      "close": 35600,
-      "ret5": 0.0245,
-      "ret20": 0.836,
-      "rsi14": 64.9,
-      "vol20": 1.695,
-      "foreign_net": 2099132925,
-      "inst_net": 5955418900,
+      "code": "036540",
+      "name": "SFA반도체",
+      "close": 9110,
+      "ret5": 0.1247,
+      "ret20": 0.1275,
+      "rsi14": 54.1,
+      "vol20": 1.456,
+      "foreign_net": -20279995820,
+      "inst_net": 15279085080,
       "score": 1.0,
       "news": [
         {
           "date": "11-24",
-          "title": "[리스트] MVP 상위 20선...지니언스, 제이브이엠 등 - 24일",
+          "title": "금양그린파워 상한가…SFA반도체 10%대 상승",
           "risk": false
         },
         {
           "date": "11-23",
-          "title": "[지니언스 인사 전망] 이동석 부사장 내년 세 번째 재선임 시점… 연초...",
+          "title": "AI·HBM 투자 확대 기대…테스·SFA반도체 강세에 장비주도 들썩",
           "risk": false
         },
         {
           "date": "11-23",
-          "title": "몸값 4배 뛴 지니언스, 5년 동행 마침표 찍은 2대주주 미리캐피탈",
+          "title": "SFA반도체 10.36% 올라…매출 급증에도 영업손실 189억원",
           "risk": false
         }
       ],
+      "price": 9410,
+      "chg": 0.0514,
+      "activity": 5.25,
+      "foreign_today": 564600000,
+      "inst_today": 0,
       "exchange": "KOSDAQ"
     },
     {
-      "code": "437730",
-      "name": "삼현",
-      "close": 54700,
-      "ret5": 0.148,
-      "ret20": 0.1492,
-      "rsi14": 64.5,
-      "vol20": 1.274,
-      "foreign_net": -8381361300,
-      "inst_net": 32311160250,
-      "score": 0.938,
-      "news": [
-        {
-          "date": "11-23",
-          "title": "삼현 6.72% 상승하며 장중 최고가 마감권…모빌리티 부품 성장 기대",
-          "risk": false
-        }
-      ],
+      "code": "100790",
+      "name": "미래에셋벤처투자",
+      "close": 12360,
+      "ret5": -0.1363,
+      "ret20": -0.0492,
+      "rsi14": 43.7,
+      "vol20": 1.163,
+      "foreign_net": -4241348560,
+      "inst_net": -197991065,
+      "score": 0.793,
+      "news": [],
+      "price": 13070,
+      "chg": 0.0802,
+      "activity": 3.48,
+      "foreign_today": 457450000,
+      "inst_today": 0,
       "exchange": "KOSDAQ"
-    },
-    {
-      "code": "180640",
-      "name": "한진칼",
-      "close": 216500,
-      "ret5": -0.0114,
-      "ret20": 0.8027,
-      "rsi14": 61.4,
-      "vol20": 1.383,
-      "foreign_net": 11140422000,
-      "inst_net": 14541723500,
-      "score": 0.906,
-      "news": [
-        {
-          "date": "11-23",
-          "title": "한진칼우 10.13% 급락…우선주 수급 변동성 경계",
-          "risk": false
-        },
-        {
-          "date": "11-23",
-          "title": "한진칼 22만원으로 6.78% 하락…지주가치·항공 업황 재평가",
-          "risk": false
-        },
-        {
-          "date": "11-23",
-          "title": "한진칼 ‘내우외환’",
-          "risk": false
-        }
-      ],
-      "exchange": "KOSPI"
     },
     {
       "code": "460940",
@@ -202,7 +182,7 @@
       "vol20": 2.02,
       "foreign_net": 732513780,
       "inst_net": -4560,
-      "score": 0.813,
+      "score": 0.69,
       "news": [
         {
           "date": "11-23",
@@ -210,36 +190,65 @@
           "risk": false
         }
       ],
+      "price": 6270,
+      "chg": 0.0279,
+      "activity": 4.58,
+      "foreign_today": 62700000,
+      "inst_today": 0,
       "exchange": "KOSDAQ"
     },
     {
-      "code": "277810",
-      "name": "레인보우로보틱스",
-      "close": 412000,
-      "ret5": 0.1492,
-      "ret20": 0.1839,
-      "rsi14": 57.0,
-      "vol20": 1.201,
-      "foreign_net": -57372701500,
-      "inst_net": 70329816000,
-      "score": 0.813,
+      "code": "222800",
+      "name": "심텍",
+      "close": 105000,
+      "ret5": -0.0269,
+      "ret20": -0.0094,
+      "rsi14": 44.3,
+      "vol20": 1.464,
+      "foreign_net": -45161322700,
+      "inst_net": -43354103650,
+      "score": 0.517,
+      "news": [],
+      "price": 115500,
+      "chg": 0.1312,
+      "activity": 2.94,
+      "foreign_today": 1386000000,
+      "inst_today": 0,
+      "exchange": "KOSDAQ"
+    },
+    {
+      "code": "104620",
+      "name": "노랑풍선",
+      "close": 4660,
+      "ret5": 0.3869,
+      "ret20": 0.7227,
+      "rsi14": 75.2,
+      "vol20": 1.327,
+      "foreign_net": -406621663,
+      "inst_net": 135015220,
+      "score": 0.414,
       "news": [
         {
           "date": "11-24",
-          "title": "레인보우로보틱스·에스엠 공매도 과열…24일 공매도 금지",
+          "title": "스냅 촬영·공항 라운지 이용권 혜택…노랑풍선, 허니문 온라인 박람회",
+          "risk": false
+        },
+        {
+          "date": "11-24",
+          "title": "노랑풍선, 발리·몰디브 등 8개 지역 허니문 혜택 제공",
           "risk": false
         },
         {
           "date": "11-23",
-          "title": "[공시] 레인보우로보틱스·에스엠·자이언트스텝 '공매도 금지', 깨끗한...",
-          "risk": false
-        },
-        {
-          "date": "11-23",
-          "title": "두산로보틱스·레인보우로보틱스 상승 대열…기계주 실적 따라 희비",
+          "title": "한진칼우 회전율 114%…노랑풍선 53% 손바뀜",
           "risk": false
         }
       ],
+      "price": 4615,
+      "chg": -0.017,
+      "activity": 2.89,
+      "foreign_today": 207675000,
+      "inst_today": 0,
       "exchange": "KOSDAQ"
     },
     {
