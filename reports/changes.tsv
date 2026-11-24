@@ -219,3 +219,4 @@ ba5262b	운영	판단 · 매매 주기 15분 → 30분 (09:30~15:00 하루 12번
 dbec2ba	운영	회고 · 보고서 실행에서 서브에이전트를 run_in_background false 로 기다렸다 제출 (11-20 금요일 회고 · 보고서 초안이 제출 전에 끝남)
 885bb6d	운영	작업이 15분마다 깨어나 30분 회차를 두 번 매매하던 것 막음 (이미 매매한 회차는 건너뜀). Claude 사용 한도에 걸리면 풀리는 시각까지 실행 안 함 (11-23 5시간 한도)
 1c83c23	운영	장중 판단 effort 낮춤: 총괄 xhigh → high, bear xhigh → high, position · research xhigh → medium, regime · bull high → medium (11-24 실행 7번에 5시간 한도 도달)
+904a3e7	운영	S&P 500 참고선 실시간: Supabase 가 선물(ES=F)을 1분마다 수집, 차트 끝점 = 직전 종가 × 선물 등락. 누적 수익률 0% 선 없앰, 시스템 오류 날은 빨간 점
