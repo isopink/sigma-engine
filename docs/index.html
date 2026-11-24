@@ -902,11 +902,14 @@ window.TRADE_TIMES = ['09:30', '10:00', '10:30', '11:00', '11:30', '12:00', '12:
   let KD = new Map();
   let BM = null;   // 11-11 S.Lee: 비교 기준 = KODEX 200 일봉 (data/kodex200.json: 시작일 시가 · 날짜별 종가). 없으면 KOSPI
   const BMN = () => BM ? 'KODEX 200' : 'KOSPI';
+  let LAST_EQ = null, SPXL = null;   // 11-25 S.Lee: S&P 500 선물 실시간 (supabase/spx.sql → spx_ticks 마지막 줄)
   let SPX = null;   // 11-17 S.Lee: S&P 500 참고선 (data/spx.json). 한국 날짜 d 에는 d 전날까지의 미국 종가 (미국 장은 한국 장 마감 뒤)
   const spxRet = date => {
     if (!SPX) return null;
     const ks = Object.keys(SPX.days).filter(k => k < date).sort(), k = ks[ks.length - 1];
-    return k ? SPX.days[k] / SPX.base - 1 : null;
+    if (!k) return null;
+    const live = SPXL && date === LAST_EQ && SPXL.prev ? SPXL.price / SPXL.prev : 1;   // 11-25 마지막 날은 선물 등락만큼 움직임
+    return SPX.days[k] * live / SPX.base - 1;
   };
   const bmClose = date => BM && BM.days[date] ? BM.days[date].c : null;
   async function loadKD() {
@@ -972,7 +975,7 @@ window.TRADE_TIMES = ['09:30', '10:00', '10:30', '11:00', '11:30', '12:00', '12:
     const h = { apikey: key, Authorization: 'Bearer ' + key };
     try {
       const json = n => fetch('data/' + n + '.json', { cache: 'no-store' }).then(r => r.ok ? r.json() : null).catch(() => null);
-      const [, snaps, latest, st, dc, bf, tick, hb] = await Promise.all([
+      const [, snaps, latest, st, dc, bf, tick, hb, spxT] = await Promise.all([
         loadKD(),
         // 오늘 스냅샷만 (하루 최대 약 430개). 대회 시작부터 다 받으면 서버가 1,000개에서 잘라 오래된 것만 와서 11-05 10:28에 멈췄음.
         // 지난 날은 에이전트가 마감(15:45) 때 쓴 equity.json 을 씀
@@ -981,8 +984,12 @@ window.TRADE_TIMES = ['09:30', '10:00', '10:30', '11:00', '11:30', '12:00', '12:
         json('status'), json('decision'), json('briefing'),   // 에이전트가 실행할 때마다 push 하므로 페이지를 열어 둔 채로도 갱신
         fetch(`${url}/rest/v1/kospi_ticks?select=ts,price&order=ts.desc&limit=1`, { headers: h }).then(r => r.ok ? r.json() : []).catch(() => []),
         // 11-11 S.Lee: 데스크톱 연결 신호 (supabase/heartbeat.sql, sync 가 1분마다). 표가 없으면 null → 잔고 스냅샷으로 판단
-        fetch(`${url}/rest/v1/heartbeat?select=ts,info&host=eq.desktop&limit=1`, { headers: h }).then(r => r.ok ? r.json() : null).catch(() => null)
+        fetch(`${url}/rest/v1/heartbeat?select=ts,info&host=eq.desktop&limit=1`, { headers: h }).then(r => r.ok ? r.json() : null).catch(() => null),
+        fetch(`${url}/rest/v1/spx_ticks?select=ts,price,prev_close&order=ts.desc&limit=1`, { headers: h }).then(r => r.ok ? r.json() : []).catch(() => [])   // 11-25 S&P 500 선물
       ]);
+      const sx = (spxT || [])[0], spxOld = SPXL && SPXL.price;
+      SPXL = sx && Date.now() - new Date(sx.ts) < 4 * 864e5 ? { price: +sx.price, prev: +sx.prev_close } : null;   // 나흘 넘게 묵은 값은 안 씀
+      const spxMoved = (SPXL && SPXL.price) !== spxOld;
       if (Array.isArray(hb)) { HB_AT = hb[0] ? hb[0].ts : null; HB_OK = true; }
       if (st && !Array.isArray(st)) STATUS = st;
       if (dc && !Array.isArray(dc)) DECISION = dc;
@@ -990,7 +997,7 @@ window.TRADE_TIMES = ['09:30', '10:00', '10:30', '11:00', '11:30', '12:00', '12:
       if (!snaps.length) {   // 오늘 스냅샷이 없어도(밤 · 장 전 · PC 꺼짐) 마감 기록이 빠진 지난 거래일은 그날 마지막 스냅샷으로 채움
         const filled = await fillMissingDays(url, h, since, today), have = new Set((BASE.equity || []).map(r => r.date));
         const add = filled.filter(r => r.date < today && !have.has(r.date));
-        if (add.length && D) { D = derive({ ...BASE, equity: (BASE.equity || []).concat(add).sort((a, b) => a.date < b.date ? -1 : 1) }); fillText(); drawAll(); }
+        if ((add.length || spxMoved) && D) { D = derive({ ...BASE, equity: (BASE.equity || []).concat(add).sort((a, b) => a.date < b.date ? -1 : 1) }); fillText(); drawAll(); }
         else { try { agentStatus(); } catch (e) { /* 아직 그리기 전 */ } }   // 밤에도 서버 점은 30초마다 갱신
         return;
       }
@@ -1031,6 +1038,7 @@ window.TRADE_TIMES = ['09:30', '10:00', '10:30', '11:00', '11:30', '12:00', '12:
     // KOSPI 기준 = 대회 시작일 시가 (config.js kospiStart). 첫날 값을 기준으로 하면 첫날 등락이 빠짐. 없으면 첫 기록값
     const k0 = BM ? +BM.start : +CFG.kospiStart || (eq.find(r => r.kospi) || {}).kospi;   // KODEX 200 은 시작일 시가
     let peak = INIT;   // 고점은 시작 원금부터 (첫날 손실도 낙폭으로 잡음)
+    LAST_EQ = eq.length ? eq[eq.length - 1].date : null;
     eq.forEach((r, i) => {
       r.ret = r.total / INIT - 1; r.kret = k0 && r.kospi ? r.kospi / k0 - 1 : 0; r.sret = spxRet(r.date);
       r.dret = CFG.depositRate ? CFG.depositRate * Math.max(0, (r.d - toD(START)) / 864e5) / 365 : null;   // 11-21 은행 예금 (단리, 세전)
@@ -1357,7 +1365,6 @@ window.TRADE_TIMES = ['09:30', '10:00', '10:30', '11:00', '11:30', '12:00', '12:
     const di = new Map(DAYS.map((d, i) => [+d, i])), idx = r => di.get(+r.d) ?? d3.bisectLeft(DAYS, r.d);
     const Li = Math.max(1, DAYS.length - 1), xi = d3.scaleLinear([0, Li], [m.l, W - m.r]), x = d => xi(idx({ d }));
     const y = d3.scaleLinear(y0.domain(), [H - m.b, m.t]);
-    svg.append('line').attr('x1', m.l).attr('x2', W - m.r).attr('y1', y(0)).attr('y2', y(0)).attr('stroke', 'rgba(255,255,255,.16)');   // 11-05 격자는 0%만 (나머지는 축 글씨로)
     svg.append('g').selectAll('text').data(ticks).join('text').attr('x', m.l - 8).attr('y', y).attr('dy', '.32em').attr('text-anchor', 'end').attr('font-size', 11).attr('fill', C.muted).text(tf);
     const per = narrow ? 4 : 7, step = Math.max(1, Math.ceil(DAYS.length / per)), N = DAYS.length - 1;   // 날짜 글씨는 최대 4개(폰)·7개, 첫날·최신 날은 항상
     const xt = DAYS.filter((d, i) => i === 0 || i === N || (i % step === 0 && N - i >= step * .6)).map(d => ({ d }));
@@ -1388,7 +1395,7 @@ window.TRADE_TIMES = ['09:30', '10:00', '10:30', '11:00', '11:30', '12:00', '12:
     if (fx) { if (!LS.kd) animate(kp); animate(p); }   // 점선은 그리기 효과가 점선을 덮어서 안 씀
     const one = rows.length < 2, dots = one ? [] : rows;   // C: 거래일마다 작은 점. 11-21 S.Lee: 마지막 날 굵은 끝점 없앰 → 마지막 날도 작은 점 (하루치일 때만 끝점)
     fade(svg.append('g').selectAll('circle').data(dots).join('circle').attr('cx', r => x(r.d)).attr('cy', r => y(r.kret)).attr('r', 2).attr('fill', '#141414').attr('stroke', '#a8a8a8').attr('stroke-width', 1), .9);
-    fade(svg.append('g').selectAll('circle').data(dots).join('circle').attr('cx', r => x(r.d)).attr('cy', r => y(r.ret)).attr('r', 2.2).attr('fill', '#141414').attr('stroke', col).attr('stroke-width', 1.2), .9);
+    fade(svg.append('g').selectAll('circle').data(dots).join('circle').attr('cx', r => x(r.d)).attr('cy', r => y(r.ret)).attr('r', r => CAL_NOTE[r.date] ? 3 : 2.2).attr('fill', r => CAL_NOTE[r.date] ? C.up : '#141414').attr('stroke', r => CAL_NOTE[r.date] ? C.up : col).attr('stroke-width', 1.2), .9);   // 11-25 S.Lee: 시스템 오류 날은 빨간 점
     const L = rows[rows.length - 1], ex = x(L.d), yR = y(L.ret), yK = y(L.kret);
     if (Math.abs(yR - yK) >= 3) {   // 끝점 격차 막대 (11-05 초과수익 배지는 왼쪽 'KOSPI 대비' 숫자로 옮김)
       const al = L.ret - L.kret, ac = al >= 0 ? colHi : '#4aa3d4', bg = svg.append('g');
