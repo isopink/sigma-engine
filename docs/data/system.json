@@ -97,8 +97,8 @@
   },
   {
     "date": "2026-11-24",
-    "runs": 1,
+    "runs": 2,
     "failures": 0,
-    "tokens_k": 93.6
+    "tokens_k": 124.0
   }
 ]
