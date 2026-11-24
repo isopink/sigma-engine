@@ -81,13 +81,57 @@
     ]
   },
   "intraday": {
-    "time": "11:00",
-    "pool": 358,
+    "time": "11:30",
+    "pool": 387,
     "analyzed_new": 30,
     "passed": 7,
     "kept_prep": false
   },
   "candidates": [
+    {
+      "code": "232140",
+      "name": "와이씨",
+      "close": 15100,
+      "ret5": 0.1642,
+      "ret20": 0.2573,
+      "rsi14": 58.0,
+      "vol20": 1.365,
+      "foreign_net": -15050681815,
+      "inst_net": 25368297940,
+      "score": 1.0,
+      "news": [],
+      "price": 16360,
+      "chg": 0.1229,
+      "activity": 4.68,
+      "foreign_today": 3599200000,
+      "inst_today": 359920000,
+      "exchange": "KOSDAQ"
+    },
+    {
+      "code": "089890",
+      "name": "코세스",
+      "close": 36350,
+      "ret5": 0.1503,
+      "ret20": 0.0916,
+      "rsi14": 55.9,
+      "vol20": 1.506,
+      "foreign_net": -2693257775,
+      "inst_net": 5457807300,
+      "score": 0.591,
+      "news": [
+        {
+          "date": "11-21",
+          "title": "코세스, AI 데이터센터 규제가 호재로…SOFC 주전원 시대 열린다",
+          "risk": false
+        }
+      ],
+      "price": 36750,
+      "chg": 0.0208,
+      "activity": 1.62,
+      "foreign_today": 0,
+      "inst_today": 661500000,
+      "exchange": "KOSDAQ"
+    },
     {
       "code": "036540",
       "name": "SFA반도체",
@@ -98,7 +142,7 @@
       "vol20": 1.456,
       "foreign_net": -20279995820,
       "inst_net": 15279085080,
-      "score": 1.0,
+      "score": 0.568,
       "news": [
         {
           "date": "11-24",
@@ -116,113 +160,77 @@
           "risk": false
         }
       ],
-      "price": 9040,
-      "chg": 0.0101,
-      "activity": 2.5,
-      "foreign_today": 678000000,
-      "inst_today": 415840000,
-      "exchange": "KOSDAQ"
-    },
-    {
-      "code": "089890",
-      "name": "코세스",
-      "close": 36350,
-      "ret5": 0.1503,
-      "ret20": 0.0916,
-      "rsi14": 55.9,
-      "vol20": 1.506,
-      "foreign_net": -2693257775,
-      "inst_net": 5457807300,
-      "score": 0.964,
-      "news": [
-        {
-          "date": "11-21",
-          "title": "코세스, AI 데이터센터 규제가 호재로…SOFC 주전원 시대 열린다",
-          "risk": false
-        }
-      ],
-      "price": 36500,
-      "chg": 0.0139,
-      "activity": 1.8,
-      "foreign_today": 511000000,
-      "inst_today": 219000000,
-      "exchange": "KOSDAQ"
-    },
-    {
-      "code": "232140",
-      "name": "와이씨",
-      "close": 15100,
-      "ret5": 0.1642,
-      "ret20": 0.2573,
-      "rsi14": 58.0,
-      "vol20": 1.365,
-      "foreign_net": -15050681815,
-      "inst_net": 25368297940,
-      "score": 0.893,
-      "news": [],
-      "price": 16080,
-      "chg": 0.1036,
-      "activity": 5.22,
+      "price": 9150,
+      "chg": 0.0223,
+      "activity": 2.23,
       "foreign_today": 0,
-      "inst_today": 16080000,
+      "inst_today": 878400000,
       "exchange": "KOSDAQ"
     },
     {
-      "code": "053800",
-      "name": "안랩",
-      "close": 114500,
-      "ret5": 0.0853,
-      "ret20": 0.4153,
-      "rsi14": 57.8,
-      "vol20": 1.499,
-      "foreign_net": -7525818800,
-      "inst_net": 11043703450,
-      "score": 0.821,
+      "code": "043260",
+      "name": "성호전자",
+      "close": 24200,
+      "ret5": 0.1308,
+      "ret20": -0.0936,
+      "rsi14": 49.3,
+      "vol20": 1.382,
+      "foreign_net": 1105036700,
+      "inst_net": -364221775,
+      "score": 0.568,
       "news": [
         {
           "date": "11-24",
-          "title": "더존비즈온, 안랩과 사이버보안 역량 강화 업무협약 체결",
-          "risk": false
-        },
-        {
-          "date": "11-24",
-          "title": "더존비즈온, 안랩과 손잡고 보안 강화",
-          "risk": false
-        }
-      ],
-      "price": 119900,
-      "chg": 0.0399,
-      "activity": 1.48,
-      "foreign_today": 3357200000,
-      "inst_today": 0,
-      "exchange": "KOSDAQ"
-    },
-    {
-      "code": "281820",
-      "name": "케이씨텍",
-      "close": 84200,
-      "ret5": 0.1909,
-      "ret20": -0.0288,
-      "rsi14": 52.3,
-      "vol20": 1.538,
-      "foreign_net": -11407166650,
-      "inst_net": 25015022950,
-      "score": 0.714,
-      "news": [
-        {
-          "date": "11-24",
-          "title": "[특징주] 케이씨텍, 美 AI 반도체 급반등·전공정 투자 기대에 장중 15% ...",
+          "title": "성호전자 주가, 11월 24일 장중 25,100원 6.81% 상승",
           "risk": false
         },
         {
           "date": "11-23",
-          "title": "케이씨텍 오르고 두산 내리고…반도체 재료 부품주 차별화 뚜렷",
+          "title": "성호전자 주가, 11월 23일 애프터마켓 23,750원 3.26% 하락",
+          "risk": false
+        },
+        {
+          "date": "11-23",
+          "title": "성호전자 2.44% 하락…누적 영업이익 144억원으로 개선",
           "risk": false
         }
       ],
+      "price": 25400,
+      "chg": 0.0809,
+      "activity": 1.86,
+      "foreign_today": 1244600000,
+      "inst_today": 355600000,
+      "exchange": "KOSDAQ"
+    },
+    {
+      "code": "356860",
+      "name": "티엘비",
+      "close": 44000,
+      "ret5": 0.1702,
+      "ret20": 0.2662,
+      "rsi14": 55.4,
+      "vol20": 1.848,
+      "foreign_net": -107180050,
+      "inst_net": 2406541350,
+      "score": 0.545,
+      "news": [
+        {
+          "date": "11-23",
+          "title": "티엘비, 우리사주조합에 보통주 5만9880주 출연",
+          "risk": false
+        },
+        {
+          "date": "11-23",
+          "title": "티엘비 1.53% 상승…3분기 영업이익 166억원으로 91.8% 증가",
+          "risk": false
+        }
+      ],
+      "price": 43050,
+      "chg": 0.025,
+      "activity": 1.82,
       "foreign_today": 0,
-      "inst_today": 2441800000,
-      "exchange": "KOSPI"
+      "inst_today": 947100000,
+      "exchange": "KOSDAQ"
     },
     {
       "code": "114800",
