@@ -24,7 +24,7 @@ agent/      트레이딩 에이전트 (실행법 agent/README.md, 에이전트 �
   run.py      prep / decide / exit / close / tune / review / report / monitor
   work/       실행 산출물 (커밋 안 함). journal.jsonl 이 모든 기록의 원본
 live/       snapshot.py — 키움 잔고(kt00018) · KOSPI(ka20001) → Supabase push_snapshot, 30초마다 (params.live.snapshot_sec, 30초 밑 금지)
-supabase/   schema.sql (comments · snapshots · push_snapshot) · kospi.sql · flow.sql · realtime.sql (KOSPI · 수급 20초 수집) · heartbeat.sql
+supabase/   schema.sql (comments · snapshots · push_snapshot) · kospi.sql · flow.sql · realtime.sql (KOSPI · 수급 20초 수집) · heartbeat.sql · spx.sql (S&P 500 선물 1분, 11-25)
 docs/       GitHub Pages 대시보드 https://isopink.github.io/sigma-engine/ — index.html 한 파일 (D3 7.9.0, 빌드 없음) · config.js · data/*.json
 reports/    보고서 · changes.tsv · changelog_plain.tsv · make_changelog.py · drafts/ (회고 · 보고서 초안) · decisions.md
 assets/     README 그림 · diagrams/*.mmd

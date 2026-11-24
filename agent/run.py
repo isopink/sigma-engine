@@ -203,6 +203,7 @@ def main():
     if kind == "prep":
         refresh_account()
         py("data_prep.py")
+        py("benchmark.py")   # 11-25 간밤 S&P 500 종가 (실시간 선물 끝점의 기준) · KODEX 200 일봉
         publish(f"Agent prep {C.today().isoformat()}")   # 판단 전에도 대시보드에 오늘 시장 자료가 보이도록
         return
     if kind == "close":

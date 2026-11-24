@@ -78,11 +78,11 @@ def update_spx():
     import datetime as dt
     cosd = (dt.date.fromisoformat(start) - dt.timedelta(days=10)).isoformat()
     ua = {"User-Agent": "Mozilla/5.0"}
-    try:
+    try:   # 11-25 Yahoo 먼저 (FRED 는 하루 늦게 올라옴 → 실시간 선물 끝점과 기준 종가가 어긋남)
+        days = spx_parse_yahoo(urllib.request.urlopen(urllib.request.Request(SPX_YAHOO, headers=ua), timeout=20).read().decode())
+    except Exception:  # noqa: BLE001  Yahoo 가 안 되면 FRED
         txt = urllib.request.urlopen(urllib.request.Request(SPX_FRED.format(start=cosd), headers=ua), timeout=20).read().decode()
         days = spx_parse_fred(txt)
-    except Exception:  # noqa: BLE001  FRED 가 안 되면 Yahoo
-        days = spx_parse_yahoo(urllib.request.urlopen(urllib.request.Request(SPX_YAHOO, headers=ua), timeout=20).read().decode())
     path = os.path.join(C.DOCS_DATA, "spx.json")
     old = (C.read_json(path, {}) or {}).get("days") or {}
     out = spx_build({**old, **days}, start)   # 받아 온 값이 없는 날은 예전 값 유지
