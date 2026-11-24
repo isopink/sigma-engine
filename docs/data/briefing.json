@@ -81,13 +81,32 @@
     ]
   },
   "intraday": {
-    "time": "14:30",
-    "pool": 407,
+    "time": "15:00",
+    "pool": 405,
     "analyzed_new": 30,
-    "passed": 8,
+    "passed": 10,
     "kept_prep": false
   },
   "candidates": [
+    {
+      "code": "086790",
+      "name": "하나금융지주",
+      "close": 118000,
+      "ret5": -0.0694,
+      "ret20": 0.0415,
+      "rsi14": 41.6,
+      "vol20": 0.339,
+      "foreign_net": -40988458250,
+      "inst_net": 40118492100,
+      "score": 0.5,
+      "news": [],
+      "price": 123000,
+      "chg": 0.0486,
+      "activity": 0.95,
+      "foreign_today": 0,
+      "inst_today": 4059000000,
+      "exchange": "KOSPI"
+    },
     {
       "code": "178320",
       "name": "서진시스템",
@@ -98,7 +117,7 @@
       "vol20": 0.948,
       "foreign_net": 1052832750,
       "inst_net": 6588986000,
-      "score": 0.263,
+      "score": 0.318,
       "news": [
         {
           "date": "11-24",
@@ -111,10 +130,10 @@
           "risk": false
         }
       ],
-      "price": 31650,
-      "chg": 0.1304,
-      "activity": 0.76,
-      "foreign_today": 791250000,
+      "price": 32100,
+      "chg": 0.1464,
+      "activity": 0.78,
+      "foreign_today": 802500000,
       "inst_today": 0,
       "exchange": "KOSDAQ"
     },
@@ -136,11 +155,11 @@
           "risk": false
         }
       ],
-      "price": 16410,
-      "chg": 0.1263,
-      "activity": 2.99,
-      "foreign_today": 3364050000,
-      "inst_today": 3446100000,
+      "price": 16140,
+      "chg": 0.1078,
+      "activity": 2.79,
+      "foreign_today": 3308700000,
+      "inst_today": 3389400000,
       "exchange": "KOSDAQ"
     },
     {
@@ -153,7 +172,7 @@
       "vol20": 1.33,
       "foreign_net": -5568385275,
       "inst_net": 16458409325,
-      "score": 0.877,
+      "score": 0.924,
       "news": [
         {
           "date": "11-23",
@@ -166,10 +185,10 @@
           "risk": false
         }
       ],
-      "price": 33200,
-      "chg": 0.0311,
-      "activity": 3.93,
-      "foreign_today": 1029200000,
+      "price": 32950,
+      "chg": 0.0233,
+      "activity": 3.77,
+      "foreign_today": 1021450000,
       "inst_today": 0,
       "exchange": "KOSDAQ"
     },
@@ -183,7 +202,7 @@
       "vol20": 1.506,
       "foreign_net": -2693257775,
       "inst_net": 5457807300,
-      "score": 0.807,
+      "score": 0.818,
       "news": [
         {
           "date": "11-21",
@@ -191,11 +210,11 @@
           "risk": false
         }
       ],
-      "price": 37650,
-      "chg": 0.0458,
+      "price": 37850,
+      "chg": 0.0514,
       "activity": 1.2,
-      "foreign_today": 865950000,
-      "inst_today": 1807200000,
+      "foreign_today": 870550000,
+      "inst_today": 1816800000,
       "exchange": "KOSDAQ"
     },
     {
@@ -208,7 +227,7 @@
       "vol20": 1.456,
       "foreign_net": -20279995820,
       "inst_net": 15279085080,
-      "score": 0.509,
+      "score": 0.53,
       "news": [
         {
           "date": "11-24",
@@ -226,11 +245,11 @@
           "risk": false
         }
       ],
-      "price": 9050,
-      "chg": 0.0112,
-      "activity": 1.38,
+      "price": 8980,
+      "chg": 0.0034,
+      "activity": 1.3,
       "foreign_today": 0,
-      "inst_today": 868800000,
+      "inst_today": 862080000,
       "exchange": "KOSDAQ"
     },
     {
@@ -243,7 +262,7 @@
       "vol20": 1.538,
       "foreign_net": -11407166650,
       "inst_net": 25015022950,
-      "score": 0.509,
+      "score": 0.53,
       "news": [
         {
           "date": "11-24",
@@ -298,6 +317,30 @@
         }
       ],
       "exchange": "ETF"
+    },
+    {
+      "code": "196170",
+      "name": "알테오젠",
+      "close": 169000,
+      "ret5": -0.0134,
+      "ret20": -0.2248,
+      "rsi14": 32.6,
+      "vol20": 0.783,
+      "foreign_net": -7654090000,
+      "inst_net": 29607092150,
+      "score": 0,
+      "news": [
+        {
+          "date": "11-24",
+          "title": "알테오젠 4.27% 조정…ALT-B4 후속 개발 일정에 무게",
+          "risk": false
+        }
+      ],
+      "price": 159200,
+      "chg": -0.0552,
+      "foreign_today": 0,
+      "inst_today": 0,
+      "exchange": "KOSDAQ"
     }
   ]
 }
