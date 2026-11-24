@@ -81,8 +81,8 @@
     ]
   },
   "intraday": {
-    "time": "12:30",
-    "pool": 387,
+    "time": "13:00",
+    "pool": 388,
     "analyzed_new": 30,
     "passed": 8,
     "kept_prep": false
@@ -98,11 +98,11 @@
       "vol20": 0.948,
       "foreign_net": 1052832750,
       "inst_net": 6588986000,
-      "score": 0.288,
+      "score": 0.297,
       "news": [],
       "price": 31600,
       "chg": 0.1286,
-      "activity": 0.96,
+      "activity": 0.9,
       "foreign_today": 442400000,
       "inst_today": 0,
       "exchange": "KOSDAQ"
@@ -119,11 +119,11 @@
       "inst_net": 25368297940,
       "score": 1.0,
       "news": [],
-      "price": 16300,
-      "chg": 0.1187,
-      "activity": 3.77,
-      "foreign_today": 3586000000,
-      "inst_today": 358600000,
+      "price": 16220,
+      "chg": 0.1132,
+      "activity": 3.43,
+      "foreign_today": 3568400000,
+      "inst_today": 356840000,
       "exchange": "KOSDAQ"
     },
     {
@@ -136,7 +136,7 @@
       "vol20": 1.506,
       "foreign_net": -2693257775,
       "inst_net": 5457807300,
-      "score": 0.746,
+      "score": 0.75,
       "news": [
         {
           "date": "11-21",
@@ -144,46 +144,11 @@
           "risk": false
         }
       ],
-      "price": 37250,
-      "chg": 0.0347,
-      "activity": 1.34,
+      "price": 37200,
+      "chg": 0.0333,
+      "activity": 1.29,
       "foreign_today": 0,
-      "inst_today": 670500000,
-      "exchange": "KOSDAQ"
-    },
-    {
-      "code": "053800",
-      "name": "안랩",
-      "close": 114500,
-      "ret5": 0.0853,
-      "ret20": 0.4153,
-      "rsi14": 57.8,
-      "vol20": 1.499,
-      "foreign_net": -7525818800,
-      "inst_net": 11043703450,
-      "score": 0.627,
-      "news": [
-        {
-          "date": "11-24",
-          "title": "더존비즈온과 안랩, ERP 보안 위해 손잡았다",
-          "risk": false
-        },
-        {
-          "date": "11-24",
-          "title": "더존비즈온·안랩, 사이버보안 강화 맞손…ERP 보안 기술 공동 연구",
-          "risk": false
-        },
-        {
-          "date": "11-24",
-          "title": "안랩, AI 프로그램 '올라마' 위장 신종 악성코드 발견…국내 백신 무력...",
-          "risk": false
-        }
-      ],
-      "price": 120000,
-      "chg": 0.0408,
-      "activity": 0.98,
-      "foreign_today": 4680000000,
-      "inst_today": 0,
+      "inst_today": 669600000,
       "exchange": "KOSDAQ"
     },
     {
@@ -196,7 +161,7 @@
       "vol20": 1.456,
       "foreign_net": -20279995820,
       "inst_net": 15279085080,
-      "score": 0.61,
+      "score": 0.609,
       "news": [
         {
           "date": "11-24",
@@ -214,46 +179,65 @@
           "risk": false
         }
       ],
-      "price": 9080,
-      "chg": 0.0145,
-      "activity": 1.83,
+      "price": 9010,
+      "chg": 0.0067,
+      "activity": 1.66,
       "foreign_today": 0,
-      "inst_today": 871680000,
+      "inst_today": 864960000,
       "exchange": "KOSDAQ"
     },
     {
-      "code": "043260",
-      "name": "성호전자",
-      "close": 24200,
-      "ret5": 0.1308,
-      "ret20": -0.0936,
-      "rsi14": 49.3,
-      "vol20": 1.382,
-      "foreign_net": 1105036700,
-      "inst_net": -364221775,
-      "score": 0.576,
+      "code": "053800",
+      "name": "안랩",
+      "close": 114500,
+      "ret5": 0.0853,
+      "ret20": 0.4153,
+      "rsi14": 57.8,
+      "vol20": 1.499,
+      "foreign_net": -7525818800,
+      "inst_net": 11043703450,
+      "score": 0.594,
       "news": [
         {
           "date": "11-24",
-          "title": "성호전자 주가, 11월 24일 장중 25,100원 6.81% 상승",
+          "title": "더존비즈온·안랩, ERP 보안 강화 협력…공동 연구 추진",
           "risk": false
         },
         {
-          "date": "11-23",
-          "title": "성호전자 주가, 11월 23일 애프터마켓 23,750원 3.26% 하락",
+          "date": "11-24",
+          "title": "더존비즈온-안랩 손잡았다…ERP 사이버보안 강화",
           "risk": false
         },
         {
-          "date": "11-23",
-          "title": "성호전자 2.44% 하락…누적 영업이익 144억원으로 개선",
+          "date": "11-24",
+          "title": "더존비즈온과 안랩, ERP 보안 위해 손잡았다",
           "risk": false
         }
       ],
-      "price": 25100,
-      "chg": 0.0681,
-      "activity": 1.44,
-      "foreign_today": 1229900000,
-      "inst_today": 351400000,
+      "price": 119800,
+      "chg": 0.039,
+      "activity": 0.89,
+      "foreign_today": 4672200000,
+      "inst_today": 0,
+      "exchange": "KOSDAQ"
+    },
+    {
+      "code": "100790",
+      "name": "미래에셋벤처투자",
+      "close": 12360,
+      "ret5": -0.1363,
+      "ret20": -0.0492,
+      "rsi14": 43.7,
+      "vol20": 1.163,
+      "foreign_net": -4241348560,
+      "inst_net": -197991065,
+      "score": 0.594,
+      "news": [],
+      "price": 13810,
+      "chg": 0.1413,
+      "activity": 1.49,
+      "foreign_today": 414300000,
+      "inst_today": 0,
       "exchange": "KOSDAQ"
     },
     {
