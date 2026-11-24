@@ -58,11 +58,11 @@ assets/     README 그림 · diagrams/*.mmd
 
 | 단계 | 에이전트 | 하는 일 | 모델 · effort |
 |---|---|---|---|
-| 30분 판단 | 총괄 | 최종 확신도 · 행동, 지휘 | Opus 5.5 xhigh |
-| | regime | 국면 (상승 · 횡보 · 하락) | Opus high |
-| | position | 보유 종목 매도 · 보유 · 추가 매수 확신도 | Opus xhigh |
-| | research | 토론 대상 종목 사실 표 (검색 6번 · 8분) | Opus xhigh |
-| | bull · bear | 같은 사실 표로 후보 토론 (직접 검색 안 함) | Opus high · xhigh |
+| 30분 판단 | 총괄 | 최종 확신도 · 행동, 지휘 | Opus 5.5 high (11-25 xhigh → high) |
+| | regime | 국면 (상승 · 횡보 · 하락) | Opus medium |
+| | position | 보유 종목 매도 · 보유 · 추가 매수 확신도 | Opus medium |
+| | research | 토론 대상 종목 사실 표 (검색 6번 · 8분) | Opus medium |
+| | bull · bear | 같은 사실 표로 후보 토론 (직접 검색 안 함) | Opus medium · high |
 | | executor | 결정대로 매도 → 매수 → 기록 | Haiku 5.5 medium |
 | 손절 · 익절 | 총괄 | 조건 확인 후 직접 주문 | Opus high |
 | 16:00 조정 | scorer → tuner | 채점 → 기준값 0~2개 · 교훈 (`apply_tuning`) | Opus max |
@@ -70,7 +70,7 @@ assets/     README 그림 · diagrams/*.mmd
 
 - 순서: regime · position · research 동시 → bull → bear → `verify_claims` (근거 숫자를 브리핑 · 계좌 · 사실 표와 대조) → 총괄 → executor
 - **라우팅** (`src/routing.py`): 직전 회차 대비 가격 ±1.5% · 외국인/기관 순매수 방향 바뀜(5억 이상) · 새 뉴스 · 새 후보만 토론, 나머지는 직전 판단 이어 쓰기. 그날 첫 회차 · 09:30 · 15:00 · 15:15 는 전부 토론
-- effort 는 `params.effort` (run.py 가 `--effort`), 서브에이전트는 각 파일 frontmatter. 전부 토론 회차가 12분 넘으면 bear 를 high 로
+- effort 는 `params.effort` (run.py 가 `--effort`), 서브에이전트는 각 파일 frontmatter. 11-25 사용 한도 때문에 총괄 · bear 만 high, 나머지 medium
 
 ## 전략 (값의 원본은 `agent/config/params.json`, 자동 조정으로 바뀜)
 
