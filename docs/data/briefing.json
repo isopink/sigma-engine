@@ -81,41 +81,36 @@
     ]
   },
   "intraday": {
-    "time": "09:30",
-    "pool": 331,
+    "time": "10:00",
+    "pool": 355,
     "analyzed_new": 30,
-    "passed": 8,
+    "passed": 7,
     "kept_prep": false
   },
   "candidates": [
     {
-      "code": "032820",
-      "name": "우리기술",
-      "close": 8110,
-      "ret5": 0.005,
-      "ret20": -0.1009,
-      "rsi14": 40.9,
-      "vol20": 0.795,
-      "foreign_net": 159074440,
-      "inst_net": 4770344185,
-      "score": 0.828,
+      "code": "437730",
+      "name": "삼현",
+      "close": 54700,
+      "ret5": 0.148,
+      "ret20": 0.1492,
+      "rsi14": 64.5,
+      "vol20": 1.274,
+      "foreign_net": -8381361300,
+      "inst_net": 32311160250,
+      "score": 1.0,
       "news": [
         {
-          "date": "11-24",
-          "title": "두산에너빌리티·우리기술·한전기술 등 원자력발전주 동반 강세…장 초...",
-          "risk": false
-        },
-        {
           "date": "11-23",
-          "title": "두산에너빌리티·우리기술 등 원전주 약세…양대지수 하락 속 흐름은?",
+          "title": "삼현 6.72% 상승하며 장중 최고가 마감권…모빌리티 부품 성장 기대",
           "risk": false
         }
       ],
-      "price": 8600,
-      "chg": 0.0737,
-      "activity": 3.84,
-      "foreign_today": 292400000,
-      "inst_today": 0,
+      "price": 61000,
+      "chg": 0.1317,
+      "activity": 10.7,
+      "foreign_today": 2440000000,
+      "inst_today": 793000000,
       "exchange": "KOSDAQ"
     },
     {
@@ -128,7 +123,7 @@
       "vol20": 1.456,
       "foreign_net": -20279995820,
       "inst_net": 15279085080,
-      "score": 1.0,
+      "score": 0.735,
       "news": [
         {
           "date": "11-24",
@@ -146,74 +141,76 @@
           "risk": false
         }
       ],
-      "price": 9410,
-      "chg": 0.0514,
-      "activity": 5.25,
-      "foreign_today": 564600000,
-      "inst_today": 0,
-      "exchange": "KOSDAQ"
-    },
-    {
-      "code": "100790",
-      "name": "미래에셋벤처투자",
-      "close": 12360,
-      "ret5": -0.1363,
-      "ret20": -0.0492,
-      "rsi14": 43.7,
-      "vol20": 1.163,
-      "foreign_net": -4241348560,
-      "inst_net": -197991065,
-      "score": 0.793,
-      "news": [],
-      "price": 13070,
-      "chg": 0.0802,
+      "price": 9280,
+      "chg": 0.0369,
       "activity": 3.48,
-      "foreign_today": 457450000,
-      "inst_today": 0,
+      "foreign_today": 696000000,
+      "inst_today": 426880000,
       "exchange": "KOSDAQ"
     },
     {
-      "code": "460940",
-      "name": "피앤에스로보틱스",
-      "close": 5980,
-      "ret5": 0.1241,
-      "ret20": 0.5139,
-      "rsi14": 60.2,
-      "vol20": 2.02,
-      "foreign_net": 732513780,
-      "inst_net": -4560,
-      "score": 0.69,
+      "code": "053800",
+      "name": "안랩",
+      "close": 114500,
+      "ret5": 0.0853,
+      "ret20": 0.4153,
+      "rsi14": 57.8,
+      "vol20": 1.499,
+      "foreign_net": -7525818800,
+      "inst_net": 11043703450,
+      "score": 0.529,
       "news": [
         {
-          "date": "11-23",
-          "title": "피앤에스로보틱스 거래 373만주…12.13% 상승 마감",
+          "date": "11-24",
+          "title": "더존비즈온, 안랩과 정보보안 협력…ERP 보안 역량 강화",
+          "risk": false
+        },
+        {
+          "date": "11-24",
+          "title": "더존비즈온, 안랩과 정보보안 협력 업무협약 체결",
+          "risk": false
+        },
+        {
+          "date": "11-24",
+          "title": "더존비즈온, 안랩과 맞손…정보보호 역량 고도화",
           "risk": false
         }
       ],
-      "price": 6270,
-      "chg": 0.0279,
-      "activity": 4.58,
-      "foreign_today": 62700000,
+      "price": 120300,
+      "chg": 0.0434,
+      "activity": 1.99,
+      "foreign_today": 3368400000,
       "inst_today": 0,
       "exchange": "KOSDAQ"
     },
     {
-      "code": "222800",
-      "name": "심텍",
-      "close": 105000,
-      "ret5": -0.0269,
-      "ret20": -0.0094,
-      "rsi14": 44.3,
-      "vol20": 1.464,
-      "foreign_net": -45161322700,
-      "inst_net": -43354103650,
-      "score": 0.517,
-      "news": [],
-      "price": 115500,
-      "chg": 0.1312,
-      "activity": 2.94,
-      "foreign_today": 1386000000,
-      "inst_today": 0,
+      "code": "356860",
+      "name": "티엘비",
+      "close": 44000,
+      "ret5": 0.1702,
+      "ret20": 0.2662,
+      "rsi14": 55.4,
+      "vol20": 1.848,
+      "foreign_net": -107180050,
+      "inst_net": 2406541350,
+      "score": 0.471,
+      "news": [
+        {
+          "date": "11-23",
+          "title": "티엘비, 우리사주조합에 보통주 5만9880주 출연",
+          "risk": false
+        },
+        {
+          "date": "11-23",
+          "title": "티엘비 1.53% 상승…3분기 영업이익 166억원으로 91.8% 증가",
+          "risk": false
+        }
+      ],
+      "price": 44400,
+      "chg": 0.0571,
+      "activity": 2.42,
+      "foreign_today": 0,
+      "inst_today": 532800000,
       "exchange": "KOSDAQ"
     },
     {
@@ -226,28 +223,28 @@
       "vol20": 1.327,
       "foreign_net": -406621663,
       "inst_net": 135015220,
-      "score": 0.414,
+      "score": 0.471,
       "news": [
+        {
+          "date": "11-24",
+          "title": "노랑풍선, 2027년 허니문 시장 공략…몰디브·칸쿤 등 8개 지역 혜택 강...",
+          "risk": false
+        },
+        {
+          "date": "11-24",
+          "title": "노랑풍선, 2027년 신혼여행 수요 겨냥 '2026 허니문 온라인 박람회' 운영",
+          "risk": false
+        },
         {
           "date": "11-24",
           "title": "스냅 촬영·공항 라운지 이용권 혜택…노랑풍선, 허니문 온라인 박람회",
           "risk": false
-        },
-        {
-          "date": "11-24",
-          "title": "노랑풍선, 발리·몰디브 등 8개 지역 허니문 혜택 제공",
-          "risk": false
-        },
-        {
-          "date": "11-23",
-          "title": "한진칼우 회전율 114%…노랑풍선 53% 손바뀜",
-          "risk": false
         }
       ],
-      "price": 4615,
-      "chg": -0.017,
-      "activity": 2.89,
-      "foreign_today": 207675000,
+      "price": 4610,
+      "chg": -0.0181,
+      "activity": 2.54,
+      "foreign_today": 258160000,
       "inst_today": 0,
       "exchange": "KOSDAQ"
     },
