@@ -1,19 +1,18 @@
 {
-  "created": "2026-11-24 08:31",
-  "asof": "2026-11-23",
+  "created": "2026-11-25 08:31",
+  "asof": "2026-11-24",
   "universe": 74,
   "source": "krx",
   "market": {
     "source": "KOSPI",
-    "close": 4709,
-    "ma20": 5354,
-    "ma60": 6149,
-    "ret5": -0.0768,
-    "ret20": -0.1391,
-    "rsi14": 31.2,
-    "rule_hint": "하락",
+    "close": 5006,
+    "ma20": 5322,
+    "ma60": 6119,
+    "ret5": 0.0076,
+    "ret20": -0.1121,
+    "rsi14": 40.3,
+    "rule_hint": "횡보",
     "closes": [
-      6471.17,
       6852.58,
       6912.95,
       6696.96,
@@ -77,77 +76,98 @@
       5067.44,
       5137.89,
       4869.96,
-      4708.54
+      4708.54,
+      5006.03
     ]
   },
-  "intraday": {
-    "time": "15:00",
-    "pool": 405,
-    "analyzed_new": 30,
-    "passed": 10,
-    "kept_prep": false
-  },
+  "intraday": null,
   "candidates": [
     {
-      "code": "086790",
-      "name": "하나금융지주",
-      "close": 118000,
-      "ret5": -0.0694,
-      "ret20": 0.0415,
-      "rsi14": 41.6,
-      "vol20": 0.339,
-      "foreign_net": -40988458250,
-      "inst_net": 40118492100,
-      "score": 0.5,
-      "news": [],
-      "price": 123000,
-      "chg": 0.0486,
-      "activity": 0.95,
-      "foreign_today": 0,
-      "inst_today": 4059000000,
-      "exchange": "KOSPI"
-    },
-    {
-      "code": "178320",
-      "name": "서진시스템",
-      "close": 28700,
-      "ret5": -0.0975,
-      "ret20": -0.0816,
-      "rsi14": 42.5,
-      "vol20": 0.948,
-      "foreign_net": 1052832750,
-      "inst_net": 6588986000,
-      "score": 0.318,
+      "code": "319400",
+      "name": "현대무벡스",
+      "close": 16530,
+      "ret5": 0.1439,
+      "ret20": -0.0608,
+      "rsi14": 49.7,
+      "vol20": 0.873,
+      "foreign_net": -2074592580,
+      "inst_net": 8162000395,
+      "score": 0.196,
       "news": [
         {
           "date": "11-24",
-          "title": "[통신 기자재 점검] [서진시스템] 통신 기자재서 반도체로 무게중심…영...",
+          "title": "현대무벡스 10.72% 뛰어 1만7450원…최대주주 지분 거래 변수",
           "risk": false
         },
         {
           "date": "11-24",
-          "title": "서진시스템 장중 3만1600원…거래대금 120억원 넘어",
+          "title": "엔비디아·삼성전자 '훈풍'?...현대무벡스 등 로봇주 '장중 껑충'",
+          "risk": false
+        },
+        {
+          "date": "11-24",
+          "title": "[특징주] 현대무벡스, 로봇·스마트팩토리 매수세 유입에 급등...AGV·물...",
           "risk": false
         }
       ],
-      "price": 32100,
-      "chg": 0.1464,
-      "activity": 0.78,
-      "foreign_today": 802500000,
-      "inst_today": 0,
+      "exchange": "KOSDAQ"
+    },
+    {
+      "code": "277810",
+      "name": "레인보우로보틱스",
+      "close": 451500,
+      "ret5": 0.326,
+      "ret20": 0.2647,
+      "rsi14": 62.7,
+      "vol20": 1.238,
+      "foreign_net": -39146950750,
+      "inst_net": 110933688000,
+      "score": 1.0,
+      "news": [
+        {
+          "date": "11-24",
+          "title": "코스닥, 4%대 상승에 660선 회복...레인보우로보틱스, 에코프로비엠 등...",
+          "risk": false
+        },
+        {
+          "date": "11-24",
+          "title": "유진투자증권 \"삼성전자 HR·HE 공개 임박 기대…레인보우로보틱스 몸값...",
+          "risk": false
+        }
+      ],
+      "exchange": "KOSDAQ"
+    },
+    {
+      "code": "437730",
+      "name": "삼현",
+      "close": 60300,
+      "ret5": 0.2843,
+      "ret20": 0.2382,
+      "rsi14": 69.9,
+      "vol20": 1.315,
+      "foreign_net": -5321161900,
+      "inst_net": 49825739875,
+      "score": 0.961,
+      "news": [
+        {
+          "date": "11-24",
+          "title": "현대모비스·삼현 '부르릉'… 자동차부품주 실적 개선 기대 커졌다",
+          "risk": false
+        }
+      ],
       "exchange": "KOSDAQ"
     },
     {
       "code": "232140",
       "name": "와이씨",
-      "close": 15100,
-      "ret5": 0.1642,
-      "ret20": 0.2573,
-      "rsi14": 58.0,
-      "vol20": 1.365,
-      "foreign_net": -15050681815,
-      "inst_net": 25368297940,
-      "score": 1.0,
+      "close": 15430,
+      "ret5": 0.1117,
+      "ret20": 0.1806,
+      "rsi14": 59.2,
+      "vol20": 1.338,
+      "foreign_net": -13909420860,
+      "inst_net": 27627739070,
+      "score": 0.863,
       "news": [
         {
           "date": "11-24",
@@ -155,24 +175,19 @@
           "risk": false
         }
       ],
-      "price": 16140,
-      "chg": 0.1078,
-      "activity": 2.79,
-      "foreign_today": 3308700000,
-      "inst_today": 3389400000,
       "exchange": "KOSDAQ"
     },
     {
       "code": "290550",
       "name": "디케이티",
-      "close": 32750,
-      "ret5": 0.1844,
-      "ret20": 0.3313,
-      "rsi14": 65.7,
-      "vol20": 1.33,
-      "foreign_net": -5568385275,
-      "inst_net": 16458409325,
-      "score": 0.924,
+      "close": 31550,
+      "ret5": 0.2019,
+      "ret20": 0.2324,
+      "rsi14": 62.3,
+      "vol20": 1.34,
+      "foreign_net": -4324312575,
+      "inst_net": 13653803000,
+      "score": 0.647,
       "news": [
         {
           "date": "11-23",
@@ -185,108 +200,41 @@
           "risk": false
         }
       ],
-      "price": 32950,
-      "chg": 0.0233,
-      "activity": 3.77,
-      "foreign_today": 1021450000,
-      "inst_today": 0,
       "exchange": "KOSDAQ"
     },
     {
-      "code": "089890",
-      "name": "코세스",
-      "close": 36350,
-      "ret5": 0.1503,
-      "ret20": 0.0916,
-      "rsi14": 55.9,
-      "vol20": 1.506,
-      "foreign_net": -2693257775,
-      "inst_net": 5457807300,
-      "score": 0.818,
+      "code": "108490",
+      "name": "로보티즈",
+      "close": 281500,
+      "ret5": 0.3373,
+      "ret20": 0.1126,
+      "rsi14": 58.4,
+      "vol20": 1.256,
+      "foreign_net": 9276529500,
+      "inst_net": 100845733750,
+      "score": 0.608,
       "news": [
         {
-          "date": "11-21",
-          "title": "코세스, AI 데이터센터 규제가 호재로…SOFC 주전원 시대 열린다",
-          "risk": false
-        }
-      ],
-      "price": 37850,
-      "chg": 0.0514,
-      "activity": 1.2,
-      "foreign_today": 870550000,
-      "inst_today": 1816800000,
-      "exchange": "KOSDAQ"
-    },
-    {
-      "code": "036540",
-      "name": "SFA반도체",
-      "close": 9110,
-      "ret5": 0.1247,
-      "ret20": 0.1275,
-      "rsi14": 54.1,
-      "vol20": 1.456,
-      "foreign_net": -20279995820,
-      "inst_net": 15279085080,
-      "score": 0.53,
-      "news": [
-        {
-          "date": "11-24",
-          "title": "SFA반도체 상승폭 0.89%…9,030원에서 거래",
+          "date": "11-25",
+          "title": "에스피지·로보티즈 24%·19% 급등…로봇주 강세",
           "risk": false
         },
         {
           "date": "11-24",
-          "title": "금양그린파워 상한가…SFA반도체 10%대 상승",
-          "risk": false
-        },
-        {
-          "date": "11-23",
-          "title": "AI·HBM 투자 확대 기대…테스·SFA반도체 강세에 장비주도 들썩",
+          "title": "로보티즈 주가, 11월 24일 애프터마켓 288,000원 17.07% 상승 흐름",
           "risk": false
         }
       ],
-      "price": 8980,
-      "chg": 0.0034,
-      "activity": 1.3,
-      "foreign_today": 0,
-      "inst_today": 862080000,
       "exchange": "KOSDAQ"
-    },
-    {
-      "code": "281820",
-      "name": "케이씨텍",
-      "close": 84200,
-      "ret5": 0.1909,
-      "ret20": -0.0288,
-      "rsi14": 52.3,
-      "vol20": 1.538,
-      "foreign_net": -11407166650,
-      "inst_net": 25015022950,
-      "score": 0.53,
-      "news": [
-        {
-          "date": "11-24",
-          "title": "케이씨텍, 오전 장중 9만5600원까지 상승",
-          "risk": false
-        },
-        {
-          "date": "11-24",
-          "title": "[특징주] 케이씨텍, 美 AI 반도체 급반등·전공정 투자 기대에 장중 15% ...",
-          "risk": false
-        }
-      ],
-      "foreign_today": 0,
-      "inst_today": 5725600000,
-      "exchange": "KOSPI"
     },
     {
       "code": "114800",
       "name": "KODEX 인버스",
-      "close": 1427,
-      "ret5": 0.0778,
-      "ret20": 0.138,
-      "rsi14": 67.7,
-      "vol20": 0.6,
+      "close": 1330,
+      "ret5": -0.0213,
+      "ret20": 0.0974,
+      "rsi14": 56.3,
+      "vol20": 0.642,
       "foreign_net": null,
       "inst_net": null,
       "score": null,
@@ -296,51 +244,27 @@
     {
       "code": "069500",
       "name": "KODEX 200",
-      "close": 73770,
-      "ret5": -0.0767,
-      "ret20": -0.1422,
-      "rsi14": 31.8,
-      "vol20": 0.603,
+      "close": 78660,
+      "ret5": 0.0113,
+      "ret20": -0.1152,
+      "rsi14": 40.6,
+      "vol20": 0.642,
       "foreign_net": null,
       "inst_net": null,
       "score": null,
       "news": [
         {
-          "date": "11-23",
-          "title": "KODEX 200 3.41% 하락…대형주 약세에 지수형 ETF 동반 조정",
+          "date": "11-24",
+          "title": "증시 반등에 KODEX 200선물인버스2X 15% 하락",
           "risk": false
         },
         {
-          "date": "11-23",
-          "title": "KODEX 200선물인버스2X 6.82% 상승…지수 하락에 역방향 상품 강세",
+          "date": "11-24",
+          "title": "코스피200 반등에 KODEX 200 7.64% 상승…거래대금 1조원 넘어",
           "risk": false
         }
       ],
       "exchange": "ETF"
-    },
-    {
-      "code": "196170",
-      "name": "알테오젠",
-      "close": 169000,
-      "ret5": -0.0134,
-      "ret20": -0.2248,
-      "rsi14": 32.6,
-      "vol20": 0.783,
-      "foreign_net": -7654090000,
-      "inst_net": 29607092150,
-      "score": 0,
-      "news": [
-        {
-          "date": "11-24",
-          "title": "알테오젠 4.27% 조정…ALT-B4 후속 개발 일정에 무게",
-          "risk": false
-        }
-      ],
-      "price": 159200,
-      "chg": -0.0552,
-      "foreign_today": 0,
-      "inst_today": 0,
-      "exchange": "KOSDAQ"
     }
   ]
 }
