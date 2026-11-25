@@ -81,38 +81,13 @@
     ]
   },
   "intraday": {
-    "time": "12:30",
-    "pool": 400,
+    "time": "13:00",
+    "pool": 398,
     "analyzed_new": 30,
-    "passed": 16,
+    "passed": 15,
     "kept_prep": false
   },
   "candidates": [
-    {
-      "code": "241710",
-      "name": "코스메카코리아",
-      "close": 114300,
-      "ret5": 0.1476,
-      "ret20": 0.1119,
-      "rsi14": 59.9,
-      "vol20": 0.843,
-      "foreign_net": -29716394250,
-      "inst_net": 26239660200,
-      "score": 1.0,
-      "news": [
-        {
-          "date": "11-25",
-          "title": "[특징주] 코스메카코리아, 뷰티스킨·실리콘투와 화장품 테마 동반 랠리...",
-          "risk": false
-        }
-      ],
-      "price": 126900,
-      "chg": 0.1083,
-      "activity": 2.49,
-      "foreign_today": 0,
-      "inst_today": 2030400000,
-      "exchange": "KOSDAQ"
-    },
     {
       "code": "090430",
       "name": "아모레퍼시픽",
@@ -123,7 +98,7 @@
       "vol20": 0.412,
       "foreign_net": -1973039500,
       "inst_net": 18768960350,
-      "score": 0.978,
+      "score": 1.0,
       "news": [
         {
           "date": "11-25",
@@ -136,46 +111,36 @@
           "risk": false
         }
       ],
-      "price": 147700,
-      "chg": 0.0565,
-      "activity": 3.76,
+      "price": 148300,
+      "chg": 0.0608,
+      "activity": 3.46,
       "foreign_today": 0,
-      "inst_today": 11225200000,
+      "inst_today": 11270800000,
       "exchange": "KOSPI"
     },
     {
-      "code": "257720",
-      "name": "실리콘투",
-      "close": 25150,
-      "ret5": 0.0725,
-      "ret20": -0.1387,
-      "rsi14": 40.3,
-      "vol20": 0.658,
-      "foreign_net": -1148124650,
-      "inst_net": 5367383850,
-      "score": 0.955,
+      "code": "241710",
+      "name": "코스메카코리아",
+      "close": 114300,
+      "ret5": 0.1476,
+      "ret20": 0.1119,
+      "rsi14": 59.9,
+      "vol20": 0.843,
+      "foreign_net": -29716394250,
+      "inst_net": 26239660200,
+      "score": 0.989,
       "news": [
-        {
-          "date": "11-25",
-          "title": "실리콘투 주가, 급등세... 왜?",
-          "risk": false
-        },
         {
           "date": "11-25",
           "title": "[특징주] 코스메카코리아, 뷰티스킨·실리콘투와 화장품 테마 동반 랠리...",
           "risk": false
-        },
-        {
-          "date": "11-25",
-          "title": "실리콘투 13%·에이피알 10%↑…급락장서 K뷰티주 강세 [종목NOW]",
-          "risk": false
         }
       ],
-      "price": 29400,
-      "chg": 0.1395,
-      "activity": 5.75,
+      "price": 127000,
+      "chg": 0.1092,
+      "activity": 2.4,
       "foreign_today": 0,
-      "inst_today": 1969800000,
+      "inst_today": 2032000000,
       "exchange": "KOSDAQ"
     },
     {
@@ -188,7 +153,7 @@
       "vol20": 0.979,
       "foreign_net": -3494999850,
       "inst_net": 10971498200,
-      "score": 0.596,
+      "score": 0.634,
       "news": [],
       "foreign_today": 312000000,
       "inst_today": 312000000,
@@ -204,7 +169,7 @@
       "vol20": 0.855,
       "foreign_net": 23428669050,
       "inst_net": 50532992750,
-      "score": 0.539,
+      "score": 0.602,
       "news": [
         {
           "date": "11-25",
@@ -217,10 +182,10 @@
           "risk": false
         }
       ],
-      "price": 179150,
-      "chg": 0.0367,
-      "activity": 0.89,
-      "foreign_today": 1254050000,
+      "price": 178100,
+      "chg": 0.0307,
+      "activity": 0.84,
+      "foreign_today": 1246700000,
       "inst_today": 0,
       "exchange": "KOSPI"
     },
@@ -234,7 +199,7 @@
       "vol20": 0.271,
       "foreign_net": -4856013450,
       "inst_net": 10508941000,
-      "score": 0.416,
+      "score": 0.473,
       "news": [
         {
           "date": "11-25",
@@ -266,7 +231,7 @@
       "vol20": 0.935,
       "foreign_net": -339353460,
       "inst_net": 5624935285,
-      "score": 0.404,
+      "score": 0.462,
       "news": [
         {
           "date": "11-25",
@@ -284,12 +249,47 @@
           "risk": false
         }
       ],
-      "price": 16320,
-      "chg": 0.0448,
-      "activity": 1.94,
+      "price": 16410,
+      "chg": 0.0506,
+      "activity": 1.76,
       "foreign_today": 0,
-      "inst_today": 228480000,
+      "inst_today": 229740000,
       "exchange": "KOSDAQ"
+    },
+    {
+      "code": "012330",
+      "name": "현대모비스",
+      "close": 344500,
+      "ret5": 0.0044,
+      "ret20": 0.033,
+      "rsi14": 48.3,
+      "vol20": 0.706,
+      "foreign_net": -64189653000,
+      "inst_net": 65765302000,
+      "score": 0.441,
+      "news": [
+        {
+          "date": "11-25",
+          "title": "현대모비스, 4분기 잇단 대규모 수주…올해 해외수주 약 20조 전망",
+          "risk": false
+        },
+        {
+          "date": "11-25",
+          "title": "현대모비스, 글로벌 완성차 대규모 수주 잇따라…올해 20조원 전망",
+          "risk": false
+        },
+        {
+          "date": "11-25",
+          "title": "신차 지연 한파 뚫었다⋯ 현대모비스, 제동·조향부터 섀시까지 ‘20조...",
+          "risk": false
+        }
+      ],
+      "price": 352500,
+      "chg": -0.0181,
+      "activity": 0.93,
+      "foreign_today": 0,
+      "inst_today": 705000000,
+      "exchange": "KOSPI"
     },
     {
       "code": "089590",
@@ -301,7 +301,7 @@
       "vol20": 0.938,
       "foreign_net": 11959130110,
       "inst_net": 2192111490,
-      "score": 0.36,
+      "score": 0.409,
       "news": [
         {
           "date": "11-25",
@@ -324,101 +324,6 @@
       "exchange": "KOSPI"
     },
     {
-      "code": "012330",
-      "name": "현대모비스",
-      "close": 344500,
-      "ret5": 0.0044,
-      "ret20": 0.033,
-      "rsi14": 48.3,
-      "vol20": 0.706,
-      "foreign_net": -64189653000,
-      "inst_net": 65765302000,
-      "score": 0.36,
-      "news": [
-        {
-          "date": "11-25",
-          "title": "현대모비스, 해외수주 '잭팟'…유럽·북미 뚫었다",
-          "risk": false
-        },
-        {
-          "date": "11-25",
-          "title": "현대모비스, 해외수주 '잭팟' 행진…제동·조향 1조원 따내고 올해 20조...",
-          "risk": false
-        },
-        {
-          "date": "11-25",
-          "title": "현대모비스 손에 쥔 6000억 현금… 앞으로 뭐할까?",
-          "risk": false
-        }
-      ],
-      "price": 352000,
-      "chg": -0.0195,
-      "activity": 1.01,
-      "foreign_today": 0,
-      "inst_today": 704000000,
-      "exchange": "KOSPI"
-    },
-    {
-      "code": "307950",
-      "name": "현대오토에버",
-      "close": 347000,
-      "ret5": 0.2711,
-      "ret20": 0.0595,
-      "rsi14": 58.3,
-      "vol20": 1.281,
-      "foreign_net": -10666029750,
-      "inst_net": 28697179500,
-      "score": 0.921,
-      "news": [
-        {
-          "date": "11-25",
-          "title": "현대오토에버 주가, 11월 25일 장중 363,000원 0.14% 상승",
-          "risk": false
-        },
-        {
-          "date": "11-25",
-          "title": "[애프터마켓 리뷰] 젠슨황 복귀에 '깐부주' 부활…현대오토에버 급등",
-          "risk": false
-        },
-        {
-          "date": "11-24",
-          "title": "[상한가 종목] 현대오토에버-아이티엠반도체 이어 KH바텍 등 마감",
-          "risk": false
-        }
-      ],
-      "price": 364500,
-      "chg": 0.0055,
-      "activity": 7.16,
-      "foreign_today": 0,
-      "inst_today": 8748000000,
-      "exchange": "KOSPI"
-    },
-    {
-      "code": "003350",
-      "name": "한국화장품제조",
-      "close": 11970,
-      "ret5": 0.1621,
-      "ret20": -0.2187,
-      "rsi14": 46.2,
-      "vol20": 1.063,
-      "foreign_net": -3522567985,
-      "inst_net": -426502985,
-      "score": 0.921,
-      "news": [
-        {
-          "date": "11-25",
-          "title": "한국화장품제조 주가, 11월 25일 장중 13,070원 7.48% 상승",
-          "risk": false
-        }
-      ],
-      "price": 13290,
-      "chg": 0.0929,
-      "activity": 6.54,
-      "foreign_today": 505020000,
-      "inst_today": 252510000,
-      "exchange": "KOSPI"
-    },
-    {
       "code": "263860",
       "name": "지니언스",
       "close": 34500,
@@ -428,7 +333,7 @@
       "vol20": 1.694,
       "foreign_net": -4256871300,
       "inst_net": 2055265825,
-      "score": 0.899,
+      "score": 0.957,
       "news": [
         {
           "date": "11-25",
@@ -446,12 +351,47 @@
           "risk": false
         }
       ],
-      "price": 38600,
-      "chg": 0.0904,
-      "activity": 3.0,
-      "foreign_today": 3474000000,
-      "inst_today": 308800000,
+      "price": 39250,
+      "chg": 0.1088,
+      "activity": 2.75,
+      "foreign_today": 3532500000,
+      "inst_today": 314000000,
       "exchange": "KOSDAQ"
+    },
+    {
+      "code": "307950",
+      "name": "현대오토에버",
+      "close": 347000,
+      "ret5": 0.2711,
+      "ret20": 0.0595,
+      "rsi14": 58.3,
+      "vol20": 1.281,
+      "foreign_net": -10666029750,
+      "inst_net": 28697179500,
+      "score": 0.882,
+      "news": [
+        {
+          "date": "11-25",
+          "title": "현대오토에버 주가, 11월 25일 장중 363,000원 0.14% 상승",
+          "risk": false
+        },
+        {
+          "date": "11-25",
+          "title": "[애프터마켓 리뷰] 젠슨황 복귀에 '깐부주' 부활…현대오토에버 급등",
+          "risk": false
+        },
+        {
+          "date": "11-24",
+          "title": "[상한가 종목] 현대오토에버-아이티엠반도체 이어 KH바텍 등 마감",
+          "risk": false
+        }
+      ],
+      "price": 366500,
+      "chg": 0.011,
+      "activity": 6.48,
+      "foreign_today": 0,
+      "inst_today": 8796000000,
+      "exchange": "KOSPI"
     },
     {
       "code": "468530",
@@ -463,7 +403,7 @@
       "vol20": 1.232,
       "foreign_net": -5107458550,
       "inst_net": 9380285750,
-      "score": 0.607,
+      "score": 0.634,
       "news": [
         {
           "date": "11-24",
@@ -481,11 +421,46 @@
           "risk": false
         }
       ],
-      "price": 64900,
-      "chg": 0.0334,
-      "activity": 1.81,
-      "foreign_today": 1298000000,
-      "inst_today": 389400000,
+      "price": 65800,
+      "chg": 0.0478,
+      "activity": 1.68,
+      "foreign_today": 1316000000,
+      "inst_today": 394800000,
+      "exchange": "KOSDAQ"
+    },
+    {
+      "code": "058610",
+      "name": "에스피지",
+      "close": 85700,
+      "ret5": 0.2696,
+      "ret20": 0.0477,
+      "rsi14": 55.5,
+      "vol20": 1.32,
+      "foreign_net": -11054275250,
+      "inst_net": 29857396000,
+      "score": 0.624,
+      "news": [
+        {
+          "date": "11-25",
+          "title": "에스피지 주가, 11월 25일 장중 90,500원 0.44% 하락",
+          "risk": false
+        },
+        {
+          "date": "11-25",
+          "title": "[애널픽] 삼성전자 휴머노이드 본격화…에스피지·원익홀딩스 주목",
+          "risk": false
+        },
+        {
+          "date": "11-25",
+          "title": "에스피지·로보티즈 24%·19% 급등…로봇주 강세",
+          "risk": false
+        }
+      ],
+      "price": 91300,
+      "chg": 0.0044,
+      "activity": 3.21,
+      "foreign_today": 0,
+      "inst_today": 730400000,
       "exchange": "KOSDAQ"
     },
     {
@@ -498,7 +473,7 @@
       "vol20": 1.343,
       "foreign_net": -265084407,
       "inst_net": 28883991,
-      "score": 0.562,
+      "score": 0.581,
       "news": [
         {
           "date": "11-25",
@@ -516,10 +491,10 @@
           "risk": false
         }
       ],
-      "price": 4730,
-      "chg": 0.0453,
-      "activity": 6.55,
-      "foreign_today": 127710000,
+      "price": 4725,
+      "chg": 0.0442,
+      "activity": 5.85,
+      "foreign_today": 127575000,
       "inst_today": 0,
       "exchange": "KOSDAQ"
     },
