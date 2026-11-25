@@ -81,10 +81,10 @@
     ]
   },
   "intraday": {
-    "time": "14:30",
+    "time": "15:00",
     "pool": 450,
     "analyzed_new": 30,
-    "passed": 20,
+    "passed": 25,
     "kept_prep": false
   },
   "candidates": [
@@ -106,37 +106,12 @@
           "risk": false
         }
       ],
-      "price": 128100,
-      "chg": 0.1188,
-      "activity": 2.22,
+      "price": 128000,
+      "chg": 0.1179,
+      "activity": 2.17,
       "foreign_today": 0,
-      "inst_today": 2818200000,
+      "inst_today": 2816000000,
       "exchange": "KOSDAQ"
-    },
-    {
-      "code": "090430",
-      "name": "아모레퍼시픽",
-      "close": 138500,
-      "ret5": 0.0662,
-      "ret20": 0.1089,
-      "rsi14": 57.8,
-      "vol20": 0.412,
-      "foreign_net": -1973039500,
-      "inst_net": 18768960350,
-      "score": 0.978,
-      "news": [
-        {
-          "date": "11-25",
-          "title": "[HOT 마켓 트렌드] 아모레퍼시픽재단, 'AI 대전환' 속 질문의 힘 조명…...",
-          "risk": false
-        }
-      ],
-      "price": 146500,
-      "chg": 0.0479,
-      "activity": 2.81,
-      "foreign_today": 0,
-      "inst_today": 20656500000,
-      "exchange": "KOSPI"
     },
     {
       "code": "257720",
@@ -148,7 +123,7 @@
       "vol20": 0.658,
       "foreign_net": -1148124650,
       "inst_net": 5367383850,
-      "score": 0.964,
+      "score": 0.975,
       "news": [
         {
           "date": "11-25",
@@ -168,10 +143,75 @@
       ],
       "price": 28650,
       "chg": 0.1105,
-      "activity": 4.49,
+      "activity": 4.3,
       "foreign_today": 2865000000,
       "inst_today": 5815950000,
       "exchange": "KOSDAQ"
+    },
+    {
+      "code": "090430",
+      "name": "아모레퍼시픽",
+      "close": 138500,
+      "ret5": 0.0662,
+      "ret20": 0.1089,
+      "rsi14": 57.8,
+      "vol20": 0.412,
+      "foreign_net": -1973039500,
+      "inst_net": 18768960350,
+      "score": 0.975,
+      "news": [
+        {
+          "date": "11-25",
+          "title": "아모레퍼시픽 14만6600원…국내외 3분기 매출 동반 성장",
+          "risk": false
+        },
+        {
+          "date": "11-25",
+          "title": "[HOT 마켓 트렌드] 아모레퍼시픽재단, 'AI 대전환' 속 질문의 힘 조명…...",
+          "risk": false
+        }
+      ],
+      "price": 147350,
+      "chg": 0.054,
+      "activity": 2.8,
+      "foreign_today": 0,
+      "inst_today": 20776350000,
+      "exchange": "KOSPI"
+    },
+    {
+      "code": "278470",
+      "name": "에이피알",
+      "close": 261000,
+      "ret5": 0.1323,
+      "ret20": -0.0595,
+      "rsi14": 47.7,
+      "vol20": 0.769,
+      "foreign_net": -27566678500,
+      "inst_net": 55436946250,
+      "score": 0.925,
+      "news": [
+        {
+          "date": "11-25",
+          "title": "성장세는 탐나는데 몸값은 부담…에이피알의 '닥터멜락신' 인수 딜레마",
+          "risk": false
+        },
+        {
+          "date": "11-25",
+          "title": "30만원선 다가간 에이피알…장중 10.63% 상승",
+          "risk": false
+        },
+        {
+          "date": "11-25",
+          "title": "[특징주] 에이피알, 4분기 호실적 전망.. 11%대 '급등'",
+          "risk": false
+        }
+      ],
+      "price": 288000,
+      "chg": 0.093,
+      "activity": 2.63,
+      "foreign_today": 20736000000,
+      "inst_today": 0,
+      "exchange": "KOSPI"
     },
     {
       "code": "328130",
@@ -183,7 +223,7 @@
       "vol20": 0.935,
       "foreign_net": -339353460,
       "inst_net": 5624935285,
-      "score": 0.686,
+      "score": 0.675,
       "news": [
         {
           "date": "11-25",
@@ -201,28 +241,12 @@
           "risk": false
         }
       ],
-      "price": 16580,
-      "chg": 0.0615,
-      "activity": 1.56,
-      "foreign_today": 1094280000,
-      "inst_today": 1575100000,
+      "price": 16530,
+      "chg": 0.0583,
+      "activity": 1.48,
+      "foreign_today": 1090980000,
+      "inst_today": 1570350000,
       "exchange": "KOSDAQ"
-    },
-    {
-      "code": "009420",
-      "name": "한올바이오파마",
-      "close": 52000,
-      "ret5": -0.028,
-      "ret20": 0.3559,
-      "rsi14": 63.0,
-      "vol20": 0.979,
-      "foreign_net": -3494999850,
-      "inst_net": 10971498200,
-      "score": 0.606,
-      "news": [],
-      "foreign_today": 624000000,
-      "inst_today": 1768000000,
-      "exchange": "KOSPI"
     },
     {
       "code": "128940",
@@ -234,7 +258,7 @@
       "vol20": 0.662,
       "foreign_net": -45702072500,
       "inst_net": 55102014750,
-      "score": 0.584,
+      "score": 0.631,
       "news": [
         {
           "date": "11-25",
@@ -252,47 +276,63 @@
           "risk": false
         }
       ],
-      "price": 469500,
-      "chg": 0.0274,
-      "activity": 0.76,
+      "price": 469000,
+      "chg": 0.0263,
+      "activity": 0.85,
       "foreign_today": 0,
-      "inst_today": 5634000000,
+      "inst_today": 5628000000,
       "exchange": "KOSPI"
     },
     {
-      "code": "214450",
-      "name": "파마리서치",
-      "close": 263000,
-      "ret5": 0.0194,
-      "ret20": 0.1361,
-      "rsi14": 51.2,
-      "vol20": 0.515,
-      "foreign_net": 2848415000,
-      "inst_net": 6988862500,
-      "score": 0.562,
+      "code": "009420",
+      "name": "한올바이오파마",
+      "close": 52000,
+      "ret5": -0.028,
+      "ret20": 0.3559,
+      "rsi14": 63.0,
+      "vol20": 0.979,
+      "foreign_net": -3494999850,
+      "inst_net": 10971498200,
+      "score": 0.613,
+      "news": [],
+      "foreign_today": 624000000,
+      "inst_today": 1768000000,
+      "exchange": "KOSPI"
+    },
+    {
+      "code": "000270",
+      "name": "기아",
+      "close": 92600,
+      "ret5": 0.0098,
+      "ret20": -0.1321,
+      "rsi14": 40.0,
+      "vol20": 0.603,
+      "foreign_net": -9846928450,
+      "inst_net": 16507326450,
+      "score": 0.531,
       "news": [
         {
           "date": "11-25",
-          "title": "[뷰티 입은 제약바이오③] 주사기 밖으로 나온 파마리서치 '리쥬란'",
+          "title": "유럽 전략형 현대차 ‘아이오닉 3’ 美 도로서 포착…기아 EV3 동시 출격...",
           "risk": false
         },
         {
           "date": "11-25",
-          "title": "파마리서치, ISO 부패방지 기준 개정판 적용 완료",
+          "title": "EU 하이브리드차 세이프가드 발동…'中 차단'에 현대차·기아 '셈법'은",
           "risk": false
         },
         {
           "date": "11-25",
-          "title": "\"해외서 제대로 터졌다\"… 파마리서치·휴젤, K-보톡스 쌍끌이 랠리",
+          "title": "기아 9만5800원으로 소폭 올라…저가에서 2700원 반등",
           "risk": false
         }
       ],
-      "price": 277000,
-      "chg": 0.0473,
-      "activity": 0.99,
+      "price": 96000,
+      "chg": 0.0042,
+      "activity": 0.76,
       "foreign_today": 0,
-      "inst_today": 831000000,
-      "exchange": "KOSDAQ"
+      "inst_today": 8832000000,
+      "exchange": "KOSPI"
     },
     {
       "code": "086790",
@@ -304,48 +344,13 @@
       "vol20": 0.358,
       "foreign_net": -38889025400,
       "inst_net": 40537311200,
-      "score": 0.518,
+      "score": 0.506,
       "news": [],
-      "price": 121000,
-      "chg": -0.0171,
-      "activity": 0.78,
+      "price": 120800,
+      "chg": -0.0187,
+      "activity": 0.8,
       "foreign_today": 0,
-      "inst_today": 4961000000,
-      "exchange": "KOSPI"
-    },
-    {
-      "code": "012330",
-      "name": "현대모비스",
-      "close": 344500,
-      "ret5": 0.0044,
-      "ret20": 0.033,
-      "rsi14": 48.3,
-      "vol20": 0.706,
-      "foreign_net": -64189653000,
-      "inst_net": 65765302000,
-      "score": 0.474,
-      "news": [
-        {
-          "date": "11-25",
-          "title": "현대모비스, 글로벌 수주 잭팟…올해 해외수주 20조원 정조준",
-          "risk": false
-        },
-        {
-          "date": "11-25",
-          "title": "유럽·북미서 잇단 쾌거 현대모비스, '글로벌 수주 20조원' 초읽기",
-          "risk": false
-        },
-        {
-          "date": "11-25",
-          "title": "현대모비스, 제동·조향 1조원 수주 '잭팟'…올해 해외 수주 20조원 전망",
-          "risk": false
-        }
-      ],
-      "price": 352000,
-      "chg": -0.0195,
-      "activity": 0.85,
-      "foreign_today": 0,
-      "inst_today": 3168000000,
+      "inst_today": 4952800000,
       "exchange": "KOSPI"
     },
     {
@@ -358,26 +363,93 @@
       "vol20": 0.632,
       "foreign_net": -24711753750,
       "inst_net": 31503256250,
-      "score": 0.467,
+      "score": 0.475,
       "news": [
         {
           "date": "11-25",
-          "title": "쥬노, 후쿠오카 라멘 브랜드 '신신라멘' 신세계百 강남점 팝업 운영",
+          "title": "성탄절 앞두고 치열한 캐릭터 대전…신세계 '푸빌라'·롯데 '벨리곰'",
           "risk": false
         },
         {
           "date": "11-25",
-          "title": "아울렛에 뜬 초대형 산타…신세계사이먼, 크리스마스 단장",
+          "title": "[MD 포커스] 英 해러즈·日 이세탄 어깨 나란히…신세계百 강남점, 韓 첫...",
           "risk": false
         },
         {
           "date": "11-25",
-          "title": "신세계백화점, 3m 대형 캐릭터 '푸빌라'와 연말 크리스마스 축제 개최",
+          "title": "체험형 전시부터 홀리데이 팝업까지…롯데百·신세계百·현대免, 연말 콘...",
           "risk": false
         }
       ],
       "foreign_today": 0,
       "inst_today": 2128000000,
+      "exchange": "KOSPI"
+    },
+    {
+      "code": "012330",
+      "name": "현대모비스",
+      "close": 344500,
+      "ret5": 0.0044,
+      "ret20": 0.033,
+      "rsi14": 48.3,
+      "vol20": 0.706,
+      "foreign_net": -64189653000,
+      "inst_net": 65765302000,
+      "score": 0.469,
+      "news": [
+        {
+          "date": "11-25",
+          "title": "현대모비스, 해외 수주 20조 눈앞…그룹 의존도 낮춘다",
+          "risk": false
+        },
+        {
+          "date": "11-25",
+          "title": "현대모비스, 유럽·북미 1조원대 핵심부품 수주…\"올해 20조원 수주 눈앞...",
+          "risk": false
+        },
+        {
+          "date": "11-25",
+          "title": "현대모비스, 유럽·북미 완성차 핵심부품 대량 수주",
+          "risk": false
+        }
+      ],
+      "price": 351500,
+      "chg": -0.0209,
+      "activity": 0.86,
+      "foreign_today": 0,
+      "inst_today": 3163500000,
+      "exchange": "KOSPI"
+    },
+    {
+      "code": "051900",
+      "name": "LG생활건강",
+      "close": 247000,
+      "ret5": 0.0356,
+      "ret20": -0.0408,
+      "rsi14": 47.6,
+      "vol20": 0.457,
+      "foreign_net": -2653956000,
+      "inst_net": 7708982500,
+      "score": 0.456,
+      "news": [
+        {
+          "date": "11-25",
+          "title": "LG생활건강, 엘라스틴 앞세워 프리미엄 헤어케어 시장 공략 강화",
+          "risk": false
+        },
+        {
+          "date": "11-25",
+          "title": "건강기능식품 상장기업 2026년 11월 브랜드평판...KT&G, LG생활건강, 대...",
+          "risk": false
+        },
+        {
+          "date": "11-25",
+          "title": "[더벨][CFO Change] LG생활건강, LG화학 경영기획담당 출신 CFO로 선임",
+          "risk": false
+        }
+      ],
+      "foreign_today": 0,
+      "inst_today": 1482000000,
       "exchange": "KOSPI"
     },
     {
@@ -390,21 +462,21 @@
       "vol20": 0.938,
       "foreign_net": 11959130110,
       "inst_net": 2192111490,
-      "score": 0.453,
+      "score": 0.431,
       "news": [
         {
           "date": "11-25",
-          "title": "제주항공, 외국인 탑승객 276만명…지난해 연간 기록 넘어",
+          "title": "제주항공, 올해 외국인 탑승객 276만명···역대 최대",
           "risk": false
         },
         {
           "date": "11-25",
-          "title": "제주항공 외국인 탑승객 역대 최다…10개월 만에 276만명",
+          "title": "제주항공, 외국인 탑승객 276만명...10개월 만에 지난해 연간 실적 넘어",
           "risk": false
         },
         {
           "date": "11-25",
-          "title": "제주항공 이용 외국인 전년比 27% ‘쑥’…역대 최대",
+          "title": "[제주항공 인사 전망] 김이배 유임·본부장 5명 승진… 이정석 내년 3월...",
           "risk": false
         }
       ],
@@ -422,7 +494,7 @@
       "vol20": 0.7,
       "foreign_net": -21965682400,
       "inst_net": 21039950250,
-      "score": 0.416,
+      "score": 0.413,
       "news": [
         {
           "date": "11-25",
@@ -449,8 +521,13 @@
       "vol20": 0.271,
       "foreign_net": -4856013450,
       "inst_net": 10508941000,
-      "score": 0.292,
+      "score": 0.281,
       "news": [
+        {
+          "date": "11-25",
+          "title": "‘샴블즈’ 개발사의 차기작은 낚시! 익스릭스 ‘오리온 블루’ 30일 스...",
+          "risk": false
+        },
         {
           "date": "11-25",
           "title": "국제 곡물가 진정세에 식품주 투심 활짝…CJ제일제당·오리온 러브콜 쏟...",
@@ -459,11 +536,6 @@
         {
           "date": "11-25",
           "title": "신한은행 땡겨요·안토·오뚜기·오리온, 크리스마스 한정판과 할인 릴...",
-          "risk": false
-        },
-        {
-          "date": "11-25",
-          "title": "국산 낚시 생활 시뮬 '오리온 블루' 30일 정식 출시",
           "risk": false
         }
       ],
@@ -481,7 +553,7 @@
       "vol20": 1.281,
       "foreign_net": -10666029750,
       "inst_net": 28697179500,
-      "score": 0.854,
+      "score": 0.856,
       "news": [
         {
           "date": "11-25",
@@ -499,47 +571,12 @@
           "risk": false
         }
       ],
-      "price": 365500,
-      "chg": 0.0083,
-      "activity": 5.23,
+      "price": 364500,
+      "chg": 0.0055,
+      "activity": 4.94,
       "foreign_today": 0,
-      "inst_today": 9868500000,
+      "inst_today": 9841500000,
       "exchange": "KOSPI"
-    },
-    {
-      "code": "058610",
-      "name": "에스피지",
-      "close": 85700,
-      "ret5": 0.2696,
-      "ret20": 0.0477,
-      "rsi14": 55.5,
-      "vol20": 1.32,
-      "foreign_net": -11054275250,
-      "inst_net": 29857396000,
-      "score": 0.708,
-      "news": [
-        {
-          "date": "11-25",
-          "title": "에스피지 주가, 11월 25일 장중 90,500원 0.44% 하락",
-          "risk": false
-        },
-        {
-          "date": "11-25",
-          "title": "[애널픽] 삼성전자 휴머노이드 본격화…에스피지·원익홀딩스 주목",
-          "risk": false
-        },
-        {
-          "date": "11-25",
-          "title": "에스피지·로보티즈 24%·19% 급등…로봇주 강세",
-          "risk": false
-        }
-      ],
-      "price": 90900,
-      "chg": 0.0,
-      "activity": 2.54,
-      "foreign_today": 0,
-      "inst_today": 2999700000,
-      "exchange": "KOSDAQ"
     },
     {
       "code": "468530",
@@ -551,7 +588,7 @@
       "vol20": 1.232,
       "foreign_net": -5107458550,
       "inst_net": 9380285750,
-      "score": 0.701,
+      "score": 0.712,
       "news": [
         {
           "date": "11-24",
@@ -569,11 +606,11 @@
           "risk": false
         }
       ],
-      "price": 67500,
-      "chg": 0.0748,
-      "activity": 1.65,
-      "foreign_today": 877500000,
-      "inst_today": 2362500000,
+      "price": 67000,
+      "chg": 0.0669,
+      "activity": 1.69,
+      "foreign_today": 871000000,
+      "inst_today": 2345000000,
       "exchange": "KOSDAQ"
     },
     {
@@ -586,7 +623,7 @@
       "vol20": 1.198,
       "foreign_net": -595052420,
       "inst_net": -105088480,
-      "score": 0.664,
+      "score": 0.7,
       "news": [
         {
           "date": "11-24",
@@ -594,11 +631,46 @@
           "risk": false
         }
       ],
-      "price": 15390,
-      "chg": 0.1016,
-      "activity": 2.44,
-      "foreign_today": 246240000,
+      "price": 15590,
+      "chg": 0.116,
+      "activity": 3.08,
+      "foreign_today": 249440000,
       "inst_today": 0,
+      "exchange": "KOSDAQ"
+    },
+    {
+      "code": "058610",
+      "name": "에스피지",
+      "close": 85700,
+      "ret5": 0.2696,
+      "ret20": 0.0477,
+      "rsi14": 55.5,
+      "vol20": 1.32,
+      "foreign_net": -11054275250,
+      "inst_net": 29857396000,
+      "score": 0.675,
+      "news": [
+        {
+          "date": "11-25",
+          "title": "에스피지 100원 내린 9만800원…장중 4900원 폭 등락",
+          "risk": false
+        },
+        {
+          "date": "11-25",
+          "title": "에스피지 주가, 11월 25일 장중 90,500원 0.44% 하락",
+          "risk": false
+        },
+        {
+          "date": "11-25",
+          "title": "[애널픽] 삼성전자 휴머노이드 본격화…에스피지·원익홀딩스 주목",
+          "risk": false
+        }
+      ],
+      "price": 89900,
+      "chg": -0.011,
+      "activity": 2.45,
+      "foreign_today": 0,
+      "inst_today": 2966700000,
       "exchange": "KOSDAQ"
     },
     {
@@ -611,7 +683,7 @@
       "vol20": 1.34,
       "foreign_net": -4324312575,
       "inst_net": 13653803000,
-      "score": 0.577,
+      "score": 0.569,
       "news": [
         {
           "date": "11-23",
@@ -624,11 +696,11 @@
           "risk": false
         }
       ],
-      "price": 32950,
-      "chg": -0.006,
-      "activity": 1.57,
+      "price": 32650,
+      "chg": -0.0151,
+      "activity": 1.5,
       "foreign_today": 0,
-      "inst_today": 1021450000,
+      "inst_today": 1012150000,
       "exchange": "KOSDAQ"
     },
     {
@@ -669,6 +741,98 @@
         }
       ],
       "exchange": "ETF"
+    },
+    {
+      "code": "043260",
+      "name": "성호전자",
+      "close": 23950,
+      "ret5": 0.0063,
+      "ret20": -0.1416,
+      "rsi14": 48.7,
+      "vol20": 1.371,
+      "foreign_net": 2570715775,
+      "inst_net": 1438622700,
+      "score": 0,
+      "news": [
+        {
+          "date": "11-25",
+          "title": "성호전자 14.29% 내린 2만1600원…장중 저가권",
+          "risk": false
+        },
+        {
+          "date": "11-25",
+          "title": "광통신 관련주 일제히 '뚝'…대한광통신·RF머트리얼즈·성호전자 주가...",
+          "risk": false
+        },
+        {
+          "date": "11-25",
+          "title": "성호전자 주가, 11월 25일 장중 22,800원 9.52% 하락",
+          "risk": false
+        }
+      ],
+      "price": 21550,
+      "chg": -0.1448,
+      "foreign_today": 0,
+      "inst_today": 0,
+      "exchange": "KOSDAQ"
+    },
+    {
+      "code": "009150",
+      "name": "삼성전기",
+      "close": 820000,
+      "ret5": 0.0963,
+      "ret20": -0.3312,
+      "rsi14": 39.4,
+      "vol20": 1.217,
+      "foreign_net": -186702759500,
+      "inst_net": 170465958000,
+      "score": 0,
+      "news": [
+        {
+          "date": "11-25",
+          "title": "삼성전기 11.31% 하락…76만1000원으로 장중 저가",
+          "risk": false
+        }
+      ],
+      "price": 752000,
+      "chg": -0.1235,
+      "foreign_today": 0,
+      "inst_today": 0,
+      "exchange": "KOSPI"
+    },
+    {
+      "code": "030530",
+      "name": "원익홀딩스",
+      "close": 30050,
+      "ret5": -0.0653,
+      "ret20": 0.2366,
+      "rsi14": 50.9,
+      "vol20": 1.372,
+      "foreign_net": -20961049150,
+      "inst_net": 3182239550,
+      "score": 0,
+      "news": [
+        {
+          "date": "11-25",
+          "title": "원익홀딩스 11.16% 하락…장중 고가도 전일 종가 아래",
+          "risk": false
+        },
+        {
+          "date": "11-25",
+          "title": "원익홀딩스 주가, 11월 25일 장중 27,900원 11.00% 하락",
+          "risk": false
+        },
+        {
+          "date": "11-25",
+          "title": "[애널픽] 삼성전자 휴머노이드 본격화…에스피지·원익홀딩스 주목",
+          "risk": false
+        }
+      ],
+      "price": 27600,
+      "chg": -0.1196,
+      "foreign_today": 0,
+      "inst_today": 0,
+      "exchange": "KOSDAQ"
     }
   ]
 }
