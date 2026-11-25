@@ -81,10 +81,10 @@
     ]
   },
   "intraday": {
-    "time": "11:00",
-    "pool": 365,
+    "time": "11:30",
+    "pool": 398,
     "analyzed_new": 30,
-    "passed": 13,
+    "passed": 14,
     "kept_prep": false
   },
   "candidates": [
@@ -109,88 +109,13 @@
           "date": "11-25",
           "title": "아모레퍼시픽재단, AI 시대의 질문을 논하다…'장원(粧源) 특강' 개최",
           "risk": false
-        },
-        {
-          "date": "11-25",
-          "title": "[기획] 10년 전 6.7조 신화…서경배, 아모레퍼시픽 새 성장 공식 쓴다",
-          "risk": false
         }
       ],
-      "price": 149000,
-      "chg": 0.0658,
-      "activity": 5.91,
-      "foreign_today": 894000000,
-      "inst_today": 596000000,
-      "exchange": "KOSPI"
-    },
-    {
-      "code": "257720",
-      "name": "실리콘투",
-      "close": 25150,
-      "ret5": 0.0725,
-      "ret20": -0.1387,
-      "rsi14": 40.3,
-      "vol20": 0.658,
-      "foreign_net": -1148124650,
-      "inst_net": 5367383850,
-      "score": 0.97,
-      "news": [
-        {
-          "date": "11-25",
-          "title": "[특징주] 코스메카코리아, 뷰티스킨·실리콘투와 화장품 테마 동반 랠리...",
-          "risk": false
-        },
-        {
-          "date": "11-25",
-          "title": "실리콘투 13%·에이피알 10%↑…급락장서 K뷰티주 강세 [종목NOW]",
-          "risk": false
-        },
-        {
-          "date": "11-25",
-          "title": "[특징주] 실리콘투, 뷰티스킨·에이피알과 화장품 테마 동반 랠리…거래...",
-          "risk": false
-        }
-      ],
-      "price": 29400,
-      "chg": 0.1395,
-      "activity": 7.85,
+      "price": 148000,
+      "chg": 0.0587,
+      "activity": 4.91,
       "foreign_today": 0,
-      "inst_today": 1087800000,
-      "exchange": "KOSDAQ"
-    },
-    {
-      "code": "278470",
-      "name": "에이피알",
-      "close": 261000,
-      "ret5": 0.1323,
-      "ret20": -0.0595,
-      "rsi14": 47.7,
-      "vol20": 0.769,
-      "foreign_net": -27566678500,
-      "inst_net": 55436946250,
-      "score": 0.909,
-      "news": [
-        {
-          "date": "11-25",
-          "title": "[특징주] 에이피알, 증권가 목표가 50만원 상향에 11%대 급등…시총 11조...",
-          "risk": false
-        },
-        {
-          "date": "11-25",
-          "title": "실리콘투 13%·에이피알 10%↑…급락장서 K뷰티주 강세 [종목NOW]",
-          "risk": false
-        },
-        {
-          "date": "11-25",
-          "title": "[특징주] 실리콘투, 뷰티스킨·에이피알과 화장품 테마 동반 랠리…거래...",
-          "risk": false
-        }
-      ],
-      "price": 289500,
-      "chg": 0.0987,
-      "activity": 4.21,
-      "foreign_today": 3474000000,
-      "inst_today": 1737000000,
+      "inst_today": 11248000000,
       "exchange": "KOSPI"
     },
     {
@@ -203,7 +128,7 @@
       "vol20": 0.843,
       "foreign_net": -29716394250,
       "inst_net": 26239660200,
-      "score": 0.833,
+      "score": 1.0,
       "news": [
         {
           "date": "11-25",
@@ -211,12 +136,28 @@
           "risk": false
         }
       ],
-      "price": 126700,
-      "chg": 0.1066,
-      "activity": 3.44,
+      "price": 127900,
+      "chg": 0.117,
+      "activity": 3.08,
       "foreign_today": 0,
-      "inst_today": 253400000,
+      "inst_today": 2046400000,
       "exchange": "KOSDAQ"
+    },
+    {
+      "code": "009420",
+      "name": "한올바이오파마",
+      "close": 52000,
+      "ret5": -0.028,
+      "ret20": 0.3559,
+      "rsi14": 63.0,
+      "vol20": 0.979,
+      "foreign_net": -3494999850,
+      "inst_net": 10971498200,
+      "score": 0.579,
+      "news": [],
+      "foreign_today": 312000000,
+      "inst_today": 312000000,
+      "exchange": "KOSPI"
     },
     {
       "code": "352820",
@@ -228,7 +169,7 @@
       "vol20": 0.855,
       "foreign_net": 23428669050,
       "inst_net": 50532992750,
-      "score": 0.47,
+      "score": 0.513,
       "news": [
         {
           "date": "11-25",
@@ -246,30 +187,113 @@
           "risk": false
         }
       ],
-      "price": 180200,
-      "chg": 0.0428,
-      "activity": 1.11,
-      "foreign_today": 0,
-      "inst_today": 360400000,
+      "price": 179400,
+      "chg": 0.0382,
+      "activity": 1.05,
+      "foreign_today": 1255800000,
+      "inst_today": 0,
       "exchange": "KOSPI"
     },
     {
-      "code": "086790",
-      "name": "하나금융지주",
-      "close": 122100,
-      "ret5": -0.0185,
-      "ret20": 0.0796,
-      "rsi14": 49.8,
-      "vol20": 0.358,
-      "foreign_net": -38889025400,
-      "inst_net": 40537311200,
-      "score": 0.288,
-      "news": [],
-      "price": 120800,
-      "chg": -0.0187,
-      "activity": 0.92,
+      "code": "328130",
+      "name": "루닛",
+      "close": 15590,
+      "ret5": -0.0213,
+      "ret20": 0.0345,
+      "rsi14": 55.6,
+      "vol20": 0.935,
+      "foreign_net": -339353460,
+      "inst_net": 5624935285,
+      "score": 0.408,
+      "news": [
+        {
+          "date": "11-25",
+          "title": "루닛 주가, 11월 25일 장중 16,340원 4.61% 상승",
+          "risk": false
+        },
+        {
+          "date": "11-25",
+          "title": "뷰노·루닛 주가 장초반 급등…양대지수 하락에도 일부 의료AI 종목 '껑...",
+          "risk": false
+        },
+        {
+          "date": "11-25",
+          "title": "루닛, 유방암 진단 AI 새 기능 공개…정확도·암 발견율 상시 점검",
+          "risk": false
+        }
+      ],
+      "price": 16530,
+      "chg": 0.0583,
+      "activity": 2.55,
       "foreign_today": 0,
-      "inst_today": 362400000,
+      "inst_today": 231420000,
+      "exchange": "KOSDAQ"
+    },
+    {
+      "code": "089590",
+      "name": "제주항공",
+      "close": 7880,
+      "ret5": 0.0507,
+      "ret20": 0.4729,
+      "rsi14": 64.9,
+      "vol20": 0.938,
+      "foreign_net": 11959130110,
+      "inst_net": 2192111490,
+      "score": 0.355,
+      "news": [
+        {
+          "date": "11-25",
+          "title": "외국인 발길 몰린 제주항공…10개월만에 276만명 '역대 최대'",
+          "risk": false
+        },
+        {
+          "date": "11-25",
+          "title": "내국인 6만 명 줄 때 외국인 18만 명 늘어… 제주항공, 지방 국제선이 달...",
+          "risk": false
+        },
+        {
+          "date": "11-25",
+          "title": "제주항공, 올해 외국인 탑승객 '역대 최대'...지방노선 34%↑",
+          "risk": false
+        }
+      ],
+      "foreign_today": 0,
+      "inst_today": 126080000,
+      "exchange": "KOSPI"
+    },
+    {
+      "code": "012330",
+      "name": "현대모비스",
+      "close": 344500,
+      "ret5": 0.0044,
+      "ret20": 0.033,
+      "rsi14": 48.3,
+      "vol20": 0.706,
+      "foreign_net": -64189653000,
+      "inst_net": 65765302000,
+      "score": 0.355,
+      "news": [
+        {
+          "date": "11-25",
+          "title": "현대모비스, 유럽·북미서 1조원 규모 수주…목표치 23% 초과 전망",
+          "risk": false
+        },
+        {
+          "date": "11-25",
+          "title": "현대모비스, 올해 해외수주 20조원 전망…연간 목표 초과 달성",
+          "risk": false
+        },
+        {
+          "date": "11-25",
+          "title": "현대모비스, 북미·유럽서 대규모 수주 잇따라 … 올해 20조원 달성 전망",
+          "risk": false
+        }
+      ],
+      "price": 349500,
+      "chg": -0.0265,
+      "activity": 1.2,
+      "foreign_today": 0,
+      "inst_today": 699000000,
       "exchange": "KOSPI"
     },
     {
@@ -282,8 +306,13 @@
       "vol20": 1.281,
       "foreign_net": -10666029750,
       "inst_net": 28697179500,
-      "score": 0.985,
+      "score": 0.921,
       "news": [
+        {
+          "date": "11-25",
+          "title": "현대오토에버 주가, 11월 25일 장중 363,000원 0.14% 상승",
+          "risk": false
+        },
         {
           "date": "11-25",
           "title": "[애프터마켓 리뷰] 젠슨황 복귀에 '깐부주' 부활…현대오토에버 급등",
@@ -293,18 +322,38 @@
           "date": "11-24",
           "title": "[상한가 종목] 현대오토에버-아이티엠반도체 이어 KH바텍 등 마감",
           "risk": false
-        },
+        }
+      ],
+      "price": 363000,
+      "chg": 0.0014,
+      "activity": 9.34,
+      "foreign_today": 0,
+      "inst_today": 8712000000,
+      "exchange": "KOSPI"
+    },
+    {
+      "code": "003350",
+      "name": "한국화장품제조",
+      "close": 11970,
+      "ret5": 0.1621,
+      "ret20": -0.2187,
+      "rsi14": 46.2,
+      "vol20": 1.063,
+      "foreign_net": -3522567985,
+      "inst_net": -426502985,
+      "score": 0.921,
+      "news": [
         {
-          "date": "11-24",
-          "title": "[주식마감] 젠슨황 복귀에 '로봇주' 현대오토에버 상한가... 대성하이텍...",
+          "date": "11-25",
+          "title": "한국화장품제조 주가, 11월 25일 장중 13,070원 7.48% 상승",
           "risk": false
         }
       ],
-      "price": 365500,
-      "chg": 0.0083,
-      "activity": 10.86,
-      "foreign_today": 0,
-      "inst_today": 8772000000,
+      "price": 13240,
+      "chg": 0.0888,
+      "activity": 7.27,
+      "foreign_today": 503120000,
+      "inst_today": 251560000,
       "exchange": "KOSPI"
     },
     {
@@ -317,8 +366,13 @@
       "vol20": 1.694,
       "foreign_net": -4256871300,
       "inst_net": 2055265825,
-      "score": 0.848,
+      "score": 0.908,
       "news": [
+        {
+          "date": "11-25",
+          "title": "지니언스 주가, 급등세... 왜?",
+          "risk": false
+        },
         {
           "date": "11-25",
           "title": "[특징주] 지니언스, 美 보안 사고·약세장 피난처 수급에 12%↑…거래대...",
@@ -328,101 +382,84 @@
           "date": "11-25",
           "title": "사이버 공격 고도화에 보안 투자 확대…지니언스 성장 모멘텀 부각",
           "risk": false
-        },
-        {
-          "date": "11-24",
-          "title": "美 미리캐피탈, 지니언스 투자 5년 만에 엑시트…350억원 회수",
-          "risk": false
         }
       ],
-      "price": 40000,
-      "chg": 0.1299,
-      "activity": 4.6,
-      "foreign_today": 1440000000,
-      "inst_today": 80000000,
+      "price": 38500,
+      "chg": 0.0876,
+      "activity": 3.94,
+      "foreign_today": 3465000000,
+      "inst_today": 308000000,
       "exchange": "KOSDAQ"
     },
     {
-      "code": "003350",
-      "name": "한국화장품제조",
-      "close": 11970,
-      "ret5": 0.1621,
-      "ret20": -0.2187,
-      "rsi14": 46.2,
-      "vol20": 1.063,
-      "foreign_net": -3522567985,
-      "inst_net": -426502985,
-      "score": 0.803,
+      "code": "058610",
+      "name": "에스피지",
+      "close": 85700,
+      "ret5": 0.2696,
+      "ret20": 0.0477,
+      "rsi14": 55.5,
+      "vol20": 1.32,
+      "foreign_net": -11054275250,
+      "inst_net": 29857396000,
+      "score": 0.592,
       "news": [
         {
           "date": "11-25",
-          "title": "한국화장품제조 주가, 11월 25일 장중 13,070원 7.48% 상승",
+          "title": "에스피지 주가, 11월 25일 장중 90,500원 0.44% 하락",
+          "risk": false
+        },
+        {
+          "date": "11-25",
+          "title": "[애널픽] 삼성전자 휴머노이드 본격화…에스피지·원익홀딩스 주목",
+          "risk": false
+        },
+        {
+          "date": "11-25",
+          "title": "에스피지·로보티즈 24%·19% 급등…로봇주 강세",
           "risk": false
         }
       ],
-      "price": 13090,
-      "chg": 0.0765,
-      "activity": 8.77,
+      "price": 91200,
+      "chg": 0.0033,
+      "activity": 4.62,
       "foreign_today": 0,
-      "inst_today": 130900000,
-      "exchange": "KOSPI"
-    },
-    {
-      "code": "104620",
-      "name": "노랑풍선",
-      "close": 4530,
-      "ret5": 0.4566,
-      "ret20": 0.6324,
-      "rsi14": 71.7,
-      "vol20": 1.343,
-      "foreign_net": -265084407,
-      "inst_net": 28883991,
-      "score": 0.727,
-      "news": [
-        {
-          "date": "11-25",
-          "title": "노랑풍선, '2026 허니문 온라인 박람회' 진행…내년 신혼여행 수요 선점",
-          "risk": false
-        },
-        {
-          "date": "11-24",
-          "title": "가심비·맞춤형 특전으로 2027년 신혼여행 시장 잡는다… 노랑풍선, 온라...",
-          "risk": false
-        },
-        {
-          "date": "11-24",
-          "title": "노랑풍선, 2027년 허니문 겨냥 온라인 박람회 운영",
-          "risk": false
-        }
-      ],
-      "price": 5050,
-      "chg": 0.116,
-      "activity": 7.65,
-      "foreign_today": 282800000,
-      "inst_today": 0,
+      "inst_today": 729600000,
       "exchange": "KOSDAQ"
     },
     {
-      "code": "020150",
-      "name": "롯데에너지머티리얼즈",
-      "close": 41050,
-      "ret5": 0.1531,
-      "ret20": -0.0918,
-      "rsi14": 51.6,
-      "vol20": 1.189,
-      "foreign_net": -6612232150,
-      "inst_net": 17452595600,
-      "score": 0.515,
+      "code": "468530",
+      "name": "프로티나",
+      "close": 60200,
+      "ret5": 0.2286,
+      "ret20": 0.2349,
+      "rsi14": 60.0,
+      "vol20": 1.232,
+      "foreign_net": -5107458550,
+      "inst_net": 9380285750,
+      "score": 0.592,
       "news": [
         {
-          "date": "11-25",
-          "title": "롯데에너지머티리얼즈, 스페인 공장 전력 접속 임시 반납…착공 2년 지...",
+          "date": "11-24",
+          "title": "프로티나, PEGS Europe서 해외 4곳과 후속 협의",
+          "risk": false
+        },
+        {
+          "date": "11-24",
+          "title": "프로티나, 유럽 항체 학회서 AI 바이오파운드리 소개…7개 기업과 미팅",
+          "risk": false
+        },
+        {
+          "date": "11-24",
+          "title": "프로티나, 해외 4개사와 AI 항체 검증 협력 논의…연내 후속 미팅 추진",
           "risk": false
         }
       ],
-      "foreign_today": 574700000,
-      "inst_today": 41050000,
-      "exchange": "KOSPI"
+      "price": 65400,
+      "chg": 0.0414,
+      "activity": 2.21,
+      "foreign_today": 1308000000,
+      "inst_today": 392400000,
+      "exchange": "KOSDAQ"
     },
     {
       "code": "114800",
