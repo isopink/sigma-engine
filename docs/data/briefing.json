@@ -81,8 +81,8 @@
     ]
   },
   "intraday": {
-    "time": "12:00",
-    "pool": 401,
+    "time": "12:30",
+    "pool": 400,
     "analyzed_new": 30,
     "passed": 16,
     "kept_prep": false
@@ -106,11 +106,11 @@
           "risk": false
         }
       ],
-      "price": 126700,
-      "chg": 0.1066,
-      "activity": 2.78,
+      "price": 126900,
+      "chg": 0.1083,
+      "activity": 2.49,
       "foreign_today": 0,
-      "inst_today": 2027200000,
+      "inst_today": 2030400000,
       "exchange": "KOSDAQ"
     },
     {
@@ -123,7 +123,7 @@
       "vol20": 0.412,
       "foreign_net": -1973039500,
       "inst_net": 18768960350,
-      "score": 0.988,
+      "score": 0.978,
       "news": [
         {
           "date": "11-25",
@@ -136,11 +136,11 @@
           "risk": false
         }
       ],
-      "price": 148000,
-      "chg": 0.0587,
-      "activity": 4.22,
+      "price": 147700,
+      "chg": 0.0565,
+      "activity": 3.76,
       "foreign_today": 0,
-      "inst_today": 11248000000,
+      "inst_today": 11225200000,
       "exchange": "KOSPI"
     },
     {
@@ -153,7 +153,7 @@
       "vol20": 0.658,
       "foreign_net": -1148124650,
       "inst_net": 5367383850,
-      "score": 0.953,
+      "score": 0.955,
       "news": [
         {
           "date": "11-25",
@@ -171,11 +171,11 @@
           "risk": false
         }
       ],
-      "price": 29450,
-      "chg": 0.1415,
-      "activity": 6.39,
+      "price": 29400,
+      "chg": 0.1395,
+      "activity": 5.75,
       "foreign_today": 0,
-      "inst_today": 1973150000,
+      "inst_today": 1969800000,
       "exchange": "KOSDAQ"
     },
     {
@@ -188,7 +188,7 @@
       "vol20": 0.979,
       "foreign_net": -3494999850,
       "inst_net": 10971498200,
-      "score": 0.605,
+      "score": 0.596,
       "news": [],
       "foreign_today": 312000000,
       "inst_today": 312000000,
@@ -204,7 +204,7 @@
       "vol20": 0.855,
       "foreign_net": 23428669050,
       "inst_net": 50532992750,
-      "score": 0.535,
+      "score": 0.539,
       "news": [
         {
           "date": "11-25",
@@ -215,17 +215,12 @@
           "date": "11-25",
           "title": "데뷔 3개월 만에 신인상 4관왕…‘하이브 신예’ 튜이드, 연말 시상식 접...",
           "risk": false
-        },
-        {
-          "date": "11-25",
-          "title": "하이브, 두나무 주식 3782억원어치 美 자회사에 현물출자",
-          "risk": false
         }
       ],
-      "price": 178100,
-      "chg": 0.0307,
-      "activity": 0.95,
-      "foreign_today": 1246700000,
+      "price": 179150,
+      "chg": 0.0367,
+      "activity": 0.89,
+      "foreign_today": 1254050000,
       "inst_today": 0,
       "exchange": "KOSPI"
     },
@@ -239,7 +234,7 @@
       "vol20": 0.271,
       "foreign_net": -4856013450,
       "inst_net": 10508941000,
-      "score": 0.442,
+      "score": 0.416,
       "news": [
         {
           "date": "11-25",
@@ -271,7 +266,7 @@
       "vol20": 0.935,
       "foreign_net": -339353460,
       "inst_net": 5624935285,
-      "score": 0.419,
+      "score": 0.404,
       "news": [
         {
           "date": "11-25",
@@ -289,11 +284,11 @@
           "risk": false
         }
       ],
-      "price": 16410,
-      "chg": 0.0506,
-      "activity": 2.19,
+      "price": 16320,
+      "chg": 0.0448,
+      "activity": 1.94,
       "foreign_today": 0,
-      "inst_today": 229740000,
+      "inst_today": 228480000,
       "exchange": "KOSDAQ"
     },
     {
@@ -342,61 +337,26 @@
       "news": [
         {
           "date": "11-25",
-          "title": "현대모비스, 유럽·북미서 핵심부품 1조원 수주…올해 해외수주 20조원...",
+          "title": "현대모비스, 해외수주 '잭팟'…유럽·북미 뚫었다",
           "risk": false
         },
         {
           "date": "11-25",
-          "title": "현대모비스, 사상최초 해외수주 20兆 돌파 초읽기",
+          "title": "현대모비스, 해외수주 '잭팟' 행진…제동·조향 1조원 따내고 올해 20조...",
           "risk": false
         },
         {
           "date": "11-25",
-          "title": "현대모비스, 유럽·북미서 1조원 따냈다… 올해 해외 수주 20조원 전망",
+          "title": "현대모비스 손에 쥔 6000억 현금… 앞으로 뭐할까?",
           "risk": false
         }
       ],
-      "price": 348500,
-      "chg": -0.0292,
-      "activity": 1.07,
+      "price": 352000,
+      "chg": -0.0195,
+      "activity": 1.01,
       "foreign_today": 0,
-      "inst_today": 697000000,
+      "inst_today": 704000000,
       "exchange": "KOSPI"
-    },
-    {
-      "code": "263860",
-      "name": "지니언스",
-      "close": 34500,
-      "ret5": -0.0574,
-      "ret20": 0.6197,
-      "rsi14": 62.0,
-      "vol20": 1.694,
-      "foreign_net": -4256871300,
-      "inst_net": 2055265825,
-      "score": 0.919,
-      "news": [
-        {
-          "date": "11-25",
-          "title": "지니언스 주가, 급등세... 왜?",
-          "risk": false
-        },
-        {
-          "date": "11-25",
-          "title": "[특징주] 지니언스, 美 보안 사고·약세장 피난처 수급에 12%↑…거래대...",
-          "risk": false
-        },
-        {
-          "date": "11-25",
-          "title": "사이버 공격 고도화에 보안 투자 확대…지니언스 성장 모멘텀 부각",
-          "risk": false
-        }
-      ],
-      "price": 38425,
-      "chg": 0.0855,
-      "activity": 3.39,
-      "foreign_today": 3458250000,
-      "inst_today": 307400000,
-      "exchange": "KOSDAQ"
     },
     {
       "code": "307950",
@@ -408,7 +368,7 @@
       "vol20": 1.281,
       "foreign_net": -10666029750,
       "inst_net": 28697179500,
-      "score": 0.907,
+      "score": 0.921,
       "news": [
         {
           "date": "11-25",
@@ -426,12 +386,72 @@
           "risk": false
         }
       ],
-      "price": 364000,
-      "chg": 0.0041,
-      "activity": 8.03,
+      "price": 364500,
+      "chg": 0.0055,
+      "activity": 7.16,
       "foreign_today": 0,
-      "inst_today": 8736000000,
+      "inst_today": 8748000000,
       "exchange": "KOSPI"
+    },
+    {
+      "code": "003350",
+      "name": "한국화장품제조",
+      "close": 11970,
+      "ret5": 0.1621,
+      "ret20": -0.2187,
+      "rsi14": 46.2,
+      "vol20": 1.063,
+      "foreign_net": -3522567985,
+      "inst_net": -426502985,
+      "score": 0.921,
+      "news": [
+        {
+          "date": "11-25",
+          "title": "한국화장품제조 주가, 11월 25일 장중 13,070원 7.48% 상승",
+          "risk": false
+        }
+      ],
+      "price": 13290,
+      "chg": 0.0929,
+      "activity": 6.54,
+      "foreign_today": 505020000,
+      "inst_today": 252510000,
+      "exchange": "KOSPI"
+    },
+    {
+      "code": "263860",
+      "name": "지니언스",
+      "close": 34500,
+      "ret5": -0.0574,
+      "ret20": 0.6197,
+      "rsi14": 62.0,
+      "vol20": 1.694,
+      "foreign_net": -4256871300,
+      "inst_net": 2055265825,
+      "score": 0.899,
+      "news": [
+        {
+          "date": "11-25",
+          "title": "지니언스 주가, 급등세... 왜?",
+          "risk": false
+        },
+        {
+          "date": "11-25",
+          "title": "[특징주] 지니언스, 美 보안 사고·약세장 피난처 수급에 12%↑…거래대...",
+          "risk": false
+        },
+        {
+          "date": "11-25",
+          "title": "사이버 공격 고도화에 보안 투자 확대…지니언스 성장 모멘텀 부각",
+          "risk": false
+        }
+      ],
+      "price": 38600,
+      "chg": 0.0904,
+      "activity": 3.0,
+      "foreign_today": 3474000000,
+      "inst_today": 308800000,
+      "exchange": "KOSDAQ"
     },
     {
       "code": "468530",
@@ -443,7 +463,7 @@
       "vol20": 1.232,
       "foreign_net": -5107458550,
       "inst_net": 9380285750,
-      "score": 0.64,
+      "score": 0.607,
       "news": [
         {
           "date": "11-24",
@@ -461,46 +481,11 @@
           "risk": false
         }
       ],
-      "price": 65500,
-      "chg": 0.043,
-      "activity": 2.01,
-      "foreign_today": 1310000000,
-      "inst_today": 393000000,
-      "exchange": "KOSDAQ"
-    },
-    {
-      "code": "058610",
-      "name": "에스피지",
-      "close": 85700,
-      "ret5": 0.2696,
-      "ret20": 0.0477,
-      "rsi14": 55.5,
-      "vol20": 1.32,
-      "foreign_net": -11054275250,
-      "inst_net": 29857396000,
-      "score": 0.593,
-      "news": [
-        {
-          "date": "11-25",
-          "title": "에스피지 주가, 11월 25일 장중 90,500원 0.44% 하락",
-          "risk": false
-        },
-        {
-          "date": "11-25",
-          "title": "[애널픽] 삼성전자 휴머노이드 본격화…에스피지·원익홀딩스 주목",
-          "risk": false
-        },
-        {
-          "date": "11-25",
-          "title": "에스피지·로보티즈 24%·19% 급등…로봇주 강세",
-          "risk": false
-        }
-      ],
-      "price": 91000,
-      "chg": 0.0011,
-      "activity": 3.99,
-      "foreign_today": 0,
-      "inst_today": 728000000,
+      "price": 64900,
+      "chg": 0.0334,
+      "activity": 1.81,
+      "foreign_today": 1298000000,
+      "inst_today": 389400000,
       "exchange": "KOSDAQ"
     },
     {
@@ -513,7 +498,7 @@
       "vol20": 1.343,
       "foreign_net": -265084407,
       "inst_net": 28883991,
-      "score": 0.558,
+      "score": 0.562,
       "news": [
         {
           "date": "11-25",
@@ -531,10 +516,10 @@
           "risk": false
         }
       ],
-      "price": 4815,
-      "chg": 0.0641,
-      "activity": 7.58,
-      "foreign_today": 130005000,
+      "price": 4730,
+      "chg": 0.0453,
+      "activity": 6.55,
+      "foreign_today": 127710000,
       "inst_today": 0,
       "exchange": "KOSDAQ"
     },
