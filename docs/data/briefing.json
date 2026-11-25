@@ -81,82 +81,82 @@
     ]
   },
   "intraday": {
-    "time": "09:30",
-    "pool": 327,
+    "time": "10:00",
+    "pool": 366,
     "analyzed_new": 30,
-    "passed": 9,
+    "passed": 10,
     "kept_prep": false
   },
   "candidates": [
     {
-      "code": "214450",
-      "name": "파마리서치",
-      "close": 263000,
-      "ret5": 0.0194,
-      "ret20": 0.1361,
-      "rsi14": 51.2,
-      "vol20": 0.515,
-      "foreign_net": 2848415000,
-      "inst_net": 6988862500,
-      "score": 0.556,
+      "code": "257720",
+      "name": "실리콘투",
+      "close": 25150,
+      "ret5": 0.0725,
+      "ret20": -0.1387,
+      "rsi14": 40.3,
+      "vol20": 0.658,
+      "foreign_net": -1148124650,
+      "inst_net": 5367383850,
+      "score": 0.96,
       "news": [
         {
           "date": "11-25",
-          "title": "[11월 25일 고용24 채용정보] 대웅제약·파마리서치·현대퓨처넷·마이코...",
+          "title": "실리콘투, 주가, 11월 25일 장중 28,200원 9.30% 상승",
           "risk": false
         },
         {
           "date": "11-25",
-          "title": "에이피알·파마리서치 웃고 휴젤·클래시스 하락…미용기기주 엇갈린 행...",
+          "title": "뷰티스킨 급등에 화장품주 온기 확산...실리콘투·마녀공장 수혜 주목을",
           "risk": false
         },
         {
           "date": "11-25",
-          "title": "파마리서치, 국제표준 개정 맞춰 준법경영 체계 강화",
+          "title": "서울여대, 기업분석 경진대회 대상에 '실리콘투' 팀",
           "risk": false
         }
       ],
-      "price": 274000,
-      "chg": 0.0359,
-      "activity": 1.3,
-      "foreign_today": 548000000,
-      "inst_today": 0,
+      "price": 28750,
+      "chg": 0.1143,
+      "activity": 10.24,
+      "foreign_today": 0,
+      "inst_today": 1063750000,
       "exchange": "KOSDAQ"
     },
     {
-      "code": "319400",
-      "name": "현대무벡스",
-      "close": 16530,
-      "ret5": 0.1439,
-      "ret20": -0.0608,
-      "rsi14": 49.7,
-      "vol20": 0.873,
-      "foreign_net": -2074592580,
-      "inst_net": 8162000395,
-      "score": 0.481,
+      "code": "090430",
+      "name": "아모레퍼시픽",
+      "close": 138500,
+      "ret5": 0.0662,
+      "ret20": 0.1089,
+      "rsi14": 57.8,
+      "vol20": 0.412,
+      "foreign_net": -1973039500,
+      "inst_net": 18768960350,
+      "score": 0.94,
       "news": [
         {
-          "date": "11-24",
-          "title": "현대무벡스 10.72% 뛰어 1만7450원…최대주주 지분 거래 변수",
+          "date": "11-25",
+          "title": "아모레퍼시픽재단, AI 시대의 질문을 논하다…'장원(粧源) 특강' 개최",
+          "risk": false
+        },
+        {
+          "date": "11-25",
+          "title": "[기획] 10년 전 6.7조 신화…서경배, 아모레퍼시픽 새 성장 공식 쓴다",
           "risk": false
         },
         {
           "date": "11-24",
-          "title": "엔비디아·삼성전자 '훈풍'?...현대무벡스 등 로봇주 '장중 껑충'",
-          "risk": false
-        },
-        {
-          "date": "11-24",
-          "title": "[특징주] 현대무벡스, 로봇·스마트팩토리 매수세 유입에 급등...AGV·물...",
+          "title": "아모레퍼시픽, 사업장마다 태양광 패널 증설",
           "risk": false
         }
       ],
-      "price": 16080,
-      "chg": -0.0689,
-      "activity": 3.62,
-      "foreign_today": 96480000,
-      "inst_today": 0,
-      "exchange": "KOSDAQ"
+      "price": 146900,
+      "chg": 0.0508,
+      "activity": 5.63,
+      "foreign_today": 881400000,
+      "inst_today": 587600000,
+      "exchange": "KOSPI"
     },
     {
       "code": "086790",
@@ -168,13 +168,13 @@
       "vol20": 0.358,
       "foreign_net": -38889025400,
       "inst_net": 40537311200,
-      "score": 0.296,
+      "score": 0.34,
       "news": [],
-      "price": 123300,
-      "chg": 0.0016,
-      "activity": 1.72,
-      "foreign_today": 123300000,
-      "inst_today": 0,
+      "price": 123000,
+      "chg": -0.0008,
+      "activity": 1.28,
+      "foreign_today": 0,
+      "inst_today": 369000000,
       "exchange": "KOSPI"
     },
     {
@@ -205,46 +205,65 @@
           "risk": false
         }
       ],
-      "price": 367500,
-      "chg": 0.0138,
-      "activity": 30.85,
-      "foreign_today": 1837500000,
-      "inst_today": 0,
+      "price": 364000,
+      "chg": 0.0041,
+      "activity": 18.33,
+      "foreign_today": 0,
+      "inst_today": 8736000000,
       "exchange": "KOSPI"
     },
     {
-      "code": "125490",
-      "name": "한라캐스트",
-      "close": 10970,
-      "ret5": 0.2257,
-      "ret20": 0.107,
-      "rsi14": 56.6,
-      "vol20": 1.256,
-      "foreign_net": 1743074740,
-      "inst_net": 4179326755,
-      "score": 0.778,
+      "code": "003350",
+      "name": "한국화장품제조",
+      "close": 11970,
+      "ret5": 0.1621,
+      "ret20": -0.2187,
+      "rsi14": 46.2,
+      "vol20": 1.063,
+      "foreign_net": -3522567985,
+      "inst_net": -426502985,
+      "score": 0.82,
+      "news": [],
+      "price": 12960,
+      "chg": 0.0658,
+      "activity": 15.55,
+      "foreign_today": 0,
+      "inst_today": 129600000,
+      "exchange": "KOSPI"
+    },
+    {
+      "code": "263860",
+      "name": "지니언스",
+      "close": 34500,
+      "ret5": -0.0574,
+      "ret20": 0.6197,
+      "rsi14": 62.0,
+      "vol20": 1.694,
+      "foreign_net": -4256871300,
+      "inst_net": 2055265825,
+      "score": 0.8,
       "news": [
         {
-          "date": "11-24",
-          "title": "한라캐스트 17.36% 급등…경량 모빌리티 부품 양산 주목",
+          "date": "11-25",
+          "title": "사이버 공격 고도화에 보안 투자 확대…지니언스 성장 모멘텀 부각",
           "risk": false
         },
         {
           "date": "11-24",
-          "title": "한라캐스트 주가 한때 19.61% 상승…오전 거래량 215만주",
+          "title": "美 미리캐피탈, 지니언스 투자 5년 만에 엑시트…350억원 회수",
           "risk": false
         },
         {
           "date": "11-24",
-          "title": "[특징주] 한라캐스트, 젠슨 황 복귀·CES 2027 기대감 속 로봇주 강세에...",
+          "title": "[리스트] MVP 상위 20선...지니언스, 제이브이엠 등 - 24일",
           "risk": false
         }
       ],
-      "price": 11660,
-      "chg": 0.0148,
-      "activity": 21.17,
-      "foreign_today": 536360000,
-      "inst_today": 0,
+      "price": 39550,
+      "chg": 0.1172,
+      "activity": 5.61,
+      "foreign_today": 1423800000,
+      "inst_today": 79100000,
       "exchange": "KOSDAQ"
     },
     {
@@ -257,7 +276,7 @@
       "vol20": 1.343,
       "foreign_net": -265084407,
       "inst_net": 28883991,
-      "score": 0.593,
+      "score": 0.76,
       "news": [
         {
           "date": "11-25",
@@ -275,47 +294,34 @@
           "risk": false
         }
       ],
-      "price": 5050,
-      "chg": 0.116,
-      "activity": 15.64,
-      "foreign_today": 222200000,
+      "price": 5070,
+      "chg": 0.1204,
+      "activity": 11.48,
+      "foreign_today": 283920000,
       "inst_today": 0,
       "exchange": "KOSDAQ"
     },
     {
-      "code": "282720",
-      "name": "금양그린파워",
-      "close": 10560,
-      "ret5": 0.3233,
-      "ret20": 0.5668,
-      "rsi14": 68.3,
-      "vol20": 1.226,
-      "foreign_net": -509034360,
-      "inst_net": -847281125,
-      "score": 0.444,
+      "code": "020150",
+      "name": "롯데에너지머티리얼즈",
+      "close": 41050,
+      "ret5": 0.1531,
+      "ret20": -0.0918,
+      "rsi14": 51.6,
+      "vol20": 1.189,
+      "foreign_net": -6612232150,
+      "inst_net": 17452595600,
+      "score": 0.56,
       "news": [
         {
           "date": "11-25",
-          "title": "유진투자증권 \"금양그린파워, AIDC 수주로 내년부터 턴어라운드\"",
-          "risk": false
-        },
-        {
-          "date": "11-25",
-          "title": "금양그린파워, AI 데이터센터 신규 성장동력 확보 '주목'…\"내년부터 본...",
-          "risk": false
-        },
-        {
-          "date": "11-25",
-          "title": "[더벨][Red & Blue] 금양그린파워, AI 데이터센터 2300억 수주에 주가 '반...",
+          "title": "롯데에너지머티리얼즈, 스페인 공장 전력 접속 임시 반납…착공 2년 지...",
           "risk": false
         }
       ],
-      "price": 10200,
-      "chg": -0.0668,
-      "activity": 2.5,
-      "foreign_today": 326400000,
-      "inst_today": 0,
-      "exchange": "KOSDAQ"
+      "foreign_today": 574700000,
+      "inst_today": 41050000,
+      "exchange": "KOSPI"
     },
     {
       "code": "114800",

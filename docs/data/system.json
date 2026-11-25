@@ -103,8 +103,8 @@
   },
   {
     "date": "2026-11-25",
-    "runs": 1,
+    "runs": 2,
     "failures": 0,
-    "tokens_k": 73.4
+    "tokens_k": 146.9
   }
 ]
