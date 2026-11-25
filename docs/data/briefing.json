@@ -81,43 +81,13 @@
     ]
   },
   "intraday": {
-    "time": "11:30",
-    "pool": 398,
+    "time": "12:00",
+    "pool": 401,
     "analyzed_new": 30,
-    "passed": 14,
+    "passed": 16,
     "kept_prep": false
   },
   "candidates": [
-    {
-      "code": "090430",
-      "name": "아모레퍼시픽",
-      "close": 138500,
-      "ret5": 0.0662,
-      "ret20": 0.1089,
-      "rsi14": 57.8,
-      "vol20": 0.412,
-      "foreign_net": -1973039500,
-      "inst_net": 18768960350,
-      "score": 1.0,
-      "news": [
-        {
-          "date": "11-25",
-          "title": "[HOT 마켓 트렌드] 아모레퍼시픽재단, 'AI 대전환' 속 질문의 힘 조명…...",
-          "risk": false
-        },
-        {
-          "date": "11-25",
-          "title": "아모레퍼시픽재단, AI 시대의 질문을 논하다…'장원(粧源) 특강' 개최",
-          "risk": false
-        }
-      ],
-      "price": 148000,
-      "chg": 0.0587,
-      "activity": 4.91,
-      "foreign_today": 0,
-      "inst_today": 11248000000,
-      "exchange": "KOSPI"
-    },
     {
       "code": "241710",
       "name": "코스메카코리아",
@@ -136,11 +106,76 @@
           "risk": false
         }
       ],
-      "price": 127900,
-      "chg": 0.117,
-      "activity": 3.08,
+      "price": 126700,
+      "chg": 0.1066,
+      "activity": 2.78,
       "foreign_today": 0,
-      "inst_today": 2046400000,
+      "inst_today": 2027200000,
+      "exchange": "KOSDAQ"
+    },
+    {
+      "code": "090430",
+      "name": "아모레퍼시픽",
+      "close": 138500,
+      "ret5": 0.0662,
+      "ret20": 0.1089,
+      "rsi14": 57.8,
+      "vol20": 0.412,
+      "foreign_net": -1973039500,
+      "inst_net": 18768960350,
+      "score": 0.988,
+      "news": [
+        {
+          "date": "11-25",
+          "title": "[HOT 마켓 트렌드] 아모레퍼시픽재단, 'AI 대전환' 속 질문의 힘 조명…...",
+          "risk": false
+        },
+        {
+          "date": "11-25",
+          "title": "아모레퍼시픽재단, AI 시대의 질문을 논하다…'장원(粧源) 특강' 개최",
+          "risk": false
+        }
+      ],
+      "price": 148000,
+      "chg": 0.0587,
+      "activity": 4.22,
+      "foreign_today": 0,
+      "inst_today": 11248000000,
+      "exchange": "KOSPI"
+    },
+    {
+      "code": "257720",
+      "name": "실리콘투",
+      "close": 25150,
+      "ret5": 0.0725,
+      "ret20": -0.1387,
+      "rsi14": 40.3,
+      "vol20": 0.658,
+      "foreign_net": -1148124650,
+      "inst_net": 5367383850,
+      "score": 0.953,
+      "news": [
+        {
+          "date": "11-25",
+          "title": "실리콘투 주가, 급등세... 왜?",
+          "risk": false
+        },
+        {
+          "date": "11-25",
+          "title": "[특징주] 코스메카코리아, 뷰티스킨·실리콘투와 화장품 테마 동반 랠리...",
+          "risk": false
+        },
+        {
+          "date": "11-25",
+          "title": "실리콘투 13%·에이피알 10%↑…급락장서 K뷰티주 강세 [종목NOW]",
+          "risk": false
+        }
+      ],
+      "price": 29450,
+      "chg": 0.1415,
+      "activity": 6.39,
+      "foreign_today": 0,
+      "inst_today": 1973150000,
       "exchange": "KOSDAQ"
     },
     {
@@ -153,7 +188,7 @@
       "vol20": 0.979,
       "foreign_net": -3494999850,
       "inst_net": 10971498200,
-      "score": 0.579,
+      "score": 0.605,
       "news": [],
       "foreign_today": 312000000,
       "inst_today": 312000000,
@@ -169,7 +204,7 @@
       "vol20": 0.855,
       "foreign_net": 23428669050,
       "inst_net": 50532992750,
-      "score": 0.513,
+      "score": 0.535,
       "news": [
         {
           "date": "11-25",
@@ -187,11 +222,43 @@
           "risk": false
         }
       ],
-      "price": 179400,
-      "chg": 0.0382,
-      "activity": 1.05,
-      "foreign_today": 1255800000,
+      "price": 178100,
+      "chg": 0.0307,
+      "activity": 0.95,
+      "foreign_today": 1246700000,
       "inst_today": 0,
+      "exchange": "KOSPI"
+    },
+    {
+      "code": "271560",
+      "name": "오리온",
+      "close": 116400,
+      "ret5": 0.0256,
+      "ret20": 0.0468,
+      "rsi14": 54.3,
+      "vol20": 0.271,
+      "foreign_net": -4856013450,
+      "inst_net": 10508941000,
+      "score": 0.442,
+      "news": [
+        {
+          "date": "11-25",
+          "title": "신한은행 땡겨요·안토·오뚜기·오리온, 크리스마스 한정판과 할인 릴...",
+          "risk": false
+        },
+        {
+          "date": "11-25",
+          "title": "국산 낚시 생활 시뮬 '오리온 블루' 30일 정식 출시",
+          "risk": false
+        },
+        {
+          "date": "11-25",
+          "title": "익스릭스, 낚시 생활 시뮬레이션 '오리온 블루' 11월 30일 스팀 출시",
+          "risk": false
+        }
+      ],
+      "foreign_today": 0,
+      "inst_today": 465600000,
       "exchange": "KOSPI"
     },
     {
@@ -204,7 +271,7 @@
       "vol20": 0.935,
       "foreign_net": -339353460,
       "inst_net": 5624935285,
-      "score": 0.408,
+      "score": 0.419,
       "news": [
         {
           "date": "11-25",
@@ -222,11 +289,11 @@
           "risk": false
         }
       ],
-      "price": 16530,
-      "chg": 0.0583,
-      "activity": 2.55,
+      "price": 16410,
+      "chg": 0.0506,
+      "activity": 2.19,
       "foreign_today": 0,
-      "inst_today": 231420000,
+      "inst_today": 229740000,
       "exchange": "KOSDAQ"
     },
     {
@@ -239,8 +306,13 @@
       "vol20": 0.938,
       "foreign_net": 11959130110,
       "inst_net": 2192111490,
-      "score": 0.355,
+      "score": 0.36,
       "news": [
+        {
+          "date": "11-25",
+          "title": "제주항공 이용 외국인 전년比 27% ‘쑥’…역대 최대",
+          "risk": false
+        },
         {
           "date": "11-25",
           "title": "외국인 발길 몰린 제주항공…10개월만에 276만명 '역대 최대'",
@@ -249,11 +321,6 @@
         {
           "date": "11-25",
           "title": "내국인 6만 명 줄 때 외국인 18만 명 늘어… 제주항공, 지방 국제선이 달...",
-          "risk": false
-        },
-        {
-          "date": "11-25",
-          "title": "제주항공, 올해 외국인 탑승객 '역대 최대'...지방노선 34%↑",
           "risk": false
         }
       ],
@@ -271,89 +338,29 @@
       "vol20": 0.706,
       "foreign_net": -64189653000,
       "inst_net": 65765302000,
-      "score": 0.355,
+      "score": 0.36,
       "news": [
         {
           "date": "11-25",
-          "title": "현대모비스, 유럽·북미서 1조원 규모 수주…목표치 23% 초과 전망",
+          "title": "현대모비스, 유럽·북미서 핵심부품 1조원 수주…올해 해외수주 20조원...",
           "risk": false
         },
         {
           "date": "11-25",
-          "title": "현대모비스, 올해 해외수주 20조원 전망…연간 목표 초과 달성",
+          "title": "현대모비스, 사상최초 해외수주 20兆 돌파 초읽기",
           "risk": false
         },
         {
           "date": "11-25",
-          "title": "현대모비스, 북미·유럽서 대규모 수주 잇따라 … 올해 20조원 달성 전망",
+          "title": "현대모비스, 유럽·북미서 1조원 따냈다… 올해 해외 수주 20조원 전망",
           "risk": false
         }
       ],
-      "price": 349500,
-      "chg": -0.0265,
-      "activity": 1.2,
+      "price": 348500,
+      "chg": -0.0292,
+      "activity": 1.07,
       "foreign_today": 0,
-      "inst_today": 699000000,
-      "exchange": "KOSPI"
-    },
-    {
-      "code": "307950",
-      "name": "현대오토에버",
-      "close": 347000,
-      "ret5": 0.2711,
-      "ret20": 0.0595,
-      "rsi14": 58.3,
-      "vol20": 1.281,
-      "foreign_net": -10666029750,
-      "inst_net": 28697179500,
-      "score": 0.921,
-      "news": [
-        {
-          "date": "11-25",
-          "title": "현대오토에버 주가, 11월 25일 장중 363,000원 0.14% 상승",
-          "risk": false
-        },
-        {
-          "date": "11-25",
-          "title": "[애프터마켓 리뷰] 젠슨황 복귀에 '깐부주' 부활…현대오토에버 급등",
-          "risk": false
-        },
-        {
-          "date": "11-24",
-          "title": "[상한가 종목] 현대오토에버-아이티엠반도체 이어 KH바텍 등 마감",
-          "risk": false
-        }
-      ],
-      "price": 363000,
-      "chg": 0.0014,
-      "activity": 9.34,
-      "foreign_today": 0,
-      "inst_today": 8712000000,
-      "exchange": "KOSPI"
-    },
-    {
-      "code": "003350",
-      "name": "한국화장품제조",
-      "close": 11970,
-      "ret5": 0.1621,
-      "ret20": -0.2187,
-      "rsi14": 46.2,
-      "vol20": 1.063,
-      "foreign_net": -3522567985,
-      "inst_net": -426502985,
-      "score": 0.921,
-      "news": [
-        {
-          "date": "11-25",
-          "title": "한국화장품제조 주가, 11월 25일 장중 13,070원 7.48% 상승",
-          "risk": false
-        }
-      ],
-      "price": 13240,
-      "chg": 0.0888,
-      "activity": 7.27,
-      "foreign_today": 503120000,
-      "inst_today": 251560000,
+      "inst_today": 697000000,
       "exchange": "KOSPI"
     },
     {
@@ -366,7 +373,7 @@
       "vol20": 1.694,
       "foreign_net": -4256871300,
       "inst_net": 2055265825,
-      "score": 0.908,
+      "score": 0.919,
       "news": [
         {
           "date": "11-25",
@@ -384,47 +391,47 @@
           "risk": false
         }
       ],
-      "price": 38500,
-      "chg": 0.0876,
-      "activity": 3.94,
-      "foreign_today": 3465000000,
-      "inst_today": 308000000,
+      "price": 38425,
+      "chg": 0.0855,
+      "activity": 3.39,
+      "foreign_today": 3458250000,
+      "inst_today": 307400000,
       "exchange": "KOSDAQ"
     },
     {
-      "code": "058610",
-      "name": "에스피지",
-      "close": 85700,
-      "ret5": 0.2696,
-      "ret20": 0.0477,
-      "rsi14": 55.5,
-      "vol20": 1.32,
-      "foreign_net": -11054275250,
-      "inst_net": 29857396000,
-      "score": 0.592,
+      "code": "307950",
+      "name": "현대오토에버",
+      "close": 347000,
+      "ret5": 0.2711,
+      "ret20": 0.0595,
+      "rsi14": 58.3,
+      "vol20": 1.281,
+      "foreign_net": -10666029750,
+      "inst_net": 28697179500,
+      "score": 0.907,
       "news": [
         {
           "date": "11-25",
-          "title": "에스피지 주가, 11월 25일 장중 90,500원 0.44% 하락",
+          "title": "현대오토에버 주가, 11월 25일 장중 363,000원 0.14% 상승",
           "risk": false
         },
         {
           "date": "11-25",
-          "title": "[애널픽] 삼성전자 휴머노이드 본격화…에스피지·원익홀딩스 주목",
+          "title": "[애프터마켓 리뷰] 젠슨황 복귀에 '깐부주' 부활…현대오토에버 급등",
           "risk": false
         },
         {
-          "date": "11-25",
-          "title": "에스피지·로보티즈 24%·19% 급등…로봇주 강세",
+          "date": "11-24",
+          "title": "[상한가 종목] 현대오토에버-아이티엠반도체 이어 KH바텍 등 마감",
           "risk": false
         }
       ],
-      "price": 91200,
-      "chg": 0.0033,
-      "activity": 4.62,
+      "price": 364000,
+      "chg": 0.0041,
+      "activity": 8.03,
       "foreign_today": 0,
-      "inst_today": 729600000,
-      "exchange": "KOSDAQ"
+      "inst_today": 8736000000,
+      "exchange": "KOSPI"
     },
     {
       "code": "468530",
@@ -436,7 +443,7 @@
       "vol20": 1.232,
       "foreign_net": -5107458550,
       "inst_net": 9380285750,
-      "score": 0.592,
+      "score": 0.64,
       "news": [
         {
           "date": "11-24",
@@ -454,11 +461,81 @@
           "risk": false
         }
       ],
-      "price": 65400,
-      "chg": 0.0414,
-      "activity": 2.21,
-      "foreign_today": 1308000000,
-      "inst_today": 392400000,
+      "price": 65500,
+      "chg": 0.043,
+      "activity": 2.01,
+      "foreign_today": 1310000000,
+      "inst_today": 393000000,
+      "exchange": "KOSDAQ"
+    },
+    {
+      "code": "058610",
+      "name": "에스피지",
+      "close": 85700,
+      "ret5": 0.2696,
+      "ret20": 0.0477,
+      "rsi14": 55.5,
+      "vol20": 1.32,
+      "foreign_net": -11054275250,
+      "inst_net": 29857396000,
+      "score": 0.593,
+      "news": [
+        {
+          "date": "11-25",
+          "title": "에스피지 주가, 11월 25일 장중 90,500원 0.44% 하락",
+          "risk": false
+        },
+        {
+          "date": "11-25",
+          "title": "[애널픽] 삼성전자 휴머노이드 본격화…에스피지·원익홀딩스 주목",
+          "risk": false
+        },
+        {
+          "date": "11-25",
+          "title": "에스피지·로보티즈 24%·19% 급등…로봇주 강세",
+          "risk": false
+        }
+      ],
+      "price": 91000,
+      "chg": 0.0011,
+      "activity": 3.99,
+      "foreign_today": 0,
+      "inst_today": 728000000,
+      "exchange": "KOSDAQ"
+    },
+    {
+      "code": "104620",
+      "name": "노랑풍선",
+      "close": 4530,
+      "ret5": 0.4566,
+      "ret20": 0.6324,
+      "rsi14": 71.7,
+      "vol20": 1.343,
+      "foreign_net": -265084407,
+      "inst_net": 28883991,
+      "score": 0.558,
+      "news": [
+        {
+          "date": "11-25",
+          "title": "노랑풍선 주가, 급등세... 어떤 회사길래?",
+          "risk": false
+        },
+        {
+          "date": "11-25",
+          "title": "노랑풍선, '2026 허니문 온라인 박람회' 진행…내년 신혼여행 수요 선점",
+          "risk": false
+        },
+        {
+          "date": "11-24",
+          "title": "가심비·맞춤형 특전으로 2027년 신혼여행 시장 잡는다… 노랑풍선, 온라...",
+          "risk": false
+        }
+      ],
+      "price": 4815,
+      "chg": 0.0641,
+      "activity": 7.58,
+      "foreign_today": 130005000,
+      "inst_today": 0,
       "exchange": "KOSDAQ"
     },
     {
