@@ -81,8 +81,8 @@
     ]
   },
   "intraday": {
-    "time": "13:30",
-    "pool": 443,
+    "time": "14:30",
+    "pool": 450,
     "analyzed_new": 30,
     "passed": 20,
     "kept_prep": false
@@ -106,11 +106,11 @@
           "risk": false
         }
       ],
-      "price": 126300,
-      "chg": 0.1031,
-      "activity": 2.27,
+      "price": 128100,
+      "chg": 0.1188,
+      "activity": 2.22,
       "foreign_today": 0,
-      "inst_today": 2778600000,
+      "inst_today": 2818200000,
       "exchange": "KOSDAQ"
     },
     {
@@ -123,24 +123,19 @@
       "vol20": 0.412,
       "foreign_net": -1973039500,
       "inst_net": 18768960350,
-      "score": 0.969,
+      "score": 0.978,
       "news": [
         {
           "date": "11-25",
           "title": "[HOT 마켓 트렌드] 아모레퍼시픽재단, 'AI 대전환' 속 질문의 힘 조명…...",
           "risk": false
-        },
-        {
-          "date": "11-25",
-          "title": "아모레퍼시픽재단, AI 시대의 질문을 논하다…'장원(粧源) 특강' 개최",
-          "risk": false
         }
       ],
       "price": 146500,
       "chg": 0.0479,
-      "activity": 3.16,
+      "activity": 2.81,
       "foreign_today": 0,
-      "inst_today": 19484500000,
+      "inst_today": 20656500000,
       "exchange": "KOSPI"
     },
     {
@@ -153,8 +148,13 @@
       "vol20": 0.658,
       "foreign_net": -1148124650,
       "inst_net": 5367383850,
-      "score": 0.946,
+      "score": 0.964,
       "news": [
+        {
+          "date": "11-25",
+          "title": "실리콘투 장중 3만원 돌파…2만9000원에 거래",
+          "risk": false
+        },
         {
           "date": "11-25",
           "title": "실리콘투 주가, 급등세... 왜?",
@@ -164,19 +164,65 @@
           "date": "11-25",
           "title": "[특징주] 코스메카코리아, 뷰티스킨·실리콘투와 화장품 테마 동반 랠리...",
           "risk": false
+        }
+      ],
+      "price": 28650,
+      "chg": 0.1105,
+      "activity": 4.49,
+      "foreign_today": 2865000000,
+      "inst_today": 5815950000,
+      "exchange": "KOSDAQ"
+    },
+    {
+      "code": "328130",
+      "name": "루닛",
+      "close": 15590,
+      "ret5": -0.0213,
+      "ret20": 0.0345,
+      "rsi14": 55.6,
+      "vol20": 0.935,
+      "foreign_net": -339353460,
+      "inst_net": 5624935285,
+      "score": 0.686,
+      "news": [
+        {
+          "date": "11-25",
+          "title": "루닛 장중 8% 상승…3분기 상각전영업손실 77% 줄어",
+          "risk": false
         },
         {
           "date": "11-25",
-          "title": "실리콘투 13%·에이피알 10%↑…급락장서 K뷰티주 강세 [종목NOW]",
+          "title": "루닛 주가, 11월 25일 장중 16,340원 4.61% 상승",
+          "risk": false
+        },
+        {
+          "date": "11-25",
+          "title": "뷰노·루닛 주가 장초반 급등…양대지수 하락에도 일부 의료AI 종목 '껑...",
           "risk": false
         }
       ],
-      "price": 29050,
-      "chg": 0.126,
-      "activity": 5.02,
-      "foreign_today": 319550000,
-      "inst_today": 4125100000,
+      "price": 16580,
+      "chg": 0.0615,
+      "activity": 1.56,
+      "foreign_today": 1094280000,
+      "inst_today": 1575100000,
       "exchange": "KOSDAQ"
+    },
+    {
+      "code": "009420",
+      "name": "한올바이오파마",
+      "close": 52000,
+      "ret5": -0.028,
+      "ret20": 0.3559,
+      "rsi14": 63.0,
+      "vol20": 0.979,
+      "foreign_net": -3494999850,
+      "inst_net": 10971498200,
+      "score": 0.606,
+      "news": [],
+      "foreign_today": 624000000,
+      "inst_today": 1768000000,
+      "exchange": "KOSPI"
     },
     {
       "code": "128940",
@@ -188,7 +234,7 @@
       "vol20": 0.662,
       "foreign_net": -45702072500,
       "inst_net": 55102014750,
-      "score": 0.628,
+      "score": 0.584,
       "news": [
         {
           "date": "11-25",
@@ -206,178 +252,11 @@
           "risk": false
         }
       ],
-      "price": 467500,
-      "chg": 0.023,
-      "activity": 0.79,
+      "price": 469500,
+      "chg": 0.0274,
+      "activity": 0.76,
       "foreign_today": 0,
-      "inst_today": 4675000000,
-      "exchange": "KOSPI"
-    },
-    {
-      "code": "009420",
-      "name": "한올바이오파마",
-      "close": 52000,
-      "ret5": -0.028,
-      "ret20": 0.3559,
-      "rsi14": 63.0,
-      "vol20": 0.979,
-      "foreign_net": -3494999850,
-      "inst_net": 10971498200,
-      "score": 0.581,
-      "news": [],
-      "foreign_today": 0,
-      "inst_today": 1248000000,
-      "exchange": "KOSPI"
-    },
-    {
-      "code": "328130",
-      "name": "루닛",
-      "close": 15590,
-      "ret5": -0.0213,
-      "ret20": 0.0345,
-      "rsi14": 55.6,
-      "vol20": 0.935,
-      "foreign_net": -339353460,
-      "inst_net": 5624935285,
-      "score": 0.558,
-      "news": [
-        {
-          "date": "11-25",
-          "title": "루닛 주가, 11월 25일 장중 16,340원 4.61% 상승",
-          "risk": false
-        },
-        {
-          "date": "11-25",
-          "title": "뷰노·루닛 주가 장초반 급등…양대지수 하락에도 일부 의료AI 종목 '껑...",
-          "risk": false
-        },
-        {
-          "date": "11-25",
-          "title": "루닛, 유방암 진단 AI 새 기능 공개…정확도·암 발견율 상시 점검",
-          "risk": false
-        }
-      ],
-      "price": 16380,
-      "chg": 0.0487,
-      "activity": 1.64,
-      "foreign_today": 0,
-      "inst_today": 1064700000,
-      "exchange": "KOSDAQ"
-    },
-    {
-      "code": "086790",
-      "name": "하나금융지주",
-      "close": 122100,
-      "ret5": -0.0185,
-      "ret20": 0.0796,
-      "rsi14": 49.8,
-      "vol20": 0.358,
-      "foreign_net": -38889025400,
-      "inst_net": 40537311200,
-      "score": 0.527,
-      "news": [],
-      "price": 121100,
-      "chg": -0.0162,
-      "activity": 0.75,
-      "foreign_today": 0,
-      "inst_today": 3511900000,
-      "exchange": "KOSPI"
-    },
-    {
-      "code": "012330",
-      "name": "현대모비스",
-      "close": 344500,
-      "ret5": 0.0044,
-      "ret20": 0.033,
-      "rsi14": 48.3,
-      "vol20": 0.706,
-      "foreign_net": -64189653000,
-      "inst_net": 65765302000,
-      "score": 0.504,
-      "news": [
-        {
-          "date": "11-25",
-          "title": "현대모비스, 올해 해외 수주 58% 증가 전망",
-          "risk": false
-        },
-        {
-          "date": "11-25",
-          "title": "현대모비스, 해외수주 20조원 전망…제동·조향·섀시 '글로벌 영토 확...",
-          "risk": false
-        },
-        {
-          "date": "11-25",
-          "title": "현대모비스, 유럽·북미서 1조원대 제동·조향장치 공급…올해 수주 20조...",
-          "risk": false
-        }
-      ],
-      "price": 354500,
-      "chg": -0.0125,
-      "activity": 0.88,
-      "foreign_today": 0,
-      "inst_today": 2481500000,
-      "exchange": "KOSPI"
-    },
-    {
-      "code": "089590",
-      "name": "제주항공",
-      "close": 7880,
-      "ret5": 0.0507,
-      "ret20": 0.4729,
-      "rsi14": 64.9,
-      "vol20": 0.938,
-      "foreign_net": 11959130110,
-      "inst_net": 2192111490,
-      "score": 0.496,
-      "news": [
-        {
-          "date": "11-25",
-          "title": "제주항공 이용 외국인 전년比 27% ‘쑥’…역대 최대",
-          "risk": false
-        },
-        {
-          "date": "11-25",
-          "title": "외국인 발길 몰린 제주항공…10개월만에 276만명 '역대 최대'",
-          "risk": false
-        },
-        {
-          "date": "11-25",
-          "title": "내국인 6만 명 줄 때 외국인 18만 명 늘어… 제주항공, 지방 국제선이 달...",
-          "risk": false
-        }
-      ],
-      "foreign_today": 0,
-      "inst_today": 598880000,
-      "exchange": "KOSPI"
-    },
-    {
-      "code": "000270",
-      "name": "기아",
-      "close": 92600,
-      "ret5": 0.0098,
-      "ret20": -0.1321,
-      "rsi14": 40.0,
-      "vol20": 0.603,
-      "foreign_net": -9846928450,
-      "inst_net": 16507326450,
-      "score": 0.488,
-      "news": [
-        {
-          "date": "11-25",
-          "title": "현대차·기아·제네시스 통합 전기차 '완속 충전기' 나온다",
-          "risk": false
-        },
-        {
-          "date": "11-25",
-          "title": "현대차그룹, 현대차·기아·제네시스 통합 'HMG 글로벌 완속충전기' 공개",
-          "risk": false
-        }
-      ],
-      "price": 95900,
-      "chg": 0.0031,
-      "activity": 0.61,
-      "foreign_today": 0,
-      "inst_today": 6233500000,
+      "inst_today": 5634000000,
       "exchange": "KOSPI"
     },
     {
@@ -390,7 +269,7 @@
       "vol20": 0.515,
       "foreign_net": 2848415000,
       "inst_net": 6988862500,
-      "score": 0.481,
+      "score": 0.562,
       "news": [
         {
           "date": "11-25",
@@ -408,12 +287,130 @@
           "risk": false
         }
       ],
-      "price": 277500,
-      "chg": 0.0491,
-      "activity": 1.0,
+      "price": 277000,
+      "chg": 0.0473,
+      "activity": 0.99,
       "foreign_today": 0,
-      "inst_today": 277500000,
+      "inst_today": 831000000,
       "exchange": "KOSDAQ"
+    },
+    {
+      "code": "086790",
+      "name": "하나금융지주",
+      "close": 122100,
+      "ret5": -0.0185,
+      "ret20": 0.0796,
+      "rsi14": 49.8,
+      "vol20": 0.358,
+      "foreign_net": -38889025400,
+      "inst_net": 40537311200,
+      "score": 0.518,
+      "news": [],
+      "price": 121000,
+      "chg": -0.0171,
+      "activity": 0.78,
+      "foreign_today": 0,
+      "inst_today": 4961000000,
+      "exchange": "KOSPI"
+    },
+    {
+      "code": "012330",
+      "name": "현대모비스",
+      "close": 344500,
+      "ret5": 0.0044,
+      "ret20": 0.033,
+      "rsi14": 48.3,
+      "vol20": 0.706,
+      "foreign_net": -64189653000,
+      "inst_net": 65765302000,
+      "score": 0.474,
+      "news": [
+        {
+          "date": "11-25",
+          "title": "현대모비스, 글로벌 수주 잭팟…올해 해외수주 20조원 정조준",
+          "risk": false
+        },
+        {
+          "date": "11-25",
+          "title": "유럽·북미서 잇단 쾌거 현대모비스, '글로벌 수주 20조원' 초읽기",
+          "risk": false
+        },
+        {
+          "date": "11-25",
+          "title": "현대모비스, 제동·조향 1조원 수주 '잭팟'…올해 해외 수주 20조원 전망",
+          "risk": false
+        }
+      ],
+      "price": 352000,
+      "chg": -0.0195,
+      "activity": 0.85,
+      "foreign_today": 0,
+      "inst_today": 3168000000,
+      "exchange": "KOSPI"
+    },
+    {
+      "code": "004170",
+      "name": "신세계",
+      "close": 266000,
+      "ret5": 0.0057,
+      "ret20": 0.0879,
+      "rsi14": 47.0,
+      "vol20": 0.632,
+      "foreign_net": -24711753750,
+      "inst_net": 31503256250,
+      "score": 0.467,
+      "news": [
+        {
+          "date": "11-25",
+          "title": "쥬노, 후쿠오카 라멘 브랜드 '신신라멘' 신세계百 강남점 팝업 운영",
+          "risk": false
+        },
+        {
+          "date": "11-25",
+          "title": "아울렛에 뜬 초대형 산타…신세계사이먼, 크리스마스 단장",
+          "risk": false
+        },
+        {
+          "date": "11-25",
+          "title": "신세계백화점, 3m 대형 캐릭터 '푸빌라'와 연말 크리스마스 축제 개최",
+          "risk": false
+        }
+      ],
+      "foreign_today": 0,
+      "inst_today": 2128000000,
+      "exchange": "KOSPI"
+    },
+    {
+      "code": "089590",
+      "name": "제주항공",
+      "close": 7880,
+      "ret5": 0.0507,
+      "ret20": 0.4729,
+      "rsi14": 64.9,
+      "vol20": 0.938,
+      "foreign_net": 11959130110,
+      "inst_net": 2192111490,
+      "score": 0.453,
+      "news": [
+        {
+          "date": "11-25",
+          "title": "제주항공, 외국인 탑승객 276만명…지난해 연간 기록 넘어",
+          "risk": false
+        },
+        {
+          "date": "11-25",
+          "title": "제주항공 외국인 탑승객 역대 최다…10개월 만에 276만명",
+          "risk": false
+        },
+        {
+          "date": "11-25",
+          "title": "제주항공 이용 외국인 전년比 27% ‘쑥’…역대 최대",
+          "risk": false
+        }
+      ],
+      "foreign_today": 0,
+      "inst_today": 622520000,
+      "exchange": "KOSPI"
     },
     {
       "code": "161890",
@@ -425,7 +422,7 @@
       "vol20": 0.7,
       "foreign_net": -21965682400,
       "inst_net": 21039950250,
-      "score": 0.442,
+      "score": 0.416,
       "news": [
         {
           "date": "11-25",
@@ -439,7 +436,7 @@
         }
       ],
       "foreign_today": 0,
-      "inst_today": 972000000,
+      "inst_today": 1093500000,
       "exchange": "KOSPI"
     },
     {
@@ -452,8 +449,13 @@
       "vol20": 0.271,
       "foreign_net": -4856013450,
       "inst_net": 10508941000,
-      "score": 0.302,
+      "score": 0.292,
       "news": [
+        {
+          "date": "11-25",
+          "title": "국제 곡물가 진정세에 식품주 투심 활짝…CJ제일제당·오리온 러브콜 쏟...",
+          "risk": false
+        },
         {
           "date": "11-25",
           "title": "신한은행 땡겨요·안토·오뚜기·오리온, 크리스마스 한정판과 할인 릴...",
@@ -463,15 +465,10 @@
           "date": "11-25",
           "title": "국산 낚시 생활 시뮬 '오리온 블루' 30일 정식 출시",
           "risk": false
-        },
-        {
-          "date": "11-25",
-          "title": "익스릭스, 낚시 생활 시뮬레이션 '오리온 블루' 11월 30일 스팀 출시",
-          "risk": false
         }
       ],
       "foreign_today": 0,
-      "inst_today": 349200000,
+      "inst_today": 465600000,
       "exchange": "KOSPI"
     },
     {
@@ -484,8 +481,13 @@
       "vol20": 1.281,
       "foreign_net": -10666029750,
       "inst_net": 28697179500,
-      "score": 0.853,
+      "score": 0.854,
       "news": [
+        {
+          "date": "11-25",
+          "title": "현대오토에버 36만8500원…장중 3만5000원 폭 등락",
+          "risk": false
+        },
         {
           "date": "11-25",
           "title": "현대오토에버 주가, 11월 25일 장중 363,000원 0.14% 상승",
@@ -497,11 +499,11 @@
           "risk": false
         }
       ],
-      "price": 367000,
-      "chg": 0.0124,
-      "activity": 6.02,
+      "price": 365500,
+      "chg": 0.0083,
+      "activity": 5.23,
       "foreign_today": 0,
-      "inst_today": 9542000000,
+      "inst_today": 9868500000,
       "exchange": "KOSPI"
     },
     {
@@ -514,7 +516,7 @@
       "vol20": 1.32,
       "foreign_net": -11054275250,
       "inst_net": 29857396000,
-      "score": 0.698,
+      "score": 0.708,
       "news": [
         {
           "date": "11-25",
@@ -532,11 +534,11 @@
           "risk": false
         }
       ],
-      "price": 91500,
-      "chg": 0.0066,
-      "activity": 2.94,
+      "price": 90900,
+      "chg": 0.0,
+      "activity": 2.54,
       "foreign_today": 0,
-      "inst_today": 2379000000,
+      "inst_today": 2999700000,
       "exchange": "KOSDAQ"
     },
     {
@@ -549,7 +551,7 @@
       "vol20": 1.232,
       "foreign_net": -5107458550,
       "inst_net": 9380285750,
-      "score": 0.659,
+      "score": 0.701,
       "news": [
         {
           "date": "11-24",
@@ -567,11 +569,36 @@
           "risk": false
         }
       ],
-      "price": 66600,
-      "chg": 0.0605,
-      "activity": 1.61,
-      "foreign_today": 999000000,
-      "inst_today": 1798200000,
+      "price": 67500,
+      "chg": 0.0748,
+      "activity": 1.65,
+      "foreign_today": 877500000,
+      "inst_today": 2362500000,
+      "exchange": "KOSDAQ"
+    },
+    {
+      "code": "100790",
+      "name": "미래에셋벤처투자",
+      "close": 13450,
+      "ret5": -0.0447,
+      "ret20": -0.0007,
+      "rsi14": 49.2,
+      "vol20": 1.198,
+      "foreign_net": -595052420,
+      "inst_net": -105088480,
+      "score": 0.664,
+      "news": [
+        {
+          "date": "11-24",
+          "title": "미래에셋벤처투자, 급락 뒤 장중 13,990원",
+          "risk": false
+        }
+      ],
+      "price": 15390,
+      "chg": 0.1016,
+      "activity": 2.44,
+      "foreign_today": 246240000,
+      "inst_today": 0,
       "exchange": "KOSDAQ"
     },
     {
@@ -584,7 +611,7 @@
       "vol20": 1.34,
       "foreign_net": -4324312575,
       "inst_net": 13653803000,
-      "score": 0.589,
+      "score": 0.577,
       "news": [
         {
           "date": "11-23",
@@ -597,41 +624,11 @@
           "risk": false
         }
       ],
-      "price": 34100,
-      "chg": 0.0287,
-      "activity": 1.74,
+      "price": 32950,
+      "chg": -0.006,
+      "activity": 1.57,
       "foreign_today": 0,
-      "inst_today": 647900000,
-      "exchange": "KOSDAQ"
-    },
-    {
-      "code": "277810",
-      "name": "레인보우로보틱스",
-      "close": 451500,
-      "ret5": 0.326,
-      "ret20": 0.2647,
-      "rsi14": 62.7,
-      "vol20": 1.238,
-      "foreign_net": -39146950750,
-      "inst_net": 110933688000,
-      "score": 0.55,
-      "news": [
-        {
-          "date": "11-24",
-          "title": "코스닥, 4%대 상승에 660선 회복...레인보우로보틱스, 에코프로비엠 등...",
-          "risk": false
-        },
-        {
-          "date": "11-24",
-          "title": "유진투자증권 \"삼성전자 HR·HE 공개 임박 기대…레인보우로보틱스 몸값...",
-          "risk": false
-        }
-      ],
-      "price": 472000,
-      "chg": 0.0,
-      "activity": 1.94,
-      "foreign_today": 0,
-      "inst_today": 1416000000,
+      "inst_today": 1021450000,
       "exchange": "KOSDAQ"
     },
     {
