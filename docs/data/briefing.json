@@ -80,8 +80,49 @@
       5006.03
     ]
   },
-  "intraday": null,
+  "intraday": {
+    "time": "09:30",
+    "pool": 327,
+    "analyzed_new": 30,
+    "passed": 9,
+    "kept_prep": false
+  },
   "candidates": [
+    {
+      "code": "214450",
+      "name": "파마리서치",
+      "close": 263000,
+      "ret5": 0.0194,
+      "ret20": 0.1361,
+      "rsi14": 51.2,
+      "vol20": 0.515,
+      "foreign_net": 2848415000,
+      "inst_net": 6988862500,
+      "score": 0.556,
+      "news": [
+        {
+          "date": "11-25",
+          "title": "[11월 25일 고용24 채용정보] 대웅제약·파마리서치·현대퓨처넷·마이코...",
+          "risk": false
+        },
+        {
+          "date": "11-25",
+          "title": "에이피알·파마리서치 웃고 휴젤·클래시스 하락…미용기기주 엇갈린 행...",
+          "risk": false
+        },
+        {
+          "date": "11-25",
+          "title": "파마리서치, 국제표준 개정 맞춰 준법경영 체계 강화",
+          "risk": false
+        }
+      ],
+      "price": 274000,
+      "chg": 0.0359,
+      "activity": 1.3,
+      "foreign_today": 548000000,
+      "inst_today": 0,
+      "exchange": "KOSDAQ"
+    },
     {
       "code": "319400",
       "name": "현대무벡스",
@@ -92,7 +133,7 @@
       "vol20": 0.873,
       "foreign_net": -2074592580,
       "inst_net": 8162000395,
-      "score": 0.196,
+      "score": 0.481,
       "news": [
         {
           "date": "11-24",
@@ -110,121 +151,170 @@
           "risk": false
         }
       ],
+      "price": 16080,
+      "chg": -0.0689,
+      "activity": 3.62,
+      "foreign_today": 96480000,
+      "inst_today": 0,
       "exchange": "KOSDAQ"
     },
     {
-      "code": "277810",
-      "name": "레인보우로보틱스",
-      "close": 451500,
-      "ret5": 0.326,
-      "ret20": 0.2647,
-      "rsi14": 62.7,
-      "vol20": 1.238,
-      "foreign_net": -39146950750,
-      "inst_net": 110933688000,
+      "code": "086790",
+      "name": "하나금융지주",
+      "close": 122100,
+      "ret5": -0.0185,
+      "ret20": 0.0796,
+      "rsi14": 49.8,
+      "vol20": 0.358,
+      "foreign_net": -38889025400,
+      "inst_net": 40537311200,
+      "score": 0.296,
+      "news": [],
+      "price": 123300,
+      "chg": 0.0016,
+      "activity": 1.72,
+      "foreign_today": 123300000,
+      "inst_today": 0,
+      "exchange": "KOSPI"
+    },
+    {
+      "code": "307950",
+      "name": "현대오토에버",
+      "close": 347000,
+      "ret5": 0.2711,
+      "ret20": 0.0595,
+      "rsi14": 58.3,
+      "vol20": 1.281,
+      "foreign_net": -10666029750,
+      "inst_net": 28697179500,
       "score": 1.0,
       "news": [
         {
-          "date": "11-24",
-          "title": "코스닥, 4%대 상승에 660선 회복...레인보우로보틱스, 에코프로비엠 등...",
+          "date": "11-25",
+          "title": "[애프터마켓 리뷰] 젠슨황 복귀에 '깐부주' 부활…현대오토에버 급등",
           "risk": false
         },
         {
           "date": "11-24",
-          "title": "유진투자증권 \"삼성전자 HR·HE 공개 임박 기대…레인보우로보틱스 몸값...",
-          "risk": false
-        }
-      ],
-      "exchange": "KOSDAQ"
-    },
-    {
-      "code": "437730",
-      "name": "삼현",
-      "close": 60300,
-      "ret5": 0.2843,
-      "ret20": 0.2382,
-      "rsi14": 69.9,
-      "vol20": 1.315,
-      "foreign_net": -5321161900,
-      "inst_net": 49825739875,
-      "score": 0.961,
-      "news": [
-        {
-          "date": "11-24",
-          "title": "현대모비스·삼현 '부르릉'… 자동차부품주 실적 개선 기대 커졌다",
-          "risk": false
-        }
-      ],
-      "exchange": "KOSDAQ"
-    },
-    {
-      "code": "232140",
-      "name": "와이씨",
-      "close": 15430,
-      "ret5": 0.1117,
-      "ret20": 0.1806,
-      "rsi14": 59.2,
-      "vol20": 1.338,
-      "foreign_net": -13909420860,
-      "inst_net": 27627739070,
-      "score": 0.863,
-      "news": [
-        {
-          "date": "11-24",
-          "title": "와이씨, 장중 1만6660원…20거래일 고점 웃돌아",
-          "risk": false
-        }
-      ],
-      "exchange": "KOSDAQ"
-    },
-    {
-      "code": "290550",
-      "name": "디케이티",
-      "close": 31550,
-      "ret5": 0.2019,
-      "ret20": 0.2324,
-      "rsi14": 62.3,
-      "vol20": 1.34,
-      "foreign_net": -4324312575,
-      "inst_net": 13653803000,
-      "score": 0.647,
-      "news": [
-        {
-          "date": "11-23",
-          "title": "디케이티 9.34% 상승…3분기 영업이익 129억원",
+          "title": "[상한가 종목] 현대오토에버-아이티엠반도체 이어 KH바텍 등 마감",
           "risk": false
         },
         {
-          "date": "11-23",
-          "title": "[특징주] 디케이티, 23일 장중 3만1500원 기록",
+          "date": "11-24",
+          "title": "[주식마감] 젠슨황 복귀에 '로봇주' 현대오토에버 상한가... 대성하이텍...",
           "risk": false
         }
       ],
-      "exchange": "KOSDAQ"
+      "price": 367500,
+      "chg": 0.0138,
+      "activity": 30.85,
+      "foreign_today": 1837500000,
+      "inst_today": 0,
+      "exchange": "KOSPI"
     },
     {
-      "code": "108490",
-      "name": "로보티즈",
-      "close": 281500,
-      "ret5": 0.3373,
-      "ret20": 0.1126,
-      "rsi14": 58.4,
+      "code": "125490",
+      "name": "한라캐스트",
+      "close": 10970,
+      "ret5": 0.2257,
+      "ret20": 0.107,
+      "rsi14": 56.6,
       "vol20": 1.256,
-      "foreign_net": 9276529500,
-      "inst_net": 100845733750,
-      "score": 0.608,
+      "foreign_net": 1743074740,
+      "inst_net": 4179326755,
+      "score": 0.778,
+      "news": [
+        {
+          "date": "11-24",
+          "title": "한라캐스트 17.36% 급등…경량 모빌리티 부품 양산 주목",
+          "risk": false
+        },
+        {
+          "date": "11-24",
+          "title": "한라캐스트 주가 한때 19.61% 상승…오전 거래량 215만주",
+          "risk": false
+        },
+        {
+          "date": "11-24",
+          "title": "[특징주] 한라캐스트, 젠슨 황 복귀·CES 2027 기대감 속 로봇주 강세에...",
+          "risk": false
+        }
+      ],
+      "price": 11660,
+      "chg": 0.0148,
+      "activity": 21.17,
+      "foreign_today": 536360000,
+      "inst_today": 0,
+      "exchange": "KOSDAQ"
+    },
+    {
+      "code": "104620",
+      "name": "노랑풍선",
+      "close": 4530,
+      "ret5": 0.4566,
+      "ret20": 0.6324,
+      "rsi14": 71.7,
+      "vol20": 1.343,
+      "foreign_net": -265084407,
+      "inst_net": 28883991,
+      "score": 0.593,
       "news": [
         {
           "date": "11-25",
-          "title": "에스피지·로보티즈 24%·19% 급등…로봇주 강세",
+          "title": "노랑풍선, '2026 허니문 온라인 박람회' 진행…내년 신혼여행 수요 선점",
           "risk": false
         },
         {
           "date": "11-24",
-          "title": "로보티즈 주가, 11월 24일 애프터마켓 288,000원 17.07% 상승 흐름",
+          "title": "가심비·맞춤형 특전으로 2027년 신혼여행 시장 잡는다… 노랑풍선, 온라...",
+          "risk": false
+        },
+        {
+          "date": "11-24",
+          "title": "노랑풍선, 2027년 허니문 겨냥 온라인 박람회 운영",
           "risk": false
         }
       ],
+      "price": 5050,
+      "chg": 0.116,
+      "activity": 15.64,
+      "foreign_today": 222200000,
+      "inst_today": 0,
+      "exchange": "KOSDAQ"
+    },
+    {
+      "code": "282720",
+      "name": "금양그린파워",
+      "close": 10560,
+      "ret5": 0.3233,
+      "ret20": 0.5668,
+      "rsi14": 68.3,
+      "vol20": 1.226,
+      "foreign_net": -509034360,
+      "inst_net": -847281125,
+      "score": 0.444,
+      "news": [
+        {
+          "date": "11-25",
+          "title": "유진투자증권 \"금양그린파워, AIDC 수주로 내년부터 턴어라운드\"",
+          "risk": false
+        },
+        {
+          "date": "11-25",
+          "title": "금양그린파워, AI 데이터센터 신규 성장동력 확보 '주목'…\"내년부터 본...",
+          "risk": false
+        },
+        {
+          "date": "11-25",
+          "title": "[더벨][Red & Blue] 금양그린파워, AI 데이터센터 2300억 수주에 주가 '반...",
+          "risk": false
+        }
+      ],
+      "price": 10200,
+      "chg": -0.0668,
+      "activity": 2.5,
+      "foreign_today": 326400000,
+      "inst_today": 0,
       "exchange": "KOSDAQ"
     },
     {
