@@ -81,48 +81,13 @@
     ]
   },
   "intraday": {
-    "time": "10:30",
+    "time": "11:00",
     "pool": 365,
     "analyzed_new": 30,
-    "passed": 14,
+    "passed": 13,
     "kept_prep": false
   },
   "candidates": [
-    {
-      "code": "257720",
-      "name": "실리콘투",
-      "close": 25150,
-      "ret5": 0.0725,
-      "ret20": -0.1387,
-      "rsi14": 40.3,
-      "vol20": 0.658,
-      "foreign_net": -1148124650,
-      "inst_net": 5367383850,
-      "score": 1.0,
-      "news": [
-        {
-          "date": "11-25",
-          "title": "실리콘투 13%·에이피알 10%↑…급락장서 K뷰티주 강세 [종목NOW]",
-          "risk": false
-        },
-        {
-          "date": "11-25",
-          "title": "[특징주] 실리콘투, 뷰티스킨·에이피알과 화장품 테마 동반 랠리…거래...",
-          "risk": false
-        },
-        {
-          "date": "11-25",
-          "title": "실리콘투, 주가, 11월 25일 장중 28,200원 9.30% 상승",
-          "risk": false
-        }
-      ],
-      "price": 29450,
-      "chg": 0.1415,
-      "activity": 8.72,
-      "foreign_today": 0,
-      "inst_today": 1089650000,
-      "exchange": "KOSDAQ"
-    },
     {
       "code": "090430",
       "name": "아모레퍼시픽",
@@ -133,8 +98,13 @@
       "vol20": 0.412,
       "foreign_net": -1973039500,
       "inst_net": 18768960350,
-      "score": 0.936,
+      "score": 1.0,
       "news": [
+        {
+          "date": "11-25",
+          "title": "[HOT 마켓 트렌드] 아모레퍼시픽재단, 'AI 대전환' 속 질문의 힘 조명…...",
+          "risk": false
+        },
         {
           "date": "11-25",
           "title": "아모레퍼시픽재단, AI 시대의 질문을 논하다…'장원(粧源) 특강' 개최",
@@ -146,11 +116,81 @@
           "risk": false
         }
       ],
-      "price": 147800,
-      "chg": 0.0572,
-      "activity": 6.02,
-      "foreign_today": 886800000,
-      "inst_today": 591200000,
+      "price": 149000,
+      "chg": 0.0658,
+      "activity": 5.91,
+      "foreign_today": 894000000,
+      "inst_today": 596000000,
+      "exchange": "KOSPI"
+    },
+    {
+      "code": "257720",
+      "name": "실리콘투",
+      "close": 25150,
+      "ret5": 0.0725,
+      "ret20": -0.1387,
+      "rsi14": 40.3,
+      "vol20": 0.658,
+      "foreign_net": -1148124650,
+      "inst_net": 5367383850,
+      "score": 0.97,
+      "news": [
+        {
+          "date": "11-25",
+          "title": "[특징주] 코스메카코리아, 뷰티스킨·실리콘투와 화장품 테마 동반 랠리...",
+          "risk": false
+        },
+        {
+          "date": "11-25",
+          "title": "실리콘투 13%·에이피알 10%↑…급락장서 K뷰티주 강세 [종목NOW]",
+          "risk": false
+        },
+        {
+          "date": "11-25",
+          "title": "[특징주] 실리콘투, 뷰티스킨·에이피알과 화장품 테마 동반 랠리…거래...",
+          "risk": false
+        }
+      ],
+      "price": 29400,
+      "chg": 0.1395,
+      "activity": 7.85,
+      "foreign_today": 0,
+      "inst_today": 1087800000,
+      "exchange": "KOSDAQ"
+    },
+    {
+      "code": "278470",
+      "name": "에이피알",
+      "close": 261000,
+      "ret5": 0.1323,
+      "ret20": -0.0595,
+      "rsi14": 47.7,
+      "vol20": 0.769,
+      "foreign_net": -27566678500,
+      "inst_net": 55436946250,
+      "score": 0.909,
+      "news": [
+        {
+          "date": "11-25",
+          "title": "[특징주] 에이피알, 증권가 목표가 50만원 상향에 11%대 급등…시총 11조...",
+          "risk": false
+        },
+        {
+          "date": "11-25",
+          "title": "실리콘투 13%·에이피알 10%↑…급락장서 K뷰티주 강세 [종목NOW]",
+          "risk": false
+        },
+        {
+          "date": "11-25",
+          "title": "[특징주] 실리콘투, 뷰티스킨·에이피알과 화장품 테마 동반 랠리…거래...",
+          "risk": false
+        }
+      ],
+      "price": 289500,
+      "chg": 0.0987,
+      "activity": 4.21,
+      "foreign_today": 3474000000,
+      "inst_today": 1737000000,
       "exchange": "KOSPI"
     },
     {
@@ -164,83 +204,19 @@
       "foreign_net": -29716394250,
       "inst_net": 26239660200,
       "score": 0.833,
-      "news": [],
-      "price": 125900,
-      "chg": 0.0996,
-      "activity": 3.85,
+      "news": [
+        {
+          "date": "11-25",
+          "title": "[특징주] 코스메카코리아, 뷰티스킨·실리콘투와 화장품 테마 동반 랠리...",
+          "risk": false
+        }
+      ],
+      "price": 126700,
+      "chg": 0.1066,
+      "activity": 3.44,
       "foreign_today": 0,
-      "inst_today": 251800000,
+      "inst_today": 253400000,
       "exchange": "KOSDAQ"
-    },
-    {
-      "code": "033780",
-      "name": "KT&G",
-      "close": 183300,
-      "ret5": 0.0105,
-      "ret20": -0.0177,
-      "rsi14": 50.0,
-      "vol20": 0.323,
-      "foreign_net": -50404145200,
-      "inst_net": -5049933250,
-      "score": 0.679,
-      "news": [
-        {
-          "date": "11-25",
-          "title": "KT&G, 취약계층 청년 겨울나기 지원…300가구에 김장김치 전달",
-          "risk": false
-        },
-        {
-          "date": "11-25",
-          "title": "건강기능식품 상장기업 브랜드평판 2026년 11월 빅데이터…1위 KT&G·2위 ...",
-          "risk": false
-        },
-        {
-          "date": "11-25",
-          "title": "KT&G, 청년 취약계층 300가구에 김장김치 900포기 전달",
-          "risk": false
-        }
-      ],
-      "price": 185300,
-      "chg": 0.0087,
-      "activity": 2.39,
-      "foreign_today": 2408900000,
-      "inst_today": 0,
-      "exchange": "KOSPI"
-    },
-    {
-      "code": "000270",
-      "name": "기아",
-      "close": 92600,
-      "ret5": 0.0098,
-      "ret20": -0.1321,
-      "rsi14": 40.0,
-      "vol20": 0.603,
-      "foreign_net": -9846928450,
-      "inst_net": 16507326450,
-      "score": 0.487,
-      "news": [
-        {
-          "date": "11-25",
-          "title": "현대차그룹, 현대차·기아·제네시스 통합 'HMG 글로벌 완속충전기' 공개",
-          "risk": false
-        },
-        {
-          "date": "11-25",
-          "title": "완속도 꽂으면 자동 결제⋯ 현대차·기아·제네시스 충전기 통합",
-          "risk": false
-        },
-        {
-          "date": "11-25",
-          "title": "현대차·기아, 3년 연속 안전관리 최우수연구실 선정",
-          "risk": false
-        }
-      ],
-      "price": 96000,
-      "chg": 0.0042,
-      "activity": 0.96,
-      "foreign_today": 960000000,
-      "inst_today": 1632000000,
-      "exchange": "KOSPI"
     },
     {
       "code": "352820",
@@ -252,24 +228,29 @@
       "vol20": 0.855,
       "foreign_net": 23428669050,
       "inst_net": 50532992750,
-      "score": 0.474,
+      "score": 0.47,
       "news": [
         {
           "date": "11-25",
-          "title": "하이브, 두나무 주식 3782억원어치 美 자회사에 현물출자",
+          "title": "[스톡 브리핑] 하이브, 'BTS 더 시티 싱가포르' 예상 이미지 공개",
           "risk": false
         },
         {
           "date": "11-25",
-          "title": "\"하이브, BTS 다음 타자가 중요…캣츠아이·코르티스 티켓 파워에 눈길...",
+          "title": "데뷔 3개월 만에 신인상 4관왕…‘하이브 신예’ 튜이드, 연말 시상식 접...",
+          "risk": false
+        },
+        {
+          "date": "11-25",
+          "title": "하이브, 두나무 주식 3782억원어치 美 자회사에 현물출자",
           "risk": false
         }
       ],
-      "price": 180600,
-      "chg": 0.0451,
-      "activity": 1.17,
+      "price": 180200,
+      "chg": 0.0428,
+      "activity": 1.11,
       "foreign_today": 0,
-      "inst_today": 361200000,
+      "inst_today": 360400000,
       "exchange": "KOSPI"
     },
     {
@@ -282,13 +263,13 @@
       "vol20": 0.358,
       "foreign_net": -38889025400,
       "inst_net": 40537311200,
-      "score": 0.333,
+      "score": 0.288,
       "news": [],
-      "price": 122200,
-      "chg": -0.0073,
-      "activity": 1.06,
+      "price": 120800,
+      "chg": -0.0187,
+      "activity": 0.92,
       "foreign_today": 0,
-      "inst_today": 366600000,
+      "inst_today": 362400000,
       "exchange": "KOSPI"
     },
     {
@@ -301,7 +282,7 @@
       "vol20": 1.281,
       "foreign_net": -10666029750,
       "inst_net": 28697179500,
-      "score": 0.936,
+      "score": 0.985,
       "news": [
         {
           "date": "11-25",
@@ -319,11 +300,11 @@
           "risk": false
         }
       ],
-      "price": 370500,
-      "chg": 0.0221,
-      "activity": 13.94,
+      "price": 365500,
+      "chg": 0.0083,
+      "activity": 10.86,
       "foreign_today": 0,
-      "inst_today": 8892000000,
+      "inst_today": 8772000000,
       "exchange": "KOSPI"
     },
     {
@@ -336,7 +317,7 @@
       "vol20": 1.694,
       "foreign_net": -4256871300,
       "inst_net": 2055265825,
-      "score": 0.821,
+      "score": 0.848,
       "news": [
         {
           "date": "11-25",
@@ -354,11 +335,11 @@
           "risk": false
         }
       ],
-      "price": 40050,
-      "chg": 0.1314,
-      "activity": 5.54,
-      "foreign_today": 1441800000,
-      "inst_today": 80100000,
+      "price": 40000,
+      "chg": 0.1299,
+      "activity": 4.6,
+      "foreign_today": 1440000000,
+      "inst_today": 80000000,
       "exchange": "KOSDAQ"
     },
     {
@@ -371,7 +352,7 @@
       "vol20": 1.063,
       "foreign_net": -3522567985,
       "inst_net": -426502985,
-      "score": 0.795,
+      "score": 0.803,
       "news": [
         {
           "date": "11-25",
@@ -379,11 +360,11 @@
           "risk": false
         }
       ],
-      "price": 13170,
-      "chg": 0.0831,
-      "activity": 11.35,
+      "price": 13090,
+      "chg": 0.0765,
+      "activity": 8.77,
       "foreign_today": 0,
-      "inst_today": 131700000,
+      "inst_today": 130900000,
       "exchange": "KOSPI"
     },
     {
@@ -396,7 +377,7 @@
       "vol20": 1.343,
       "foreign_net": -265084407,
       "inst_net": 28883991,
-      "score": 0.692,
+      "score": 0.727,
       "news": [
         {
           "date": "11-25",
@@ -414,10 +395,10 @@
           "risk": false
         }
       ],
-      "price": 4910,
-      "chg": 0.0851,
-      "activity": 8.56,
-      "foreign_today": 274960000,
+      "price": 5050,
+      "chg": 0.116,
+      "activity": 7.65,
+      "foreign_today": 282800000,
       "inst_today": 0,
       "exchange": "KOSDAQ"
     },
@@ -431,7 +412,7 @@
       "vol20": 1.189,
       "foreign_net": -6612232150,
       "inst_net": 17452595600,
-      "score": 0.551,
+      "score": 0.515,
       "news": [
         {
           "date": "11-25",
