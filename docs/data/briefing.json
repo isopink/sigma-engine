@@ -81,13 +81,38 @@
     ]
   },
   "intraday": {
-    "time": "13:00",
-    "pool": 398,
+    "time": "13:30",
+    "pool": 443,
     "analyzed_new": 30,
-    "passed": 15,
+    "passed": 20,
     "kept_prep": false
   },
   "candidates": [
+    {
+      "code": "241710",
+      "name": "코스메카코리아",
+      "close": 114300,
+      "ret5": 0.1476,
+      "ret20": 0.1119,
+      "rsi14": 59.9,
+      "vol20": 0.843,
+      "foreign_net": -29716394250,
+      "inst_net": 26239660200,
+      "score": 1.0,
+      "news": [
+        {
+          "date": "11-25",
+          "title": "[특징주] 코스메카코리아, 뷰티스킨·실리콘투와 화장품 테마 동반 랠리...",
+          "risk": false
+        }
+      ],
+      "price": 126300,
+      "chg": 0.1031,
+      "activity": 2.27,
+      "foreign_today": 0,
+      "inst_today": 2778600000,
+      "exchange": "KOSDAQ"
+    },
     {
       "code": "090430",
       "name": "아모레퍼시픽",
@@ -98,7 +123,7 @@
       "vol20": 0.412,
       "foreign_net": -1973039500,
       "inst_net": 18768960350,
-      "score": 1.0,
+      "score": 0.969,
       "news": [
         {
           "date": "11-25",
@@ -111,37 +136,82 @@
           "risk": false
         }
       ],
-      "price": 148300,
-      "chg": 0.0608,
-      "activity": 3.46,
+      "price": 146500,
+      "chg": 0.0479,
+      "activity": 3.16,
       "foreign_today": 0,
-      "inst_today": 11270800000,
+      "inst_today": 19484500000,
       "exchange": "KOSPI"
     },
     {
-      "code": "241710",
-      "name": "코스메카코리아",
-      "close": 114300,
-      "ret5": 0.1476,
-      "ret20": 0.1119,
-      "rsi14": 59.9,
-      "vol20": 0.843,
-      "foreign_net": -29716394250,
-      "inst_net": 26239660200,
-      "score": 0.989,
+      "code": "257720",
+      "name": "실리콘투",
+      "close": 25150,
+      "ret5": 0.0725,
+      "ret20": -0.1387,
+      "rsi14": 40.3,
+      "vol20": 0.658,
+      "foreign_net": -1148124650,
+      "inst_net": 5367383850,
+      "score": 0.946,
       "news": [
+        {
+          "date": "11-25",
+          "title": "실리콘투 주가, 급등세... 왜?",
+          "risk": false
+        },
         {
           "date": "11-25",
           "title": "[특징주] 코스메카코리아, 뷰티스킨·실리콘투와 화장품 테마 동반 랠리...",
           "risk": false
+        },
+        {
+          "date": "11-25",
+          "title": "실리콘투 13%·에이피알 10%↑…급락장서 K뷰티주 강세 [종목NOW]",
+          "risk": false
         }
       ],
-      "price": 127000,
-      "chg": 0.1092,
-      "activity": 2.4,
-      "foreign_today": 0,
-      "inst_today": 2032000000,
+      "price": 29050,
+      "chg": 0.126,
+      "activity": 5.02,
+      "foreign_today": 319550000,
+      "inst_today": 4125100000,
       "exchange": "KOSDAQ"
+    },
+    {
+      "code": "128940",
+      "name": "한미약품",
+      "close": 450500,
+      "ret5": 0.0045,
+      "ret20": 0.2762,
+      "rsi14": 52.3,
+      "vol20": 0.662,
+      "foreign_net": -45702072500,
+      "inst_net": 55102014750,
+      "score": 0.628,
+      "news": [
+        {
+          "date": "11-25",
+          "title": "[EZ 진단] 한미약품, 비만·희귀질환 기술수출 이어 항암 도전…임상 1상...",
+          "risk": false
+        },
+        {
+          "date": "11-25",
+          "title": "최인영 한미약품 부사장, 국민훈장 목련장 수훈",
+          "risk": false
+        },
+        {
+          "date": "11-25",
+          "title": "최인영 한미약품 부사장 '국민훈장 목련장'",
+          "risk": false
+        }
+      ],
+      "price": 467500,
+      "chg": 0.023,
+      "activity": 0.79,
+      "foreign_today": 0,
+      "inst_today": 4675000000,
+      "exchange": "KOSPI"
     },
     {
       "code": "009420",
@@ -153,72 +223,10 @@
       "vol20": 0.979,
       "foreign_net": -3494999850,
       "inst_net": 10971498200,
-      "score": 0.634,
+      "score": 0.581,
       "news": [],
-      "foreign_today": 312000000,
-      "inst_today": 312000000,
-      "exchange": "KOSPI"
-    },
-    {
-      "code": "352820",
-      "name": "하이브",
-      "close": 170300,
-      "ret5": 0.1073,
-      "ret20": 0.0077,
-      "rsi14": 54.0,
-      "vol20": 0.855,
-      "foreign_net": 23428669050,
-      "inst_net": 50532992750,
-      "score": 0.602,
-      "news": [
-        {
-          "date": "11-25",
-          "title": "[스톡 브리핑] 하이브, 'BTS 더 시티 싱가포르' 예상 이미지 공개",
-          "risk": false
-        },
-        {
-          "date": "11-25",
-          "title": "데뷔 3개월 만에 신인상 4관왕…‘하이브 신예’ 튜이드, 연말 시상식 접...",
-          "risk": false
-        }
-      ],
-      "price": 178100,
-      "chg": 0.0307,
-      "activity": 0.84,
-      "foreign_today": 1246700000,
-      "inst_today": 0,
-      "exchange": "KOSPI"
-    },
-    {
-      "code": "271560",
-      "name": "오리온",
-      "close": 116400,
-      "ret5": 0.0256,
-      "ret20": 0.0468,
-      "rsi14": 54.3,
-      "vol20": 0.271,
-      "foreign_net": -4856013450,
-      "inst_net": 10508941000,
-      "score": 0.473,
-      "news": [
-        {
-          "date": "11-25",
-          "title": "신한은행 땡겨요·안토·오뚜기·오리온, 크리스마스 한정판과 할인 릴...",
-          "risk": false
-        },
-        {
-          "date": "11-25",
-          "title": "국산 낚시 생활 시뮬 '오리온 블루' 30일 정식 출시",
-          "risk": false
-        },
-        {
-          "date": "11-25",
-          "title": "익스릭스, 낚시 생활 시뮬레이션 '오리온 블루' 11월 30일 스팀 출시",
-          "risk": false
-        }
-      ],
       "foreign_today": 0,
-      "inst_today": 465600000,
+      "inst_today": 1248000000,
       "exchange": "KOSPI"
     },
     {
@@ -231,7 +239,7 @@
       "vol20": 0.935,
       "foreign_net": -339353460,
       "inst_net": 5624935285,
-      "score": 0.462,
+      "score": 0.558,
       "news": [
         {
           "date": "11-25",
@@ -249,12 +257,31 @@
           "risk": false
         }
       ],
-      "price": 16410,
-      "chg": 0.0506,
-      "activity": 1.76,
+      "price": 16380,
+      "chg": 0.0487,
+      "activity": 1.64,
       "foreign_today": 0,
-      "inst_today": 229740000,
+      "inst_today": 1064700000,
       "exchange": "KOSDAQ"
+    },
+    {
+      "code": "086790",
+      "name": "하나금융지주",
+      "close": 122100,
+      "ret5": -0.0185,
+      "ret20": 0.0796,
+      "rsi14": 49.8,
+      "vol20": 0.358,
+      "foreign_net": -38889025400,
+      "inst_net": 40537311200,
+      "score": 0.527,
+      "news": [],
+      "price": 121100,
+      "chg": -0.0162,
+      "activity": 0.75,
+      "foreign_today": 0,
+      "inst_today": 3511900000,
+      "exchange": "KOSPI"
     },
     {
       "code": "012330",
@@ -266,29 +293,29 @@
       "vol20": 0.706,
       "foreign_net": -64189653000,
       "inst_net": 65765302000,
-      "score": 0.441,
+      "score": 0.504,
       "news": [
         {
           "date": "11-25",
-          "title": "현대모비스, 4분기 잇단 대규모 수주…올해 해외수주 약 20조 전망",
+          "title": "현대모비스, 올해 해외 수주 58% 증가 전망",
           "risk": false
         },
         {
           "date": "11-25",
-          "title": "현대모비스, 글로벌 완성차 대규모 수주 잇따라…올해 20조원 전망",
+          "title": "현대모비스, 해외수주 20조원 전망…제동·조향·섀시 '글로벌 영토 확...",
           "risk": false
         },
         {
           "date": "11-25",
-          "title": "신차 지연 한파 뚫었다⋯ 현대모비스, 제동·조향부터 섀시까지 ‘20조...",
+          "title": "현대모비스, 유럽·북미서 1조원대 제동·조향장치 공급…올해 수주 20조...",
           "risk": false
         }
       ],
-      "price": 352500,
-      "chg": -0.0181,
-      "activity": 0.93,
+      "price": 354500,
+      "chg": -0.0125,
+      "activity": 0.88,
       "foreign_today": 0,
-      "inst_today": 705000000,
+      "inst_today": 2481500000,
       "exchange": "KOSPI"
     },
     {
@@ -301,7 +328,7 @@
       "vol20": 0.938,
       "foreign_net": 11959130110,
       "inst_net": 2192111490,
-      "score": 0.409,
+      "score": 0.496,
       "news": [
         {
           "date": "11-25",
@@ -320,43 +347,132 @@
         }
       ],
       "foreign_today": 0,
-      "inst_today": 126080000,
+      "inst_today": 598880000,
       "exchange": "KOSPI"
     },
     {
-      "code": "263860",
-      "name": "지니언스",
-      "close": 34500,
-      "ret5": -0.0574,
-      "ret20": 0.6197,
-      "rsi14": 62.0,
-      "vol20": 1.694,
-      "foreign_net": -4256871300,
-      "inst_net": 2055265825,
-      "score": 0.957,
+      "code": "000270",
+      "name": "기아",
+      "close": 92600,
+      "ret5": 0.0098,
+      "ret20": -0.1321,
+      "rsi14": 40.0,
+      "vol20": 0.603,
+      "foreign_net": -9846928450,
+      "inst_net": 16507326450,
+      "score": 0.488,
       "news": [
         {
           "date": "11-25",
-          "title": "지니언스 주가, 급등세... 왜?",
+          "title": "현대차·기아·제네시스 통합 전기차 '완속 충전기' 나온다",
           "risk": false
         },
         {
           "date": "11-25",
-          "title": "[특징주] 지니언스, 美 보안 사고·약세장 피난처 수급에 12%↑…거래대...",
-          "risk": false
-        },
-        {
-          "date": "11-25",
-          "title": "사이버 공격 고도화에 보안 투자 확대…지니언스 성장 모멘텀 부각",
+          "title": "현대차그룹, 현대차·기아·제네시스 통합 'HMG 글로벌 완속충전기' 공개",
           "risk": false
         }
       ],
-      "price": 39250,
-      "chg": 0.1088,
-      "activity": 2.75,
-      "foreign_today": 3532500000,
-      "inst_today": 314000000,
+      "price": 95900,
+      "chg": 0.0031,
+      "activity": 0.61,
+      "foreign_today": 0,
+      "inst_today": 6233500000,
+      "exchange": "KOSPI"
+    },
+    {
+      "code": "214450",
+      "name": "파마리서치",
+      "close": 263000,
+      "ret5": 0.0194,
+      "ret20": 0.1361,
+      "rsi14": 51.2,
+      "vol20": 0.515,
+      "foreign_net": 2848415000,
+      "inst_net": 6988862500,
+      "score": 0.481,
+      "news": [
+        {
+          "date": "11-25",
+          "title": "[뷰티 입은 제약바이오③] 주사기 밖으로 나온 파마리서치 '리쥬란'",
+          "risk": false
+        },
+        {
+          "date": "11-25",
+          "title": "파마리서치, ISO 부패방지 기준 개정판 적용 완료",
+          "risk": false
+        },
+        {
+          "date": "11-25",
+          "title": "\"해외서 제대로 터졌다\"… 파마리서치·휴젤, K-보톡스 쌍끌이 랠리",
+          "risk": false
+        }
+      ],
+      "price": 277500,
+      "chg": 0.0491,
+      "activity": 1.0,
+      "foreign_today": 0,
+      "inst_today": 277500000,
       "exchange": "KOSDAQ"
+    },
+    {
+      "code": "161890",
+      "name": "한국콜마",
+      "close": 121500,
+      "ret5": 0.0976,
+      "ret20": 0.034,
+      "rsi14": 54.8,
+      "vol20": 0.7,
+      "foreign_net": -21965682400,
+      "inst_net": 21039950250,
+      "score": 0.442,
+      "news": [
+        {
+          "date": "11-25",
+          "title": "한국콜마 화장품 매출 1조 앞지른 코스맥스 … 글로벌 1위 '초격차' 키운...",
+          "risk": false
+        },
+        {
+          "date": "11-24",
+          "title": "\"한국콜마, 소통한다더니 교섭 들어가자 태도 돌변\"",
+          "risk": false
+        }
+      ],
+      "foreign_today": 0,
+      "inst_today": 972000000,
+      "exchange": "KOSPI"
+    },
+    {
+      "code": "271560",
+      "name": "오리온",
+      "close": 116400,
+      "ret5": 0.0256,
+      "ret20": 0.0468,
+      "rsi14": 54.3,
+      "vol20": 0.271,
+      "foreign_net": -4856013450,
+      "inst_net": 10508941000,
+      "score": 0.302,
+      "news": [
+        {
+          "date": "11-25",
+          "title": "신한은행 땡겨요·안토·오뚜기·오리온, 크리스마스 한정판과 할인 릴...",
+          "risk": false
+        },
+        {
+          "date": "11-25",
+          "title": "국산 낚시 생활 시뮬 '오리온 블루' 30일 정식 출시",
+          "risk": false
+        },
+        {
+          "date": "11-25",
+          "title": "익스릭스, 낚시 생활 시뮬레이션 '오리온 블루' 11월 30일 스팀 출시",
+          "risk": false
+        }
+      ],
+      "foreign_today": 0,
+      "inst_today": 349200000,
+      "exchange": "KOSPI"
     },
     {
       "code": "307950",
@@ -368,7 +484,7 @@
       "vol20": 1.281,
       "foreign_net": -10666029750,
       "inst_net": 28697179500,
-      "score": 0.882,
+      "score": 0.853,
       "news": [
         {
           "date": "11-25",
@@ -379,54 +495,14 @@
           "date": "11-25",
           "title": "[애프터마켓 리뷰] 젠슨황 복귀에 '깐부주' 부활…현대오토에버 급등",
           "risk": false
-        },
-        {
-          "date": "11-24",
-          "title": "[상한가 종목] 현대오토에버-아이티엠반도체 이어 KH바텍 등 마감",
-          "risk": false
         }
       ],
-      "price": 366500,
-      "chg": 0.011,
-      "activity": 6.48,
+      "price": 367000,
+      "chg": 0.0124,
+      "activity": 6.02,
       "foreign_today": 0,
-      "inst_today": 8796000000,
+      "inst_today": 9542000000,
       "exchange": "KOSPI"
-    },
-    {
-      "code": "468530",
-      "name": "프로티나",
-      "close": 60200,
-      "ret5": 0.2286,
-      "ret20": 0.2349,
-      "rsi14": 60.0,
-      "vol20": 1.232,
-      "foreign_net": -5107458550,
-      "inst_net": 9380285750,
-      "score": 0.634,
-      "news": [
-        {
-          "date": "11-24",
-          "title": "프로티나, PEGS Europe서 해외 4곳과 후속 협의",
-          "risk": false
-        },
-        {
-          "date": "11-24",
-          "title": "프로티나, 유럽 항체 학회서 AI 바이오파운드리 소개…7개 기업과 미팅",
-          "risk": false
-        },
-        {
-          "date": "11-24",
-          "title": "프로티나, 해외 4개사와 AI 항체 검증 협력 논의…연내 후속 미팅 추진",
-          "risk": false
-        }
-      ],
-      "price": 65800,
-      "chg": 0.0478,
-      "activity": 1.68,
-      "foreign_today": 1316000000,
-      "inst_today": 394800000,
-      "exchange": "KOSDAQ"
     },
     {
       "code": "058610",
@@ -438,7 +514,7 @@
       "vol20": 1.32,
       "foreign_net": -11054275250,
       "inst_net": 29857396000,
-      "score": 0.624,
+      "score": 0.698,
       "news": [
         {
           "date": "11-25",
@@ -456,46 +532,106 @@
           "risk": false
         }
       ],
-      "price": 91300,
-      "chg": 0.0044,
-      "activity": 3.21,
+      "price": 91500,
+      "chg": 0.0066,
+      "activity": 2.94,
       "foreign_today": 0,
-      "inst_today": 730400000,
+      "inst_today": 2379000000,
       "exchange": "KOSDAQ"
     },
     {
-      "code": "104620",
-      "name": "노랑풍선",
-      "close": 4530,
-      "ret5": 0.4566,
-      "ret20": 0.6324,
-      "rsi14": 71.7,
-      "vol20": 1.343,
-      "foreign_net": -265084407,
-      "inst_net": 28883991,
-      "score": 0.581,
+      "code": "468530",
+      "name": "프로티나",
+      "close": 60200,
+      "ret5": 0.2286,
+      "ret20": 0.2349,
+      "rsi14": 60.0,
+      "vol20": 1.232,
+      "foreign_net": -5107458550,
+      "inst_net": 9380285750,
+      "score": 0.659,
       "news": [
         {
-          "date": "11-25",
-          "title": "노랑풍선 주가, 급등세... 어떤 회사길래?",
-          "risk": false
-        },
-        {
-          "date": "11-25",
-          "title": "노랑풍선, '2026 허니문 온라인 박람회' 진행…내년 신혼여행 수요 선점",
+          "date": "11-24",
+          "title": "프로티나, PEGS Europe서 해외 4곳과 후속 협의",
           "risk": false
         },
         {
           "date": "11-24",
-          "title": "가심비·맞춤형 특전으로 2027년 신혼여행 시장 잡는다… 노랑풍선, 온라...",
+          "title": "프로티나, 유럽 항체 학회서 AI 바이오파운드리 소개…7개 기업과 미팅",
+          "risk": false
+        },
+        {
+          "date": "11-24",
+          "title": "프로티나, 해외 4개사와 AI 항체 검증 협력 논의…연내 후속 미팅 추진",
           "risk": false
         }
       ],
-      "price": 4725,
-      "chg": 0.0442,
-      "activity": 5.85,
-      "foreign_today": 127575000,
-      "inst_today": 0,
+      "price": 66600,
+      "chg": 0.0605,
+      "activity": 1.61,
+      "foreign_today": 999000000,
+      "inst_today": 1798200000,
+      "exchange": "KOSDAQ"
+    },
+    {
+      "code": "290550",
+      "name": "디케이티",
+      "close": 31550,
+      "ret5": 0.2019,
+      "ret20": 0.2324,
+      "rsi14": 62.3,
+      "vol20": 1.34,
+      "foreign_net": -4324312575,
+      "inst_net": 13653803000,
+      "score": 0.589,
+      "news": [
+        {
+          "date": "11-23",
+          "title": "디케이티 9.34% 상승…3분기 영업이익 129억원",
+          "risk": false
+        },
+        {
+          "date": "11-23",
+          "title": "[특징주] 디케이티, 23일 장중 3만1500원 기록",
+          "risk": false
+        }
+      ],
+      "price": 34100,
+      "chg": 0.0287,
+      "activity": 1.74,
+      "foreign_today": 0,
+      "inst_today": 647900000,
+      "exchange": "KOSDAQ"
+    },
+    {
+      "code": "277810",
+      "name": "레인보우로보틱스",
+      "close": 451500,
+      "ret5": 0.326,
+      "ret20": 0.2647,
+      "rsi14": 62.7,
+      "vol20": 1.238,
+      "foreign_net": -39146950750,
+      "inst_net": 110933688000,
+      "score": 0.55,
+      "news": [
+        {
+          "date": "11-24",
+          "title": "코스닥, 4%대 상승에 660선 회복...레인보우로보틱스, 에코프로비엠 등...",
+          "risk": false
+        },
+        {
+          "date": "11-24",
+          "title": "유진투자증권 \"삼성전자 HR·HE 공개 임박 기대…레인보우로보틱스 몸값...",
+          "risk": false
+        }
+      ],
+      "price": 472000,
+      "chg": 0.0,
+      "activity": 1.94,
+      "foreign_today": 0,
+      "inst_today": 1416000000,
       "exchange": "KOSDAQ"
     },
     {
