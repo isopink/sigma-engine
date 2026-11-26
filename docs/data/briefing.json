@@ -81,10 +81,10 @@
     ]
   },
   "intraday": {
-    "time": "14:30",
-    "pool": 449,
+    "time": "15:00",
+    "pool": 448,
     "analyzed_new": 30,
-    "passed": 22,
+    "passed": 23,
     "kept_prep": false
   },
   "candidates": [
@@ -98,7 +98,7 @@
       "vol20": 0.961,
       "foreign_net": -20876001950,
       "inst_net": 20906405300,
-      "score": 0.923,
+      "score": 0.934,
       "news": [
         {
           "date": "11-25",
@@ -106,11 +106,46 @@
           "risk": false
         }
       ],
-      "price": 129600,
-      "chg": -0.0015,
-      "activity": 1.83,
+      "price": 129200,
+      "chg": -0.0046,
+      "activity": 1.81,
       "foreign_today": 0,
-      "inst_today": 1944000000,
+      "inst_today": 1938000000,
+      "exchange": "KOSDAQ"
+    },
+    {
+      "code": "226950",
+      "name": "올릭스",
+      "close": 79000,
+      "ret5": -0.0038,
+      "ret20": -0.1897,
+      "rsi14": 43.0,
+      "vol20": 0.855,
+      "foreign_net": 954883300,
+      "inst_net": 1574694700,
+      "score": 0.928,
+      "news": [
+        {
+          "date": "11-26",
+          "title": "올릭스 9만2700원…장중 저가보다 1만2600원 높아",
+          "risk": false
+        },
+        {
+          "date": "11-26",
+          "title": "[특징주] 올릭스, 황반변성 신약 유럽 특허 추가 출원·재기술이전 기대...",
+          "risk": false
+        },
+        {
+          "date": "11-26",
+          "title": "올릭스, 황반변성 신약 유럽 특허 추가 출원…재기술이전 모색",
+          "risk": false
+        }
+      ],
+      "price": 92700,
+      "chg": 0.1487,
+      "activity": 2.69,
+      "foreign_today": 0,
+      "inst_today": 2595600000,
       "exchange": "KOSDAQ"
     },
     {
@@ -123,7 +158,7 @@
       "vol20": 0.718,
       "foreign_net": -22813838950,
       "inst_net": 22795781050,
-      "score": 0.89,
+      "score": 0.898,
       "news": [
         {
           "date": "11-26",
@@ -141,10 +176,10 @@
           "risk": false
         }
       ],
-      "price": 132100,
-      "chg": 0.0296,
-      "activity": 1.74,
-      "foreign_today": 5416100000,
+      "price": 131700,
+      "chg": 0.0265,
+      "activity": 1.69,
+      "foreign_today": 5399700000,
       "inst_today": 0,
       "exchange": "KOSPI"
     },
@@ -158,7 +193,7 @@
       "vol20": 0.858,
       "foreign_net": 21681003500,
       "inst_net": 49876622900,
-      "score": 0.703,
+      "score": 0.719,
       "news": [
         {
           "date": "11-26",
@@ -176,11 +211,11 @@
           "risk": false
         }
       ],
-      "price": 187700,
-      "chg": 0.0611,
-      "activity": 0.93,
-      "foreign_today": 1877000000,
-      "inst_today": 8821900000,
+      "price": 188600,
+      "chg": 0.0661,
+      "activity": 1.01,
+      "foreign_today": 1886000000,
+      "inst_today": 8864200000,
       "exchange": "KOSPI"
     },
     {
@@ -206,46 +241,11 @@
           "risk": false
         }
       ],
-      "price": 30100,
-      "chg": 0.0415,
-      "activity": 2.07,
+      "price": 29650,
+      "chg": 0.026,
+      "activity": 1.97,
       "foreign_today": 0,
-      "inst_today": 993300000,
-      "exchange": "KOSDAQ"
-    },
-    {
-      "code": "141080",
-      "name": "리가켐바이오",
-      "close": 52200,
-      "ret5": -0.044,
-      "ret20": -0.2127,
-      "rsi14": 36.3,
-      "vol20": 0.848,
-      "foreign_net": 4225153925,
-      "inst_net": -2096308975,
-      "score": 0.574,
-      "news": [
-        {
-          "date": "11-26",
-          "title": "리가켐바이오 7.64% 상승…장중 5만9300원까지",
-          "risk": false
-        },
-        {
-          "date": "11-25",
-          "title": "\"중국발 공세에 2년째 기술수출 '제로'·주가 70% 폭락…리가켐바이오,...",
-          "risk": false
-        },
-        {
-          "date": "11-25",
-          "title": "ADC 핵심 권리 굳건히 지켰다…동아에스티·리가켐바이오에 '시선 집중...",
-          "risk": false
-        }
-      ],
-      "price": 58400,
-      "chg": 0.0875,
-      "activity": 1.38,
-      "foreign_today": 0,
-      "inst_today": 1693600000,
+      "inst_today": 978450000,
       "exchange": "KOSDAQ"
     },
     {
@@ -258,7 +258,7 @@
       "vol20": 0.87,
       "foreign_net": -49016633750,
       "inst_net": 68895326000,
-      "score": 0.529,
+      "score": 0.545,
       "news": [
         {
           "date": "11-26",
@@ -276,11 +276,11 @@
           "risk": false
         }
       ],
-      "price": 297500,
-      "chg": 0.0188,
-      "activity": 1.15,
-      "foreign_today": 17255000000,
-      "inst_today": 1487500000,
+      "price": 298500,
+      "chg": 0.0223,
+      "activity": 1.13,
+      "foreign_today": 17313000000,
+      "inst_today": 1492500000,
       "exchange": "KOSPI"
     },
     {
@@ -293,7 +293,7 @@
       "vol20": 0.558,
       "foreign_net": 31145431500,
       "inst_net": 657891000,
-      "score": 0.503,
+      "score": 0.497,
       "news": [
         {
           "date": "11-25",
@@ -311,11 +311,11 @@
           "risk": false
         }
       ],
-      "price": 1317000,
-      "chg": 0.0061,
-      "activity": 0.87,
+      "price": 1322000,
+      "chg": 0.0099,
+      "activity": 0.91,
       "foreign_today": 0,
-      "inst_today": 5268000000,
+      "inst_today": 5288000000,
       "exchange": "KOSPI"
     },
     {
@@ -328,21 +328,21 @@
       "vol20": 0.447,
       "foreign_net": 291188200,
       "inst_net": 4018587550,
-      "score": 0.477,
+      "score": 0.467,
       "news": [
         {
           "date": "11-26",
-          "title": "LG헬로비전·CJ ENM, 콘텐츠 사용료 합의…4개 채널 송출 유지",
+          "title": "CJ프레시웨이, 외식 사업자 브랜드 경쟁력 강화…'운영 노하우' 공유",
           "risk": false
         },
         {
           "date": "11-26",
-          "title": "CJ제일제당, 인천 마장초서 햇반 용기 활용 업사이클링 프로그램 ‘햇반...",
+          "title": "CJ프레시웨이, 외식업 고객사 성장 지원 나서",
           "risk": false
         },
         {
           "date": "11-26",
-          "title": "\"CJ ENM, TV 광고 4년 새 58% 증발…금융비용 2340억에 1년 만에 순손실 ...",
+          "title": "CJ제일제당, '햇반 용기' 업사이클링 체험 확산…지역사회·아동 참여 눈...",
           "risk": false
         }
       ],
@@ -360,7 +360,7 @@
       "vol20": 0.656,
       "foreign_net": 1842681425,
       "inst_net": 2987257150,
-      "score": 0.406,
+      "score": 0.413,
       "news": [
         {
           "date": "11-26",
@@ -392,7 +392,7 @@
       "vol20": 0.578,
       "foreign_net": -12310801100,
       "inst_net": 19788407000,
-      "score": 0.348,
+      "score": 0.347,
       "news": [
         {
           "date": "11-25",
@@ -424,7 +424,7 @@
       "vol20": 0.453,
       "foreign_net": -12918802800,
       "inst_net": 47863134150,
-      "score": 0.335,
+      "score": 0.341,
       "news": [
         {
           "date": "11-25",
@@ -451,8 +451,13 @@
       "vol20": 0.95,
       "foreign_net": 12509834945,
       "inst_net": 1997100270,
-      "score": 0.284,
+      "score": 0.299,
       "news": [
+        {
+          "date": "11-26",
+          "title": "한중 FTA 호재까지...에어프레미아·트리니티항공·제주항공 등 LCC, '캐...",
+          "risk": false
+        },
         {
           "date": "11-26",
           "title": "제주항공우주호텔, 수학여행부터 교육·스포츠캠프까지 단체 숙박 묶어...",
@@ -461,11 +466,6 @@
         {
           "date": "11-26",
           "title": "제주항공우주박물관 '제주관광대상' 대상",
-          "risk": false
-        },
-        {
-          "date": "11-26",
-          "title": "제주항공우주박물관, 제주관광대상 수상",
           "risk": false
         }
       ],
@@ -483,7 +483,7 @@
       "vol20": 0.983,
       "foreign_net": -5015453550,
       "inst_net": 15845512200,
-      "score": 0.284,
+      "score": 0.293,
       "news": [],
       "foreign_today": 0,
       "inst_today": 216800000,
@@ -499,21 +499,21 @@
       "vol20": 0.467,
       "foreign_net": 10660598050,
       "inst_net": 8777466150,
-      "score": 0.226,
+      "score": 0.222,
       "news": [
         {
           "date": "11-26",
+          "title": "[인사] 유한양행",
+          "risk": false
+        },
+        {
+          "date": "11-26",
+          "title": "[분석] 유한양행 김열홍·강대식 공동부대표 선임 의미는",
+          "risk": false
+        },
+        {
+          "date": "11-26",
           "title": "유한양행, 변화된 승계공식 '단독→공동대표'…김열홍·강대식 유력",
-          "risk": false
-        },
-        {
-          "date": "11-26",
-          "title": "유한양행, R&D·생산 수장 나란히 공동부대표 발탁",
-          "risk": false
-        },
-        {
-          "date": "11-26",
-          "title": "[유통 소식] 유한양행 닥터버들 성수 입점, 청호나이스 정수기 신규 컬...",
           "risk": false
         }
       ],
@@ -531,19 +531,8 @@
       "vol20": 0.411,
       "foreign_net": -7159122645,
       "inst_net": 10468628435,
-      "score": 0.123,
-      "news": [
-        {
-          "date": "11-26",
-          "title": "LG유플러스, 전국 시내버스에 와이파이7 구축 완료",
-          "risk": false
-        },
-        {
-          "date": "11-26",
-          "title": "LG유플러스, 전국 시내버스 3만2857대에 '와이파이 7' 구축 완료",
-          "risk": false
-        }
-      ],
+      "score": 0.126,
+      "news": [],
       "foreign_today": 0,
       "inst_today": 230850000,
       "exchange": "KOSPI"
@@ -561,14 +550,14 @@
       "score": 1.0,
       "news": [
         {
-          "date": "11-23",
-          "title": "[코스닥 기관] 장바구니에 알테오젠·지투지바이오 담겼다…바이오주도...",
+          "date": "11-26",
+          "title": "지투지바이오 4만4050원…장중 4만5950원까지",
           "risk": false
         }
       ],
       "price": 44400,
       "chg": 0.0896,
-      "activity": 1.97,
+      "activity": 1.94,
       "foreign_today": 0,
       "inst_today": 3196800000,
       "exchange": "KOSDAQ"
@@ -583,7 +572,7 @@
       "vol20": 1.339,
       "foreign_net": -7396088050,
       "inst_net": 4891306700,
-      "score": 0.981,
+      "score": 0.97,
       "news": [
         {
           "date": "11-26",
@@ -601,11 +590,11 @@
           "risk": false
         }
       ],
-      "price": 60800,
-      "chg": 0.1343,
-      "activity": 2.69,
+      "price": 60600,
+      "chg": 0.1306,
+      "activity": 2.6,
       "foreign_today": 0,
-      "inst_today": 5472000000,
+      "inst_today": 5454000000,
       "exchange": "KOSDAQ"
     },
     {
@@ -618,7 +607,7 @@
       "vol20": 1.206,
       "foreign_net": -1034303050,
       "inst_net": 2252219400,
-      "score": 0.955,
+      "score": 0.946,
       "news": [
         {
           "date": "11-26",
@@ -636,11 +625,11 @@
           "risk": false
         }
       ],
-      "price": 89700,
-      "chg": 0.1412,
-      "activity": 3.92,
-      "foreign_today": 5382000000,
-      "inst_today": 2421900000,
+      "price": 88700,
+      "chg": 0.1285,
+      "activity": 3.62,
+      "foreign_today": 5322000000,
+      "inst_today": 2394900000,
       "exchange": "KOSDAQ"
     },
     {
@@ -653,13 +642,13 @@
       "vol20": 1.143,
       "foreign_net": -62608017250,
       "inst_net": 106538463250,
-      "score": 0.942,
+      "score": 0.934,
       "news": [],
-      "price": 478000,
-      "chg": 0.0313,
-      "activity": 2.1,
+      "price": 473000,
+      "chg": 0.0205,
+      "activity": 2.08,
       "foreign_today": 0,
-      "inst_today": 6692000000,
+      "inst_today": 6622000000,
       "exchange": "KOSDAQ"
     },
     {
@@ -672,8 +661,13 @@
       "vol20": 1.213,
       "foreign_net": 634960800,
       "inst_net": 14049300350,
-      "score": 0.755,
+      "score": 0.743,
       "news": [
+        {
+          "date": "11-26",
+          "title": "[뉴스 TOP5] LG이노텍·이수스페셜티케미컬·삼익악기",
+          "risk": false
+        },
         {
           "date": "11-26",
           "title": "[핀포인트] [이수스페셜티케미컬] 첫 해외 거점…힘겨운 첫발 떼기",
@@ -683,18 +677,13 @@
           "date": "11-26",
           "title": "[핀포인트] [이수스페셜티케미컬] 마진율 뒷걸음질…합병 시너지 역풍",
           "risk": false
-        },
-        {
-          "date": "11-26",
-          "title": "[핀포인트] [이수스페셜티케미컬] 마더플랜트가 남긴 청구서…‘인고의...",
-          "risk": false
         }
       ],
-      "price": 81600,
-      "chg": 0.0395,
-      "activity": 1.66,
+      "price": 80800,
+      "chg": 0.0293,
+      "activity": 1.56,
       "foreign_today": 0,
-      "inst_today": 2448000000,
+      "inst_today": 2424000000,
       "exchange": "KOSPI"
     },
     {
@@ -735,6 +724,40 @@
         }
       ],
       "exchange": "ETF"
+    },
+    {
+      "code": "090710",
+      "name": "휴림로봇",
+      "close": 7420,
+      "ret5": 0.5855,
+      "ret20": 0.3792,
+      "rsi14": 73.1,
+      "vol20": 1.655,
+      "foreign_net": 1011431259,
+      "inst_net": 3411197661,
+      "score": 0,
+      "news": [
+        {
+          "date": "11-26",
+          "title": "[속보] 휴림로봇 VI 발동, 주가 8%대 급락…최근 이틀 연속 상한가 이후...",
+          "risk": false
+        },
+        {
+          "date": "11-26",
+          "title": "레인보우로보틱스 48만원대…휴림로봇과 엇갈린 등락",
+          "risk": false
+        },
+        {
+          "date": "11-26",
+          "title": "휴림로봇 7050원…622만주 거래 속 장중 저가권",
+          "risk": false
+        }
+      ],
+      "price": 6870,
+      "chg": -0.0779,
+      "foreign_today": 0,
+      "inst_today": 20610000,
+      "exchange": "KOSDAQ"
     }
   ]
 }
