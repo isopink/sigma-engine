@@ -106,5 +106,11 @@
     "runs": 14,
     "failures": 2,
     "tokens_k": 1105.5
+  },
+  {
+    "date": "2026-11-26",
+    "runs": 1,
+    "failures": 0,
+    "tokens_k": 78.4
   }
 ]
