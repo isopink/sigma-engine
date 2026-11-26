@@ -81,10 +81,10 @@
     ]
   },
   "intraday": {
-    "time": "10:30",
+    "time": "11:00",
     "pool": 354,
     "analyzed_new": 30,
-    "passed": 11,
+    "passed": 13,
     "kept_prep": false
   },
   "candidates": [
@@ -98,7 +98,7 @@
       "vol20": 0.856,
       "foreign_net": -11881540425,
       "inst_net": 13131813275,
-      "score": 0.767,
+      "score": 0.833,
       "news": [
         {
           "date": "11-25",
@@ -111,11 +111,11 @@
           "risk": false
         }
       ],
-      "price": 29600,
-      "chg": 0.0242,
-      "activity": 4.51,
+      "price": 30200,
+      "chg": 0.045,
+      "activity": 3.86,
       "foreign_today": 0,
-      "inst_today": 444000000,
+      "inst_today": 453000000,
       "exchange": "KOSDAQ"
     },
     {
@@ -128,7 +128,7 @@
       "vol20": 0.798,
       "foreign_net": 501538250,
       "inst_net": -279066250,
-      "score": 0.644,
+      "score": 0.678,
       "news": [
         {
           "date": "11-26",
@@ -146,11 +146,76 @@
           "risk": false
         }
       ],
-      "price": 326000,
-      "chg": -0.0031,
-      "activity": 3.11,
+      "price": 330500,
+      "chg": 0.0107,
+      "activity": 2.58,
       "foreign_today": 0,
-      "inst_today": 326000000,
+      "inst_today": 330500000,
+      "exchange": "KOSPI"
+    },
+    {
+      "code": "352820",
+      "name": "하이브",
+      "close": 173500,
+      "ret5": -0.0286,
+      "ret20": 0.026,
+      "rsi14": 55.9,
+      "vol20": 0.858,
+      "foreign_net": 21681003500,
+      "inst_net": 49876622900,
+      "score": 0.622,
+      "news": [
+        {
+          "date": "11-26",
+          "title": "‘하이브 vs 갤럭시코퍼’ 상위권 경쟁...K-브랜드지수, 엔터사 부문 순...",
+          "risk": false
+        },
+        {
+          "date": "11-26",
+          "title": "갤럭시코퍼레이션, SM·하이브 함께 K-브랜드지수 엔터사 부문 3강 체제...",
+          "risk": false
+        }
+      ],
+      "price": 185000,
+      "chg": 0.0458,
+      "activity": 1.16,
+      "foreign_today": 1480000000,
+      "inst_today": 370000000,
+      "exchange": "KOSPI"
+    },
+    {
+      "code": "278470",
+      "name": "에이피알",
+      "close": 291500,
+      "ret5": 0.2045,
+      "ret20": 0.0157,
+      "rsi14": 57.4,
+      "vol20": 0.87,
+      "foreign_net": -49016633750,
+      "inst_net": 68895326000,
+      "score": 0.533,
+      "news": [
+        {
+          "date": "11-26",
+          "title": "[더벨]브랜드501 몸값 1조 낮췄다…에이피알과 2조 안팎 협상",
+          "risk": false
+        },
+        {
+          "date": "11-26",
+          "title": "DS證 \"에이피알, 목표가 53만원으로 하향…일시적 부진은 매수 기회\"",
+          "risk": false
+        },
+        {
+          "date": "11-26",
+          "title": "에이피알, 환율 영향에 일시적 실적 부진…매수 기회-DS",
+          "risk": false
+        }
+      ],
+      "price": 299500,
+      "chg": 0.0257,
+      "activity": 1.95,
+      "foreign_today": 6589000000,
+      "inst_today": 299500000,
       "exchange": "KOSPI"
     },
     {
@@ -163,7 +228,7 @@
       "vol20": 0.578,
       "foreign_net": -12310801100,
       "inst_net": 19788407000,
-      "score": 0.521,
+      "score": 0.533,
       "news": [
         {
           "date": "11-25",
@@ -186,38 +251,35 @@
       "exchange": "KOSPI"
     },
     {
-      "code": "278470",
-      "name": "에이피알",
-      "close": 291500,
-      "ret5": 0.2045,
-      "ret20": 0.0157,
-      "rsi14": 57.4,
-      "vol20": 0.87,
-      "foreign_net": -49016633750,
-      "inst_net": 68895326000,
-      "score": 0.493,
+      "code": "089590",
+      "name": "제주항공",
+      "close": 8400,
+      "ret5": 0.098,
+      "ret20": 0.5135,
+      "rsi14": 69.2,
+      "vol20": 0.95,
+      "foreign_net": 12509834945,
+      "inst_net": 1997100270,
+      "score": 0.289,
       "news": [
         {
           "date": "11-26",
-          "title": "[더벨]브랜드501 몸값 1조 낮췄다…에이피알과 2조 안팎 협상",
+          "title": "제주항공우주박물관 '제주관광대상' 대상",
           "risk": false
         },
         {
           "date": "11-26",
-          "title": "DS證 \"에이피알, 목표가 53만원으로 하향…일시적 부진은 매수 기회\"",
+          "title": "제주항공우주박물관, 제주관광대상 수상",
           "risk": false
         },
         {
           "date": "11-26",
-          "title": "에이피알, 환율 영향에 일시적 실적 부진…매수 기회-DS",
+          "title": "제주항공 외국인 승객 27% 급증...\"한국행 인바운드 수요 확대 주효\"",
           "risk": false
         }
       ],
-      "price": 296000,
-      "chg": 0.0137,
-      "activity": 2.23,
-      "foreign_today": 6512000000,
-      "inst_today": 296000000,
+      "foreign_today": 0,
+      "inst_today": 16800000,
       "exchange": "KOSPI"
     },
     {
@@ -248,11 +310,11 @@
           "risk": false
         }
       ],
-      "price": 89900,
-      "chg": 0.1438,
-      "activity": 9.05,
-      "foreign_today": 4584900000,
-      "inst_today": 2157600000,
+      "price": 88300,
+      "chg": 0.1234,
+      "activity": 7.42,
+      "foreign_today": 4503300000,
+      "inst_today": 2119200000,
       "exchange": "KOSDAQ"
     },
     {
@@ -265,13 +327,13 @@
       "vol20": 1.143,
       "foreign_net": -62608017250,
       "inst_net": 106538463250,
-      "score": 0.959,
+      "score": 0.989,
       "news": [],
-      "price": 486500,
-      "chg": 0.0496,
-      "activity": 5.02,
+      "price": 480500,
+      "chg": 0.0367,
+      "activity": 4.18,
       "foreign_today": 0,
-      "inst_today": 2432500000,
+      "inst_today": 2402500000,
       "exchange": "KOSDAQ"
     },
     {
@@ -284,7 +346,7 @@
       "vol20": 1.339,
       "foreign_net": -7396088050,
       "inst_net": 4891306700,
-      "score": 0.863,
+      "score": 0.922,
       "news": [
         {
           "date": "11-26",
@@ -302,47 +364,42 @@
           "risk": false
         }
       ],
-      "price": 58500,
-      "chg": 0.0914,
-      "activity": 3.86,
-      "foreign_today": 1638000000,
-      "inst_today": 175500000,
+      "price": 58900,
+      "chg": 0.0989,
+      "activity": 3.53,
+      "foreign_today": 1649200000,
+      "inst_today": 176700000,
       "exchange": "KOSDAQ"
     },
     {
-      "code": "457190",
-      "name": "이수스페셜티케미컬",
-      "close": 76500,
-      "ret5": 0.0119,
-      "ret20": -0.0039,
-      "rsi14": 53.1,
-      "vol20": 1.213,
-      "foreign_net": 634960800,
-      "inst_net": 14049300350,
-      "score": 0.795,
+      "code": "121600",
+      "name": "나노신소재",
+      "close": 60500,
+      "ret5": -0.1181,
+      "ret20": -0.0131,
+      "rsi14": 46.8,
+      "vol20": 1.231,
+      "foreign_net": 6353553850,
+      "inst_net": -5335868100,
+      "score": 0.767,
       "news": [
         {
-          "date": "11-26",
-          "title": "[핀포인트] [이수스페셜티케미컬] 마진율 뒷걸음질…합병 시너지 역풍",
+          "date": "11-24",
+          "title": "LED 관련주 옥석 가리기 본격화… 나노신소재·케이엔제이 성장성은?",
           "risk": false
         },
         {
-          "date": "11-26",
-          "title": "[핀포인트] [이수스페셜티케미컬] 마더플랜트가 남긴 청구서…‘인고의...",
-          "risk": false
-        },
-        {
-          "date": "11-26",
-          "title": "[핀포인트] [이수스페셜티케미컬] 첫 해외 거점…힘겨운 첫발 떼기",
+          "date": "11-24",
+          "title": "나노신소재, 보유 보통주 15만주 26일 소각",
           "risk": false
         }
       ],
-      "price": 83300,
-      "chg": 0.0611,
-      "activity": 4.11,
-      "foreign_today": 0,
-      "inst_today": 333200000,
-      "exchange": "KOSPI"
+      "price": 67400,
+      "chg": 0.0801,
+      "activity": 2.73,
+      "foreign_today": 1213200000,
+      "inst_today": 202200000,
+      "exchange": "KOSDAQ"
     },
     {
       "code": "036710",
@@ -354,7 +411,7 @@
       "vol20": 1.653,
       "foreign_net": -6842746390,
       "inst_net": 5537744110,
-      "score": 0.767,
+      "score": 0.733,
       "news": [
         {
           "date": "11-26",
@@ -372,11 +429,11 @@
           "risk": false
         }
       ],
-      "price": 6380,
-      "chg": 0.1,
-      "activity": 2.52,
-      "foreign_today": 82940000,
-      "inst_today": 197780000,
+      "price": 6170,
+      "chg": 0.0638,
+      "activity": 2.03,
+      "foreign_today": 80210000,
+      "inst_today": 191270000,
       "exchange": "KOSDAQ"
     },
     {
