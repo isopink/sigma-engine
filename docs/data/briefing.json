@@ -81,8 +81,8 @@
     ]
   },
   "intraday": {
-    "time": "11:30",
-    "pool": 398,
+    "time": "12:00",
+    "pool": 400,
     "analyzed_new": 30,
     "passed": 15,
     "kept_prep": false
@@ -102,24 +102,24 @@
       "news": [
         {
           "date": "11-26",
-          "title": "한국콜마, 남성 육아휴직 의무화…'일·생활 균형 우수기업' 선정",
+          "title": "서울여대-한국콜마, K-뷰티 연구개발·전문인재 양성 맞손",
           "risk": false
         },
         {
           "date": "11-26",
-          "title": "한국콜마·HK이노엔, 일·생활 균형 우수기업 동시 선정",
+          "title": "한국콜마, 남성 육아휴직자 18배 이상 늘어…일∙생활 균형 우수기업 선...",
           "risk": false
         },
         {
           "date": "11-26",
-          "title": "한국콜마, 일·생활 균형 우수기업 선정…남성 육아휴직자 2년 새 18배",
+          "title": "한국콜마·HK이노엔, 일·생활 균형 우수기업 선정",
           "risk": false
         }
       ],
-      "price": 135500,
-      "chg": 0.0561,
-      "activity": 2.34,
-      "foreign_today": 1626000000,
+      "price": 133000,
+      "chg": 0.0366,
+      "activity": 2.08,
+      "foreign_today": 1596000000,
       "inst_today": 0,
       "exchange": "KOSPI"
     },
@@ -146,11 +146,11 @@
           "risk": false
         }
       ],
-      "price": 30250,
-      "chg": 0.0467,
-      "activity": 3.41,
-      "foreign_today": 937750000,
-      "inst_today": 574750000,
+      "price": 29850,
+      "chg": 0.0329,
+      "activity": 2.98,
+      "foreign_today": 925350000,
+      "inst_today": 567150000,
       "exchange": "KOSDAQ"
     },
     {
@@ -163,7 +163,7 @@
       "vol20": 0.855,
       "foreign_net": 954883300,
       "inst_net": 1574694700,
-      "score": 0.626,
+      "score": 0.645,
       "news": [
         {
           "date": "11-26",
@@ -181,11 +181,11 @@
           "risk": false
         }
       ],
-      "price": 90400,
-      "chg": 0.1202,
-      "activity": 3.68,
+      "price": 91100,
+      "chg": 0.1289,
+      "activity": 3.27,
       "foreign_today": 0,
-      "inst_today": 361600000,
+      "inst_today": 364400000,
       "exchange": "KOSDAQ"
     },
     {
@@ -216,11 +216,11 @@
           "risk": false
         }
       ],
-      "price": 302000,
-      "chg": 0.0342,
-      "activity": 1.73,
-      "foreign_today": 10570000000,
-      "inst_today": 302000000,
+      "price": 300000,
+      "chg": 0.0274,
+      "activity": 1.57,
+      "foreign_today": 10500000000,
+      "inst_today": 300000000,
       "exchange": "KOSPI"
     },
     {
@@ -233,19 +233,29 @@
       "vol20": 0.858,
       "foreign_net": 21681003500,
       "inst_net": 49876622900,
-      "score": 0.467,
+      "score": 0.486,
       "news": [
         {
           "date": "11-26",
-          "title": "‘하이브 vs 갤럭시코퍼’ 상위권 경쟁...K-브랜드지수, 엔터사 부문 순...",
+          "title": "SM엔터, 10월 K-브랜드지수 1위 탈환…하이브·갤럭시코퍼레이션 뒤이어",
+          "risk": false
+        },
+        {
+          "date": "11-26",
+          "title": "SM, 하이브 제치고 엔터사 브랜드지수 1위…갤럭시코퍼레이션 3위",
+          "risk": false
+        },
+        {
+          "date": "11-26",
+          "title": "\"갤럭시코퍼레이션, SM·하이브와 K-브랜드지수 엔터사 부문 3강 체제\"",
           "risk": false
         }
       ],
-      "price": 186600,
-      "chg": 0.0548,
-      "activity": 1.14,
-      "foreign_today": 1119600000,
-      "inst_today": 1679400000,
+      "price": 185400,
+      "chg": 0.048,
+      "activity": 1.07,
+      "foreign_today": 1112400000,
+      "inst_today": 1668600000,
       "exchange": "KOSPI"
     },
     {
@@ -258,7 +268,7 @@
       "vol20": 0.578,
       "foreign_net": -12310801100,
       "inst_net": 19788407000,
-      "score": 0.402,
+      "score": 0.411,
       "news": [
         {
           "date": "11-25",
@@ -290,7 +300,7 @@
       "vol20": 0.558,
       "foreign_net": 31145431500,
       "inst_net": 657891000,
-      "score": 0.28,
+      "score": 0.29,
       "news": [
         {
           "date": "11-25",
@@ -308,11 +318,11 @@
           "risk": false
         }
       ],
-      "price": 1308000,
-      "chg": -0.0008,
-      "activity": 0.76,
+      "price": 1310000,
+      "chg": 0.0008,
+      "activity": 0.68,
       "foreign_today": 0,
-      "inst_today": 1308000000,
+      "inst_today": 1310000000,
       "exchange": "KOSPI"
     },
     {
@@ -329,17 +339,17 @@
       "news": [
         {
           "date": "11-26",
-          "title": "CJ프레시웨이, ‘효뜨’·‘미미옥’ 성공 비결 외식업계와 나눴다",
+          "title": "CJ프레시웨이, 외식사업자 대상 '고메 인사이트 투어' 진행",
           "risk": false
         },
         {
           "date": "11-26",
-          "title": "CJ제일제당, '햇반 똑딱 프로젝트'로 용기 업사이클링 교육",
+          "title": "CJ프레시웨이, 외식 브랜드 성공 전략 공유…식자재 고객사 경쟁력 강화",
           "risk": false
         },
         {
           "date": "11-26",
-          "title": "CJ프레시웨이, 식자재 넘어 외식 솔루션 강화",
+          "title": "[뉴스워커_CJ ENM] 2년 전엔 지드래곤, 올해는 빅뱅…데뷔 20주년 '뮤직 ...",
           "risk": false
         }
       ],
@@ -375,11 +385,11 @@
           "risk": false
         }
       ],
-      "price": 60900,
-      "chg": 0.1362,
-      "activity": 3.95,
-      "foreign_today": 1218000000,
-      "inst_today": 2557800000,
+      "price": 60300,
+      "chg": 0.125,
+      "activity": 3.61,
+      "foreign_today": 1206000000,
+      "inst_today": 2532600000,
       "exchange": "KOSDAQ"
     },
     {
@@ -392,7 +402,7 @@
       "vol20": 1.206,
       "foreign_net": -1034303050,
       "inst_net": 2252219400,
-      "score": 0.963,
+      "score": 0.953,
       "news": [
         {
           "date": "11-26",
@@ -410,11 +420,11 @@
           "risk": false
         }
       ],
-      "price": 88800,
-      "chg": 0.1298,
-      "activity": 6.49,
-      "foreign_today": 3907200000,
-      "inst_today": 2308800000,
+      "price": 87600,
+      "chg": 0.1145,
+      "activity": 5.51,
+      "foreign_today": 3854400000,
+      "inst_today": 2277600000,
       "exchange": "KOSDAQ"
     },
     {
@@ -440,30 +450,11 @@
           "risk": false
         }
       ],
-      "price": 11770,
-      "chg": 0.0361,
-      "activity": 3.58,
-      "foreign_today": 776820000,
-      "inst_today": 70620000,
-      "exchange": "KOSDAQ"
-    },
-    {
-      "code": "277810",
-      "name": "레인보우로보틱스",
-      "close": 455000,
-      "ret5": 0.1152,
-      "ret20": 0.1166,
-      "rsi14": 63.1,
-      "vol20": 1.143,
-      "foreign_net": -62608017250,
-      "inst_net": 106538463250,
-      "score": 0.869,
-      "news": [],
-      "price": 488000,
-      "chg": 0.0529,
-      "activity": 3.71,
-      "foreign_today": 0,
-      "inst_today": 2928000000,
+      "price": 11660,
+      "chg": 0.0264,
+      "activity": 3.06,
+      "foreign_today": 769560000,
+      "inst_today": 69960000,
       "exchange": "KOSDAQ"
     },
     {
@@ -476,7 +467,7 @@
       "vol20": 1.036,
       "foreign_net": -4597635825,
       "inst_net": 21393590200,
-      "score": 0.86,
+      "score": 0.879,
       "news": [
         {
           "date": "11-23",
@@ -489,11 +480,30 @@
           "risk": false
         }
       ],
-      "price": 45150,
-      "chg": 0.108,
-      "activity": 2.83,
+      "price": 45000,
+      "chg": 0.1043,
+      "activity": 2.56,
       "foreign_today": 0,
-      "inst_today": 857850000,
+      "inst_today": 855000000,
+      "exchange": "KOSDAQ"
+    },
+    {
+      "code": "277810",
+      "name": "레인보우로보틱스",
+      "close": 455000,
+      "ret5": 0.1152,
+      "ret20": 0.1166,
+      "rsi14": 63.1,
+      "vol20": 1.143,
+      "foreign_net": -62608017250,
+      "inst_net": 106538463250,
+      "score": 0.85,
+      "news": [],
+      "price": 482000,
+      "chg": 0.0399,
+      "activity": 3.2,
+      "foreign_today": 0,
+      "inst_today": 2892000000,
       "exchange": "KOSDAQ"
     },
     {
