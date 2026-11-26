@@ -81,10 +81,10 @@
     ]
   },
   "intraday": {
-    "time": "09:30",
-    "pool": 320,
+    "time": "10:00",
+    "pool": 354,
     "analyzed_new": 30,
-    "passed": 10,
+    "passed": 11,
     "kept_prep": false
   },
   "candidates": [
@@ -98,7 +98,7 @@
       "vol20": 0.856,
       "foreign_net": -11881540425,
       "inst_net": 13131813275,
-      "score": 0.814,
+      "score": 0.704,
       "news": [
         {
           "date": "11-25",
@@ -111,11 +111,11 @@
           "risk": false
         }
       ],
-      "price": 30600,
-      "chg": 0.0588,
-      "activity": 9.11,
-      "foreign_today": 1132200000,
-      "inst_today": 0,
+      "price": 30150,
+      "chg": 0.0433,
+      "activity": 5.9,
+      "foreign_today": 0,
+      "inst_today": 452250000,
       "exchange": "KOSDAQ"
     },
     {
@@ -128,7 +128,7 @@
       "vol20": 0.94,
       "foreign_net": 853606320,
       "inst_net": 5816125690,
-      "score": 0.698,
+      "score": 0.577,
       "news": [
         {
           "date": "11-25",
@@ -146,38 +146,81 @@
           "risk": false
         }
       ],
-      "price": 17320,
-      "chg": 0.0478,
-      "activity": 5.01,
-      "foreign_today": 3013680000,
-      "inst_today": 0,
+      "price": 17260,
+      "chg": 0.0442,
+      "activity": 3.24,
+      "foreign_today": 3331180000,
+      "inst_today": 362460000,
       "exchange": "KOSDAQ"
     },
     {
-      "code": "090430",
-      "name": "아모레퍼시픽",
-      "close": 146700,
-      "ret5": 0.0843,
-      "ret20": 0.1755,
-      "rsi14": 65.5,
-      "vol20": 0.453,
-      "foreign_net": -12918802800,
-      "inst_net": 47863134150,
-      "score": 0.349,
+      "code": "192820",
+      "name": "코스맥스",
+      "close": 329500,
+      "ret5": 0.0821,
+      "ret20": 0.2722,
+      "rsi14": 68.8,
+      "vol20": 0.798,
+      "foreign_net": 501538250,
+      "inst_net": -279066250,
+      "score": 0.535,
       "news": [
         {
-          "date": "11-25",
-          "title": "서경배 아모레퍼시픽 회장, 차녀 부부에 302억 규모 전환우선주 증여",
+          "date": "11-26",
+          "title": "[더벨][Company Watch] 코스맥스, '伊케미노바' 내년 상반기 스킨케어 생...",
           "risk": false
         },
         {
-          "date": "11-25",
-          "title": "서경배 아모레퍼시픽 회장, 차녀 부부에 지주사 전환우선주 302억 증여",
+          "date": "11-26",
+          "title": "\"코스맥스, 국내 생산량 확대 효과 커…성장세 지속\"-하나",
+          "risk": false
+        },
+        {
+          "date": "11-26",
+          "title": "[K-뷰티 신화를 쓰다 ⑧끝] 제조 넘어 수출 실무까지 지원…코스맥스 '...",
           "risk": false
         }
       ],
-      "foreign_today": 440100000,
-      "inst_today": 0,
+      "price": 331500,
+      "chg": 0.0138,
+      "activity": 4.02,
+      "foreign_today": 0,
+      "inst_today": 331500000,
+      "exchange": "KOSPI"
+    },
+    {
+      "code": "278470",
+      "name": "에이피알",
+      "close": 291500,
+      "ret5": 0.2045,
+      "ret20": 0.0157,
+      "rsi14": 57.4,
+      "vol20": 0.87,
+      "foreign_net": -49016633750,
+      "inst_net": 68895326000,
+      "score": 0.366,
+      "news": [
+        {
+          "date": "11-26",
+          "title": "[더벨]브랜드501 몸값 1조 낮췄다…에이피알과 2조 안팎 협상",
+          "risk": false
+        },
+        {
+          "date": "11-26",
+          "title": "DS證 \"에이피알, 목표가 53만원으로 하향…일시적 부진은 매수 기회\"",
+          "risk": false
+        },
+        {
+          "date": "11-26",
+          "title": "에이피알, 환율 영향에 일시적 실적 부진…매수 기회-DS",
+          "risk": false
+        }
+      ],
+      "price": 297500,
+      "chg": 0.0188,
+      "activity": 2.72,
+      "foreign_today": 6545000000,
+      "inst_today": 297500000,
       "exchange": "KOSPI"
     },
     {
@@ -194,15 +237,39 @@
       "news": [
         {
           "date": "11-26",
-          "title": "[특징주] 스페이스X 100만기 위성 승인…센서뷰·스피어 등 관련주 급등",
+          "title": "[특징주] 스피어, 스페이스X 테마 매수세 유입에 급등…우주산업 특수합...",
+          "risk": false
+        },
+        {
+          "date": "11-26",
+          "title": "스피어 주가, 11월 26일 장중 22,050원 15.02% 상승",
           "risk": false
         }
       ],
-      "price": 21900,
-      "chg": 0.1424,
-      "activity": 29.61,
-      "foreign_today": 2168100000,
-      "inst_today": 0,
+      "price": 21800,
+      "chg": 0.1372,
+      "activity": 20.06,
+      "foreign_today": 3204600000,
+      "inst_today": 501400000,
+      "exchange": "KOSDAQ"
+    },
+    {
+      "code": "277810",
+      "name": "레인보우로보틱스",
+      "close": 455000,
+      "ret5": 0.1152,
+      "ret20": 0.1166,
+      "rsi14": 63.1,
+      "vol20": 1.143,
+      "foreign_net": -62608017250,
+      "inst_net": 106538463250,
+      "score": 0.873,
+      "news": [],
+      "price": 486000,
+      "chg": 0.0485,
+      "activity": 6.53,
+      "foreign_today": 0,
+      "inst_today": 2430000000,
       "exchange": "KOSDAQ"
     },
     {
@@ -215,14 +282,49 @@
       "vol20": 1.192,
       "foreign_net": -2791550355,
       "inst_net": 1819780790,
-      "score": 0.744,
+      "score": 0.803,
       "news": [],
-      "price": 14350,
-      "chg": 0.0606,
-      "activity": 9.04,
-      "foreign_today": 272650000,
-      "inst_today": 0,
+      "price": 14360,
+      "chg": 0.0613,
+      "activity": 5.49,
+      "foreign_today": 674920000,
+      "inst_today": 43080000,
       "exchange": "KOSPI"
+    },
+    {
+      "code": "036710",
+      "name": "심텍홀딩스",
+      "close": 5600,
+      "ret5": -0.0244,
+      "ret20": 0.466,
+      "rsi14": 58.4,
+      "vol20": 1.653,
+      "foreign_net": -6842746390,
+      "inst_net": 5537744110,
+      "score": 0.634,
+      "news": [
+        {
+          "date": "11-26",
+          "title": "반도체 기판주 일제히 '껑충'…삼성전기 80만원선 회복, 심텍홀딩스·태...",
+          "risk": false
+        },
+        {
+          "date": "11-24",
+          "title": "심텍홀딩스, 장중 6800원 터치해 52주 신고가",
+          "risk": false
+        },
+        {
+          "date": "11-24",
+          "title": "[특징주] 외국인 대한광통신·휴림로봇, 기관 삼성전자·심텍홀딩스 순...",
+          "risk": false
+        }
+      ],
+      "price": 6380,
+      "chg": 0.1,
+      "activity": 3.28,
+      "foreign_today": 82940000,
+      "inst_today": 197780000,
+      "exchange": "KOSDAQ"
     },
     {
       "code": "437730",
@@ -234,7 +336,7 @@
       "vol20": 1.325,
       "foreign_net": -7518414600,
       "inst_net": 32102849800,
-      "score": 0.651,
+      "score": 0.634,
       "news": [
         {
           "date": "11-25",
@@ -247,66 +349,11 @@
           "risk": false
         }
       ],
-      "price": 61900,
-      "chg": 0.0215,
-      "activity": 6.4,
-      "foreign_today": 371400000,
-      "inst_today": 0,
-      "exchange": "KOSDAQ"
-    },
-    {
-      "code": "263860",
-      "name": "지니언스",
-      "close": 41750,
-      "ret5": 0.1613,
-      "ret20": 0.5293,
-      "rsi14": 71.2,
-      "vol20": 1.567,
-      "foreign_net": -19245325425,
-      "inst_net": 7107518975,
-      "score": 0.442,
-      "news": [
-        {
-          "date": "11-25",
-          "title": "지니언스 거래대금 3548억원…4만2050원 마감",
-          "risk": false
-        }
-      ],
-      "price": 42250,
-      "chg": 0.0048,
-      "activity": 4.6,
-      "foreign_today": 253500000,
-      "inst_today": 0,
-      "exchange": "KOSDAQ"
-    },
-    {
-      "code": "356680",
-      "name": "엑스게이트",
-      "close": 13020,
-      "ret5": 0.0124,
-      "ret20": -0.2632,
-      "rsi14": 46.3,
-      "vol20": 1.056,
-      "foreign_net": -1650747315,
-      "inst_net": -336777540,
-      "score": 0.302,
-      "news": [
-        {
-          "date": "11-25",
-          "title": "엑스게이트 11.98% 급등…장중 1만4950원까지",
-          "risk": false
-        },
-        {
-          "date": "11-25",
-          "title": "[특징주] 엑스게이트, 네트워크 보안·관제 사업 부각·보안주 훈풍에 ...",
-          "risk": false
-        }
-      ],
-      "price": 13730,
-      "chg": 0.0378,
-      "activity": 4.37,
-      "foreign_today": 109840000,
-      "inst_today": 0,
+      "price": 63100,
+      "chg": 0.0413,
+      "activity": 4.63,
+      "foreign_today": 0,
+      "inst_today": 252400000,
       "exchange": "KOSDAQ"
     },
     {
