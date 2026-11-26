@@ -81,10 +81,10 @@
     ]
   },
   "intraday": {
-    "time": "12:30",
-    "pool": 400,
+    "time": "13:00",
+    "pool": 399,
     "analyzed_new": 30,
-    "passed": 16,
+    "passed": 20,
     "kept_prep": false
   },
   "candidates": [
@@ -98,7 +98,7 @@
       "vol20": 0.856,
       "foreign_net": -11881540425,
       "inst_net": 13131813275,
-      "score": 0.651,
+      "score": 0.771,
       "news": [
         {
           "date": "11-25",
@@ -111,11 +111,11 @@
           "risk": false
         }
       ],
-      "price": 29750,
-      "chg": 0.0294,
-      "activity": 2.67,
-      "foreign_today": 922250000,
-      "inst_today": 565250000,
+      "price": 30100,
+      "chg": 0.0415,
+      "activity": 2.47,
+      "foreign_today": 933100000,
+      "inst_today": 571900000,
       "exchange": "KOSDAQ"
     },
     {
@@ -128,7 +128,7 @@
       "vol20": 0.718,
       "foreign_net": -22813838950,
       "inst_net": 22795781050,
-      "score": 0.643,
+      "score": 0.771,
       "news": [
         {
           "date": "11-26",
@@ -146,10 +146,10 @@
           "risk": false
         }
       ],
-      "price": 130800,
-      "chg": 0.0195,
-      "activity": 1.96,
-      "foreign_today": 1569600000,
+      "price": 131500,
+      "chg": 0.0249,
+      "activity": 1.86,
+      "foreign_today": 1578000000,
       "inst_today": 0,
       "exchange": "KOSPI"
     },
@@ -163,7 +163,7 @@
       "vol20": 0.855,
       "foreign_net": 954883300,
       "inst_net": 1574694700,
-      "score": 0.589,
+      "score": 0.686,
       "news": [
         {
           "date": "11-26",
@@ -181,11 +181,11 @@
           "risk": false
         }
       ],
-      "price": 92200,
-      "chg": 0.1425,
-      "activity": 2.99,
+      "price": 92000,
+      "chg": 0.14,
+      "activity": 2.9,
       "foreign_today": 0,
-      "inst_today": 368800000,
+      "inst_today": 368000000,
       "exchange": "KOSDAQ"
     },
     {
@@ -198,7 +198,7 @@
       "vol20": 0.87,
       "foreign_net": -49016633750,
       "inst_net": 68895326000,
-      "score": 0.442,
+      "score": 0.536,
       "news": [
         {
           "date": "11-26",
@@ -216,11 +216,11 @@
           "risk": false
         }
       ],
-      "price": 298500,
-      "chg": 0.0223,
-      "activity": 1.42,
-      "foreign_today": 10447500000,
-      "inst_today": 298500000,
+      "price": 300000,
+      "chg": 0.0274,
+      "activity": 1.31,
+      "foreign_today": 10500000000,
+      "inst_today": 300000000,
       "exchange": "KOSPI"
     },
     {
@@ -233,8 +233,13 @@
       "vol20": 0.858,
       "foreign_net": 21681003500,
       "inst_net": 49876622900,
-      "score": 0.434,
+      "score": 0.521,
       "news": [
+        {
+          "date": "11-26",
+          "title": "SM엔터테인먼트, K-브랜드지수 엔터사 부문 1위 탈환…하이브·갤럭시코...",
+          "risk": false
+        },
         {
           "date": "11-26",
           "title": "K-브랜드지수’ 엔터사 부문, SM엔터테인먼트 1위 탈환… 하이브·갤럭시...",
@@ -244,18 +249,13 @@
           "date": "11-26",
           "title": "SM엔터, 10월 K-브랜드지수 1위 탈환…하이브·갤럭시코퍼레이션 뒤이어",
           "risk": false
-        },
-        {
-          "date": "11-26",
-          "title": "SM, 하이브 제치고 엔터사 브랜드지수 1위…갤럭시코퍼레이션 3위",
-          "risk": false
         }
       ],
-      "price": 184900,
-      "chg": 0.0452,
-      "activity": 0.99,
-      "foreign_today": 1109400000,
-      "inst_today": 1664100000,
+      "price": 184800,
+      "chg": 0.0447,
+      "activity": 0.93,
+      "foreign_today": 1108800000,
+      "inst_today": 1663200000,
       "exchange": "KOSPI"
     },
     {
@@ -268,7 +268,7 @@
       "vol20": 0.578,
       "foreign_net": -12310801100,
       "inst_net": 19788407000,
-      "score": 0.364,
+      "score": 0.45,
       "news": [
         {
           "date": "11-25",
@@ -300,7 +300,7 @@
       "vol20": 0.861,
       "foreign_net": -6295638155,
       "inst_net": 8702297525,
-      "score": 0.318,
+      "score": 0.364,
       "news": [
         {
           "date": "11-25",
@@ -318,12 +318,44 @@
           "risk": false
         }
       ],
-      "price": 17350,
-      "chg": 0.0471,
-      "activity": 1.82,
+      "price": 17230,
+      "chg": 0.0398,
+      "activity": 1.64,
       "foreign_today": 0,
-      "inst_today": 17350000,
+      "inst_today": 17230000,
       "exchange": "KOSDAQ"
+    },
+    {
+      "code": "001040",
+      "name": "CJ",
+      "close": 118300,
+      "ret5": 0.0234,
+      "ret20": 0.0296,
+      "rsi14": 54.4,
+      "vol20": 0.447,
+      "foreign_net": 291188200,
+      "inst_net": 4018587550,
+      "score": 0.329,
+      "news": [
+        {
+          "date": "11-26",
+          "title": "나눔을 잇는 물류… CJ대한통운의 13년 동행",
+          "risk": false
+        },
+        {
+          "date": "11-26",
+          "title": "파리바게뜨 CJ프레시웨이 오비맥주 外(유통家 이모저모)",
+          "risk": false
+        },
+        {
+          "date": "11-26",
+          "title": "[똑똑한소비] 빙그레, CJ프레시웨이, 파리바게뜨, 제주삼다수, 오뚜기, ...",
+          "risk": false
+        }
+      ],
+      "foreign_today": 0,
+      "inst_today": 473200000,
+      "exchange": "KOSPI"
     },
     {
       "code": "003230",
@@ -335,7 +367,7 @@
       "vol20": 0.558,
       "foreign_net": 31145431500,
       "inst_net": 657891000,
-      "score": 0.248,
+      "score": 0.329,
       "news": [
         {
           "date": "11-25",
@@ -353,69 +385,111 @@
           "risk": false
         }
       ],
-      "price": 1310000,
+      "price": 1312000,
+      "chg": 0.0023,
+      "activity": 0.6,
+      "foreign_today": 0,
+      "inst_today": 1312000000,
+      "exchange": "KOSPI"
+    },
+    {
+      "code": "086790",
+      "name": "하나금융지주",
+      "close": 121200,
+      "ret5": -0.0226,
+      "ret20": 0.0494,
+      "rsi14": 48.2,
+      "vol20": 0.354,
+      "foreign_net": -48097685700,
+      "inst_net": 53802685750,
+      "score": 0.279,
+      "news": [],
+      "price": 121000,
       "chg": 0.0008,
-      "activity": 0.63,
+      "activity": 1.07,
       "foreign_today": 0,
-      "inst_today": 1310000000,
+      "inst_today": 968000000,
       "exchange": "KOSPI"
     },
     {
-      "code": "001040",
-      "name": "CJ",
-      "close": 118300,
-      "ret5": 0.0234,
-      "ret20": 0.0296,
-      "rsi14": 54.4,
-      "vol20": 0.447,
-      "foreign_net": 291188200,
-      "inst_net": 4018587550,
-      "score": 0.217,
+      "code": "008930",
+      "name": "한미사이언스",
+      "close": 52800,
+      "ret5": 0.0096,
+      "ret20": 0.2662,
+      "rsi14": 55.3,
+      "vol20": 0.656,
+      "foreign_net": 1842681425,
+      "inst_net": 2987257150,
+      "score": 0.25,
+      "news": [
+        {
+          "date": "11-25",
+          "title": "한미사이언스, DXVX 배임 고소에 “억측에서 비롯…원칙대로 대응할 것...",
+          "risk": true
+        },
+        {
+          "date": "11-25",
+          "title": "DXVX 한미사이언스 대표·감사위원장 배임 혐의 고소",
+          "risk": true
+        },
+        {
+          "date": "11-25",
+          "title": "DXVX, 한미사이언스 대표·감사위원장 배임 혐의 고소",
+          "risk": true
+        }
+      ],
+      "foreign_today": 211200000,
+      "inst_today": 52800000,
+      "exchange": "KOSPI"
+    },
+    {
+      "code": "009420",
+      "name": "한올바이오파마",
+      "close": 54200,
+      "ret5": 0.0285,
+      "ret20": 0.3933,
+      "rsi14": 66.9,
+      "vol20": 0.983,
+      "foreign_net": -5015453550,
+      "inst_net": 15845512200,
+      "score": 0.236,
+      "news": [],
+      "foreign_today": 0,
+      "inst_today": 54200000,
+      "exchange": "KOSPI"
+    },
+    {
+      "code": "000100",
+      "name": "유한양행",
+      "close": 82500,
+      "ret5": 0.021,
+      "ret20": 0.0604,
+      "rsi14": 56.4,
+      "vol20": 0.467,
+      "foreign_net": 10660598050,
+      "inst_net": 8777466150,
+      "score": 0.157,
       "news": [
         {
           "date": "11-26",
-          "title": "파리바게뜨 CJ프레시웨이 오비맥주 外(유통家 이모저모)",
+          "title": "[유통 소식] 유한양행 닥터버들 성수 입점, 청호나이스 정수기 신규 컬...",
           "risk": false
         },
         {
           "date": "11-26",
-          "title": "[똑똑한소비] 빙그레, CJ프레시웨이, 파리바게뜨, 제주삼다수, 오뚜기, ...",
+          "title": "건강기능식품 2026년 11월 브랜드평판...고려은단, 유한양행, LG생활건강...",
           "risk": false
         },
         {
           "date": "11-26",
-          "title": "CJ프레시웨이, 외식사업자 대상 '고메 인사이트 투어' 진행",
+          "title": "'신약' 유한양행, '기저귀' 유한킴벌리 영업익 추격",
           "risk": false
         }
       ],
       "foreign_today": 0,
-      "inst_today": 473200000,
+      "inst_today": 82500000,
       "exchange": "KOSPI"
-    },
-    {
-      "code": "347700",
-      "name": "스피어",
-      "close": 18500,
-      "ret5": 0.1212,
-      "ret20": -0.1169,
-      "rsi14": 52.0,
-      "vol20": 1.152,
-      "foreign_net": -1104951885,
-      "inst_net": 8987479495,
-      "score": 1.0,
-      "news": [
-        {
-          "date": "11-26",
-          "title": "[특징주] 외국인 루닛·스피어, 기관 삼성전자·다올투자증권 순매수",
-          "risk": false
-        }
-      ],
-      "price": 21950,
-      "chg": 0.145,
-      "activity": 8.31,
-      "foreign_today": 3731500000,
-      "inst_today": 790200000,
-      "exchange": "KOSDAQ"
     },
     {
       "code": "218410",
@@ -427,7 +501,7 @@
       "vol20": 1.339,
       "foreign_net": -7396088050,
       "inst_net": 4891306700,
-      "score": 0.907,
+      "score": 1.0,
       "news": [
         {
           "date": "11-26",
@@ -445,76 +519,11 @@
           "risk": false
         }
       ],
-      "price": 60400,
-      "chg": 0.1269,
-      "activity": 3.26,
-      "foreign_today": 1208000000,
-      "inst_today": 2536800000,
-      "exchange": "KOSDAQ"
-    },
-    {
-      "code": "078600",
-      "name": "대주전자재료",
-      "close": 76900,
-      "ret5": -0.0757,
-      "ret20": -0.2185,
-      "rsi14": 42.3,
-      "vol20": 1.206,
-      "foreign_net": -1034303050,
-      "inst_net": 2252219400,
-      "score": 0.876,
-      "news": [
-        {
-          "date": "11-26",
-          "title": "[특징주] 대주전자재료, AI 서버용 MLCC 수요 확대 기대감에 16%대 급등",
-          "risk": false
-        },
-        {
-          "date": "11-26",
-          "title": "대주전자재료 주가, 11월 26일 장중 91,100원 15.90% 강세",
-          "risk": false
-        },
-        {
-          "date": "11-26",
-          "title": "대주전자재료 주가 19% 폭등…AI 서버용 MLCC 슈퍼사이클 오나",
-          "risk": false
-        }
-      ],
-      "price": 88300,
-      "chg": 0.1234,
-      "activity": 4.9,
-      "foreign_today": 3885200000,
-      "inst_today": 2295800000,
-      "exchange": "KOSDAQ"
-    },
-    {
-      "code": "125490",
-      "name": "한라캐스트",
-      "close": 11160,
-      "ret5": 0.0898,
-      "ret20": -0.0253,
-      "rsi14": 57.6,
-      "vol20": 1.13,
-      "foreign_net": -2121505045,
-      "inst_net": 4022642325,
-      "score": 0.845,
-      "news": [
-        {
-          "date": "11-24",
-          "title": "한라캐스트 17.36% 급등…경량 모빌리티 부품 양산 주목",
-          "risk": false
-        },
-        {
-          "date": "11-24",
-          "title": "한라캐스트 주가 한때 19.61% 상승…오전 거래량 215만주",
-          "risk": false
-        }
-      ],
-      "price": 11730,
-      "chg": 0.0326,
-      "activity": 2.7,
-      "foreign_today": 774180000,
-      "inst_today": 70380000,
+      "price": 60600,
+      "chg": 0.1306,
+      "activity": 2.99,
+      "foreign_today": 1212000000,
+      "inst_today": 2545200000,
       "exchange": "KOSDAQ"
     },
     {
@@ -527,7 +536,7 @@
       "vol20": 1.036,
       "foreign_net": -4597635825,
       "inst_net": 21393590200,
-      "score": 0.806,
+      "score": 0.929,
       "news": [
         {
           "date": "11-23",
@@ -540,12 +549,96 @@
           "risk": false
         }
       ],
-      "price": 45000,
-      "chg": 0.1043,
-      "activity": 2.3,
+      "price": 45350,
+      "chg": 0.1129,
+      "activity": 2.27,
       "foreign_today": 0,
-      "inst_today": 855000000,
+      "inst_today": 861650000,
       "exchange": "KOSDAQ"
+    },
+    {
+      "code": "125490",
+      "name": "한라캐스트",
+      "close": 11160,
+      "ret5": 0.0898,
+      "ret20": -0.0253,
+      "rsi14": 57.6,
+      "vol20": 1.13,
+      "foreign_net": -2121505045,
+      "inst_net": 4022642325,
+      "score": 0.914,
+      "news": [
+        {
+          "date": "11-24",
+          "title": "한라캐스트 17.36% 급등…경량 모빌리티 부품 양산 주목",
+          "risk": false
+        },
+        {
+          "date": "11-24",
+          "title": "한라캐스트 주가 한때 19.61% 상승…오전 거래량 215만주",
+          "risk": false
+        }
+      ],
+      "price": 11680,
+      "chg": 0.0282,
+      "activity": 2.39,
+      "foreign_today": 770880000,
+      "inst_today": 70080000,
+      "exchange": "KOSDAQ"
+    },
+    {
+      "code": "277810",
+      "name": "레인보우로보틱스",
+      "close": 455000,
+      "ret5": 0.1152,
+      "ret20": 0.1166,
+      "rsi14": 63.1,
+      "vol20": 1.143,
+      "foreign_net": -62608017250,
+      "inst_net": 106538463250,
+      "score": 0.879,
+      "news": [],
+      "price": 484000,
+      "chg": 0.0442,
+      "activity": 2.57,
+      "foreign_today": 0,
+      "inst_today": 2904000000,
+      "exchange": "KOSDAQ"
+    },
+    {
+      "code": "457190",
+      "name": "이수스페셜티케미컬",
+      "close": 76500,
+      "ret5": 0.0119,
+      "ret20": -0.0039,
+      "rsi14": 53.1,
+      "vol20": 1.213,
+      "foreign_net": 634960800,
+      "inst_net": 14049300350,
+      "score": 0.771,
+      "news": [
+        {
+          "date": "11-26",
+          "title": "[핀포인트] [이수스페셜티케미컬] 마더플랜트가 남긴 청구서…‘인고의...",
+          "risk": false
+        },
+        {
+          "date": "11-26",
+          "title": "[핀포인트] [이수스페셜티케미컬] 첫 해외 거점…힘겨운 첫발 떼기",
+          "risk": false
+        },
+        {
+          "date": "11-26",
+          "title": "[핀포인트] [이수스페셜티케미컬] 마진율 뒷걸음질…합병 시너지 역풍",
+          "risk": false
+        }
+      ],
+      "price": 82000,
+      "chg": 0.0446,
+      "activity": 2.02,
+      "foreign_today": 0,
+      "inst_today": 1230000000,
+      "exchange": "KOSPI"
     },
     {
       "code": "114800",
