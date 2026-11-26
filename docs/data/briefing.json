@@ -81,13 +81,48 @@
     ]
   },
   "intraday": {
-    "time": "11:00",
-    "pool": 354,
+    "time": "11:30",
+    "pool": 398,
     "analyzed_new": 30,
-    "passed": 13,
+    "passed": 15,
     "kept_prep": false
   },
   "candidates": [
+    {
+      "code": "161890",
+      "name": "한국콜마",
+      "close": 127300,
+      "ret5": 0.0671,
+      "ret20": 0.0862,
+      "rsi14": 59.8,
+      "vol20": 0.718,
+      "foreign_net": -22813838950,
+      "inst_net": 22795781050,
+      "score": 0.748,
+      "news": [
+        {
+          "date": "11-26",
+          "title": "한국콜마, 남성 육아휴직 의무화…'일·생활 균형 우수기업' 선정",
+          "risk": false
+        },
+        {
+          "date": "11-26",
+          "title": "한국콜마·HK이노엔, 일·생활 균형 우수기업 동시 선정",
+          "risk": false
+        },
+        {
+          "date": "11-26",
+          "title": "한국콜마, 일·생활 균형 우수기업 선정…남성 육아휴직자 2년 새 18배",
+          "risk": false
+        }
+      ],
+      "price": 135500,
+      "chg": 0.0561,
+      "activity": 2.34,
+      "foreign_today": 1626000000,
+      "inst_today": 0,
+      "exchange": "KOSPI"
+    },
     {
       "code": "257720",
       "name": "실리콘투",
@@ -98,7 +133,7 @@
       "vol20": 0.856,
       "foreign_net": -11881540425,
       "inst_net": 13131813275,
-      "score": 0.833,
+      "score": 0.72,
       "news": [
         {
           "date": "11-25",
@@ -111,77 +146,47 @@
           "risk": false
         }
       ],
-      "price": 30200,
-      "chg": 0.045,
-      "activity": 3.86,
-      "foreign_today": 0,
-      "inst_today": 453000000,
+      "price": 30250,
+      "chg": 0.0467,
+      "activity": 3.41,
+      "foreign_today": 937750000,
+      "inst_today": 574750000,
       "exchange": "KOSDAQ"
     },
     {
-      "code": "192820",
-      "name": "코스맥스",
-      "close": 329500,
-      "ret5": 0.0821,
-      "ret20": 0.2722,
-      "rsi14": 68.8,
-      "vol20": 0.798,
-      "foreign_net": 501538250,
-      "inst_net": -279066250,
-      "score": 0.678,
+      "code": "226950",
+      "name": "올릭스",
+      "close": 79000,
+      "ret5": -0.0038,
+      "ret20": -0.1897,
+      "rsi14": 43.0,
+      "vol20": 0.855,
+      "foreign_net": 954883300,
+      "inst_net": 1574694700,
+      "score": 0.626,
       "news": [
         {
           "date": "11-26",
-          "title": "[더벨][Company Watch] 코스맥스, '伊케미노바' 내년 상반기 스킨케어 생...",
+          "title": "특허 쌓고 독점 깨고 한계 넘고… 한미약품 알테오젠 올릭스의 도전",
           "risk": false
         },
         {
-          "date": "11-26",
-          "title": "\"코스맥스, 국내 생산량 확대 효과 커…성장세 지속\"-하나",
+          "date": "11-25",
+          "title": "이동기 올릭스 대표, 보건의료기술진흥 유공 국무총리 표창",
           "risk": false
         },
         {
-          "date": "11-26",
-          "title": "[K-뷰티 신화를 쓰다 ⑧끝] 제조 넘어 수출 실무까지 지원…코스맥스 '...",
+          "date": "11-25",
+          "title": "\"릴리와 9천억 빅딜\" 이동기 올릭스 대표 '국무총리상'",
           "risk": false
         }
       ],
-      "price": 330500,
-      "chg": 0.0107,
-      "activity": 2.58,
+      "price": 90400,
+      "chg": 0.1202,
+      "activity": 3.68,
       "foreign_today": 0,
-      "inst_today": 330500000,
-      "exchange": "KOSPI"
-    },
-    {
-      "code": "352820",
-      "name": "하이브",
-      "close": 173500,
-      "ret5": -0.0286,
-      "ret20": 0.026,
-      "rsi14": 55.9,
-      "vol20": 0.858,
-      "foreign_net": 21681003500,
-      "inst_net": 49876622900,
-      "score": 0.622,
-      "news": [
-        {
-          "date": "11-26",
-          "title": "‘하이브 vs 갤럭시코퍼’ 상위권 경쟁...K-브랜드지수, 엔터사 부문 순...",
-          "risk": false
-        },
-        {
-          "date": "11-26",
-          "title": "갤럭시코퍼레이션, SM·하이브 함께 K-브랜드지수 엔터사 부문 3강 체제...",
-          "risk": false
-        }
-      ],
-      "price": 185000,
-      "chg": 0.0458,
-      "activity": 1.16,
-      "foreign_today": 1480000000,
-      "inst_today": 370000000,
-      "exchange": "KOSPI"
+      "inst_today": 361600000,
+      "exchange": "KOSDAQ"
     },
     {
       "code": "278470",
@@ -193,7 +198,7 @@
       "vol20": 0.87,
       "foreign_net": -49016633750,
       "inst_net": 68895326000,
-      "score": 0.533,
+      "score": 0.514,
       "news": [
         {
           "date": "11-26",
@@ -211,11 +216,36 @@
           "risk": false
         }
       ],
-      "price": 299500,
-      "chg": 0.0257,
-      "activity": 1.95,
-      "foreign_today": 6589000000,
-      "inst_today": 299500000,
+      "price": 302000,
+      "chg": 0.0342,
+      "activity": 1.73,
+      "foreign_today": 10570000000,
+      "inst_today": 302000000,
+      "exchange": "KOSPI"
+    },
+    {
+      "code": "352820",
+      "name": "하이브",
+      "close": 173500,
+      "ret5": -0.0286,
+      "ret20": 0.026,
+      "rsi14": 55.9,
+      "vol20": 0.858,
+      "foreign_net": 21681003500,
+      "inst_net": 49876622900,
+      "score": 0.467,
+      "news": [
+        {
+          "date": "11-26",
+          "title": "‘하이브 vs 갤럭시코퍼’ 상위권 경쟁...K-브랜드지수, 엔터사 부문 순...",
+          "risk": false
+        }
+      ],
+      "price": 186600,
+      "chg": 0.0548,
+      "activity": 1.14,
+      "foreign_today": 1119600000,
+      "inst_today": 1679400000,
       "exchange": "KOSPI"
     },
     {
@@ -228,7 +258,7 @@
       "vol20": 0.578,
       "foreign_net": -12310801100,
       "inst_net": 19788407000,
-      "score": 0.533,
+      "score": 0.402,
       "news": [
         {
           "date": "11-25",
@@ -246,95 +276,76 @@
           "risk": false
         }
       ],
-      "foreign_today": 1239000000,
-      "inst_today": 177000000,
+      "foreign_today": 1062000000,
+      "inst_today": 531000000,
       "exchange": "KOSPI"
     },
     {
-      "code": "089590",
-      "name": "제주항공",
-      "close": 8400,
-      "ret5": 0.098,
-      "ret20": 0.5135,
-      "rsi14": 69.2,
-      "vol20": 0.95,
-      "foreign_net": 12509834945,
-      "inst_net": 1997100270,
-      "score": 0.289,
+      "code": "003230",
+      "name": "삼양식품",
+      "close": 1292000,
+      "ret5": 0.0378,
+      "ret20": 0.0921,
+      "rsi14": 57.8,
+      "vol20": 0.558,
+      "foreign_net": 31145431500,
+      "inst_net": 657891000,
+      "score": 0.28,
+      "news": [
+        {
+          "date": "11-25",
+          "title": "삼양식품, 캐나다 법인 설립 이어 현지 인력 채용…북미 공략 확대",
+          "risk": false
+        },
+        {
+          "date": "11-25",
+          "title": "[거래소 기관] 아모레퍼시픽·삼양식품 '왕성한 식욕'... K뷰티·K푸드 다...",
+          "risk": false
+        },
+        {
+          "date": "11-25",
+          "title": "삼양식품·CJ제일제당 동반 급등…K-푸드 수출 훈풍에 식품주 달아올랐...",
+          "risk": false
+        }
+      ],
+      "price": 1308000,
+      "chg": -0.0008,
+      "activity": 0.76,
+      "foreign_today": 0,
+      "inst_today": 1308000000,
+      "exchange": "KOSPI"
+    },
+    {
+      "code": "001040",
+      "name": "CJ",
+      "close": 118300,
+      "ret5": 0.0234,
+      "ret20": 0.0296,
+      "rsi14": 54.4,
+      "vol20": 0.447,
+      "foreign_net": 291188200,
+      "inst_net": 4018587550,
+      "score": 0.262,
       "news": [
         {
           "date": "11-26",
-          "title": "제주항공우주박물관 '제주관광대상' 대상",
+          "title": "CJ프레시웨이, ‘효뜨’·‘미미옥’ 성공 비결 외식업계와 나눴다",
           "risk": false
         },
         {
           "date": "11-26",
-          "title": "제주항공우주박물관, 제주관광대상 수상",
+          "title": "CJ제일제당, '햇반 똑딱 프로젝트'로 용기 업사이클링 교육",
           "risk": false
         },
         {
           "date": "11-26",
-          "title": "제주항공 외국인 승객 27% 급증...\"한국행 인바운드 수요 확대 주효\"",
+          "title": "CJ프레시웨이, 식자재 넘어 외식 솔루션 강화",
           "risk": false
         }
       ],
       "foreign_today": 0,
-      "inst_today": 16800000,
+      "inst_today": 473200000,
       "exchange": "KOSPI"
-    },
-    {
-      "code": "078600",
-      "name": "대주전자재료",
-      "close": 76900,
-      "ret5": -0.0757,
-      "ret20": -0.2185,
-      "rsi14": 42.3,
-      "vol20": 1.206,
-      "foreign_net": -1034303050,
-      "inst_net": 2252219400,
-      "score": 1.0,
-      "news": [
-        {
-          "date": "11-26",
-          "title": "[특징주] 대주전자재료, AI 서버용 MLCC 수요 확대 기대감에 16%대 급등",
-          "risk": false
-        },
-        {
-          "date": "11-26",
-          "title": "대주전자재료 주가, 11월 26일 장중 91,100원 15.90% 강세",
-          "risk": false
-        },
-        {
-          "date": "11-26",
-          "title": "대주전자재료 주가 19% 폭등…AI 서버용 MLCC 슈퍼사이클 오나",
-          "risk": false
-        }
-      ],
-      "price": 88300,
-      "chg": 0.1234,
-      "activity": 7.42,
-      "foreign_today": 4503300000,
-      "inst_today": 2119200000,
-      "exchange": "KOSDAQ"
-    },
-    {
-      "code": "277810",
-      "name": "레인보우로보틱스",
-      "close": 455000,
-      "ret5": 0.1152,
-      "ret20": 0.1166,
-      "rsi14": 63.1,
-      "vol20": 1.143,
-      "foreign_net": -62608017250,
-      "inst_net": 106538463250,
-      "score": 0.989,
-      "news": [],
-      "price": 480500,
-      "chg": 0.0367,
-      "activity": 4.18,
-      "foreign_today": 0,
-      "inst_today": 2402500000,
-      "exchange": "KOSDAQ"
     },
     {
       "code": "218410",
@@ -346,7 +357,7 @@
       "vol20": 1.339,
       "foreign_net": -7396088050,
       "inst_net": 4891306700,
-      "score": 0.922,
+      "score": 1.0,
       "news": [
         {
           "date": "11-26",
@@ -364,76 +375,125 @@
           "risk": false
         }
       ],
-      "price": 58900,
-      "chg": 0.0989,
-      "activity": 3.53,
-      "foreign_today": 1649200000,
-      "inst_today": 176700000,
+      "price": 60900,
+      "chg": 0.1362,
+      "activity": 3.95,
+      "foreign_today": 1218000000,
+      "inst_today": 2557800000,
       "exchange": "KOSDAQ"
     },
     {
-      "code": "121600",
-      "name": "나노신소재",
-      "close": 60500,
-      "ret5": -0.1181,
-      "ret20": -0.0131,
-      "rsi14": 46.8,
-      "vol20": 1.231,
-      "foreign_net": 6353553850,
-      "inst_net": -5335868100,
-      "score": 0.767,
+      "code": "078600",
+      "name": "대주전자재료",
+      "close": 76900,
+      "ret5": -0.0757,
+      "ret20": -0.2185,
+      "rsi14": 42.3,
+      "vol20": 1.206,
+      "foreign_net": -1034303050,
+      "inst_net": 2252219400,
+      "score": 0.963,
       "news": [
         {
-          "date": "11-24",
-          "title": "LED 관련주 옥석 가리기 본격화… 나노신소재·케이엔제이 성장성은?",
+          "date": "11-26",
+          "title": "[특징주] 대주전자재료, AI 서버용 MLCC 수요 확대 기대감에 16%대 급등",
           "risk": false
         },
         {
-          "date": "11-24",
-          "title": "나노신소재, 보유 보통주 15만주 26일 소각",
+          "date": "11-26",
+          "title": "대주전자재료 주가, 11월 26일 장중 91,100원 15.90% 강세",
+          "risk": false
+        },
+        {
+          "date": "11-26",
+          "title": "대주전자재료 주가 19% 폭등…AI 서버용 MLCC 슈퍼사이클 오나",
           "risk": false
         }
       ],
-      "price": 67400,
-      "chg": 0.0801,
-      "activity": 2.73,
-      "foreign_today": 1213200000,
-      "inst_today": 202200000,
+      "price": 88800,
+      "chg": 0.1298,
+      "activity": 6.49,
+      "foreign_today": 3907200000,
+      "inst_today": 2308800000,
       "exchange": "KOSDAQ"
     },
     {
-      "code": "036710",
-      "name": "심텍홀딩스",
-      "close": 5600,
-      "ret5": -0.0244,
-      "ret20": 0.466,
-      "rsi14": 58.4,
-      "vol20": 1.653,
-      "foreign_net": -6842746390,
-      "inst_net": 5537744110,
-      "score": 0.733,
+      "code": "125490",
+      "name": "한라캐스트",
+      "close": 11160,
+      "ret5": 0.0898,
+      "ret20": -0.0253,
+      "rsi14": 57.6,
+      "vol20": 1.13,
+      "foreign_net": -2121505045,
+      "inst_net": 4022642325,
+      "score": 0.925,
       "news": [
         {
-          "date": "11-26",
-          "title": "[특징주] 심텍홀딩스, 반도체 기판 테마 매수세 유입에 급등…PCB 지주사...",
+          "date": "11-24",
+          "title": "한라캐스트 17.36% 급등…경량 모빌리티 부품 양산 주목",
           "risk": false
         },
         {
-          "date": "11-26",
-          "title": "AI 서버·고성능 반도체 기판 수요 폭발…심텍홀딩스·삼성전기·이수페...",
-          "risk": false
-        },
-        {
-          "date": "11-26",
-          "title": "반도체 기판주 일제히 '껑충'…삼성전기 80만원선 회복, 심텍홀딩스·태...",
+          "date": "11-24",
+          "title": "한라캐스트 주가 한때 19.61% 상승…오전 거래량 215만주",
           "risk": false
         }
       ],
-      "price": 6170,
-      "chg": 0.0638,
-      "activity": 2.03,
-      "foreign_today": 80210000,
-      "inst_today": 191270000,
+      "price": 11770,
+      "chg": 0.0361,
+      "activity": 3.58,
+      "foreign_today": 776820000,
+      "inst_today": 70620000,
+      "exchange": "KOSDAQ"
+    },
+    {
+      "code": "277810",
+      "name": "레인보우로보틱스",
+      "close": 455000,
+      "ret5": 0.1152,
+      "ret20": 0.1166,
+      "rsi14": 63.1,
+      "vol20": 1.143,
+      "foreign_net": -62608017250,
+      "inst_net": 106538463250,
+      "score": 0.869,
+      "news": [],
+      "price": 488000,
+      "chg": 0.0529,
+      "activity": 3.71,
+      "foreign_today": 0,
+      "inst_today": 2928000000,
+      "exchange": "KOSDAQ"
+    },
+    {
+      "code": "456160",
+      "name": "지투지바이오",
+      "close": 39900,
+      "ret5": 0.1718,
+      "ret20": 0.0445,
+      "rsi14": 56.5,
+      "vol20": 1.036,
+      "foreign_net": -4597635825,
+      "inst_net": 21393590200,
+      "score": 0.86,
+      "news": [
+        {
+          "date": "11-23",
+          "title": "[코스닥 기관] 장바구니에 알테오젠·지투지바이오 담겼다…바이오주도...",
+          "risk": false
+        },
+        {
+          "date": "11-23",
+          "title": "지투지바이오 4만원선 회복…장기지속형 플랫폼 개발비 부담",
+          "risk": false
+        }
+      ],
+      "price": 45150,
+      "chg": 0.108,
+      "activity": 2.83,
+      "foreign_today": 0,
+      "inst_today": 857850000,
       "exchange": "KOSDAQ"
     },
     {
