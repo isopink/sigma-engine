@@ -81,13 +81,73 @@
     ]
   },
   "intraday": {
-    "time": "13:00",
-    "pool": 399,
+    "time": "13:30",
+    "pool": 443,
     "analyzed_new": 30,
-    "passed": 20,
+    "passed": 22,
     "kept_prep": false
   },
   "candidates": [
+    {
+      "code": "241710",
+      "name": "코스메카코리아",
+      "close": 130000,
+      "ret5": 0.1722,
+      "ret20": 0.2634,
+      "rsi14": 68.9,
+      "vol20": 0.961,
+      "foreign_net": -20876001950,
+      "inst_net": 20906405300,
+      "score": 0.918,
+      "news": [
+        {
+          "date": "11-25",
+          "title": "\"외주 한계 드러난 코스메카코리아, 해법은 '2027년 오창공장'…자동화...",
+          "risk": false
+        }
+      ],
+      "price": 129900,
+      "chg": 0.0008,
+      "activity": 1.92,
+      "foreign_today": 0,
+      "inst_today": 1688700000,
+      "exchange": "KOSDAQ"
+    },
+    {
+      "code": "161890",
+      "name": "한국콜마",
+      "close": 127300,
+      "ret5": 0.0671,
+      "ret20": 0.0862,
+      "rsi14": 59.8,
+      "vol20": 0.718,
+      "foreign_net": -22813838950,
+      "inst_net": 22795781050,
+      "score": 0.836,
+      "news": [
+        {
+          "date": "11-26",
+          "title": "한국콜마, 男 육아휴직 늘고 퇴직 줄고···'일∙생활 균형 우수기업' ...",
+          "risk": false
+        },
+        {
+          "date": "11-26",
+          "title": "\"男육휴1개월 의무화·동료업무지원제\" 한국콜마 '일·생활균형 우수기...",
+          "risk": false
+        },
+        {
+          "date": "11-26",
+          "title": "서울여대-한국콜마, K-뷰티 연구개발·전문인재 양성 맞손",
+          "risk": false
+        }
+      ],
+      "price": 130900,
+      "chg": 0.0203,
+      "activity": 1.76,
+      "foreign_today": 3403400000,
+      "inst_today": 0,
+      "exchange": "KOSPI"
+    },
     {
       "code": "257720",
       "name": "실리콘투",
@@ -98,7 +158,7 @@
       "vol20": 0.856,
       "foreign_net": -11881540425,
       "inst_net": 13131813275,
-      "score": 0.771,
+      "score": 0.692,
       "news": [
         {
           "date": "11-25",
@@ -113,115 +173,10 @@
       ],
       "price": 30100,
       "chg": 0.0415,
-      "activity": 2.47,
-      "foreign_today": 933100000,
-      "inst_today": 571900000,
-      "exchange": "KOSDAQ"
-    },
-    {
-      "code": "161890",
-      "name": "한국콜마",
-      "close": 127300,
-      "ret5": 0.0671,
-      "ret20": 0.0862,
-      "rsi14": 59.8,
-      "vol20": 0.718,
-      "foreign_net": -22813838950,
-      "inst_net": 22795781050,
-      "score": 0.771,
-      "news": [
-        {
-          "date": "11-26",
-          "title": "서울여대-한국콜마, K-뷰티 연구개발·전문인재 양성 맞손",
-          "risk": false
-        },
-        {
-          "date": "11-26",
-          "title": "한국콜마, 남성 육아휴직자 18배 이상 늘어…일∙생활 균형 우수기업 선...",
-          "risk": false
-        },
-        {
-          "date": "11-26",
-          "title": "서울여대·한국콜마, 화장품 R&D 및 전문인력 양성 위해 '맞손'",
-          "risk": false
-        }
-      ],
-      "price": 131500,
-      "chg": 0.0249,
-      "activity": 1.86,
-      "foreign_today": 1578000000,
-      "inst_today": 0,
-      "exchange": "KOSPI"
-    },
-    {
-      "code": "226950",
-      "name": "올릭스",
-      "close": 79000,
-      "ret5": -0.0038,
-      "ret20": -0.1897,
-      "rsi14": 43.0,
-      "vol20": 0.855,
-      "foreign_net": 954883300,
-      "inst_net": 1574694700,
-      "score": 0.686,
-      "news": [
-        {
-          "date": "11-26",
-          "title": "특허 쌓고 독점 깨고 한계 넘고… 한미약품 알테오젠 올릭스의 도전",
-          "risk": false
-        },
-        {
-          "date": "11-25",
-          "title": "이동기 올릭스 대표, 보건의료기술진흥 유공 국무총리 표창",
-          "risk": false
-        },
-        {
-          "date": "11-25",
-          "title": "\"릴리와 9천억 빅딜\" 이동기 올릭스 대표 '국무총리상'",
-          "risk": false
-        }
-      ],
-      "price": 92000,
-      "chg": 0.14,
-      "activity": 2.9,
+      "activity": 2.29,
       "foreign_today": 0,
-      "inst_today": 368000000,
+      "inst_today": 722400000,
       "exchange": "KOSDAQ"
-    },
-    {
-      "code": "278470",
-      "name": "에이피알",
-      "close": 291500,
-      "ret5": 0.2045,
-      "ret20": 0.0157,
-      "rsi14": 57.4,
-      "vol20": 0.87,
-      "foreign_net": -49016633750,
-      "inst_net": 68895326000,
-      "score": 0.536,
-      "news": [
-        {
-          "date": "11-26",
-          "title": "[더벨]브랜드501 몸값 1조 낮췄다…에이피알과 2조 안팎 협상",
-          "risk": false
-        },
-        {
-          "date": "11-26",
-          "title": "DS證 \"에이피알, 목표가 53만원으로 하향…일시적 부진은 매수 기회\"",
-          "risk": false
-        },
-        {
-          "date": "11-26",
-          "title": "에이피알, 환율 영향에 일시적 실적 부진…매수 기회-DS",
-          "risk": false
-        }
-      ],
-      "price": 300000,
-      "chg": 0.0274,
-      "activity": 1.31,
-      "foreign_today": 10500000000,
-      "inst_today": 300000000,
-      "exchange": "KOSPI"
     },
     {
       "code": "352820",
@@ -233,7 +188,7 @@
       "vol20": 0.858,
       "foreign_net": 21681003500,
       "inst_net": 49876622900,
-      "score": 0.521,
+      "score": 0.667,
       "news": [
         {
           "date": "11-26",
@@ -251,43 +206,113 @@
           "risk": false
         }
       ],
-      "price": 184800,
-      "chg": 0.0447,
-      "activity": 0.93,
-      "foreign_today": 1108800000,
-      "inst_today": 1663200000,
+      "price": 187500,
+      "chg": 0.0599,
+      "activity": 0.92,
+      "foreign_today": 1125000000,
+      "inst_today": 6187500000,
       "exchange": "KOSPI"
     },
     {
-      "code": "326030",
-      "name": "SK바이오팜",
-      "close": 88500,
-      "ret5": 0.0208,
-      "ret20": 0.1691,
-      "rsi14": 60.6,
-      "vol20": 0.578,
-      "foreign_net": -12310801100,
-      "inst_net": 19788407000,
-      "score": 0.45,
+      "code": "141080",
+      "name": "리가켐바이오",
+      "close": 52200,
+      "ret5": -0.044,
+      "ret20": -0.2127,
+      "rsi14": 36.3,
+      "vol20": 0.848,
+      "foreign_net": 4225153925,
+      "inst_net": -2096308975,
+      "score": 0.572,
       "news": [
         {
           "date": "11-25",
-          "title": "\"신규 경쟁약 진입·임상 보류 변수 산적…SK바이오팜, '엑스코프리' 20...",
+          "title": "\"중국발 공세에 2년째 기술수출 '제로'·주가 70% 폭락…리가켐바이오,...",
           "risk": false
         },
         {
           "date": "11-25",
-          "title": "한중일 뚫은 세노바메이트…SK바이오팜 1조 매출 '눈앞'",
+          "title": "ADC 핵심 권리 굳건히 지켰다…동아에스티·리가켐바이오에 '시선 집중...",
           "risk": false
         },
         {
           "date": "11-25",
-          "title": "SK바이오팜 8만9300원으로 6.18% 상승…9만원선 근접",
+          "title": "리가켐바이오 ADC, 연말 임상 발표 주목…기술 재이전으로 이어질까",
           "risk": false
         }
       ],
-      "foreign_today": 1062000000,
-      "inst_today": 531000000,
+      "price": 58900,
+      "chg": 0.0968,
+      "activity": 1.38,
+      "foreign_today": 0,
+      "inst_today": 1354700000,
+      "exchange": "KOSDAQ"
+    },
+    {
+      "code": "278470",
+      "name": "에이피알",
+      "close": 291500,
+      "ret5": 0.2045,
+      "ret20": 0.0157,
+      "rsi14": 57.4,
+      "vol20": 0.87,
+      "foreign_net": -49016633750,
+      "inst_net": 68895326000,
+      "score": 0.547,
+      "news": [
+        {
+          "date": "11-26",
+          "title": "[더벨]브랜드501 몸값 1조 낮췄다…에이피알과 2조 안팎 협상",
+          "risk": false
+        },
+        {
+          "date": "11-26",
+          "title": "DS證 \"에이피알, 목표가 53만원으로 하향…일시적 부진은 매수 기회\"",
+          "risk": false
+        },
+        {
+          "date": "11-26",
+          "title": "에이피알, 환율 영향에 일시적 실적 부진…매수 기회-DS",
+          "risk": false
+        }
+      ],
+      "price": 297500,
+      "chg": 0.0188,
+      "activity": 1.22,
+      "foreign_today": 14577500000,
+      "inst_today": 1190000000,
+      "exchange": "KOSPI"
+    },
+    {
+      "code": "008930",
+      "name": "한미사이언스",
+      "close": 52800,
+      "ret5": 0.0096,
+      "ret20": 0.2662,
+      "rsi14": 55.3,
+      "vol20": 0.656,
+      "foreign_net": 1842681425,
+      "inst_net": 2987257150,
+      "score": 0.409,
+      "news": [
+        {
+          "date": "11-25",
+          "title": "한미사이언스, DXVX 배임 고소에 “억측에서 비롯…원칙대로 대응할 것...",
+          "risk": true
+        },
+        {
+          "date": "11-25",
+          "title": "DXVX 한미사이언스 대표·감사위원장 배임 혐의 고소",
+          "risk": true
+        },
+        {
+          "date": "11-25",
+          "title": "DXVX, 한미사이언스 대표·감사위원장 배임 혐의 고소",
+          "risk": true
+        }
+      ],
+      "foreign_today": 844800000,
+      "inst_today": 422400000,
       "exchange": "KOSPI"
     },
     {
@@ -300,7 +325,7 @@
       "vol20": 0.861,
       "foreign_net": -6295638155,
       "inst_net": 8702297525,
-      "score": 0.364,
+      "score": 0.403,
       "news": [
         {
           "date": "11-25",
@@ -320,42 +345,10 @@
       ],
       "price": 17230,
       "chg": 0.0398,
-      "activity": 1.64,
+      "activity": 1.5,
       "foreign_today": 0,
-      "inst_today": 17230000,
+      "inst_today": 34460000,
       "exchange": "KOSDAQ"
-    },
-    {
-      "code": "001040",
-      "name": "CJ",
-      "close": 118300,
-      "ret5": 0.0234,
-      "ret20": 0.0296,
-      "rsi14": 54.4,
-      "vol20": 0.447,
-      "foreign_net": 291188200,
-      "inst_net": 4018587550,
-      "score": 0.329,
-      "news": [
-        {
-          "date": "11-26",
-          "title": "나눔을 잇는 물류… CJ대한통운의 13년 동행",
-          "risk": false
-        },
-        {
-          "date": "11-26",
-          "title": "파리바게뜨 CJ프레시웨이 오비맥주 外(유통家 이모저모)",
-          "risk": false
-        },
-        {
-          "date": "11-26",
-          "title": "[똑똑한소비] 빙그레, CJ프레시웨이, 파리바게뜨, 제주삼다수, 오뚜기, ...",
-          "risk": false
-        }
-      ],
-      "foreign_today": 0,
-      "inst_today": 473200000,
-      "exchange": "KOSPI"
     },
     {
       "code": "003230",
@@ -367,7 +360,7 @@
       "vol20": 0.558,
       "foreign_net": 31145431500,
       "inst_net": 657891000,
-      "score": 0.329,
+      "score": 0.396,
       "news": [
         {
           "date": "11-25",
@@ -385,62 +378,75 @@
           "risk": false
         }
       ],
-      "price": 1312000,
-      "chg": 0.0023,
-      "activity": 0.6,
+      "price": 1313000,
+      "chg": 0.0031,
+      "activity": 0.63,
       "foreign_today": 0,
-      "inst_today": 1312000000,
+      "inst_today": 2626000000,
       "exchange": "KOSPI"
     },
     {
-      "code": "086790",
-      "name": "하나금융지주",
-      "close": 121200,
-      "ret5": -0.0226,
-      "ret20": 0.0494,
-      "rsi14": 48.2,
-      "vol20": 0.354,
-      "foreign_net": -48097685700,
-      "inst_net": 53802685750,
-      "score": 0.279,
-      "news": [],
-      "price": 121000,
-      "chg": 0.0008,
-      "activity": 1.07,
-      "foreign_today": 0,
-      "inst_today": 968000000,
-      "exchange": "KOSPI"
-    },
-    {
-      "code": "008930",
-      "name": "한미사이언스",
-      "close": 52800,
-      "ret5": 0.0096,
-      "ret20": 0.2662,
-      "rsi14": 55.3,
-      "vol20": 0.656,
-      "foreign_net": 1842681425,
-      "inst_net": 2987257150,
-      "score": 0.25,
+      "code": "326030",
+      "name": "SK바이오팜",
+      "close": 88500,
+      "ret5": 0.0208,
+      "ret20": 0.1691,
+      "rsi14": 60.6,
+      "vol20": 0.578,
+      "foreign_net": -12310801100,
+      "inst_net": 19788407000,
+      "score": 0.352,
       "news": [
         {
           "date": "11-25",
-          "title": "한미사이언스, DXVX 배임 고소에 “억측에서 비롯…원칙대로 대응할 것...",
-          "risk": true
+          "title": "\"신규 경쟁약 진입·임상 보류 변수 산적…SK바이오팜, '엑스코프리' 20...",
+          "risk": false
         },
         {
           "date": "11-25",
-          "title": "DXVX 한미사이언스 대표·감사위원장 배임 혐의 고소",
-          "risk": true
+          "title": "한중일 뚫은 세노바메이트…SK바이오팜 1조 매출 '눈앞'",
+          "risk": false
         },
         {
           "date": "11-25",
-          "title": "DXVX, 한미사이언스 대표·감사위원장 배임 혐의 고소",
-          "risk": true
+          "title": "SK바이오팜 8만9300원으로 6.18% 상승…9만원선 근접",
+          "risk": false
         }
       ],
-      "foreign_today": 211200000,
-      "inst_today": 52800000,
+      "foreign_today": 442500000,
+      "inst_today": 1327500000,
+      "exchange": "KOSPI"
+    },
+    {
+      "code": "001040",
+      "name": "CJ",
+      "close": 118300,
+      "ret5": 0.0234,
+      "ret20": 0.0296,
+      "rsi14": 54.4,
+      "vol20": 0.447,
+      "foreign_net": 291188200,
+      "inst_net": 4018587550,
+      "score": 0.34,
+      "news": [
+        {
+          "date": "11-26",
+          "title": "LG헬로비전·CJ ENM, 방미통위 중재로 사용료 갈등 극적 합의",
+          "risk": false
+        },
+        {
+          "date": "11-26",
+          "title": "\"LG헬로비전 방송 중단사태 피했다\"…CJ ENM과 막판 합의로 위기 일단락",
+          "risk": false
+        },
+        {
+          "date": "11-26",
+          "title": "CJ프레시웨이, 외식 고객사에 맛집 성공 노하우 전수",
+          "risk": false
+        }
+      ],
+      "foreign_today": 709800000,
+      "inst_today": 0,
       "exchange": "KOSPI"
     },
     {
@@ -453,10 +459,77 @@
       "vol20": 0.983,
       "foreign_net": -5015453550,
       "inst_net": 15845512200,
-      "score": 0.236,
+      "score": 0.314,
       "news": [],
       "foreign_today": 0,
-      "inst_today": 54200000,
+      "inst_today": 216800000,
+      "exchange": "KOSPI"
+    },
+    {
+      "code": "128940",
+      "name": "한미약품",
+      "close": 462000,
+      "ret5": 0.0512,
+      "ret20": 0.2369,
+      "rsi14": 54.9,
+      "vol20": 0.643,
+      "foreign_net": -48803936500,
+      "inst_net": 66456716750,
+      "score": 0.277,
+      "news": [
+        {
+          "date": "11-26",
+          "title": "[부고] 임호택 한미약품 상무 부친상",
+          "risk": false
+        },
+        {
+          "date": "11-26",
+          "title": "특허 쌓고 독점 깨고 한계 넘고… 한미약품 알테오젠 올릭스의 도전",
+          "risk": false
+        },
+        {
+          "date": "11-25",
+          "title": "[부고] 한미약품 혁신성장부문 의약혁신센터장 임호택 상무이사 부친상",
+          "risk": false
+        }
+      ],
+      "price": 476000,
+      "chg": 0.0204,
+      "activity": 0.6,
+      "foreign_today": 0,
+      "inst_today": 952000000,
+      "exchange": "KOSPI"
+    },
+    {
+      "code": "032640",
+      "name": "LG유플러스",
+      "close": 15390,
+      "ret5": -0.0071,
+      "ret20": 0.1136,
+      "rsi14": 53.2,
+      "vol20": 0.411,
+      "foreign_net": -7159122645,
+      "inst_net": 10468628435,
+      "score": 0.214,
+      "news": [
+        {
+          "date": "11-26",
+          "title": "LG유플러스, 전국 시내버스 3만2857대에 Wi-Fi 7 공공와이파이 구축 완료",
+          "risk": false
+        },
+        {
+          "date": "11-26",
+          "title": "LG유플러스, 전국 시내버스 3만2857대 와이파이 7 구축",
+          "risk": false
+        },
+        {
+          "date": "11-26",
+          "title": "LG유플러스, 전국 시내버스 3만대 와이파이 7로 교체",
+          "risk": false
+        }
+      ],
+      "foreign_today": 0,
+      "inst_today": 477090000,
       "exchange": "KOSPI"
     },
     {
@@ -469,7 +542,7 @@
       "vol20": 0.467,
       "foreign_net": 10660598050,
       "inst_net": 8777466150,
-      "score": 0.157,
+      "score": 0.145,
       "news": [
         {
           "date": "11-26",
@@ -488,7 +561,7 @@
         }
       ],
       "foreign_today": 0,
-      "inst_today": 82500000,
+      "inst_today": 165000000,
       "exchange": "KOSPI"
     },
     {
@@ -519,11 +592,11 @@
           "risk": false
         }
       ],
-      "price": 60600,
-      "chg": 0.1306,
-      "activity": 2.99,
-      "foreign_today": 1212000000,
-      "inst_today": 2545200000,
+      "price": 61500,
+      "chg": 0.1474,
+      "activity": 2.94,
+      "foreign_today": 0,
+      "inst_today": 4674000000,
       "exchange": "KOSDAQ"
     },
     {
@@ -536,7 +609,7 @@
       "vol20": 1.036,
       "foreign_net": -4597635825,
       "inst_net": 21393590200,
-      "score": 0.929,
+      "score": 0.994,
       "news": [
         {
           "date": "11-23",
@@ -549,41 +622,11 @@
           "risk": false
         }
       ],
-      "price": 45350,
-      "chg": 0.1129,
-      "activity": 2.27,
+      "price": 45850,
+      "chg": 0.1252,
+      "activity": 2.14,
       "foreign_today": 0,
-      "inst_today": 861650000,
-      "exchange": "KOSDAQ"
-    },
-    {
-      "code": "125490",
-      "name": "한라캐스트",
-      "close": 11160,
-      "ret5": 0.0898,
-      "ret20": -0.0253,
-      "rsi14": 57.6,
-      "vol20": 1.13,
-      "foreign_net": -2121505045,
-      "inst_net": 4022642325,
-      "score": 0.914,
-      "news": [
-        {
-          "date": "11-24",
-          "title": "한라캐스트 17.36% 급등…경량 모빌리티 부품 양산 주목",
-          "risk": false
-        },
-        {
-          "date": "11-24",
-          "title": "한라캐스트 주가 한때 19.61% 상승…오전 거래량 215만주",
-          "risk": false
-        }
-      ],
-      "price": 11680,
-      "chg": 0.0282,
-      "activity": 2.39,
-      "foreign_today": 770880000,
-      "inst_today": 70080000,
+      "inst_today": 2659300000,
       "exchange": "KOSDAQ"
     },
     {
@@ -596,13 +639,13 @@
       "vol20": 1.143,
       "foreign_net": -62608017250,
       "inst_net": 106538463250,
-      "score": 0.879,
+      "score": 0.874,
       "news": [],
-      "price": 484000,
-      "chg": 0.0442,
-      "activity": 2.57,
+      "price": 481000,
+      "chg": 0.0378,
+      "activity": 2.37,
       "foreign_today": 0,
-      "inst_today": 2904000000,
+      "inst_today": 4329000000,
       "exchange": "KOSDAQ"
     },
     {
@@ -615,16 +658,16 @@
       "vol20": 1.213,
       "foreign_net": 634960800,
       "inst_net": 14049300350,
-      "score": 0.771,
+      "score": 0.83,
       "news": [
         {
           "date": "11-26",
-          "title": "[핀포인트] [이수스페셜티케미컬] 마더플랜트가 남긴 청구서…‘인고의...",
+          "title": "[핀포인트] [이수스페셜티케미컬] 첫 해외 거점…힘겨운 첫발 떼기",
           "risk": false
         },
         {
           "date": "11-26",
-          "title": "[핀포인트] [이수스페셜티케미컬] 첫 해외 거점…힘겨운 첫발 떼기",
+          "title": "[핀포인트] [이수스페셜티케미컬] 마더플랜트가 남긴 청구서…‘인고의...",
           "risk": false
         },
         {
@@ -633,12 +676,42 @@
           "risk": false
         }
       ],
-      "price": 82000,
-      "chg": 0.0446,
-      "activity": 2.02,
+      "price": 82400,
+      "chg": 0.0497,
+      "activity": 1.85,
       "foreign_today": 0,
-      "inst_today": 1230000000,
+      "inst_today": 2307200000,
       "exchange": "KOSPI"
+    },
+    {
+      "code": "125490",
+      "name": "한라캐스트",
+      "close": 11160,
+      "ret5": 0.0898,
+      "ret20": -0.0253,
+      "rsi14": 57.6,
+      "vol20": 1.13,
+      "foreign_net": -2121505045,
+      "inst_net": 4022642325,
+      "score": 0.78,
+      "news": [
+        {
+          "date": "11-24",
+          "title": "한라캐스트 17.36% 급등…경량 모빌리티 부품 양산 주목",
+          "risk": false
+        },
+        {
+          "date": "11-24",
+          "title": "한라캐스트 주가 한때 19.61% 상승…오전 거래량 215만주",
+          "risk": false
+        }
+      ],
+      "price": 11720,
+      "chg": 0.0317,
+      "activity": 2.17,
+      "foreign_today": 328160000,
+      "inst_today": 328160000,
+      "exchange": "KOSDAQ"
     },
     {
       "code": "114800",
