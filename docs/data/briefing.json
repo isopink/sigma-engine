@@ -81,7 +81,7 @@
     ]
   },
   "intraday": {
-    "time": "10:00",
+    "time": "10:30",
     "pool": 354,
     "analyzed_new": 30,
     "passed": 11,
@@ -98,7 +98,7 @@
       "vol20": 0.856,
       "foreign_net": -11881540425,
       "inst_net": 13131813275,
-      "score": 0.704,
+      "score": 0.767,
       "news": [
         {
           "date": "11-25",
@@ -111,46 +111,11 @@
           "risk": false
         }
       ],
-      "price": 30150,
-      "chg": 0.0433,
-      "activity": 5.9,
+      "price": 29600,
+      "chg": 0.0242,
+      "activity": 4.51,
       "foreign_today": 0,
-      "inst_today": 452250000,
-      "exchange": "KOSDAQ"
-    },
-    {
-      "code": "328130",
-      "name": "루닛",
-      "close": 16240,
-      "ret5": 0.0259,
-      "ret20": 0.1003,
-      "rsi14": 58.6,
-      "vol20": 0.94,
-      "foreign_net": 853606320,
-      "inst_net": 5816125690,
-      "score": 0.577,
-      "news": [
-        {
-          "date": "11-25",
-          "title": "코스닥 '뚝'...알테오젠·루닛·안랩·실리콘투는 '껑충'",
-          "risk": false
-        },
-        {
-          "date": "11-25",
-          "title": "루닛 장중 8% 상승…3분기 상각전영업손실 77% 줄어",
-          "risk": false
-        },
-        {
-          "date": "11-25",
-          "title": "루닛 주가, 11월 25일 장중 16,340원 4.61% 상승",
-          "risk": false
-        }
-      ],
-      "price": 17260,
-      "chg": 0.0442,
-      "activity": 3.24,
-      "foreign_today": 3331180000,
-      "inst_today": 362460000,
+      "inst_today": 444000000,
       "exchange": "KOSDAQ"
     },
     {
@@ -163,7 +128,7 @@
       "vol20": 0.798,
       "foreign_net": 501538250,
       "inst_net": -279066250,
-      "score": 0.535,
+      "score": 0.644,
       "news": [
         {
           "date": "11-26",
@@ -181,11 +146,43 @@
           "risk": false
         }
       ],
-      "price": 331500,
-      "chg": 0.0138,
-      "activity": 4.02,
+      "price": 326000,
+      "chg": -0.0031,
+      "activity": 3.11,
       "foreign_today": 0,
-      "inst_today": 331500000,
+      "inst_today": 326000000,
+      "exchange": "KOSPI"
+    },
+    {
+      "code": "326030",
+      "name": "SK바이오팜",
+      "close": 88500,
+      "ret5": 0.0208,
+      "ret20": 0.1691,
+      "rsi14": 60.6,
+      "vol20": 0.578,
+      "foreign_net": -12310801100,
+      "inst_net": 19788407000,
+      "score": 0.521,
+      "news": [
+        {
+          "date": "11-25",
+          "title": "\"신규 경쟁약 진입·임상 보류 변수 산적…SK바이오팜, '엑스코프리' 20...",
+          "risk": false
+        },
+        {
+          "date": "11-25",
+          "title": "한중일 뚫은 세노바메이트…SK바이오팜 1조 매출 '눈앞'",
+          "risk": false
+        },
+        {
+          "date": "11-25",
+          "title": "SK바이오팜 8만9300원으로 6.18% 상승…9만원선 근접",
+          "risk": false
+        }
+      ],
+      "foreign_today": 1239000000,
+      "inst_today": 177000000,
       "exchange": "KOSPI"
     },
     {
@@ -198,7 +195,7 @@
       "vol20": 0.87,
       "foreign_net": -49016633750,
       "inst_net": 68895326000,
-      "score": 0.366,
+      "score": 0.493,
       "news": [
         {
           "date": "11-26",
@@ -216,41 +213,46 @@
           "risk": false
         }
       ],
-      "price": 297500,
-      "chg": 0.0188,
-      "activity": 2.72,
-      "foreign_today": 6545000000,
-      "inst_today": 297500000,
+      "price": 296000,
+      "chg": 0.0137,
+      "activity": 2.23,
+      "foreign_today": 6512000000,
+      "inst_today": 296000000,
       "exchange": "KOSPI"
     },
     {
-      "code": "347700",
-      "name": "스피어",
-      "close": 18500,
-      "ret5": 0.1212,
-      "ret20": -0.1169,
-      "rsi14": 52.0,
-      "vol20": 1.152,
-      "foreign_net": -1104951885,
-      "inst_net": 8987479495,
+      "code": "078600",
+      "name": "대주전자재료",
+      "close": 76900,
+      "ret5": -0.0757,
+      "ret20": -0.2185,
+      "rsi14": 42.3,
+      "vol20": 1.206,
+      "foreign_net": -1034303050,
+      "inst_net": 2252219400,
       "score": 1.0,
       "news": [
         {
           "date": "11-26",
-          "title": "[특징주] 스피어, 스페이스X 테마 매수세 유입에 급등…우주산업 특수합...",
+          "title": "[특징주] 대주전자재료, AI 서버용 MLCC 수요 확대 기대감에 16%대 급등",
           "risk": false
         },
         {
           "date": "11-26",
-          "title": "스피어 주가, 11월 26일 장중 22,050원 15.02% 상승",
+          "title": "대주전자재료 주가, 11월 26일 장중 91,100원 15.90% 강세",
+          "risk": false
+        },
+        {
+          "date": "11-26",
+          "title": "대주전자재료 주가 19% 폭등…AI 서버용 MLCC 슈퍼사이클 오나",
           "risk": false
         }
       ],
-      "price": 21800,
-      "chg": 0.1372,
-      "activity": 20.06,
-      "foreign_today": 3204600000,
-      "inst_today": 501400000,
+      "price": 89900,
+      "chg": 0.1438,
+      "activity": 9.05,
+      "foreign_today": 4584900000,
+      "inst_today": 2157600000,
       "exchange": "KOSDAQ"
     },
     {
@@ -263,32 +265,83 @@
       "vol20": 1.143,
       "foreign_net": -62608017250,
       "inst_net": 106538463250,
-      "score": 0.873,
+      "score": 0.959,
       "news": [],
-      "price": 486000,
-      "chg": 0.0485,
-      "activity": 6.53,
+      "price": 486500,
+      "chg": 0.0496,
+      "activity": 5.02,
       "foreign_today": 0,
-      "inst_today": 2430000000,
+      "inst_today": 2432500000,
       "exchange": "KOSDAQ"
     },
     {
-      "code": "003350",
-      "name": "한국화장품제조",
-      "close": 13680,
-      "ret5": 0.1306,
-      "ret20": -0.088,
-      "rsi14": 56.1,
-      "vol20": 1.192,
-      "foreign_net": -2791550355,
-      "inst_net": 1819780790,
-      "score": 0.803,
-      "news": [],
-      "price": 14360,
-      "chg": 0.0613,
-      "activity": 5.49,
-      "foreign_today": 674920000,
-      "inst_today": 43080000,
+      "code": "218410",
+      "name": "RFHIC",
+      "close": 52100,
+      "ret5": -0.0827,
+      "ret20": 0.0136,
+      "rsi14": 49.7,
+      "vol20": 1.339,
+      "foreign_net": -7396088050,
+      "inst_net": 4891306700,
+      "score": 0.863,
+      "news": [
+        {
+          "date": "11-26",
+          "title": "AI 데이터센터·6G·위성망 투자 삼박자 맞았다…센서뷰·RFHIC·인텔리안...",
+          "risk": false
+        },
+        {
+          "date": "11-26",
+          "title": "AI·차세대 망 투자가 불 지폈다…센서뷰·AP위성·RFHIC 주가 기세등등",
+          "risk": false
+        },
+        {
+          "date": "11-24",
+          "title": "이수페타시스·RFHIC가 주목받는 이유… AI 시대 통신 부품 수요 확대",
+          "risk": false
+        }
+      ],
+      "price": 58500,
+      "chg": 0.0914,
+      "activity": 3.86,
+      "foreign_today": 1638000000,
+      "inst_today": 175500000,
+      "exchange": "KOSDAQ"
+    },
+    {
+      "code": "457190",
+      "name": "이수스페셜티케미컬",
+      "close": 76500,
+      "ret5": 0.0119,
+      "ret20": -0.0039,
+      "rsi14": 53.1,
+      "vol20": 1.213,
+      "foreign_net": 634960800,
+      "inst_net": 14049300350,
+      "score": 0.795,
+      "news": [
+        {
+          "date": "11-26",
+          "title": "[핀포인트] [이수스페셜티케미컬] 마진율 뒷걸음질…합병 시너지 역풍",
+          "risk": false
+        },
+        {
+          "date": "11-26",
+          "title": "[핀포인트] [이수스페셜티케미컬] 마더플랜트가 남긴 청구서…‘인고의...",
+          "risk": false
+        },
+        {
+          "date": "11-26",
+          "title": "[핀포인트] [이수스페셜티케미컬] 첫 해외 거점…힘겨운 첫발 떼기",
+          "risk": false
+        }
+      ],
+      "price": 83300,
+      "chg": 0.0611,
+      "activity": 4.11,
+      "foreign_today": 0,
+      "inst_today": 333200000,
       "exchange": "KOSPI"
     },
     {
@@ -301,59 +354,29 @@
       "vol20": 1.653,
       "foreign_net": -6842746390,
       "inst_net": 5537744110,
-      "score": 0.634,
+      "score": 0.767,
       "news": [
         {
           "date": "11-26",
+          "title": "[특징주] 심텍홀딩스, 반도체 기판 테마 매수세 유입에 급등…PCB 지주사...",
+          "risk": false
+        },
+        {
+          "date": "11-26",
+          "title": "AI 서버·고성능 반도체 기판 수요 폭발…심텍홀딩스·삼성전기·이수페...",
+          "risk": false
+        },
+        {
+          "date": "11-26",
           "title": "반도체 기판주 일제히 '껑충'…삼성전기 80만원선 회복, 심텍홀딩스·태...",
-          "risk": false
-        },
-        {
-          "date": "11-24",
-          "title": "심텍홀딩스, 장중 6800원 터치해 52주 신고가",
-          "risk": false
-        },
-        {
-          "date": "11-24",
-          "title": "[특징주] 외국인 대한광통신·휴림로봇, 기관 삼성전자·심텍홀딩스 순...",
           "risk": false
         }
       ],
       "price": 6380,
       "chg": 0.1,
-      "activity": 3.28,
+      "activity": 2.52,
       "foreign_today": 82940000,
       "inst_today": 197780000,
-      "exchange": "KOSDAQ"
-    },
-    {
-      "code": "437730",
-      "name": "삼현",
-      "close": 58400,
-      "ret5": 0.0977,
-      "ret20": 0.1822,
-      "rsi14": 66.3,
-      "vol20": 1.325,
-      "foreign_net": -7518414600,
-      "inst_net": 32102849800,
-      "score": 0.634,
-      "news": [
-        {
-          "date": "11-25",
-          "title": "삼현 6만원선 거래…3분기 영업손실 61억원",
-          "risk": false
-        },
-        {
-          "date": "11-25",
-          "title": "삼현 주가, 11월 25일 장중 60,400원 4.13% 하락",
-          "risk": false
-        }
-      ],
-      "price": 63100,
-      "chg": 0.0413,
-      "activity": 4.63,
-      "foreign_today": 0,
-      "inst_today": 252400000,
       "exchange": "KOSDAQ"
     },
     {
