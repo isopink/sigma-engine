@@ -81,48 +81,13 @@
     ]
   },
   "intraday": {
-    "time": "09:30",
-    "pool": 340,
+    "time": "10:00",
+    "pool": 368,
     "analyzed_new": 30,
-    "passed": 7,
+    "passed": 12,
     "kept_prep": false
   },
   "candidates": [
-    {
-      "code": "326030",
-      "name": "SK바이오팜",
-      "close": 91300,
-      "ret5": 0.0531,
-      "ret20": 0.166,
-      "rsi14": 64.9,
-      "vol20": 0.576,
-      "foreign_net": -18179541800,
-      "inst_net": 27535221450,
-      "score": 0.933,
-      "news": [
-        {
-          "date": "11-27",
-          "title": "SK바이오팜 도입 오파칼림, 유럽 2/3상 종료…데이터 확인 초읽기",
-          "risk": false
-        },
-        {
-          "date": "11-27",
-          "title": "SK바이오팜, 1000억원 단기차입 결정…'오파칼림' 도입 준비",
-          "risk": false
-        },
-        {
-          "date": "11-27",
-          "title": "SK바이오팜, '오파칼림' 계약금 지급 앞두고 단기차입 한도 1000억원 확대",
-          "risk": false
-        }
-      ],
-      "price": 95600,
-      "chg": 0.0564,
-      "activity": 6.7,
-      "foreign_today": 2485600000,
-      "inst_today": 0,
-      "exchange": "KOSPI"
-    },
     {
       "code": "347850",
       "name": "디앤디파마텍",
@@ -133,7 +98,7 @@
       "vol20": 0.943,
       "foreign_net": 6927332925,
       "inst_net": 5300254950,
-      "score": 0.867,
+      "score": 0.955,
       "news": [
         {
           "date": "11-27",
@@ -151,91 +116,307 @@
           "risk": false
         }
       ],
-      "price": 41850,
-      "chg": 0.1481,
-      "activity": 14.61,
-      "foreign_today": 418500000,
-      "inst_today": 0,
+      "price": 41500,
+      "chg": 0.1385,
+      "activity": 10.46,
+      "foreign_today": 1452500000,
+      "inst_today": 788500000,
       "exchange": "KOSDAQ"
     },
     {
-      "code": "232680",
-      "name": "라온로보틱스",
-      "close": 12700,
-      "ret5": 0.0,
-      "ret20": 0.3525,
-      "rsi14": 58.0,
-      "vol20": 1.322,
-      "foreign_net": -2178913890,
-      "inst_net": 471110650,
-      "score": 1.0,
-      "news": [],
-      "price": 13690,
-      "chg": 0.09,
-      "activity": 8.43,
-      "foreign_today": 506530000,
-      "inst_today": 0,
-      "exchange": "KOSDAQ"
-    },
-    {
-      "code": "282720",
-      "name": "금양그린파워",
-      "close": 10750,
-      "ret5": 0.3288,
-      "ret20": 0.5855,
-      "rsi14": 65.4,
-      "vol20": 1.317,
-      "foreign_net": -492014535,
-      "inst_net": -863069935,
-      "score": 0.267,
+      "code": "326030",
+      "name": "SK바이오팜",
+      "close": 91300,
+      "ret5": 0.0531,
+      "ret20": 0.166,
+      "rsi14": 64.9,
+      "vol20": 0.576,
+      "foreign_net": -18179541800,
+      "inst_net": 27535221450,
+      "score": 0.864,
       "news": [
         {
           "date": "11-27",
-          "title": "금양그린파워·파수AI 회전율 63%·58%…손바뀜 활발",
+          "title": "SK바이오팜 도입 오파칼림, 유럽 2/3상 종료…데이터 확인 초읽기",
           "risk": false
         },
-        {
-          "date": "11-26",
-          "title": "금양그린파워 주가, 급등세... 무슨 회사길래?",
-          "risk": false
-        },
-        {
-          "date": "11-26",
-          "title": "[특징주] 금양그린파워, 연료전지 테마 매수세 유입에 급등…전기공사...",
-          "risk": false
-        }
-      ],
-      "price": 10810,
-      "chg": 0.0084,
-      "activity": 1.94,
-      "foreign_today": 151340000,
-      "inst_today": 0,
-      "exchange": "KOSDAQ"
-    },
-    {
-      "code": "352820",
-      "name": "하이브",
-      "close": 187900,
-      "ret5": 0.0037,
-      "ret20": 0.1892,
-      "rsi14": 63.3,
-      "vol20": 0.863,
-      "foreign_net": -3617886450,
-      "inst_net": 50320131350,
-      "score": 0.719,
-      "news": [
         {
           "date": "11-27",
-          "title": "[더벨]하이브 '뉴에픽베이스', 설립 3개월만에 신사업 본격화",
+          "title": "SK바이오팜, 1000억원 단기차입 결정…'오파칼림' 도입 준비",
           "risk": false
         },
         {
-          "date": "11-26",
-          "title": "한한령 완화 기대에 에스엠·하이브 급등…K팝 중국 진출 다시 열리나",
+          "date": "11-27",
+          "title": "SK바이오팜, '오파칼림' 계약금 지급 앞두고 단기차입 한도 1000억원 확대",
           "risk": false
         }
       ],
+      "price": 96700,
+      "chg": 0.0685,
+      "activity": 5.65,
+      "foreign_today": 6092100000,
+      "inst_today": 676900000,
       "exchange": "KOSPI"
+    },
+    {
+      "code": "066570",
+      "name": "LG전자",
+      "close": 135300,
+      "ret5": -0.011,
+      "ret20": -0.1271,
+      "rsi14": 41.9,
+      "vol20": 0.676,
+      "foreign_net": -32223735450,
+      "inst_net": 90223526650,
+      "score": 0.47,
+      "news": [
+        {
+          "date": "11-27",
+          "title": "LG전자, 지역사회 김치 나눔 활동…\"온기를 나눠요\"",
+          "risk": false
+        },
+        {
+          "date": "11-27",
+          "title": "정수기 2026년 11월 브랜드평판...코웨이, LG전자, 브리타 順",
+          "risk": false
+        },
+        {
+          "date": "11-27",
+          "title": "전자제품 상장기업 2026년 11월 브랜드평판...LG전자, 아남전자, 휴맥스...",
+          "risk": false
+        }
+      ],
+      "price": 143000,
+      "chg": 0.0577,
+      "activity": 3.77,
+      "foreign_today": 0,
+      "inst_today": 3718000000,
+      "exchange": "KOSPI"
+    },
+    {
+      "code": "278470",
+      "name": "에이피알",
+      "close": 324000,
+      "ret5": 0.3333,
+      "ret20": 0.1469,
+      "rsi14": 64.9,
+      "vol20": 0.949,
+      "foreign_net": -52629430500,
+      "inst_net": 67591590750,
+      "score": 0.47,
+      "news": [
+        {
+          "date": "11-27",
+          "title": "[애널픽] 에이피알의 3900억 베팅...닥터멜락신, 제2 메디큐브 될까",
+          "risk": false
+        },
+        {
+          "date": "11-27",
+          "title": "[개장 전 주요 공시] 에이피알·두산·골프존홀딩스·롯데렌탈 등",
+          "risk": false
+        },
+        {
+          "date": "11-27",
+          "title": "메디큐브 의존도 90% 넘는 에이피알…김병훈의 3900억원 승부수",
+          "risk": false
+        }
+      ],
+      "price": 299500,
+      "chg": 0.0034,
+      "activity": 4.68,
+      "foreign_today": 8086500000,
+      "inst_today": 0,
+      "exchange": "KOSPI"
+    },
+    {
+      "code": "000250",
+      "name": "삼천당제약",
+      "close": 167300,
+      "ret5": 0.1667,
+      "ret20": -0.1073,
+      "rsi14": 49.5,
+      "vol20": 0.856,
+      "foreign_net": -1860050450,
+      "inst_net": 8931236600,
+      "score": 0.273,
+      "news": [
+        {
+          "date": "11-26",
+          "title": "코스닥, 강보합에 650선 유지...삼천당제약, 주성엔지니어링 등 상승",
+          "risk": false
+        }
+      ],
+      "price": 180800,
+      "chg": 0.0865,
+      "activity": 3.44,
+      "foreign_today": 0,
+      "inst_today": 180800000,
+      "exchange": "KOSDAQ"
+    },
+    {
+      "code": "218410",
+      "name": "RFHIC",
+      "close": 61200,
+      "ret5": 0.0813,
+      "ret20": 0.1724,
+      "rsi14": 59.3,
+      "vol20": 1.47,
+      "foreign_net": -8495357100,
+      "inst_net": 15355691000,
+      "score": 1.0,
+      "news": [
+        {
+          "date": "11-27",
+          "title": "하나증권 \"스페이스X 우주 데이터센터 구축에 광통신 수혜, 관련주 RFHIC...",
+          "risk": false
+        },
+        {
+          "date": "11-26",
+          "title": "RFHIC 6만1400원…분기 영업이익 217억원",
+          "risk": false
+        },
+        {
+          "date": "11-26",
+          "title": "[특징주] RFHIC, 차세대 통신망 테마 매수세 유입에 급등…국내 유일 Ga...",
+          "risk": false
+        }
+      ],
+      "price": 65200,
+      "chg": 0.0867,
+      "activity": 8.47,
+      "foreign_today": 1499600000,
+      "inst_today": 847600000,
+      "exchange": "KOSDAQ"
+    },
+    {
+      "code": "277810",
+      "name": "레인보우로보틱스",
+      "close": 481000,
+      "ret5": 0.1385,
+      "ret20": 0.2725,
+      "rsi14": 66.5,
+      "vol20": 1.115,
+      "foreign_net": -53209424000,
+      "inst_net": 99957896750,
+      "score": 0.985,
+      "news": [
+        {
+          "date": "11-27",
+          "title": "두산, 11월 로봇 상장기업 브랜드평판 1위...레인보우로보틱스·LIG D&A 순",
+          "risk": false
+        },
+        {
+          "date": "11-27",
+          "title": "두산 로봇 브랜드평판 1위 지켰다… 레인보우로보틱스·LIG D&A 맹추격",
+          "risk": false
+        },
+        {
+          "date": "11-27",
+          "title": "[브랜드평판] 두산, 로봇 상장기업 11월 1위... 레인보우로보틱스, LIG D...",
+          "risk": false
+        }
+      ],
+      "price": 525000,
+      "chg": 0.1242,
+      "activity": 12.04,
+      "foreign_today": 0,
+      "inst_today": 2100000000,
+      "exchange": "KOSDAQ"
+    },
+    {
+      "code": "457190",
+      "name": "이수스페셜티케미컬",
+      "close": 81400,
+      "ret5": 0.0725,
+      "ret20": 0.0985,
+      "rsi14": 57.0,
+      "vol20": 1.223,
+      "foreign_net": -618670100,
+      "inst_net": 19925502400,
+      "score": 0.924,
+      "news": [
+        {
+          "date": "11-26",
+          "title": "[뉴스 TOP5] LG이노텍·이수스페셜티케미컬·삼익악기",
+          "risk": false
+        },
+        {
+          "date": "11-26",
+          "title": "[핀포인트] [이수스페셜티케미컬] 첫 해외 거점…힘겨운 첫발 떼기",
+          "risk": false
+        },
+        {
+          "date": "11-26",
+          "title": "[핀포인트] [이수스페셜티케미컬] 마진율 뒷걸음질…합병 시너지 역풍",
+          "risk": false
+        }
+      ],
+      "price": 87200,
+      "chg": 0.0941,
+      "activity": 6.22,
+      "foreign_today": 0,
+      "inst_today": 1656800000,
+      "exchange": "KOSPI"
+    },
+    {
+      "code": "100790",
+      "name": "미래에셋벤처투자",
+      "close": 19340,
+      "ret5": 0.3658,
+      "ret20": 0.42,
+      "rsi14": 68.3,
+      "vol20": 1.577,
+      "foreign_net": -2054954690,
+      "inst_net": 4198559200,
+      "score": 0.879,
+      "news": [
+        {
+          "date": "11-27",
+          "title": "[전날 애프터마켓] 미래에셋벤처투자, 스페이스X 호재에 추가 상승…삼...",
+          "risk": false
+        },
+        {
+          "date": "11-27",
+          "title": "LK삼양 29.93%·미래에셋벤처투자 21.57%↑…우주항공주 강세",
+          "risk": false
+        },
+        {
+          "date": "11-26",
+          "title": "[오늘의 특징주] SK하이닉스·미래에셋벤처투자·SK스퀘어",
+          "risk": false
+        }
+      ],
+      "price": 19440,
+      "chg": 0.0357,
+      "activity": 15.2,
+      "foreign_today": 1555200000,
+      "inst_today": 97200000,
+      "exchange": "KOSDAQ"
+    },
+    {
+      "code": "108490",
+      "name": "로보티즈",
+      "close": 285000,
+      "ret5": 0.1355,
+      "ret20": 0.0755,
+      "rsi14": 59.1,
+      "vol20": 1.215,
+      "foreign_net": -16711157250,
+      "inst_net": 79454616250,
+      "score": 0.742,
+      "news": [
+        {
+          "date": "11-27",
+          "title": "현대차증권 \"로보티즈, 내년 외형 성장 본격 궤도…목표주가 41만5000원으...",
+          "risk": false
+        }
+      ],
+      "price": 302500,
+      "chg": 0.0784,
+      "activity": 7.52,
+      "foreign_today": 0,
+      "inst_today": 1512500000,
+      "exchange": "KOSDAQ"
     },
     {
       "code": "114800",
