@@ -81,10 +81,10 @@
     ]
   },
   "intraday": {
-    "time": "11:00",
-    "pool": 372,
+    "time": "11:30",
+    "pool": 424,
     "analyzed_new": 30,
-    "passed": 10,
+    "passed": 13,
     "kept_prep": false
   },
   "candidates": [
@@ -98,7 +98,7 @@
       "vol20": 0.576,
       "foreign_net": -18179541800,
       "inst_net": 27535221450,
-      "score": 0.844,
+      "score": 0.9,
       "news": [
         {
           "date": "11-27",
@@ -116,11 +116,57 @@
           "risk": false
         }
       ],
-      "price": 97800,
-      "chg": 0.0807,
-      "activity": 4.19,
-      "foreign_today": 6161400000,
-      "inst_today": 684600000,
+      "price": 97500,
+      "chg": 0.0773,
+      "activity": 3.85,
+      "foreign_today": 5655000000,
+      "inst_today": 4095000000,
+      "exchange": "KOSPI"
+    },
+    {
+      "code": "319400",
+      "name": "현대무벡스",
+      "close": 17000,
+      "ret5": 0.0366,
+      "ret20": 0.0119,
+      "rsi14": 52.1,
+      "vol20": 0.831,
+      "foreign_net": -6726570730,
+      "inst_net": 9338009150,
+      "score": 0.45,
+      "news": [
+        {
+          "date": "11-27",
+          "title": "[위클리오늘] 산업일반 소식_KCC, 현대무벡스(11.27)",
+          "risk": false
+        },
+        {
+          "date": "11-25",
+          "title": "수주잔고 5000억원 돌파…현대무벡스, 수익성 개선 '속도'",
+          "risk": false
+        }
+      ],
+      "price": 18030,
+      "chg": 0.0848,
+      "activity": 3.58,
+      "foreign_today": 0,
+      "inst_today": 144240000,
+      "exchange": "KOSDAQ"
+    },
+    {
+      "code": "009420",
+      "name": "한올바이오파마",
+      "close": 55500,
+      "ret5": 0.0316,
+      "ret20": 0.4605,
+      "rsi14": 68.9,
+      "vol20": 0.971,
+      "foreign_net": -3292280800,
+      "inst_net": 12970933750,
+      "score": 0.425,
+      "news": [],
+      "foreign_today": 0,
+      "inst_today": 721500000,
       "exchange": "KOSPI"
     },
     {
@@ -133,7 +179,7 @@
       "vol20": 0.949,
       "foreign_net": -52629430500,
       "inst_net": 67591590750,
-      "score": 0.391,
+      "score": 0.425,
       "news": [
         {
           "date": "11-27",
@@ -151,63 +197,77 @@
           "risk": false
         }
       ],
-      "price": 298500,
-      "chg": 0.0,
-      "activity": 3.26,
-      "foreign_today": 8059500000,
+      "price": 299500,
+      "chg": 0.0034,
+      "activity": 2.84,
+      "foreign_today": 8685500000,
       "inst_today": 0,
       "exchange": "KOSPI"
     },
     {
-      "code": "009420",
-      "name": "한올바이오파마",
-      "close": 55500,
-      "ret5": 0.0316,
-      "ret20": 0.4605,
-      "rsi14": 68.9,
-      "vol20": 0.971,
-      "foreign_net": -3292280800,
-      "inst_net": 12970933750,
-      "score": 0.328,
-      "news": [],
-      "foreign_today": 0,
-      "inst_today": 222000000,
-      "exchange": "KOSPI"
-    },
-    {
-      "code": "277810",
-      "name": "레인보우로보틱스",
-      "close": 481000,
-      "ret5": 0.1385,
-      "ret20": 0.2725,
-      "rsi14": 66.5,
-      "vol20": 1.115,
-      "foreign_net": -53209424000,
-      "inst_net": 99957896750,
-      "score": 1.0,
+      "code": "192820",
+      "name": "코스맥스",
+      "close": 343500,
+      "ret5": 0.1886,
+      "ret20": 0.3963,
+      "rsi14": 71.7,
+      "vol20": 0.767,
+      "foreign_net": -6091676250,
+      "inst_net": 1033477500,
+      "score": 0.4,
       "news": [
         {
           "date": "11-27",
-          "title": "두산, 11월 로봇 상장기업 브랜드평판 1위...레인보우로보틱스·LIG D&A 순",
+          "title": "\"월 1억개 생산 시대 활짝\"...코스맥스, 협력사와 K뷰티 공급망 키운다",
           "risk": false
         },
         {
           "date": "11-27",
-          "title": "두산 로봇 브랜드평판 1위 지켰다… 레인보우로보틱스·LIG D&A 맹추격",
+          "title": "한 달에 화장품 1억개 생산…코스맥스, K-뷰티 공급망 강화",
           "risk": false
         },
         {
-          "date": "11-27",
-          "title": "[브랜드평판] 두산, 로봇 상장기업 11월 1위... 레인보우로보틱스, LIG D...",
+          "date": "11-26",
+          "title": "신영증권 \"K-뷰티 서구권 침투는 계속…최선호주는 코스맥스\"",
           "risk": false
         }
       ],
-      "price": 519000,
-      "chg": 0.1113,
-      "activity": 7.84,
+      "price": 314500,
+      "chg": -0.0654,
+      "activity": 2.69,
       "foreign_today": 0,
-      "inst_today": 2076000000,
-      "exchange": "KOSDAQ"
+      "inst_today": 314500000,
+      "exchange": "KOSPI"
+    },
+    {
+      "code": "352820",
+      "name": "하이브",
+      "close": 187900,
+      "ret5": 0.0037,
+      "ret20": 0.1892,
+      "rsi14": 63.3,
+      "vol20": 0.863,
+      "foreign_net": -3617886450,
+      "inst_net": 50320131350,
+      "score": 0.237,
+      "news": [
+        {
+          "date": "11-27",
+          "title": "[더벨]하이브 '뉴에픽베이스', 설립 3개월만에 신사업 본격화",
+          "risk": false
+        },
+        {
+          "date": "11-26",
+          "title": "한한령 완화 기대에 에스엠·하이브 급등…K팝 중국 진출 다시 열리나",
+          "risk": false
+        }
+      ],
+      "price": 190000,
+      "chg": 0.0232,
+      "activity": 1.05,
+      "foreign_today": 0,
+      "inst_today": 190000000,
+      "exchange": "KOSPI"
     },
     {
       "code": "218410",
@@ -219,7 +279,7 @@
       "vol20": 1.47,
       "foreign_net": -8495357100,
       "inst_net": 15355691000,
-      "score": 0.969,
+      "score": 1.0,
       "news": [
         {
           "date": "11-27",
@@ -237,12 +297,82 @@
           "risk": false
         }
       ],
-      "price": 63600,
-      "chg": 0.06,
-      "activity": 5.29,
-      "foreign_today": 1462800000,
-      "inst_today": 826800000,
+      "price": 64100,
+      "chg": 0.0683,
+      "activity": 4.47,
+      "foreign_today": 1923000000,
+      "inst_today": 1858900000,
       "exchange": "KOSDAQ"
+    },
+    {
+      "code": "277810",
+      "name": "레인보우로보틱스",
+      "close": 481000,
+      "ret5": 0.1385,
+      "ret20": 0.2725,
+      "rsi14": 66.5,
+      "vol20": 1.115,
+      "foreign_net": -53209424000,
+      "inst_net": 99957896750,
+      "score": 0.988,
+      "news": [
+        {
+          "date": "11-27",
+          "title": "두산, 11월 로봇 상장기업 브랜드평판 1위...레인보우로보틱스·LIG D&A 순",
+          "risk": false
+        },
+        {
+          "date": "11-27",
+          "title": "두산 로봇 브랜드평판 1위 지켰다… 레인보우로보틱스·LIG D&A 맹추격",
+          "risk": false
+        },
+        {
+          "date": "11-27",
+          "title": "[브랜드평판] 두산, 로봇 상장기업 11월 1위... 레인보우로보틱스, LIG D...",
+          "risk": false
+        }
+      ],
+      "price": 511000,
+      "chg": 0.0942,
+      "activity": 6.65,
+      "foreign_today": 0,
+      "inst_today": 3066000000,
+      "exchange": "KOSDAQ"
+    },
+    {
+      "code": "457190",
+      "name": "이수스페셜티케미컬",
+      "close": 81400,
+      "ret5": 0.0725,
+      "ret20": 0.0985,
+      "rsi14": 57.0,
+      "vol20": 1.223,
+      "foreign_net": -618670100,
+      "inst_net": 19925502400,
+      "score": 0.887,
+      "news": [
+        {
+          "date": "11-27",
+          "title": "이수스페셜티케미컬 주가, 11월 27일 장중 87,100원 9.28% 상승",
+          "risk": false
+        },
+        {
+          "date": "11-26",
+          "title": "[뉴스 TOP5] LG이노텍·이수스페셜티케미컬·삼익악기",
+          "risk": false
+        },
+        {
+          "date": "11-26",
+          "title": "[핀포인트] [이수스페셜티케미컬] 첫 해외 거점…힘겨운 첫발 떼기",
+          "risk": false
+        }
+      ],
+      "price": 86900,
+      "chg": 0.0903,
+      "activity": 3.38,
+      "foreign_today": 3128400000,
+      "inst_today": 2085600000,
+      "exchange": "KOSPI"
     },
     {
       "code": "100790",
@@ -272,76 +402,36 @@
           "risk": false
         }
       ],
-      "price": 19290,
-      "chg": 0.0277,
-      "activity": 8.77,
-      "foreign_today": 1543200000,
-      "inst_today": 96450000,
+      "price": 19460,
+      "chg": 0.0368,
+      "activity": 7.34,
+      "foreign_today": 2315740000,
+      "inst_today": 97300000,
       "exchange": "KOSDAQ"
     },
     {
-      "code": "457190",
-      "name": "이수스페셜티케미컬",
-      "close": 81400,
-      "ret5": 0.0725,
-      "ret20": 0.0985,
-      "rsi14": 57.0,
-      "vol20": 1.223,
-      "foreign_net": -618670100,
-      "inst_net": 19925502400,
-      "score": 0.844,
-      "news": [
-        {
-          "date": "11-26",
-          "title": "[뉴스 TOP5] LG이노텍·이수스페셜티케미컬·삼익악기",
-          "risk": false
-        },
-        {
-          "date": "11-26",
-          "title": "[핀포인트] [이수스페셜티케미컬] 첫 해외 거점…힘겨운 첫발 떼기",
-          "risk": false
-        },
-        {
-          "date": "11-26",
-          "title": "[핀포인트] [이수스페셜티케미컬] 마더플랜트가 남긴 청구서…‘인고의...",
-          "risk": false
-        }
-      ],
-      "price": 87600,
-      "chg": 0.0991,
-      "activity": 4.06,
-      "foreign_today": 0,
-      "inst_today": 1664400000,
-      "exchange": "KOSPI"
-    },
-    {
-      "code": "108490",
-      "name": "로보티즈",
-      "close": 285000,
-      "ret5": 0.1355,
-      "ret20": 0.0755,
-      "rsi14": 59.1,
-      "vol20": 1.215,
-      "foreign_net": -16711157250,
-      "inst_net": 79454616250,
-      "score": 0.75,
+      "code": "347700",
+      "name": "스피어",
+      "close": 23300,
+      "ret5": 0.3017,
+      "ret20": 0.1311,
+      "rsi14": 64.9,
+      "vol20": 1.481,
+      "foreign_net": 4671413140,
+      "inst_net": 10592934035,
+      "score": 0.85,
       "news": [
         {
           "date": "11-27",
-          "title": "로보티즈 주가, 11월 27일 장중 303,500원 8.20% 상승",
-          "risk": false
-        },
-        {
-          "date": "11-27",
-          "title": "현대차證 \"로보티즈, 내년 생산능력 120만~130만 대…목표가 9.2%↑\"",
+          "title": "머스크가 내다본 우주경제의 미래…스피어·에이치브이엠 수혜 기대",
           "risk": false
         }
       ],
-      "price": 298500,
-      "chg": 0.0642,
-      "activity": 4.56,
+      "price": 23300,
+      "chg": 0.0264,
+      "activity": 7.13,
       "foreign_today": 0,
-      "inst_today": 1492500000,
+      "inst_today": 1864000000,
       "exchange": "KOSDAQ"
     },
     {
