@@ -81,10 +81,10 @@
     ]
   },
   "intraday": {
-    "time": "14:00",
-    "pool": 444,
+    "time": "14:30",
+    "pool": 451,
     "analyzed_new": 30,
-    "passed": 14,
+    "passed": 13,
     "kept_prep": false
   },
   "candidates": [
@@ -98,7 +98,7 @@
       "vol20": 0.576,
       "foreign_net": -18179541800,
       "inst_net": 27535221450,
-      "score": 0.891,
+      "score": 0.889,
       "news": [
         {
           "date": "11-27",
@@ -116,11 +116,11 @@
           "risk": false
         }
       ],
-      "price": 98600,
-      "chg": 0.0895,
-      "activity": 3.46,
-      "foreign_today": 3253800000,
-      "inst_today": 11930600000,
+      "price": 98400,
+      "chg": 0.0873,
+      "activity": 3.42,
+      "foreign_today": 3542400000,
+      "inst_today": 16334400000,
       "exchange": "KOSPI"
     },
     {
@@ -133,41 +133,11 @@
       "vol20": 0.971,
       "foreign_net": -3292280800,
       "inst_net": 12970933750,
-      "score": 0.473,
+      "score": 0.479,
       "news": [],
       "foreign_today": 0,
-      "inst_today": 1498500000,
+      "inst_today": 1831500000,
       "exchange": "KOSPI"
-    },
-    {
-      "code": "319400",
-      "name": "현대무벡스",
-      "close": 17000,
-      "ret5": 0.0366,
-      "ret20": 0.0119,
-      "rsi14": 52.1,
-      "vol20": 0.831,
-      "foreign_net": -6726570730,
-      "inst_net": 9338009150,
-      "score": 0.464,
-      "news": [
-        {
-          "date": "11-27",
-          "title": "[위클리오늘] 산업일반 소식_KCC, 현대무벡스(11.27)",
-          "risk": false
-        },
-        {
-          "date": "11-25",
-          "title": "수주잔고 5000억원 돌파…현대무벡스, 수익성 개선 '속도'",
-          "risk": false
-        }
-      ],
-      "price": 18420,
-      "chg": 0.1083,
-      "activity": 2.41,
-      "foreign_today": 0,
-      "inst_today": 331560000,
-      "exchange": "KOSDAQ"
     },
     {
       "code": "008930",
@@ -179,7 +149,7 @@
       "vol20": 0.671,
       "foreign_net": 3032721125,
       "inst_net": 2975403950,
-      "score": 0.455,
+      "score": 0.462,
       "news": [
         {
           "date": "11-27",
@@ -187,8 +157,8 @@
           "risk": false
         }
       ],
-      "foreign_today": 1556800000,
-      "inst_today": 1501200000,
+      "foreign_today": 1723600000,
+      "inst_today": 2168400000,
       "exchange": "KOSPI"
     },
     {
@@ -201,29 +171,29 @@
       "vol20": 0.619,
       "foreign_net": -58979303500,
       "inst_net": 78565365250,
-      "score": 0.427,
+      "score": 0.444,
       "news": [
         {
           "date": "11-27",
-          "title": "김나영 한미약품 부사장 \"에페·에피데이 하나로… 첫 디지털융합약 목...",
+          "title": "한미약품, 내년 R&D 가치 재평가 주목",
           "risk": false
         },
         {
           "date": "11-27",
-          "title": "한미약품 최인영 부사장, 신약개발·기술수출 공로로 국민훈장 목련장 ...",
+          "title": "한미약품 최인영 부사장, 보건의료기술진흥 유공 '국민훈장 목련장' 수...",
           "risk": false
         },
         {
           "date": "11-27",
-          "title": "최인영 한미약품 부사장, '국민훈장 목련장' 수훈",
+          "title": "한미약품 최인영 부사장, 국민훈장 목련장 수훈…신약개발 공로 인정",
           "risk": false
         }
       ],
-      "price": 497000,
-      "chg": 0.0654,
-      "activity": 1.01,
+      "price": 492500,
+      "chg": 0.0557,
+      "activity": 0.97,
       "foreign_today": 0,
-      "inst_today": 4970000000,
+      "inst_today": 5417500000,
       "exchange": "KOSPI"
     },
     {
@@ -236,7 +206,7 @@
       "vol20": 0.949,
       "foreign_net": -52629430500,
       "inst_net": 67591590750,
-      "score": 0.382,
+      "score": 0.385,
       "news": [
         {
           "date": "11-27",
@@ -254,10 +224,10 @@
           "risk": false
         }
       ],
-      "price": 299500,
-      "chg": 0.0034,
-      "activity": 2.08,
-      "foreign_today": 9284500000,
+      "price": 298000,
+      "chg": -0.0017,
+      "activity": 1.98,
+      "foreign_today": 9834000000,
       "inst_today": 0,
       "exchange": "KOSPI"
     },
@@ -271,7 +241,7 @@
       "vol20": 0.863,
       "foreign_net": -3617886450,
       "inst_net": 50320131350,
-      "score": 0.273,
+      "score": 0.316,
       "news": [
         {
           "date": "11-27",
@@ -284,11 +254,11 @@
           "risk": false
         }
       ],
-      "price": 190900,
-      "chg": 0.028,
-      "activity": 0.71,
+      "price": 189300,
+      "chg": 0.0194,
+      "activity": 0.68,
       "foreign_today": 0,
-      "inst_today": 954500000,
+      "inst_today": 1325100000,
       "exchange": "KOSPI"
     },
     {
@@ -319,11 +289,11 @@
           "risk": false
         }
       ],
-      "price": 519000,
-      "chg": 0.1113,
-      "activity": 4.42,
+      "price": 528000,
+      "chg": 0.1306,
+      "activity": 4.37,
       "foreign_today": 0,
-      "inst_today": 7266000000,
+      "inst_today": 7392000000,
       "exchange": "KOSDAQ"
     },
     {
@@ -336,7 +306,7 @@
       "vol20": 1.47,
       "foreign_net": -8495357100,
       "inst_net": 15355691000,
-      "score": 0.891,
+      "score": 0.889,
       "news": [
         {
           "date": "11-27",
@@ -344,11 +314,11 @@
           "risk": false
         }
       ],
-      "price": 64800,
-      "chg": 0.08,
-      "activity": 2.84,
-      "foreign_today": 2462400000,
-      "inst_today": 4147200000,
+      "price": 65400,
+      "chg": 0.09,
+      "activity": 2.77,
+      "foreign_today": 0,
+      "inst_today": 6016800000,
       "exchange": "KOSDAQ"
     },
     {
@@ -361,7 +331,7 @@
       "vol20": 1.223,
       "foreign_net": -618670100,
       "inst_net": 19925502400,
-      "score": 0.8,
+      "score": 0.829,
       "news": [
         {
           "date": "11-27",
@@ -375,35 +345,51 @@
         },
         {
           "date": "11-26",
-          "title": "[핀포인트] [이수스페셜티케미컬] 마더플랜트가 남긴 청구서…‘인고의...",
+          "title": "[핀포인트] [이수스페셜티케미컬] 첫 해외 거점…힘겨운 첫발 떼기",
           "risk": false
         }
       ],
-      "price": 84700,
-      "chg": 0.0627,
-      "activity": 2.34,
-      "foreign_today": 3388000000,
-      "inst_today": 3557400000,
+      "price": 85000,
+      "chg": 0.0665,
+      "activity": 2.24,
+      "foreign_today": 3145000000,
+      "inst_today": 4250000000,
       "exchange": "KOSPI"
     },
     {
-      "code": "347700",
-      "name": "스피어",
-      "close": 23300,
-      "ret5": 0.3017,
-      "ret20": 0.1311,
-      "rsi14": 64.9,
-      "vol20": 1.481,
-      "foreign_net": 4671413140,
-      "inst_net": 10592934035,
-      "score": 0.764,
-      "news": [],
-      "price": 23900,
-      "chg": 0.0529,
-      "activity": 4.46,
+      "code": "307950",
+      "name": "현대오토에버",
+      "close": 355000,
+      "ret5": 0.1526,
+      "ret20": 0.0693,
+      "rsi14": 59.2,
+      "vol20": 1.245,
+      "foreign_net": -26644678000,
+      "inst_net": 40616257750,
+      "score": 0.795,
+      "news": [
+        {
+          "date": "11-27",
+          "title": "[특징주] 현대오토에버, 향후 휴머노이드 수요 확대 기대감 '상승'",
+          "risk": false
+        },
+        {
+          "date": "11-27",
+          "title": "[ET특징주]현대오토에버, 현대차그룹 미래사업 투자 수혜 전망에 상승세",
+          "risk": false
+        },
+        {
+          "date": "11-27",
+          "title": "[특징주] 현대오토에버, AI·로봇 신사업 성장 기대감에 7%대 급등",
+          "risk": false
+        }
+      ],
+      "price": 375500,
+      "chg": 0.0759,
+      "activity": 3.25,
       "foreign_today": 0,
-      "inst_today": 1696900000,
-      "exchange": "KOSDAQ"
+      "inst_today": 2628500000,
+      "exchange": "KOSPI"
     },
     {
       "code": "108490",
@@ -415,19 +401,24 @@
       "vol20": 1.215,
       "foreign_net": -16711157250,
       "inst_net": 79454616250,
-      "score": 0.755,
+      "score": 0.752,
       "news": [
+        {
+          "date": "11-27",
+          "title": "로보티즈 30만원선 공방…프랑스에 구동부품 40억원 공급",
+          "risk": false
+        },
         {
           "date": "11-27",
           "title": "에이피알, 틱톡숍서 맞붙던 경쟁사 품었다…로보티즈, 내년 생산능력 2...",
           "risk": false
         }
       ],
-      "price": 299000,
-      "chg": 0.066,
-      "activity": 2.47,
+      "price": 302000,
+      "chg": 0.0766,
+      "activity": 2.39,
       "foreign_today": 0,
-      "inst_today": 5980000000,
+      "inst_today": 7550000000,
       "exchange": "KOSDAQ"
     },
     {
