@@ -81,7 +81,7 @@
     ]
   },
   "intraday": {
-    "time": "13:30",
+    "time": "14:00",
     "pool": 444,
     "analyzed_new": 30,
     "passed": 14,
@@ -98,7 +98,7 @@
       "vol20": 0.576,
       "foreign_net": -18179541800,
       "inst_net": 27535221450,
-      "score": 0.857,
+      "score": 0.891,
       "news": [
         {
           "date": "11-27",
@@ -116,11 +116,11 @@
           "risk": false
         }
       ],
-      "price": 98500,
-      "chg": 0.0884,
-      "activity": 3.53,
-      "foreign_today": 3250500000,
-      "inst_today": 11918500000,
+      "price": 98600,
+      "chg": 0.0895,
+      "activity": 3.46,
+      "foreign_today": 3253800000,
+      "inst_today": 11930600000,
       "exchange": "KOSPI"
     },
     {
@@ -133,7 +133,7 @@
       "vol20": 0.971,
       "foreign_net": -3292280800,
       "inst_net": 12970933750,
-      "score": 0.455,
+      "score": 0.473,
       "news": [],
       "foreign_today": 0,
       "inst_today": 1498500000,
@@ -149,7 +149,7 @@
       "vol20": 0.831,
       "foreign_net": -6726570730,
       "inst_net": 9338009150,
-      "score": 0.455,
+      "score": 0.464,
       "news": [
         {
           "date": "11-27",
@@ -162,11 +162,11 @@
           "risk": false
         }
       ],
-      "price": 18340,
-      "chg": 0.1035,
-      "activity": 2.49,
+      "price": 18420,
+      "chg": 0.1083,
+      "activity": 2.41,
       "foreign_today": 0,
-      "inst_today": 330120000,
+      "inst_today": 331560000,
       "exchange": "KOSDAQ"
     },
     {
@@ -179,7 +179,7 @@
       "vol20": 0.671,
       "foreign_net": 3032721125,
       "inst_net": 2975403950,
-      "score": 0.446,
+      "score": 0.455,
       "news": [
         {
           "date": "11-27",
@@ -201,29 +201,29 @@
       "vol20": 0.619,
       "foreign_net": -58979303500,
       "inst_net": 78565365250,
-      "score": 0.42,
+      "score": 0.427,
       "news": [
         {
           "date": "11-27",
-          "title": "'혁신 신약 개발 주역' 한미약품 최인영, 국민훈장 목련장 수훈",
+          "title": "김나영 한미약품 부사장 \"에페·에피데이 하나로… 첫 디지털융합약 목...",
           "risk": false
         },
         {
           "date": "11-27",
-          "title": "[오늘의 제약리뷰] 한미약품·시지메드텍·메디톡스·온코닉테라퓨틱스",
+          "title": "한미약품 최인영 부사장, 신약개발·기술수출 공로로 국민훈장 목련장 ...",
           "risk": false
         },
         {
           "date": "11-27",
-          "title": "신약 개발부터 기술수출까지…한미약품 최인영 부사장 국민훈장 수훈",
+          "title": "최인영 한미약품 부사장, '국민훈장 목련장' 수훈",
           "risk": false
         }
       ],
-      "price": 496000,
-      "chg": 0.0632,
-      "activity": 1.08,
+      "price": 497000,
+      "chg": 0.0654,
+      "activity": 1.01,
       "foreign_today": 0,
-      "inst_today": 4960000000,
+      "inst_today": 4970000000,
       "exchange": "KOSPI"
     },
     {
@@ -236,7 +236,7 @@
       "vol20": 0.949,
       "foreign_net": -52629430500,
       "inst_net": 67591590750,
-      "score": 0.375,
+      "score": 0.382,
       "news": [
         {
           "date": "11-27",
@@ -254,10 +254,10 @@
           "risk": false
         }
       ],
-      "price": 299000,
-      "chg": 0.0017,
-      "activity": 2.16,
-      "foreign_today": 9269000000,
+      "price": 299500,
+      "chg": 0.0034,
+      "activity": 2.08,
+      "foreign_today": 9284500000,
       "inst_today": 0,
       "exchange": "KOSPI"
     },
@@ -271,7 +271,7 @@
       "vol20": 0.863,
       "foreign_net": -3617886450,
       "inst_net": 50320131350,
-      "score": 0.259,
+      "score": 0.273,
       "news": [
         {
           "date": "11-27",
@@ -284,11 +284,11 @@
           "risk": false
         }
       ],
-      "price": 189900,
-      "chg": 0.0226,
-      "activity": 0.75,
+      "price": 190900,
+      "chg": 0.028,
+      "activity": 0.71,
       "foreign_today": 0,
-      "inst_today": 949500000,
+      "inst_today": 954500000,
       "exchange": "KOSPI"
     },
     {
@@ -319,11 +319,11 @@
           "risk": false
         }
       ],
-      "price": 517000,
-      "chg": 0.1071,
-      "activity": 4.68,
+      "price": 519000,
+      "chg": 0.1113,
+      "activity": 4.42,
       "foreign_today": 0,
-      "inst_today": 7238000000,
+      "inst_today": 7266000000,
       "exchange": "KOSDAQ"
     },
     {
@@ -336,24 +336,19 @@
       "vol20": 1.47,
       "foreign_net": -8495357100,
       "inst_net": 15355691000,
-      "score": 0.875,
+      "score": 0.891,
       "news": [
         {
           "date": "11-27",
           "title": "하나증권 \"스페이스X 우주 데이터센터 구축에 광통신 수혜, 관련주 RFHIC...",
           "risk": false
-        },
-        {
-          "date": "11-26",
-          "title": "RFHIC 6만1400원…분기 영업이익 217억원",
-          "risk": false
         }
       ],
-      "price": 64900,
-      "chg": 0.0817,
-      "activity": 3.03,
-      "foreign_today": 2466200000,
-      "inst_today": 4153600000,
+      "price": 64800,
+      "chg": 0.08,
+      "activity": 2.84,
+      "foreign_today": 2462400000,
+      "inst_today": 4147200000,
       "exchange": "KOSDAQ"
     },
     {
@@ -366,7 +361,7 @@
       "vol20": 1.223,
       "foreign_net": -618670100,
       "inst_net": 19925502400,
-      "score": 0.812,
+      "score": 0.8,
       "news": [
         {
           "date": "11-27",
@@ -384,12 +379,31 @@
           "risk": false
         }
       ],
-      "price": 85400,
-      "chg": 0.0715,
-      "activity": 2.48,
-      "foreign_today": 3416000000,
-      "inst_today": 3586800000,
+      "price": 84700,
+      "chg": 0.0627,
+      "activity": 2.34,
+      "foreign_today": 3388000000,
+      "inst_today": 3557400000,
       "exchange": "KOSPI"
+    },
+    {
+      "code": "347700",
+      "name": "스피어",
+      "close": 23300,
+      "ret5": 0.3017,
+      "ret20": 0.1311,
+      "rsi14": 64.9,
+      "vol20": 1.481,
+      "foreign_net": 4671413140,
+      "inst_net": 10592934035,
+      "score": 0.764,
+      "news": [],
+      "price": 23900,
+      "chg": 0.0529,
+      "activity": 4.46,
+      "foreign_today": 0,
+      "inst_today": 1696900000,
+      "exchange": "KOSDAQ"
     },
     {
       "code": "108490",
@@ -401,7 +415,7 @@
       "vol20": 1.215,
       "foreign_net": -16711157250,
       "inst_net": 79454616250,
-      "score": 0.759,
+      "score": 0.755,
       "news": [
         {
           "date": "11-27",
@@ -411,44 +425,9 @@
       ],
       "price": 299000,
       "chg": 0.066,
-      "activity": 2.64,
+      "activity": 2.47,
       "foreign_today": 0,
       "inst_today": 5980000000,
-      "exchange": "KOSDAQ"
-    },
-    {
-      "code": "456160",
-      "name": "지투지바이오",
-      "close": 44200,
-      "ret5": 0.2557,
-      "ret20": 0.221,
-      "rsi14": 62.4,
-      "vol20": 1.075,
-      "foreign_net": -5249430975,
-      "inst_net": 24504660725,
-      "score": 0.741,
-      "news": [
-        {
-          "date": "11-27",
-          "title": "차세대 비만 전쟁 불붙었다…올릭스·지투지바이오 무슨 호재 있나",
-          "risk": false
-        },
-        {
-          "date": "11-27",
-          "title": "치매 치료제 시장 판 커진다…에이비엘바이오·지투지바이오 폭등랠리",
-          "risk": false
-        },
-        {
-          "date": "11-26",
-          "title": "지투지바이오 4만4050원…장중 4만5950원까지",
-          "risk": false
-        }
-      ],
-      "price": 50200,
-      "chg": 0.1461,
-      "activity": 3.01,
-      "foreign_today": 0,
-      "inst_today": 3062200000,
       "exchange": "KOSDAQ"
     },
     {
