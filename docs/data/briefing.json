@@ -81,10 +81,10 @@
     ]
   },
   "intraday": {
-    "time": "11:30",
-    "pool": 424,
+    "time": "12:00",
+    "pool": 425,
     "analyzed_new": 30,
-    "passed": 13,
+    "passed": 14,
     "kept_prep": false
   },
   "candidates": [
@@ -98,7 +98,7 @@
       "vol20": 0.576,
       "foreign_net": -18179541800,
       "inst_net": 27535221450,
-      "score": 0.9,
+      "score": 0.931,
       "news": [
         {
           "date": "11-27",
@@ -116,42 +116,34 @@
           "risk": false
         }
       ],
-      "price": 97500,
-      "chg": 0.0773,
-      "activity": 3.85,
-      "foreign_today": 5655000000,
-      "inst_today": 4095000000,
+      "price": 97900,
+      "chg": 0.0818,
+      "activity": 3.64,
+      "foreign_today": 5678200000,
+      "inst_today": 4111800000,
       "exchange": "KOSPI"
     },
     {
-      "code": "319400",
-      "name": "현대무벡스",
-      "close": 17000,
-      "ret5": 0.0366,
-      "ret20": 0.0119,
-      "rsi14": 52.1,
-      "vol20": 0.831,
-      "foreign_net": -6726570730,
-      "inst_net": 9338009150,
-      "score": 0.45,
+      "code": "008930",
+      "name": "한미사이언스",
+      "close": 55600,
+      "ret5": 0.0817,
+      "ret20": 0.3036,
+      "rsi14": 60.5,
+      "vol20": 0.671,
+      "foreign_net": 3032721125,
+      "inst_net": 2975403950,
+      "score": 0.506,
       "news": [
         {
           "date": "11-27",
-          "title": "[위클리오늘] 산업일반 소식_KCC, 현대무벡스(11.27)",
-          "risk": false
-        },
-        {
-          "date": "11-25",
-          "title": "수주잔고 5000억원 돌파…현대무벡스, 수익성 개선 '속도'",
+          "title": "한미사이언스 아데시, 이중제형 '미라클 퍼플 앰플' 출시",
           "risk": false
         }
       ],
-      "price": 18030,
-      "chg": 0.0848,
-      "activity": 3.58,
-      "foreign_today": 0,
-      "inst_today": 144240000,
-      "exchange": "KOSDAQ"
+      "foreign_today": 1668000000,
+      "inst_today": 333600000,
+      "exchange": "KOSPI"
     },
     {
       "code": "009420",
@@ -163,7 +155,7 @@
       "vol20": 0.971,
       "foreign_net": -3292280800,
       "inst_net": 12970933750,
-      "score": 0.425,
+      "score": 0.46,
       "news": [],
       "foreign_today": 0,
       "inst_today": 721500000,
@@ -179,7 +171,7 @@
       "vol20": 0.949,
       "foreign_net": -52629430500,
       "inst_net": 67591590750,
-      "score": 0.425,
+      "score": 0.437,
       "news": [
         {
           "date": "11-27",
@@ -197,12 +189,42 @@
           "risk": false
         }
       ],
-      "price": 299500,
-      "chg": 0.0034,
-      "activity": 2.84,
-      "foreign_today": 8685500000,
+      "price": 300000,
+      "chg": 0.005,
+      "activity": 2.55,
+      "foreign_today": 8700000000,
       "inst_today": 0,
       "exchange": "KOSPI"
+    },
+    {
+      "code": "319400",
+      "name": "현대무벡스",
+      "close": 17000,
+      "ret5": 0.0366,
+      "ret20": 0.0119,
+      "rsi14": 52.1,
+      "vol20": 0.831,
+      "foreign_net": -6726570730,
+      "inst_net": 9338009150,
+      "score": 0.425,
+      "news": [
+        {
+          "date": "11-27",
+          "title": "[위클리오늘] 산업일반 소식_KCC, 현대무벡스(11.27)",
+          "risk": false
+        },
+        {
+          "date": "11-25",
+          "title": "수주잔고 5000억원 돌파…현대무벡스, 수익성 개선 '속도'",
+          "risk": false
+        }
+      ],
+      "price": 17910,
+      "chg": 0.0776,
+      "activity": 3.14,
+      "foreign_today": 0,
+      "inst_today": 143280000,
+      "exchange": "KOSDAQ"
     },
     {
       "code": "192820",
@@ -214,7 +236,7 @@
       "vol20": 0.767,
       "foreign_net": -6091676250,
       "inst_net": 1033477500,
-      "score": 0.4,
+      "score": 0.402,
       "news": [
         {
           "date": "11-27",
@@ -234,7 +256,7 @@
       ],
       "price": 314500,
       "chg": -0.0654,
-      "activity": 2.69,
+      "activity": 2.44,
       "foreign_today": 0,
       "inst_today": 314500000,
       "exchange": "KOSPI"
@@ -249,7 +271,7 @@
       "vol20": 0.863,
       "foreign_net": -3617886450,
       "inst_net": 50320131350,
-      "score": 0.237,
+      "score": 0.241,
       "news": [
         {
           "date": "11-27",
@@ -262,47 +284,12 @@
           "risk": false
         }
       ],
-      "price": 190000,
-      "chg": 0.0232,
-      "activity": 1.05,
+      "price": 189300,
+      "chg": 0.0194,
+      "activity": 0.94,
       "foreign_today": 0,
-      "inst_today": 190000000,
+      "inst_today": 189300000,
       "exchange": "KOSPI"
-    },
-    {
-      "code": "218410",
-      "name": "RFHIC",
-      "close": 61200,
-      "ret5": 0.0813,
-      "ret20": 0.1724,
-      "rsi14": 59.3,
-      "vol20": 1.47,
-      "foreign_net": -8495357100,
-      "inst_net": 15355691000,
-      "score": 1.0,
-      "news": [
-        {
-          "date": "11-27",
-          "title": "하나증권 \"스페이스X 우주 데이터센터 구축에 광통신 수혜, 관련주 RFHIC...",
-          "risk": false
-        },
-        {
-          "date": "11-26",
-          "title": "RFHIC 6만1400원…분기 영업이익 217억원",
-          "risk": false
-        },
-        {
-          "date": "11-26",
-          "title": "[특징주] RFHIC, 차세대 통신망 테마 매수세 유입에 급등…국내 유일 Ga...",
-          "risk": false
-        }
-      ],
-      "price": 64100,
-      "chg": 0.0683,
-      "activity": 4.47,
-      "foreign_today": 1923000000,
-      "inst_today": 1858900000,
-      "exchange": "KOSDAQ"
     },
     {
       "code": "277810",
@@ -314,7 +301,7 @@
       "vol20": 1.115,
       "foreign_net": -53209424000,
       "inst_net": 99957896750,
-      "score": 0.988,
+      "score": 1.0,
       "news": [
         {
           "date": "11-27",
@@ -332,11 +319,41 @@
           "risk": false
         }
       ],
-      "price": 511000,
-      "chg": 0.0942,
-      "activity": 6.65,
+      "price": 506000,
+      "chg": 0.0835,
+      "activity": 5.97,
       "foreign_today": 0,
-      "inst_today": 3066000000,
+      "inst_today": 3036000000,
+      "exchange": "KOSDAQ"
+    },
+    {
+      "code": "218410",
+      "name": "RFHIC",
+      "close": 61200,
+      "ret5": 0.0813,
+      "ret20": 0.1724,
+      "rsi14": 59.3,
+      "vol20": 1.47,
+      "foreign_net": -8495357100,
+      "inst_net": 15355691000,
+      "score": 0.977,
+      "news": [
+        {
+          "date": "11-27",
+          "title": "하나증권 \"스페이스X 우주 데이터센터 구축에 광통신 수혜, 관련주 RFHIC...",
+          "risk": false
+        },
+        {
+          "date": "11-26",
+          "title": "RFHIC 6만1400원…분기 영업이익 217억원",
+          "risk": false
+        }
+      ],
+      "price": 63800,
+      "chg": 0.0633,
+      "activity": 3.91,
+      "foreign_today": 1914000000,
+      "inst_today": 1850200000,
       "exchange": "KOSDAQ"
     },
     {
@@ -349,7 +366,7 @@
       "vol20": 1.223,
       "foreign_net": -618670100,
       "inst_net": 19925502400,
-      "score": 0.887,
+      "score": 0.897,
       "news": [
         {
           "date": "11-27",
@@ -367,12 +384,31 @@
           "risk": false
         }
       ],
-      "price": 86900,
-      "chg": 0.0903,
-      "activity": 3.38,
-      "foreign_today": 3128400000,
-      "inst_today": 2085600000,
+      "price": 86600,
+      "chg": 0.0866,
+      "activity": 2.96,
+      "foreign_today": 3117600000,
+      "inst_today": 2078400000,
       "exchange": "KOSPI"
+    },
+    {
+      "code": "347700",
+      "name": "스피어",
+      "close": 23300,
+      "ret5": 0.3017,
+      "ret20": 0.1311,
+      "rsi14": 64.9,
+      "vol20": 1.481,
+      "foreign_net": 4671413140,
+      "inst_net": 10592934035,
+      "score": 0.874,
+      "news": [],
+      "price": 23500,
+      "chg": 0.0352,
+      "activity": 6.28,
+      "foreign_today": 0,
+      "inst_today": 1880000000,
+      "exchange": "KOSDAQ"
     },
     {
       "code": "100790",
@@ -384,7 +420,7 @@
       "vol20": 1.577,
       "foreign_net": -2054954690,
       "inst_net": 4198559200,
-      "score": 0.875,
+      "score": 0.851,
       "news": [
         {
           "date": "11-27",
@@ -402,36 +438,11 @@
           "risk": false
         }
       ],
-      "price": 19460,
-      "chg": 0.0368,
-      "activity": 7.34,
-      "foreign_today": 2315740000,
-      "inst_today": 97300000,
-      "exchange": "KOSDAQ"
-    },
-    {
-      "code": "347700",
-      "name": "스피어",
-      "close": 23300,
-      "ret5": 0.3017,
-      "ret20": 0.1311,
-      "rsi14": 64.9,
-      "vol20": 1.481,
-      "foreign_net": 4671413140,
-      "inst_net": 10592934035,
-      "score": 0.85,
-      "news": [
-        {
-          "date": "11-27",
-          "title": "머스크가 내다본 우주경제의 미래…스피어·에이치브이엠 수혜 기대",
-          "risk": false
-        }
-      ],
-      "price": 23300,
-      "chg": 0.0264,
-      "activity": 7.13,
-      "foreign_today": 0,
-      "inst_today": 1864000000,
+      "price": 19370,
+      "chg": 0.032,
+      "activity": 6.21,
+      "foreign_today": 2305030000,
+      "inst_today": 96850000,
       "exchange": "KOSDAQ"
     },
     {
