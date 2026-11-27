@@ -81,8 +81,8 @@
     ]
   },
   "intraday": {
-    "time": "12:30",
-    "pool": 424,
+    "time": "13:00",
+    "pool": 426,
     "analyzed_new": 30,
     "passed": 15,
     "kept_prep": false
@@ -98,7 +98,7 @@
       "vol20": 0.576,
       "foreign_net": -18179541800,
       "inst_net": 27535221450,
-      "score": 0.971,
+      "score": 0.922,
       "news": [
         {
           "date": "11-27",
@@ -116,11 +116,11 @@
           "risk": false
         }
       ],
-      "price": 97200,
-      "chg": 0.074,
-      "activity": 3.48,
-      "foreign_today": 5637600000,
-      "inst_today": 4082400000,
+      "price": 97500,
+      "chg": 0.0773,
+      "activity": 3.36,
+      "foreign_today": 5655000000,
+      "inst_today": 4095000000,
       "exchange": "KOSPI"
     },
     {
@@ -133,7 +133,7 @@
       "vol20": 0.671,
       "foreign_net": 3032721125,
       "inst_net": 2975403950,
-      "score": 0.51,
+      "score": 0.496,
       "news": [
         {
           "date": "11-27",
@@ -146,22 +146,6 @@
       "exchange": "KOSPI"
     },
     {
-      "code": "009420",
-      "name": "한올바이오파마",
-      "close": 55500,
-      "ret5": 0.0316,
-      "ret20": 0.4605,
-      "rsi14": 68.9,
-      "vol20": 0.971,
-      "foreign_net": -3292280800,
-      "inst_net": 12970933750,
-      "score": 0.49,
-      "news": [],
-      "foreign_today": 0,
-      "inst_today": 721500000,
-      "exchange": "KOSPI"
-    },
-    {
       "code": "278470",
       "name": "에이피알",
       "close": 324000,
@@ -171,7 +155,7 @@
       "vol20": 0.949,
       "foreign_net": -52629430500,
       "inst_net": 67591590750,
-      "score": 0.481,
+      "score": 0.47,
       "news": [
         {
           "date": "11-27",
@@ -189,11 +173,27 @@
           "risk": false
         }
       ],
-      "price": 297500,
-      "chg": -0.0034,
-      "activity": 2.39,
-      "foreign_today": 8627500000,
+      "price": 299500,
+      "chg": 0.0034,
+      "activity": 2.29,
+      "foreign_today": 8685500000,
       "inst_today": 0,
+      "exchange": "KOSPI"
+    },
+    {
+      "code": "009420",
+      "name": "한올바이오파마",
+      "close": 55500,
+      "ret5": 0.0316,
+      "ret20": 0.4605,
+      "rsi14": 68.9,
+      "vol20": 0.971,
+      "foreign_net": -3292280800,
+      "inst_net": 12970933750,
+      "score": 0.461,
+      "news": [],
+      "foreign_today": 0,
+      "inst_today": 721500000,
       "exchange": "KOSPI"
     },
     {
@@ -206,7 +206,7 @@
       "vol20": 0.767,
       "foreign_net": -6091676250,
       "inst_net": 1033477500,
-      "score": 0.471,
+      "score": 0.461,
       "news": [
         {
           "date": "11-27",
@@ -224,11 +224,11 @@
           "risk": false
         }
       ],
-      "price": 313500,
-      "chg": -0.0684,
-      "activity": 2.26,
+      "price": 315500,
+      "chg": -0.0624,
+      "activity": 2.13,
       "foreign_today": 0,
-      "inst_today": 313500000,
+      "inst_today": 315500000,
       "exchange": "KOSPI"
     },
     {
@@ -241,7 +241,7 @@
       "vol20": 0.831,
       "foreign_net": -6726570730,
       "inst_net": 9338009150,
-      "score": 0.452,
+      "score": 0.443,
       "news": [
         {
           "date": "11-27",
@@ -254,11 +254,11 @@
           "risk": false
         }
       ],
-      "price": 17870,
-      "chg": 0.0752,
-      "activity": 2.81,
+      "price": 18140,
+      "chg": 0.0915,
+      "activity": 2.61,
       "foreign_today": 0,
-      "inst_today": 142960000,
+      "inst_today": 145120000,
       "exchange": "KOSDAQ"
     },
     {
@@ -271,29 +271,29 @@
       "vol20": 0.619,
       "foreign_net": -58979303500,
       "inst_net": 78565365250,
-      "score": 0.404,
+      "score": 0.4,
       "news": [
         {
           "date": "11-27",
-          "title": "최인영 한미약품 부사장, 국민훈장 ‘목련장’… 신약개발 전문가",
+          "title": "[오늘의 제약리뷰] 한미약품·시지메드텍·메디톡스·온코닉테라퓨틱스",
+          "risk": false
+        },
+        {
+          "date": "11-27",
+          "title": "신약 개발부터 기술수출까지…한미약품 최인영 부사장 국민훈장 수훈",
           "risk": false
         },
         {
           "date": "11-27",
           "title": "연구실에서 세계 시장까지… 한미약품 최인영 부사장 국민훈장",
           "risk": false
-        },
-        {
-          "date": "11-27",
-          "title": "한미약품 최인영 부사장, 신약 개발 공로로 국민훈장 수훈",
-          "risk": false
         }
       ],
-      "price": 491500,
-      "chg": 0.0536,
-      "activity": 1.23,
+      "price": 498000,
+      "chg": 0.0675,
+      "activity": 1.16,
       "foreign_today": 0,
-      "inst_today": 983000000,
+      "inst_today": 996000000,
       "exchange": "KOSPI"
     },
     {
@@ -306,7 +306,7 @@
       "vol20": 0.863,
       "foreign_net": -3617886450,
       "inst_net": 50320131350,
-      "score": 0.24,
+      "score": 0.252,
       "news": [
         {
           "date": "11-27",
@@ -319,11 +319,11 @@
           "risk": false
         }
       ],
-      "price": 188000,
-      "chg": 0.0124,
-      "activity": 0.86,
+      "price": 189800,
+      "chg": 0.0221,
+      "activity": 0.81,
       "foreign_today": 0,
-      "inst_today": 188000000,
+      "inst_today": 189800000,
       "exchange": "KOSPI"
     },
     {
@@ -354,11 +354,11 @@
           "risk": false
         }
       ],
-      "price": 506000,
-      "chg": 0.0835,
-      "activity": 5.38,
+      "price": 519000,
+      "chg": 0.1113,
+      "activity": 5.06,
       "foreign_today": 0,
-      "inst_today": 3036000000,
+      "inst_today": 3114000000,
       "exchange": "KOSDAQ"
     },
     {
@@ -371,7 +371,7 @@
       "vol20": 1.47,
       "foreign_net": -8495357100,
       "inst_net": 15355691000,
-      "score": 0.981,
+      "score": 0.913,
       "news": [
         {
           "date": "11-27",
@@ -384,11 +384,11 @@
           "risk": false
         }
       ],
-      "price": 64300,
-      "chg": 0.0717,
-      "activity": 3.48,
-      "foreign_today": 1929000000,
-      "inst_today": 1864700000,
+      "price": 64700,
+      "chg": 0.0783,
+      "activity": 3.19,
+      "foreign_today": 1941000000,
+      "inst_today": 1876300000,
       "exchange": "KOSDAQ"
     },
     {
@@ -401,7 +401,7 @@
       "vol20": 1.223,
       "foreign_net": -618670100,
       "inst_net": 19925502400,
-      "score": 0.923,
+      "score": 0.887,
       "news": [
         {
           "date": "11-27",
@@ -415,16 +415,51 @@
         },
         {
           "date": "11-26",
-          "title": "[핀포인트] [이수스페셜티케미컬] 첫 해외 거점…힘겨운 첫발 떼기",
+          "title": "[핀포인트] [이수스페셜티케미컬] 마더플랜트가 남긴 청구서…‘인고의...",
           "risk": false
         }
       ],
-      "price": 86200,
-      "chg": 0.0816,
-      "activity": 2.8,
-      "foreign_today": 3103200000,
-      "inst_today": 2068800000,
+      "price": 85600,
+      "chg": 0.074,
+      "activity": 2.61,
+      "foreign_today": 3081600000,
+      "inst_today": 2054400000,
       "exchange": "KOSPI"
+    },
+    {
+      "code": "456160",
+      "name": "지투지바이오",
+      "close": 44200,
+      "ret5": 0.2557,
+      "ret20": 0.221,
+      "rsi14": 62.4,
+      "vol20": 1.075,
+      "foreign_net": -5249430975,
+      "inst_net": 24504660725,
+      "score": 0.8,
+      "news": [
+        {
+          "date": "11-27",
+          "title": "차세대 비만 전쟁 불붙었다…올릭스·지투지바이오 무슨 호재 있나",
+          "risk": false
+        },
+        {
+          "date": "11-27",
+          "title": "치매 치료제 시장 판 커진다…에이비엘바이오·지투지바이오 폭등랠리",
+          "risk": false
+        },
+        {
+          "date": "11-26",
+          "title": "지투지바이오 4만4050원…장중 4만5950원까지",
+          "risk": false
+        }
+      ],
+      "price": 49850,
+      "chg": 0.1381,
+      "activity": 3.19,
+      "foreign_today": 1296100000,
+      "inst_today": 1296100000,
+      "exchange": "KOSDAQ"
     },
     {
       "code": "347700",
@@ -436,48 +471,13 @@
       "vol20": 1.481,
       "foreign_net": 4671413140,
       "inst_net": 10592934035,
-      "score": 0.865,
+      "score": 0.791,
       "news": [],
-      "price": 23350,
-      "chg": 0.0286,
-      "activity": 5.52,
+      "price": 23400,
+      "chg": 0.0308,
+      "activity": 4.95,
       "foreign_today": 0,
-      "inst_today": 1868000000,
-      "exchange": "KOSDAQ"
-    },
-    {
-      "code": "100790",
-      "name": "미래에셋벤처투자",
-      "close": 19340,
-      "ret5": 0.3658,
-      "ret20": 0.42,
-      "rsi14": 68.3,
-      "vol20": 1.577,
-      "foreign_net": -2054954690,
-      "inst_net": 4198559200,
-      "score": 0.846,
-      "news": [
-        {
-          "date": "11-27",
-          "title": "미래에셋벤처투자 주가, 11월 27일 장중 19,530원 4.05% 상승",
-          "risk": false
-        },
-        {
-          "date": "11-27",
-          "title": "[전날 애프터마켓] 미래에셋벤처투자, 스페이스X 호재에 추가 상승…삼...",
-          "risk": false
-        },
-        {
-          "date": "11-27",
-          "title": "LK삼양 29.93%·미래에셋벤처투자 21.57%↑…우주항공주 강세",
-          "risk": false
-        }
-      ],
-      "price": 19370,
-      "chg": 0.032,
-      "activity": 5.43,
-      "foreign_today": 2305030000,
-      "inst_today": 96850000,
+      "inst_today": 1872000000,
       "exchange": "KOSDAQ"
     },
     {
